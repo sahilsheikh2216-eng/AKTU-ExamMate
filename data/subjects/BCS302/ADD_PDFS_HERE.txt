@@ -1,4 +1,1 @@
-Place only BCS302 examination PDFs in pdfs/raw/. Then run:
-python prepare_pages.py --subject BCS302
-python extract.py --subject BCS302
-python analyze.py --subject BCS302
+
