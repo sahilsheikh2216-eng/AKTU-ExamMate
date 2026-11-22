@@ -1,0 +1,4 @@
+Place only BCS401 examination PDFs in pdfs/raw/. Then run:
+python prepare_pages.py --subject BCS401
+python extract.py --subject BCS401
+python analyze.py --subject BCS401

@@ -1,0 +1,490 @@
+[
+  {
+    "group_id": 1,
+    "canonical_question": "Define floor division with an example. (9 Explain the difference between ‘append’ and ‘extend’ in Python?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2020,
+      2023,
+      2025
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "04-2025.pdf",
+      "11-2023-c.pdf",
+      "13-2023-a.pdf",
+      "17-2020-a.pdf"
+    ],
+    "average_similarity": 0.9295,
+    "variations": [
+      {
+        "question": "Define floor division with an example.",
+        "original": "Define floor division with an example.",
+        "year": 2023,
+        "source_file": "13-2023-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define floor division with example.",
+        "original": "Define floor division with example.",
+        "year": 2020,
+        "source_file": "17-2020-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain floor division with an example floor division)",
+        "original": "Explain floor division with an example उदाहरणकेसाथमंिज़लिवभाजन (floor division) समझाएँ",
+        "year": 2025,
+        "source_file": "04-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define floor division with an example. (9 Explain the difference between ‘append’ and ‘extend’ in Python?",
+        "original": "Define floor division with an example. (9 Explain the difference between ‘append’ and ‘extend’ in Python?",
+        "year": 2023,
+        "source_file": "11-2023-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 2,
+    "canonical_question": "What are Python variables? Give an example of declaring numeric data types. पाइथन वैरिएबल्स क्या हैं? न्यूमेरिक डेटा प्रकाि घोषित किने का एक उदाहिण दें",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "02-2026-a.pdf",
+      "07-2024-b.pdf"
+    ],
+    "average_similarity": 0.8294,
+    "variations": [
+      {
+        "question": "What are Python variables? Give an example of declaring numeric data types. पाइथन वैरिएबल्स क्या हैं? न्यूमेरिक डेटा प्रकाि घोषित किने का एक उदाहिण दें",
+        "original": "What are Python variables? Give an example of declaring numeric data types. पाइथन वैरिएबल्स क्या हैं? न्यूमेरिक डेटा प्रकाि घोषित किने का एक उदाहिण दें",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 1,
+        "confidence": "medium"
+      },
+      {
+        "question": "Explain in detail the various data types in python?",
+        "original": "Explain in detail the various data types in python?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 3,
+    "canonical_question": "Write short notes on the following with a suitable example",
+    "match_type": "semantic",
+    "years_appeared": [
+      2023,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "04-2025.pdf",
+      "13-2023-a.pdf"
+    ],
+    "average_similarity": 0.9725,
+    "variations": [
+      {
+        "question": "Write short notes on the following with examples:",
+        "original": "Write short notes on the following with examples:",
+        "year": 2025,
+        "source_file": "04-2025.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on the following with a suitable example",
+        "original": "Write short notes on the following with a suitable example",
+        "year": 2023,
+        "source_file": "13-2023-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 4,
+    "canonical_question": "Differentiate between Python .Arrays and lists?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2023,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2024-b.pdf",
+      "11-2023-c.pdf",
+      "13-2023-a.pdf"
+    ],
+    "average_similarity": 0.8762,
+    "variations": [
+      {
+        "question": "Differentiate between Python .Arrays and lists?",
+        "original": "Differentiate between Python .Arrays and lists?",
+        "year": 2023,
+        "source_file": "11-2023-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Differentiate between Python Arrays and lists?",
+        "original": "Differentiate between Python Arrays and lists?",
+        "year": 2023,
+        "source_file": "13-2023-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Differentiate between an array and a list.",
+        "original": "Differentiate between an array and a list.",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 5,
+    "canonical_question": "Illustrate Unpacking Sequences, Mutable Sequences, and List comprehension with examples.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2023,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "08-2024-a.pdf",
+      "13-2023-a.pdf"
+    ],
+    "average_similarity": 0.837,
+    "variations": [
+      {
+        "question": "Illustrate Unpacking tuples, mutable sequences, and string concatenation with examples",
+        "original": "Illustrate Unpacking tuples, mutable sequences, and string concatenation with examples",
+        "year": 2024,
+        "source_file": "08-2024-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Illustrate Unpacking Sequences, Mutable Sequences, and List comprehension with examples.",
+        "original": "Illustrate Unpacking Sequences, Mutable Sequences, and List comprehension with examples.",
+        "year": 2023,
+        "source_file": "13-2023-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 6,
+    "canonical_question": "What do you mean by Python IDE? Explain in detail.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2022,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2024-b.pdf",
+      "14-2022.pdf"
+    ],
+    "average_similarity": 0.8257,
+    "variations": [
+      {
+        "question": "Briefly explain the functions of python IDE’s.",
+        "original": "Briefly explain the functions of python IDE’s.",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by Python IDE? Explain in detail.",
+        "original": "What do you mean by Python IDE? Explain in detail.",
+        "year": 2022,
+        "source_file": "14-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 7,
+    "canonical_question": "Write a Python function removekth(s, k) that takes as input a string s and an integer k>=0 and removes the character at index k. If k is beyond the length of s, the whole of s is returned. For example, removekth(“PYTHON”, 1) returns “PTHON” removekth(“PYTHON”, 3) returns “PYTON” removekth(“PYTHON”, 0) returns “YTHON” removekth(“PYTHON”, 20) returns “PYTHON”",
+    "match_type": "semantic",
+    "years_appeared": [
+      2021,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "08-2024-a.pdf",
+      "15-2021.pdf"
+    ],
+    "average_similarity": 0.8246,
+    "variations": [
+      {
+        "question": "Determine a python function removenth(s,n) that takes an input a string and an integer n>=0 and removes a character at index n. If n is beyond the length of s, then whole s is returned. For example: removenth(“MANGO”,1) returns MNGO removenth(“MANGO”,3) returns MANO",
+        "original": "Determine a python function removenth(s,n) that takes an input a string and an integer n>=0 and removes a character at index n. If n is beyond the length of s, then whole s is returned. For example: removenth(“MANGO”,1) returns MNGO removenth(“MANGO”,3) returns MANO",
+        "year": 2024,
+        "source_file": "08-2024-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write a Python function removekth(s, k) that takes as input a string s and an integer k>=0 and removes the character at index k. If k is beyond the length of s, the whole of s is returned. For example, removekth(“PYTHON”, 1) returns “PTHON” removekth(“PYTHON”, 3) returns “PYTON” removekth(“PYTHON”, 0) returns “YTHON” removekth(“PYTHON”, 20) returns “PYTHON”",
+        "original": "Write a Python function removekth(s, k) that takes as input a string s and an integer k>=0 and removes the character at index k. If k is beyond the length of s, the whole of s is returned. For example, removekth(“PYTHON”, 1) returns “PTHON” removekth(“PYTHON”, 3) returns “PYTON” removekth(“PYTHON”, 0) returns “YTHON” removekth(“PYTHON”, 20) returns “PYTHON”",
+        "year": 2021,
+        "source_file": "15-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 8,
+    "canonical_question": "State any two characteristics of python programming language.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2020,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2024-b.pdf",
+      "17-2020-a.pdf"
+    ],
+    "average_similarity": 0.8211,
+    "variations": [
+      {
+        "question": "State any two characteristics of python programming language.",
+        "original": "State any two characteristics of python programming language.",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What type of language is python?",
+        "original": "What type of language is python?",
+        "year": 2020,
+        "source_file": "17-2020-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 9,
+    "canonical_question": "Explain the Programming Cycle for Python in detail..",
+    "match_type": "exact",
+    "years_appeared": [
+      2022,
+      2023
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2023-c.pdf",
+      "13-2023-a.pdf",
+      "14-2022.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Explain the Programming Cycle for Python in detail..",
+        "original": "Explain the Programming Cycle for Python in detail..",
+        "year": 2023,
+        "source_file": "11-2023-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the Programming Cycle for Python in detail.",
+        "original": "Explain the Programming Cycle for Python in detail.",
+        "year": 2023,
+        "source_file": "13-2023-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the Programming Cycle for Python in detail.",
+        "original": "Explain the Programming Cycle for Python in detail.",
+        "year": 2022,
+        "source_file": "14-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 10,
+    "canonical_question": "Write Python code snippet to display n terms of Fibonacci series using recursion.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2022,
+      2023
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2023.pdf",
+      "10-2023-d.pdf",
+      "14-2022.pdf"
+    ],
+    "average_similarity": 0.8976,
+    "variations": [
+      {
+        "question": "Write Python code snippet to display n terms of Fibonacci series using recursion.",
+        "original": "Write Python code snippet to display n terms of Fibonacci series using recursion.",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write Python codeashen n terms of Fibonacci series using recursion,",
+        "original": "Write Python codeashen n terms of Fibonacci series using recursion,",
+        "year": 2023,
+        "source_file": "10-2023-d.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write a program to produce Fibonacci series in Python. Qno Questions CO",
+        "original": "Write a program to produce Fibonacci series in Python. Qno Questions CO",
+        "year": 2022,
+        "source_file": "14-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 11,
+    "canonical_question": "Show the way to import the module in python.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2022,
+      2023
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2023-a.pdf",
+      "14-2022.pdf"
+    ],
+    "average_similarity": 0.9079,
+    "variations": [
+      {
+        "question": "Show the way to import the module in python.",
+        "original": "Show the way to import the module in python.",
+        "year": 2023,
+        "source_file": "13-2023-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How to create and import a module in Python?",
+        "original": "How to create and import a module in Python?",
+        "year": 2022,
+        "source_file": "14-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 12,
+    "canonical_question": "Explain Tuples and Unpacking Sequences in Python Data Structure.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2022,
+      2023
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "10-2023-d.pdf",
+      "14-2022.pdf"
+    ],
+    "average_similarity": 0.824,
+    "variations": [
+      {
+        "question": "Explain mutable sequences in Python.",
+        "original": "Explain mutable sequences in Python.",
+        "year": 2023,
+        "source_file": "10-2023-d.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Tuples and Unpacking Sequences in Python Data Structure.",
+        "original": "Explain Tuples and Unpacking Sequences in Python Data Structure.",
+        "year": 2022,
+        "source_file": "14-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 13,
+    "canonical_question": "Explain why python is considered an interpreted language. Qno Questions CO",
+    "match_type": "semantic",
+    "years_appeared": [
+      2021,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "14-2022.pdf",
+      "15-2021.pdf"
+    ],
+    "average_similarity": 0.9199,
+    "variations": [
+      {
+        "question": "Explain why python is considered an interpreted language. Qno Questions CO",
+        "original": "Explain why python is considered an interpreted language. Qno Questions CO",
+        "year": 2022,
+        "source_file": "14-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain why Python is considered an interpreted language.",
+        "original": "Explain why Python is considered an interpreted language.",
+        "year": 2021,
+        "source_file": "15-2021.pdf",
+        "page": 3,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  }
+]

@@ -1,0 +1,5696 @@
+﻿source_file,page_number,final_text,extraction_method,year
+01-2026.pdf,1,"॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥॥
+Printed Page: 4
+PAPER 10-311706
+Subject Code: BCS3!))
+BTECH
+c
+(SEM III) THEORY EXAMINATION 2025-26
+TIME: 3 HRS
+‘OMPUTER ORGANIZATION AND ARCHITECTURE
+a
+.भ/ ८५: 70
+Note: Attempt all Sections. In case ofany missing data; choose suitably.
+SECTION A
+1.
+Attempt
+all questions in brief.
+02x 7=14
+Hi
+a | What is a bus? Explain different types of buses used in a computer}
+1
+| K2
+N
+system.
+I
+|
+बस(Bus) क्याहोतीहै? कंप्यूटरसिस्टममेंप्रयुक्तविभिन्नप्रकारकीबसोंको
+|
+|
+|
+समझाइए।
+ees
+Po
+2 | xplain the functional
+units ofa digital computer system.
+| 1
+Kl
+pu
+परस्टमकाकायात्रकट
+व
+Tica
+|
+i
+c. | Explain
+bus
+architecture
+and
+its
+role
+in
+interconnecting
+various|1
+| K2
+components ofa8
+digital system.
+|
+बसआर्किटेक्चर
+aie? डिजिटलसिस्टमकेविभिन्नघटकोंकोआपसमेंजोड़ने
+मेंइसकी
+भूमिकास्पष्टकीजिए।
+_
+_
+i |
+What is a register? Explain general-purpose andsere;cial-purpose registers. | 1
+| K2
+1
+रजिस्टरकयाहै? सामान्यप्रयोजनरजिस्टरएवं
+प्रयोजनरजिस्टरको
+!
+Explain the working of carry
+aliéad adder with the help of an|2
++ K2
+example.
+~~
+.
+arry
+Look-Ahead १५०५
+की
+कार्यव्रिधि
+कोउदाहरणसहितसमझाइए।_
+LN
+f | Explain signed number mul
+ation using Booth’s Algorithm. Multiply” 2
+|K2K4
+A B where A= —5 and B=3-using Booth’s Algorithm.
+AN
+पे
+Booth’s Algorithm कीउपयोगकरतेहुएSigned Number Multip
+tion
+समझाइए।A >-5 तथा8-3 केलिएA x 8 का
+गुणन
+कीजिए।
+-~.
+*
+Explain floating-point representation and its components. (५
+K2
+Floating Point Representation एवंइसकेविभिन्नघटकोंकोसमझाइए।
+Cc.
+SECTION B
+aa
+'
+2.
+Attempt any
+three of the following:
+*s
+07x3=21
+(|
+Multiply the following numbers using Arfay Multiplier technique:
+2
+7
+A=1101
+nw
+B=1011
+.
+उपयोग*
+ख्याओं
+|
+Array Multiplier तकनीककाउपयोग
+करतेहुएनिम्नलिखितसंख्याओं
+ST)
+गुणनकीजिए:
+N=
+|
+/8
+1101
+an
+_
+.
+७
+|
+|
+|
+B= 1011 IE
+KD
+4
+Explain the design of an Arithmetic and
+Log
+€ var
+|
+|
+arithmetic and logical operations performed by ALU.
+किए|
+|
+Arithmetic and Logic Unit (ALU) कीसंरचनासारकीजिएen
+किarr
+|
+जानेवालेविभिन्नअंकगणितीयएवंतार्किकक्रिया“कप
+Toning point 5 sx
+c. |Explain floating point arithmetic operations.
+Perform
+addition using IEEE 754 format for (5 75)0 + (-2.5)to.्क्नॉईकए
+https:/Avww.pygonline.com",ocr,2026
+01-2026.pdf,2,"WRN UNWANA
+५०06०
+Cade:BCS302
+PAPER 10-311706
+1
+L
+pee
+Roll No: |_| |
+|
+|
+|
+| |
+|
+fo}
+|
+BTECH
+\(SEM Wl) THEORY EXAMINATION 2025-26
+TIME: 3 BRS
+COMPUTER ORGANIZATION AND ARCHITECTURE
+| Floating Point Arithmetic operations कोसमझाइए
+।IEEE 754 मानक
+nl
+|
+|
+|
+उपयोगकरतेहुएनिम्नलिखितसंख्याओंकाफ्लोटिंगपॉइंटजोड़(Addition)
+|
+|
+oie
+कीजिए(575)0+(-2590
+.//है. 9
+|
+| d.
+Explain different types of instructions. Explain various instruction formats | 3
+“|
+|
+with suitable examples.
+|
+| feat के
+विभिन्नप्रकारों
+कोसमझाइए।साथही, उपयुक्तउदाहरणों
+सहित
+|
+___|
+Instruction Formats कावर्णनकीजिए।
+e | Explain the concept of RISC architecture. Discuss
+its features and|3
+|K2
+i
+advantages. Compare RISC with CISC architecture.
+|
+RISC (Reduced Instruction Set Computer) आर्किटेक्चरकीअवधारणा
+|
+समझाइए।इसके
+लक्षणोंएवंलाभोंपरचर्चाकीजिएतथाRisc औरcIsc
+आर्किटेक्चर
+कीतुलनाकीजिए।
+_
+f
+SECTION C
+|
+3.
+Attempt any
+one
+part of the following:
+07
+5
+15"" 07
+a
+Explain instruction pipelining. A pipeline has 5 stages and each stage takes
+K3
+20 ns.
+.
+a
+i.
+Calculate the time required to“execute 10 instructions without
+—_
+pipelining.
+<5
+हा
+ii,
+Calculate the execution timéoaith pipelining.
+है
+iti,
+Find the speedup. समझ
+;
++
+में
+vrais
+इंस्टक्शनपाइपलाइनिंगको
+| एकपाइपलाइनमें
+5 चरणहैंतथा
+प्रत्येक
+चरणको20 ns समसलगताहै।
+पे
+(i) पाइपलाइनिंगकेबिना10 निर्देशोंकोनिष्पादितकरने
+में
+लगनेकलासमय
+ज्ञातकीजिए।
+—
+OS
+Gi) पाइपलाइनिंगकेसाथ10 निर्देशोंके
+निष्पादनमेंलगनेवालासमयज्ञात
+कीजिए।
+(ii)स्पीड-अप
+कीगणनाकीजिए।
+ON
+| Explain the design andworking ofahardwired ntrol unit. Discuss about; 3 |K3
+its advantages and disadvantages.
+कार्यप्रेणाली
+|
+हार्डवायर्डकंट्रोलयूनिटकीसंरचनाएवंक्
+समझाइए।इसकेलाभएवं
+हानियाँविस्तार
+सेलिखिए।
+soe
+er
+]
+nart of thefollowing:
+_
+1i=
+4.
+Attempt
+any
+one
+pa
+ae
+Suction
+col
+Level
+a. | What are micro-operations? Explain different types of micto-operations.
+x
+माइक्रो-ऑपरेशनकयाहोते
+हैं? माइक्रो-ऑपरेशनके
+विभिन्नप्रकारोंको|
+समझाइएं।
++-3+3+-++-+२+
+>-ऊ्
+>
+खाया: ial
+फू
+Explain the memory hierarchy with diagram.A memory chip has a
+| 4
+| K2.K
+capacity of 64K * 8.
+|
+i
+i}.
+Find the number of address lines required.
+x
+. |
+|
+ii.
+How many such chips are needed to design a 256K
+5 10 memory
+|
+|
+4
+2| Page
+https://www.pygonline.com",ocr,2026
+01-2026.pdf,3,"॥॥॥॥॥॥॥॥॥॥॥॥॥
+Pentel 9५६०3» ।
+PAPER |0.3+1 1706
+|
+CO
+Subject ¢ nde: 16 ५॥॥२
+Roll No:
+|
+|
+|
+|
+|
+|
+fof
+|
+।
+(SEM
+II
+Yen
+IIT) THEORY EXAMINATION 2025-26
+TIME: 3 HRS
+COMPUTER ORGANIZATION AND ARCHITECTURE
+(mete
+i
+है! हाइराकी
+कोआरेखसहितउसमझाइए।एकमेमोरीचिपकीक्षमताeae पा
+1
+|
+0) आवश्यकएड्रेसलाइनोंकीसंख्याज्ञातकीजिए।
+|
+01) 256K = 16 मेमोरीसिस्टमडिजाइनकरनेकेलिएऐसीकितनीचिप्सकी
+आवश्यकताहोगी?
+9.
+Attempt any one part of the following:
+07 x 1=07
+1
+Explain the following cache mapping techniques:
+}4
+|K2
+i.
+Direct Mapping
+Lt.
+Associative Mapping
+itt, — Set-Associative Mapping
+|
+|
+निम्नलिखितकैशमैपिंगतकनीकों
+कोसमझाइए:
+|
+|
+(i) डायरेक्टमैपिंग
+Gi)एसोसिएटिवमैपिंग
+3.
+iii) सेट-एसोसिएटिवमैपिंग
+axe)
+OE:
+Explain 2D and 24D Memory organization. Wyife their advantages and|4 | K2 Ap”
+disadvantages,
+adZ
+ane
+2-D तथा24D मेमोरीऑर्गनाइज़ेशनको:
+सहितसमझाइए।साथatl
+इनकेलाभएवंहानियाँलिखिए।
+5)
+6.
+Attempt any
+one
+partrtofthe following: ||
+the following:
+07 x1=07
+[o |
+Question
+CO | Level
+a. |What is an I/O interface? Explain its functions. Why is an interface |
+|K2
+required between CPU and I/O devices?
+|
+|
+VO ईंटरफेसकयाहै? इसके
+कार्यों
+कोसमझाइए।cpu औरvo उपकरणोंके
+|
+|
+बीचइंटरफेसकीआवश्यकता
+क्योंहोतीहै?
+।
+b.
+| Define and differentiate synchronous and asynchronous communication
+5
+K2
+|
+with example.
+|
+|
+सिंक्रोनसएवंएसिंक्रोनससंचारकोपरिभाषितकीजिए।उदाहरणसहितदोनोंके
+|
+|
+बीचअंतरस्पष्टकीजिए।
+|
+|
+7.
+___
+Attempt
+any onepart
+of the follo
+following:
+__
+07 x1=07
+09.
+Question
+| CO
+| Level
+a”
+ng.
+-
+~
+a
+| Explain the concept of interrupts. Déscribe interrupt hardware and explain | 5
+| ६7
+different types of interrupts.
+oO
+|
+इंटरएकीअवधारणाकोWARY! SEW हार्डवेयरकावर्णनकीजिएतथा
+|
+विभिन्नप्रकारके
+मतकोससझाइए।
+b. | Explain the working of Direct Memory Access. Describe the DMA|5
+|K2
+controller and its advantages over other I/O methods.
+कंटोलर
+।
+।
+|
+वर्णनकोजिएतथा-य10 विधियोंकीतुलनामेइसकेसाae
+Direct Memory Access कीकार्यप्रणालीकोसमझाइए।DMA
+कंट्रोलर
+का्््
+ि
+|
+| वर्णनकीजिएतथाअन्यvo विधियोंकीतुलनामेंइसकेलाभलिखिए।ee|
+https://www.pygonline.com",ocr,2026
+02-2026-a.pdf,1,"QP26DP1_290
+ | 13-Jan-2026 1:33:45 PM | 117.55.242.134
+QP26DP1_290 | 13-Jan-2026 1:33:45 PM | 117.55.242.134
+Printed Page: 1 of 3 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2025-26 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+02 x 7 = 14 
+Q 
+no. 
+Question 
+CO 
+Level 
+a.  What is a bus? Explain different types of buses used in a computer 
+system. 
+बस (Bus) क्या होती है? कंप्यूटर ससस्टम में प्रयुक्त सिसिन्न प्रकार की बसों को 
+समझाइए। 
+1 
+K2 
+b.  Explain the functional units of a digital computer system. 
+सिसिटलकंप्यूटरससस्टमकीकायाात्मकइकाइयोंकोसमझाइए। 
+1 
+K1 
+c.  Explain bus architecture and its role in interconnecting various 
+components of a digital system. 
+बसआसकाटेक्चर क्याहै? सिसिटल ससस्टम के सिसिन्न घटकों को आपस में िोड़ने 
+में इसकी िूसमका स्पष्ट कीसिए। 
+1 
+K2 
+d.  What is a register? Explain general-purpose and special-purpose registers. 
+रसिस्टर क्या है? सामान्य प्रयोिन रसिस्टर एिं सिशेष प्रयोिन रसिस्टर को 
+समझाइए। 
+1 
+K2 
+e.  Explain the working of carry look-ahead adder with the help of an 
+example. 
+Carry Look-Ahead Adder की काया सिसि को उदाहरण ससहत समझाइए। 
+2 
+K2 
+f.  Explain signed number multiplication using Booth’s Algorithm. Multiply 
+A × B where A= –5 and B=3 using Booth’s Algorithm. 
+Booth’s Algorithm का उपयोग करते हुए Signed Number Multiplication 
+समझाइए। A = –5 तथा B = 3 केसलए A × B का गुणन कीसिए। 
+2 
+K2,K4 
+g.  Explain floating-point representation and its components. 
+Floating Point Representation एिं इसके सिसिन्न घटकों को समझाइए। 
+2 
+K2 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Multiply the following numbers using Array Multiplier technique: 
+A = 1101 
+B = 1011 
+Array Multiplier तकनीक का उपयोग करते हुए सनम्नसलखित संख्याओं का 
+गुणन कीसिए: 
+A = 1101 
+B = 1011 
+2 
+K2, 
+K4 
+b. 
+Explain the design of an Arithmetic and Logic Unit.Describe various 
+arithmetic and logical operations performed by ALU. 
+Arithmetic and Logic Unit (ALU) की संरचना समझाइए।ALU द्वारा सकए 
+िाने िाले सिसिन्न अंकगसणतीय एिं तासकाक सियाओं का िणान कीसिए। 
+2 
+K2 
+c. 
+Explain floating point arithmetic operations.Perform floating point 
+addition using IEEE 754 format for (5.75)₁₀ + (–2.5)₁₀. 
+2 
+K2,K4",pymupdf,2026
+02-2026-a.pdf,2,"QP26DP1_290
+ | 13-Jan-2026 1:33:45 PM | 117.55.242.134
+QP26DP1_290 | 13-Jan-2026 1:33:45 PM | 117.55.242.134
+Printed Page: 2 of 3 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2025-26 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+Floating Point Arithmetic operations को समझाइए । IEEE 754 मानक का 
+उपयोग करते हुए सनम्नसलखित संख्याओं का फ्लोसटंगपॉइंट िोड़ (Addition) 
+कीसिए: (5.75)₁₀ + (–2.5)₁₀ 
+d. 
+Explain different types of instructions. Explain various instruction formats 
+with suitable examples. 
+सनदेशों के सिसिन्न प्रकारों को समझाइए। साथ ही, उपयुक्त उदाहरणों ससहत 
+Instruction Formats का िणान कीसिए। 
+3 
+K2 
+e. 
+Explain the concept of RISC architecture. Discuss its features and 
+advantages. Compare RISC with CISC architecture. 
+RISC (Reduced Instruction Set Computer) आसकाटेक्चर की अििारणा 
+समझाइए। इसके लक्षणों एिं लािों पर चचाा कीसिए तथा RISC और CISC 
+आसकाटेक्चर की तुलना कीसिए। 
+3 
+K2 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain instruction pipelining. A pipeline has 5 stages and each stage takes 
+20 ns. 
+i. 
+Calculate the time required to execute 10 instructions without 
+pipelining. 
+ii. 
+Calculate the execution time with pipelining. 
+iii. 
+Find the speedup. 
+इंस्टरक्शन पाइपलाइसनंग को समझाइए। एक पाइपलाइन में 5 चरण हैं तथा प्रत्येक 
+चरण को 20 ns समय लगताहै। 
+(i) पाइपलाइसनंग के सबना 10 सनदेशों को सनष्पासदत करने में लगने िाला समय 
+ज्ञात कीसिए। 
+(ii) पाइपलाइसनंग के साथ 10 सनदेशों के सनष्पादन में लगने िाला समय ज्ञात 
+कीसिए। 
+(iii) स्पीि-अप की गणना कीसिए। 
+ 
+3 
+K3 
+b. 
+Explain the design and working of a hardwired control unit. Discuss about 
+its advantages and disadvantages. 
+हािािायिा कंटरोल यूसनट की संरचना एिं कायाप्रणाली समझाइए। इसके लाि एिं 
+हासनयााँ सिस्तार से सलखिए। 
+3 
+K3 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+What are micro-operations? Explain different types of micro-operations. 
+माइिो-ऑपरेशन क्या होते हैं? माइिो-ऑपरेशन के सिसिन्न प्रकारों को 
+समझाइए। 
+3 
+K3 
+b. 
+Explain the memory hierarchy with diagram.A memory chip has a 
+capacity of 64K × 8. 
+i. 
+Find the number of address lines required. 
+ii. 
+How many such chips are needed to design a 256K × 16 memory 
+system? 
+4 
+K2,K4",pymupdf,2026
+02-2026-a.pdf,3,"QP26DP1_290
+ | 13-Jan-2026 1:33:45 PM | 117.55.242.134
+QP26DP1_290 | 13-Jan-2026 1:33:45 PM | 117.55.242.134
+Printed Page: 3 of 3 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2025-26 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+मेमोरी हाइराकी को आरेि ससहत समझाइए। एक मेमोरी सचप की क्षमता 64K × 
+8 है। 
+(i) आिश्यक एिरेस लाइनों की संख्या ज्ञात कीसिए। 
+(ii) 256K × 16 मेमोरी ससस्टम सििाइन करने के सलए ऐसी सकतनी सचप्स की 
+आिश्यकता होगी? 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain the following cache mapping techniques: 
+i. 
+Direct Mapping 
+ii. 
+Associative Mapping 
+iii. 
+Set-Associative Mapping 
+सनम्नसलखित कैश मैसपंग तकनीकों को समझाइए: 
+(i) िायरेक्ट मैसपंग 
+(ii) एसोससएसटि मैसपंग 
+(iii) सेट-एसोससएसटि मैसपंग 
+4 
+K2 
+b. 
+Explain 2D and 2½D memory organization. Write their advantages and 
+disadvantages. 
+2-D तथा 2½-D मेमोरी ऑगानाइजेशन को आरेि ससहत समझाइए। साथ ही 
+इनके लाि एिं हासनयााँ सलखिए। 
+4 
+K2 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+What is an I/O interface? Explain its functions. Why is an interface 
+required between CPU and I/O devices? 
+I/O इंटरफेस क्या है? इसके कायों को समझाइए। CPU और I/O उपकरणों के 
+बीच इंटरफेस कीआिश्यकता क्यों होती है? 
+5 
+K2 
+b. 
+Define and differentiate synchronous and asynchronous communication 
+with example. 
+ससंिोनस एिं एससंिोनस संचार को पररिासषत कीसिए। उदाहरण ससहत दोनों के 
+बीच अंतर स्पष्ट कीसिए। 
+5 
+K2 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain the concept of interrupts. Describe interrupt hardware and explain 
+different types of interrupts. 
+इंटरप्ट की अििारणा को समझाइए। इंटरप्ट हािािेयर का िणान कीसिए तथा 
+सिसिन्न प्रकार के इंटरप्ट्स को समझाइए। 
+5 
+K2 
+b. 
+Explain the working of Direct Memory Access. Describe the DMA 
+controller and its advantages over other I/O methods. 
+Direct Memory Access की काया प्रणाली को समझाइए। DMA कंटरोलर का 
+िणान कीसिए तथाअन्य I/O सिसियों की तुलना में इसके लाि सलखिए। 
+5 
+K2",pymupdf,2026
+03-2025.pdf,1,"QP25DP2_145
+ | 11-Mar-2025 1:40:04 PM | 115.244.153.242
+QP25DP2_145 | 11-Mar-2025 1:40:04 PM | 115.244.153.242
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+Q no. 
+Question 
+CO 
+Level 
+a.  
+Enlist the basic functional units of a digital system? 
+िडिजटल िसːम की बुिनयादी कायाŊȏक इकाइयों को सूचीबȠ करŐ? 
+1 
+K1 
+b.  
+Define general-purpose registers in a processor? 
+Ůोसेसर मŐ सामाɊ Ůयोजन रिजːरों को पįरभािषत करŐ? 
+1 
+K1 
+c.  
+Explain floating point representation? 
+ɢोिटंग पॉइंट Ůितिनिधȕ की ʩाƥा करŐ? 
+2 
+K2 
+d.  
+Discuss the role of ALU in a processor? 
+Ůोसेसर मŐ ALU की भूिमका पर चचाŊ करŐ? 
+2 
+K2 
+e.  
+Discuss the micro operations in computer architecture? 
+कंɗूटर आिकŊ टेƁर मŐ माइŢो ऑपरेशन पर चचाŊ करŐ? 
+3 
+K2 
+f.  
+Explain the purpose of ROM memories in computer systems? 
+कंɗूटर िसːम मŐ ROM मेमोरी के उȞेʴ की ʩाƥा करŐ? 
+4 
+K1 
+g.  
+Enlist the peripheral devices in a computer system? 
+कंɗूटर िसːम मŐ पįरधीय उपकरणों को सूचीबȠ करŐ? 
+5 
+K1 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a. 
+Discuss the process of data transfer between registers, buses, and memory units 
+in a digital system. Include explanations of read and write operations? 
+िडिजटल िसːम मŐ रिजːर, बस और मेमोरी यूिनट के बीच डेटा टŌांसफर की ŮिŢया 
+पर चचाŊ करŐ। पढ़ने और िलखने के संचालन के ˙ʼीकरण शािमल करŐ? 
+1 
+K2 
+b. 
+Describe Booth's algorithm for signed binary multiplication. Explain how it 
+optimizes the multiplication process and discuss its advantages over traditional 
+methods? 
+हˑाƗįरत बाइनरी गुणन के िलए बूथ के एʎोįर̠ म का वणŊन करŐ। बताएं िक यह गुणन 
+ŮिŢया को कैसे अनुकूिलत करता है और पारंपįरक तरीकों पर इसके लाभों पर चचाŊ 
+करŐ? 
+2 
+K2 
+c. 
+Describe the concept of horizontal and vertical microprogramming in control 
+unit design? 
+िनयंũण इकाई िडजाइन मŐ Ɨैितज और ऊȰाŊधर माइŢोŮोŤािमंग की अवधारणा का 
+वणŊन करŐ? 
+3 
+K2 
+d. 
+Discuss the characteristics and functionalities of auxiliary memories such as 
+magnetic disks, magnetic tapes, and optical disks? 
+चुंबकीय िडˋ, चुंबकीय टेप और ऑिɐकल िडˋ जैसी सहायक मेमोरी की 
+िवशेषताओं और कायाŊȏकताओं पर चचाŊ करŐ? 
+4 
+K2 
+e. 
+Discuss the functions and characteristics of I/O ports and their significance in 
+facilitating data exchange between the CPU and external devices? 
+I/O पोटŊ के कायŘ और िवशेषताओं और CPU और बाहरी उपकरणों के बीच डेटा 
+एƛचŐज को सुिवधाजनक बनाने मŐ उनके महȕ पर चचाŊ करŐ? 
+5 
+K2",pymupdf,2025
+03-2025.pdf,2,"QP25DP2_145
+ | 11-Mar-2025 1:40:04 PM | 115.244.153.242
+QP25DP2_145 | 11-Mar-2025 1:40:04 PM | 115.244.153.242
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Provide a detailed overview of processor organization, covering topics such as 
+instruction fetch, decode, execute cycles, pipelining, and parallel processing 
+techniques? 
+Ůोसेसर संगठन का िवˑृत अवलोकन Ůदान करŐ, िजसमŐ िनदőश Ůाɑ करना, िडकोड करना, 
+िन˃ािदत करना, पाइपलाइिनंग और समानांतर Ůसंˋरण तकनीक जैसे िवषय शािमल हों? 
+1 
+K3 
+b. 
+Compare and contrast the characteristics and functionalities of address buses, 
+data buses, and control buses? 
+एडŌेस बसों, डेटा बसों और िनयंũण बसों की िवशेषताओं और कायाŊȏकताओं की तुलना 
+करŐ और उनके बीच अंतर बताएं? 
+1 
+K3 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Explain the concept of look-ahead carry adders in digital arithmetic circuits. 
+Compare and contrast their performance with conventional ripple carry adders, 
+highlighting advantages and disadvantages? 
+2 
+K2 
+b. 
+Discuss the process of signed operand multiplication in digital arithmetic 
+circuits? 
+2 
+K3 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Describe the concept of horizontal and vertical microprogramming in control 
+unit design? 
+िडिजटल अंकगिणतीय सिकŊ ट मŐ लुक-अहेड कैरी एडसŊ की अवधारणा को समझाएँ। 
+पारंपįरक įरपल कैरी एडसŊ के साथ उनके ŮदशŊन की तुलना करŐ और फायदे और 
+नुकसान पर Ůकाश डालŐ? 
+3 
+K2 
+b. 
+Explain the concept of microprogram sequencing and how it enables the 
+execution of complex instructions through a sequence of microinstructions? 
+िडिजटल अंकगिणतीय सिकŊ ट मŐ हˑाƗįरत ऑपरŐड गुणन की ŮिŢया पर चचाŊ करŐ? 
+3 
+K2 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Design and explain the fundamental concept of computer memory hierarchy? 
+कंɗूटर मेमोरी पदानुŢम की मौिलक अवधारणा को िडज़ाइन और समझाएँ? 
+4 
+K3 
+b. 
+Describe the architecture and operation of semiconductor RAM (Random 
+Access Memory) memories such as DRAM (Dynamic RAM) and SRAM 
+(Static RAM)? 
+सेमीकंडƃर RAM (रœडम एƛेस मेमोरी) मेमोरी जैसे DRAM (डायनेिमक RAM) 
+और SRAM (ːेिटक RAM) की वाˑुकला और संचालन का वणŊन करŐ? 
+4 
+K3 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Describe the role of peripheral devices in a computer system and explain how 
+they interact with the CPU through I/O interfaces and ports? 
+कंɗूटर िसːम मŐ पįरधीय उपकरणों की भूिमका का वणŊन करŐ और बताएं िक वे I/O 
+इंटरफेस और पोटŊ के माȯम से CPU के साथ कैसे इंटरैƃ करते हœ 
+5 
+K2 
+b. 
+Explain the Direct Memory Access (DMA) techniques for data transfer? 
+डेटा टŌांसफर के िलए डायरेƃ मेमोरी एƛेस (DMA) तकनीकों की ʩाƥा करŐ? 
+5 
+K2",pymupdf,2025
+04-2025-a.pdf,1,"QP25DP2_290
+ | 11-Mar-2025 1:26:47 PM | 117.55.242.132
+QP25DP2_290 | 11-Mar-2025 1:26:47 PM | 117.55.242.132
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+Q no. 
+Question 
+CO 
+Level 
+a.  
+Enlist the basic functional units of a digital system? 
+िडिजटल िसːम की बुिनयादी कायाŊȏक इकाइयों को सूचीबȠ करŐ? 
+1 
+K1 
+b.  
+Define general-purpose registers in a processor? 
+Ůोसेसर मŐ सामाɊ Ůयोजन रिजːरों को पįरभािषत करŐ? 
+1 
+K1 
+c.  
+Explain floating point representation? 
+ɢोिटंग पॉइंट Ůितिनिधȕ की ʩाƥा करŐ? 
+2 
+K2 
+d.  
+Discuss the role of ALU in a processor? 
+Ůोसेसर मŐ ALU की भूिमका पर चचाŊ करŐ? 
+2 
+K2 
+e.  
+Discuss the micro operations in computer architecture? 
+कंɗूटर आिकŊ टेƁर मŐ माइŢो ऑपरेशन पर चचाŊ करŐ? 
+3 
+K2 
+f.  
+Explain the purpose of ROM memories in computer systems? 
+कंɗूटर िसːम मŐ ROM मेमोरी के उȞेʴ की ʩाƥा करŐ? 
+4 
+K1 
+g.  
+Enlist the peripheral devices in a computer system? 
+कंɗूटर िसːम मŐ पįरधीय उपकरणों को सूचीबȠ करŐ? 
+5 
+K1 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a. 
+Discuss the process of data transfer between registers, buses, and memory units 
+in a digital system. Include explanations of read and write operations? 
+िडिजटल िसːम मŐ रिजːर, बस और मेमोरी यूिनट के बीच डेटा टŌांसफर की ŮिŢया 
+पर चचाŊ करŐ। पढ़ने और िलखने के संचालन के ˙ʼीकरण शािमल करŐ? 
+1 
+K2 
+b. 
+Describe Booth's algorithm for signed binary multiplication. Explain how it 
+optimizes the multiplication process and discuss its advantages over traditional 
+methods? 
+हˑाƗįरत बाइनरी गुणन के िलए बूथ के एʎोįर̠ म का वणŊन करŐ। बताएं िक यह गुणन 
+ŮिŢया को कैसे अनुकूिलत करता है और पारंपįरक तरीकों पर इसके लाभों पर चचाŊ 
+करŐ? 
+2 
+K2 
+c. 
+Describe the concept of horizontal and vertical microprogramming in control 
+unit design? 
+िनयंũण इकाई िडजाइन मŐ Ɨैितज और ऊȰाŊधर माइŢोŮोŤािमंग की अवधारणा का 
+वणŊन करŐ? 
+3 
+K2 
+d. 
+Discuss the characteristics and functionalities of auxiliary memories such as 
+magnetic disks, magnetic tapes, and optical disks? 
+चुंबकीय िडˋ, चुंबकीय टेप और ऑिɐकल िडˋ जैसी सहायक मेमोरी की 
+िवशेषताओं और कायाŊȏकताओं पर चचाŊ करŐ? 
+4 
+K2 
+e. 
+Discuss the functions and characteristics of I/O ports and their significance in 
+facilitating data exchange between the CPU and external devices? 
+I/O पोटŊ के कायŘ और िवशेषताओं और CPU और बाहरी उपकरणों के बीच डेटा 
+एƛचŐज को सुिवधाजनक बनाने मŐ उनके महȕ पर चचाŊ करŐ? 
+5 
+K2",pymupdf,2025
+04-2025-a.pdf,2,"QP25DP2_290
+ | 11-Mar-2025 1:26:47 PM | 117.55.242.132
+QP25DP2_290 | 11-Mar-2025 1:26:47 PM | 117.55.242.132
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Provide a detailed overview of processor organization, covering topics such as 
+instruction fetch, decode, execute cycles, pipelining, and parallel processing 
+techniques? 
+Ůोसेसर संगठन का िवˑृत अवलोकन Ůदान करŐ, िजसमŐ िनदőश Ůाɑ करना, िडकोड करना, 
+िन˃ािदत करना, पाइपलाइिनंग और समानांतर Ůसंˋरण तकनीक जैसे िवषय शािमल हों? 
+1 
+K3 
+b. 
+Compare and contrast the characteristics and functionalities of address buses, 
+data buses, and control buses? 
+एडŌेस बसों, डेटा बसों और िनयंũण बसों की िवशेषताओं और कायाŊȏकताओं की तुलना 
+करŐ और उनके बीच अंतर बताएं? 
+1 
+K3 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Explain the concept of look-ahead carry adders in digital arithmetic circuits. 
+Compare and contrast their performance with conventional ripple carry adders, 
+highlighting advantages and disadvantages? 
+2 
+K2 
+b. 
+Discuss the process of signed operand multiplication in digital arithmetic 
+circuits? 
+2 
+K3 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Describe the concept of horizontal and vertical microprogramming in control 
+unit design? 
+िडिजटल अंकगिणतीय सिकŊ ट मŐ लुक-अहेड कैरी एडसŊ की अवधारणा को समझाएँ। 
+पारंपįरक įरपल कैरी एडसŊ के साथ उनके ŮदशŊन की तुलना करŐ और फायदे और 
+नुकसान पर Ůकाश डालŐ? 
+3 
+K2 
+b. 
+Explain the concept of microprogram sequencing and how it enables the 
+execution of complex instructions through a sequence of microinstructions? 
+िडिजटल अंकगिणतीय सिकŊ ट मŐ हˑाƗįरत ऑपरŐड गुणन की ŮिŢया पर चचाŊ करŐ? 
+3 
+K2 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Design and explain the fundamental concept of computer memory hierarchy? 
+कंɗूटर मेमोरी पदानुŢम की मौिलक अवधारणा को िडज़ाइन और समझाएँ? 
+4 
+K3 
+b. 
+Describe the architecture and operation of semiconductor RAM (Random 
+Access Memory) memories such as DRAM (Dynamic RAM) and SRAM 
+(Static RAM)? 
+सेमीकंडƃर RAM (रœडम एƛेस मेमोरी) मेमोरी जैसे DRAM (डायनेिमक RAM) 
+और SRAM (ːेिटक RAM) की वाˑुकला और संचालन का वणŊन करŐ? 
+4 
+K3 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+Describe the role of peripheral devices in a computer system and explain how 
+they interact with the CPU through I/O interfaces and ports? 
+कंɗूटर िसːम मŐ पįरधीय उपकरणों की भूिमका का वणŊन करŐ और बताएं िक वे I/O 
+इंटरफेस और पोटŊ के माȯम से CPU के साथ कैसे इंटरैƃ करते हœ 
+5 
+K2 
+b. 
+Explain the Direct Memory Access (DMA) techniques for data transfer? 
+डेटा टŌांसफर के िलए डायरेƃ मेमोरी एƛेस (DMA) तकनीकों की ʩाƥा करŐ? 
+5 
+K2",pymupdf,2025
+05-2024.pdf,1,"Printed Paget | of2
+|॥| || || ॥॥॥|
+॥॥॥॥
+तय]
+eet Cader 85302
+PAPER
+ID-31 17:
+psii72s
+Roll No:
+BTECH
+(SEM गा) THEORY EXAMINATION 2023-24
+COMPUTER ORGANIZATION AND ARCHITECTURE
+TIME: 3HRS-0 ___ __उ_उऊ्ििीक--++ 77८
+3HRS
+M.MARKS: 70
+Note: 1. Attempt all sections. [f require any missing data, then choose suitably.
+SECTION A
+1.
+Attempt all questions in brief.
+फ़््
+भ्््््््््
+म््््
+मणण्णषष;;।
+la. __| What are the different types
+of Buses used in computer architecture?
+lb. | Name the different types of multipliers.
+lc. _| What are the different phases of an instruction cycle?
+id. | How does control unit of a computer works?
+le.| Write a short not on locality of reference.
+Define 2 % D memory organization.
+[2
+\g.| in what way synchronous and asynchronous serial modes of data transfer differ?
+SECTION B
+2.
+Attempt any three of the following:
+\= |What is meant by the term BUS arbitration. Why is it needed? How can bus [7 aPy
+arbitration be implemented in Daisy
+changiriy
+me?
+9.
+Show the multiplication process using ogih’s algorithm when the following} 7. —
+numbers are multiplied:-
+ ~-""—
+.o v —_—
+-
+~~
+Ww६5
+-12)
+*(-18). ST
+oN
+_
+fc.| What is pipelining? What are the, fffcrent stages of pipelining? Explain in‘detail. [7 |
+Give classification ofomen
+प्र-६/ ०45८०on the method of access. {iso discuss 7
+construction
+and working @f,magnetic disk and variouscomponents kaccess
+time.
+.
+What are the basic differences between interrupt initiated8x0 and programmed
+1/O? Explain in detail.
+*
+SECTION C
+ao
+.
+५
+४1,
+3.
+Attempt any one part of the following:
+el.
+| What do you mean by processor organization? Expfain various types ofprocessor
+organization with suitable example.
+~ Tk
+lb. __| Differentiate between Memory stack and régister stack.
+4.
+Attempt aay one part of the following’ Pad
+Explain in detail the principle ०
+looks ahead adder and design 4-bit CLA
+adder.
+Sara
+Represent the following decimal ‘number in IEEE standard floating-point format in | 7
+a single precision method82 bit) representation method.
+(i)
+(85.125)10
+(ii)
+-307.1875)10
+5.
+Attempt any one part of the following:
+[a| Ex lain the different cycles of an instruction execution.
+[7
+|
+| Differentiate between hardwired and micro programmed control unit. Explain each
+component of hardwired control unit organization.
+1j Page
+QP240P2_746 | 21-03-2924 13:29:07 | 152.58.1 52.184",ocr,2024
+05-2024.pdf,2,"Printed Page: 2 of2
+॥॥॥॥॥॥॥॥॥॥॥॥॥॥
+subject Coder 80330:
+R ॥0-311725
+BTECH
+(SEM Il) THEORY EXAMINATION 2023-24
+COMPUTER ORGANIZATION AND ARCHITECTURE
+TIME: 3HRS
+M.MARKS: 70
+eee
+MEIARRBS: 10
+6.
+Attempt any one part of the following:
+Consider a cache (ML) and memory (M2) hierarchy with following characteristics: | 7
+MI: 16K word, 50 ns Access time
+M2
+: 1M ward, 400 ns Access time
+.
+Assume 8-word cache blocks and set size 256 words with set associative mapping.
+(i)
+Show and explain the mapping between M2 and M1.
+ii
+Calculate the effective memory
+access time with cache hit ratio=0.95.
+Explain the direct mapping technique. Consider a digital computer has a memory
+unit of64k* 16 and cache memory of Ik words. The cache uses direct mapping with
+4 block size of four words.
+(i)
+How many bits are there in the tag. block and word fields ofthe address
+format?
+ii)
+How many
+blocks can the cache accommodate?
+7.
+Attempt any one part of the following:
+7xi=7
+a.
+What do you mean by asynchronous dataLEH? Explain strobe control and \7 Qh
+handshaking mechanism.
+“A
+N
+Explain the various modes ofdatatransfer ang discuss direct memory access mod
+7,
+in detail. Also explain how DMA
+is
+supetior’to other modes.
+OP",ocr,2024
+06-2024-b.pdf,1,"QP24DP1_290
+ | 29-01-2024 13:29:34 | 117.55.242.132
+QP24DP1_290 | 29-01-2024 13:29:34 | 117.55.242.132
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KEC051 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM V) THEORY EXAMINATION 2023-24 
+COMPUTER ARCHITECTURE AND ORGANIZATION 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Q no. 
+Question 
+Marks 
+CO 
+a.  
+Compare combinational and sequential logic circuits. 
+2 
+1 
+b.  
+Explain the use of program counter. 
+2 
+3 
+c.  
+Compare PLA and PAL. 
+2 
+2 
+d.  
+Describe Moore’s law. 
+2 
+1 
+e.  
+Write the differences between EPROM, EEPROM and flash memory. 
+2 
+5 
+f.  
+Represent (– 320) decimal number in both binary sign magnitude and 
+two’s complement using 16 bits. 
+2 
+1 
+g.  
+Describe floating point number representation with an example. 
+2 
+4 
+h.  
+Compare combinational and sequential logic circuits. 
+2 
+1 
+i.  
+Differentiate between cache memory and RAM. 
+2 
+5 
+j.  
+Compare SRAM with DRAM. 
+2 
+4 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a. 
+Explain following in detail: 
+i. 
+Encoder and Decoder 
+ii. 
+Virtual address and Physical address 
+10 
+1 
+b. 
+Draw and explain CPU instruction cycle with interrupts. 
+10 
+2 
+c. 
+Show the multiplication process using Booth algorithm, when the 
+following binary numbers, (+12) x (-16) are multiplied. 
+10 
+3 
+d. 
+Discuss different pipeline hazards in detail. 
+10 
+4 
+e. 
+Discuss different type of secondary memories. 
+10 
+5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+What is addressing mode? Explain any five with suitable example. 
+10 
+1 
+b. 
+Define the two approaches used to deal with multiple interrupts. Also 
+write their disadvantages. 
+10 
+1 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Find the following difference using 8-bit two’s complement arithmetic. 
+Show steps and also write decimal value of the difference. Why two’s 
+complement arithmetic is better? 
+        ( 28 – 45) 
+10 
+2 
+b. 
+Draw the diagram of expanded structure of IAS computer and explain 
+its blocks. 
+10 
+2",pymupdf,2024
+06-2024-b.pdf,2,"QP24DP1_290
+ | 29-01-2024 13:29:34 | 117.55.242.132
+QP24DP1_290 | 29-01-2024 13:29:34 | 117.55.242.132
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KEC051 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM V) THEORY EXAMINATION 2023-24 
+COMPUTER ARCHITECTURE AND ORGANIZATION 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+2 | P a g e 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Briefly define the seven RAID levels. How is redundancy achieved in 
+these RAID systems? 
+10 
+3 
+b. 
+Draw the structure of DRAM binary cell and explain how binary digits 
+are written and read from it? 
+10 
+3 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Explain how the performance of a processor can be improved by 
+increasing microprocessor speed, balancing performance of various 
+components and improving chip design? 
+10 
+4 
+b. 
+Why multiple buses are used in any computer system? Name common 
+Multiple-Bus Hierarchies and explain one of them with proper diagram. 
+10 
+4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Name all the elements that are essential for cache design. Discuss 
+replacement algorithms in detail. 
+10 
+5 
+b. 
+What is mapping function? Explain direct mapping method with the 
+help of an example. Differentiate between Direct and Associative 
+mapping. 
+10 
+5",pymupdf,2024
+07-2024-a.pdf,1,"QP24DP2_290
+ | 21-03-2024 13:22:56 | 117.55.242.132
+QP24DP2_290 | 21-03-2024 13:22:56 | 117.55.242.132
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2023-24 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME:  3HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all sections. If require any missing data; then choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+a.  
+What are the different types of Buses used in computer architecture? 
+2 
+b.  
+Name the different types of multipliers. 
+2 
+c.  
+What are the different phases of an instruction cycle? 
+2 
+d.  
+How does control unit of a computer works? 
+2 
+e.  
+Write a short not on locality of reference. 
+2 
+f.  
+Define 2 ½ D memory organization. 
+2 
+g.  
+In what way synchronous and asynchronous serial modes of data transfer differ? 
+2 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+What is meant by the term BUS arbitration? Why is it needed? How can bus 
+arbitration be implemented in Daisy changing scheme? 
+7 
+b. 
+Show the multiplication process using Booth’s algorithm when the following 
+numbers are multiplied: - 
+(-12) *(-18). 
+7 
+c. 
+What is pipelining? What are the different stages of pipelining? Explain in detail. 
+7 
+d. 
+Give classification of memory based on the method of access. Also discuss 
+construction and working of magnetic disk and various components of disk access 
+time.  
+7 
+e. 
+What are the basic differences between interrupt initiated I/O and programmed 
+I/O? Explain in detail. 
+7 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+What do you mean by processor organization? Explain various types of processor 
+organization with suitable example. 
+7 
+b. 
+Differentiate between Memory stack and register stack. 
+7 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Explain in detail the principle of carry looks ahead adder and design 4-bit CLA 
+adder. 
+7 
+b. 
+Represent the following decimal number in IEEE standard floating-point format in 
+a single precision method (32 bit) representation method. 
+(i) 
+(85.125)10 
+(ii) 
+(-307.1875)10 
+7 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Explain the different cycles of an instruction execution. 
+7 
+b. 
+Differentiate between hardwired and micro programmed control unit. Explain each 
+component of hardwired control unit organization. 
+7",pymupdf,2024
+07-2024-a.pdf,2,"QP24DP2_290
+ | 21-03-2024 13:22:56 | 117.55.242.132
+QP24DP2_290 | 21-03-2024 13:22:56 | 117.55.242.132
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: BCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2023-24 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+TIME:  3HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Consider a cache (M1) and memory (M2) hierarchy with following characteristics: 
+- 
+M1 : 16K word, 50 ns Access time 
+M2 : 1M word, 400 ns Access time  
+Assume 8-word cache blocks and set size 256 words with set associative mapping. 
+(i) 
+Show and explain the mapping between M2 and M1. 
+(ii) 
+Calculate the effective memory access time with cache hit ratio=0.95. 
+7 
+b. 
+Explain the direct mapping technique. Consider a digital computer has a memory 
+unit of 64k*16 and cache memory of 1k words. The cache uses direct mapping with 
+4 block size of four words. 
+(i) 
+How many bits are there in the tag, block and word fields of the address 
+format? 
+(ii) 
+How many blocks can the cache accommodate? 
+7 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+a. 
+What do you mean by asynchronous data transfer? Explain strobe control and 
+handshaking mechanism. 
+7 
+b. 
+Explain the various modes of data transfer and discuss direct memory access mode 
+in detail. Also explain how DMA is superior to other modes. 
+7",pymupdf,2024
+08-2023.pdf,1,"QP23DP2_290  
+ | 01-04-2023 13:28:17 | 117.55.242.132
+QP23DP2_290   | 01-04-2023 13:28:17 | 117.55.242.132
+Printed Pages:02 
+Sub Code: KCS-302 
+Paper Id: 
+233647 
+                                     Roll No.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TECH.   
+(SEM III) THEORY EXAMINATION 2022-23 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:   Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+ 
+(a) List the steps involved in an instruction cycle. 
+(b)
+How memory read and write operations are performed in computer system?
+(c) Define bus and memory transfer? 
+(d) Define HIT and MISS ratio in memory with an example. 
+(e) Define instruction cycle. 
+(f)
+Differentiate between RISC and CISC. 
+(g) List the difference between static RAM and dynamic RAM. 
+(h) Define Virtual memory. 
+(i) 
+List down the functions performed by an Input/Output unit. 
+(j)
+Why does the DMA get priority over CPU when both request memory transfer?
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10x3=30 
+ 
+(a) Explain functional units of computer system in detail.
+(b) Explain IEEE-754 standard for floating point representation. Express (314.175)10 
+in all the IEEE-754 models. 
+(c) Explain the concept of pipelining and also explain types of pipelining. 
+(d) Consider a cache consisting of 256 blocks of 16 words each for a total of 4096 
+words and assume that the main memory is addressable by a 16 bits address and 
+it consists of 4K blocks. How many bits are there in each of TAG, SET, WORD 
+field for 2-way set associative technique? 
+(e) Define interrupt. Also discuss different types of interrupt. 
+ 
+SECTION C 
+ 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+ 
+(a) Explain about stack organization used in processors. What do you understand by
+register stack? 
+(b) What is an effective address? How it is calculated in different types of addressing 
+modes? Explain.",pymupdf,2023
+08-2023.pdf,2,"QP23DP2_290  
+ | 01-04-2023 13:28:17 | 117.55.242.132
+QP23DP2_290   | 01-04-2023 13:28:17 | 117.55.242.132
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+ 
+(a) Describe the derivation procedure of look ahead carry adder by an example with 
+the help of block diagram. 
+(b) Show the systematic multiplication process of (-15) × (-16) using Booth’s 
+Algorithm. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+     
+         10x1=10 
+  
+(a) Write a program to evaluate the arithmetic statement. 
+P = ((X − 𝑌 + 𝑍) ∗ (A  ^  B))/( C ^ D ∗ E)  
+By using (i) Two address instructions (ii) One address instructions (iii) Zero address 
+instructions
+(b) What are the differences between hardwired and micro-programmed control unit? 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+       
+         10x1=10 
+  
+(a)
+Discuss the Memory Hierarchy in computer system with regard to Speed, Size 
+and Cost. 
+(b) Write a short notes on magnetic disk, magnetic tape and optical disk. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+       
+         10x1=10 
+  
+(a)
+With a neat schematic diagram, explain about DMA controller and its mode of 
+data transfer. 
+(b) Discuss the design of a typical input or output interface.",pymupdf,2023
+09-2023-a.pdf,1,"QP23DP1_290  
+ | 27-01-2023 13:30:28 | 117.55.242.132
+QP23DP1_290   | 27-01-2023 13:30:28 | 117.55.242.132
+Printed Pages: 02 
+ 
+Sub Code:KEC-051 
+Paper Id:  2 3 1 9 9 5  
+Roll No.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TECH 
+(SEM V) THEORY EXAMINATION 2022-23 
+COMPUTER ARCHITECTURE AND ORGANIZATION 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 2. Any special paper specific instruction. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+(a)  
+Explain the Design Methodology. 
+(b)  
+Describe a stack pointer. 
+(c)  
+What is programmable logic devices? 
+(d)  
+Define control word. 
+(e)  
+Define Normalization of IEEE floating point representation. 
+(f)  
+What is coprocessor? 
+(g)  
+Explain the difference between horizontal organization and vertical 
+organization. 
+(h)  
+What is multiprogramming? 
+(i)  
+Define VHDL. State the applications of VHDL. 
+(j)  
+Explain the difference between program and software. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+(a)  
+What are the components at processor design level in a computer system? 
+Discuss various design issues at processor level. 
+(b)  
+Give the overview of CPU behavior using a flowchart. Also draw the block 
+diagram for processor memory communication with and without cache. 
+(c)  
+Describe the design of a 4-bit carry look ahead adder. 
+ 
+(d)  
+Write a note on the virtual memory and 21/2 D memory organization. 
+(e)  
+Draw and explain simple queuing model of computer system. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) 
+Explain the concept of stack organization. 
+(b) 
+Represent the floating point in the IEEE standard format for the given number 
+1.00010100× 2-10. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) 
+What do you mean by the structure and behavior of a system? Give the 
+behavioral VHDL description .of half adder. 
+(b) 
+What is meant by nano programming? How does control unit of a computer 
+function? Explain with the help of block diagram.",pymupdf,2023
+09-2023-a.pdf,2,"QP23DP1_290  
+ | 27-01-2023 13:30:28 | 117.55.242.132
+QP23DP1_290   | 27-01-2023 13:30:28 | 117.55.242.132
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) 
+Differentiate between Hardwired control and Micro programmed control. 
+Explain each method in detail. 
+(b) 
+Write a program to evaluate the arithmetic statement X = (A+B) x (C x D). Use 
+an accumulator type computer with two address instruction. 
+ 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) 
+Explain how Booth's algorithm is suitable for signed number multiplication. 
+Perform the multiplication of the following using Booth algorithm (01110) +14 
+x – 5 (11011). 
+(b) 
+Explain the Daisy chaining mechanism for bus arbitration. Analyze the three 
+bus arbitration methods-Daisy chaining, parallel and independent requesting 
+with respect to communication reliability in the event of hardware failures 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) 
+How a negative number is represented using 1’s complement and 2’s 
+complement. Discuss the advantages and disadvantages of each representation. 
+(b) 
+Write short notes on  
+(i) Data processing and Data movement 
+(ii) Encoder and Decoder 
+(iii) RISC and CISC 
+(iv) Virtual address and Physical address 
+(v) Multiplexer and De-multiplexer",pymupdf,2023
+10-2023-3.pdf,1,"233647 
+Printed Pages:02 
+Sub Code: KCS-302 
+Paper Id: 
+Roll No. 
+ 
+B. TECH. 
+(SEM III) THEORY EXAMINATION 2022-23 
+COMPUTER  ORGANIZATION  AND  ARCHITECTURE 
+Time: 3 Hours 
+Total Marks: 100 
+Note: Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+2 x 10 = 20 
+ 
+(a) List the steps involved in an instruction cycle. 
+(b) How memory read and write operations are performed in computer system? 
+(c) Define bus and memory transfer? 
+(d) Define HIT and MISS ratio in memory with an example. 
+(e) Define instruction cycle. 
+(f) 
+Differentiate between RISC and CISC. 
+(g) List the difference between static RAM and dynamic RAM. 
+(h) Define Virtual memory. 
+(i) 
+List down the functions performed by an Input/Output unit. 
+(j) 
+Why does the DMA get priority over CPU when both request memory transfer? 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+10x3=30 
+ 
+(a) Explain functional units of computer system in detail. 
+(b) Explain  IEEE-754  standard  for  floating  point  representation.  Express (314.175) 10 
+in all the IEEE-754 models. 
+(c) Explain the concept of pipelining and also explain types of pipelining. 
+(d) Consider  a  cache  consisting  of  256  blocks  of  16  words  each  for  a  total  of  4096 
+words and assume  that the  main  memory  is  addressable by a 16 bits address and 
+it consists of 4K blocks. How  many bits are there in  each of TAG, SET, WORD 
+field for 2-way set associative technique? 
+(e) Define interrupt. Also discuss different types of interrupt. 
+ 
+SECTION C 
+ 
+3. 
+Attempt any one part of the following: 
+10x1=10 
+ 
+(a) Explain about stack  organization used in processors. What  do  you understand by 
+register stack? 
+(b) What is an effective address? How it is calculated in different types of addressing 
+modes? Explain.",pymupdf,2023
+10-2023-3.pdf,2,"4. 
+Attempt any one part of the following: 
+10x1=10 
+ 
+(a) Describe  the  derivation  procedure  of  look ahead  carry adder by  an  example  with 
+the help of block diagram. 
+(b) Show  the  systematic  multiplication  process  of  (-15)  ×  (-16)  using  Booth’s 
+Algorithm. 
+ 
+5. 
+Attempt any one part of the following: 
+10x1=10 
+ 
+(a) Write a program to evaluate the arithmetic statement. 
+P = ((X − ܻ + ܼ) ∗ (A ^  B))/( C ^ D ∗ E) 
+By  using  (i)  Two  address  instructions  (ii)  One  address  instructions  (iii)  Zero  address 
+instructions 
+(b) What are the differences between hardwired and micro-programmed control  unit? 
+ 
+6. 
+Attempt any one part of the following: 
+10x1=10 
+ 
+(a) Discuss  the  Memory  Hierarchy  in  computer  system  with  regard  to  Speed,  Size 
+and Cost. 
+(b) Write a short notes on magnetic disk, magnetic tape and optical disk. 
+ 
+7. 
+Attempt any one part of the following: 
+10x1=10 
+ 
+(a) With a neat schematic diagram, explain about DMA controller and  its  mode  of 
+data transfer. 
+(b) Discuss the design of a typical input or output interface.",pymupdf,2023
+11-2023-2.pdf,1,"Printed Pa es:02
+a 7
+Paper Id: P33
+Sub Code: KCS-302
+P
+233647
+RoliNo. [~~~S
+B. TECH.
+c
+eesपा) THEORY EXAMINATION 2022-23.
+Time:
+3 Hours OMPUTER ORGANIZATION AND ARCHITECTURE
+ः
+Total Marks: 100
+Note:
+Attempt all Sections. Ifrequire any missirig data; then choose Suitably,
+- ..
+.- है
+न.
+का
+SECTION A
+1.
+Attempt ६1questions in brief.
+2x10=20
+(a)
+List the steps involved in an instruction cycle.
+(b) “How memory read and write operations are performed in computer system?
+(c)
+Define bus and memory transfer?
+(d)
+Define HIT and MISS ratio in memory with an example.
+(e)
+Define instruction cycle.
+(f)
+Differentiate between RISC and CISC.
+(g)
+List the difference between static RAM and dynamic RAM.
+(h) Define Virtual memory.
+“A
+as
+(i)
+List down the functions performed by an igplOutput unit.
+KR:
+(j) Why does the DMA get priority overey
+hen both request memory transfer?aha
+afettion B
+O
+2.
+Attempt any three of the folding
+पक.
+Oo
+(a) Explain functional units ofcomputer system in detail.
+AS
+(b)
+Explain IEEE-754 standard for floating point representation!
+Bypress (314.175)10
+i
+IEEE-754 models.
+a
+ear concept ofpipelining and alsocasi upp
+5 DF pipelining.
+(०)
+Cc P ider a cache consisting of 256 blocks of 16
+ds each for a total of 4096
+*
+(0)
+ons and assume that the main memory is addrdssable by a 16 bits address and
+it consists of4K. blocks. How many bits argh in each of TAG, SET, WORD
+|
+hnique?
+.
+ld for 2-way set associative tec
+~
+(e) Define interrupt. Also discuss1०
+ere
+SBOFION C
+|
+:
+SF
+|
+3
+Attempt any one part of tite following:
+10x1=10
+(a) Explain about stack organization used in processors. What do you understand by oe
+(b) What is an effective address? How it is calculated in different types ofaddressing
+i
+modes? Explain.
+ह
+oe
+www.aktunotes.in
+ae",ocr,2023
+11-2023-2.pdf,2,"Attempt any one Part ofthe following:
+10x1=10
+(38) Describe the derivation procedure of
+.
+the help ofblock diagram.
+look ahead carry adder by an example with
+(b) Show the systemati
+snlicatinn
+ec.
+-
+Algorithm. ¥srematic multiplication process of (-15) x (16) using “Booth’s
+5.
+Attempt any one part of the following:. -
+10x1=10
+{a)
+Writea program to evaluate the arithmetic statement.
+:
+|
+P=((X-Y+Z)*(A% 8)॥0१०« ६)
+By using (i) Two address instructions (ii) One address instructions (iii) Zero address
+instructions
+‘
+«5
+(b)
+What are the differences between hardwired and micro-programmed control unit!
+6.
+Attempt any one part of the following:
+10x1=tt
+(a)
+Discuss the Memory Hierarchy in computer system with regard to Speed, Siz:
+and Cost.
+A
+ar
+(09) Write a short notes on magnetic disk, ४७०४१pe and optical disk.
+7.
+Attempt any ove part of theov ra
+Wet id.
+:
+(a) With a neat schematic diagramSepia about DMA controller and its 2221
+data transfer.
+wee
+पाला:
+x\ ,
+(b)
+Discuss the design ofa typi
+input or output interface.
+N
+aN
+www.aktunotes.in
+Whatsapp @ 9300930012
+Send your old paper & get 10/-
+अपने
+पुराने
+पेपर्सभेजेऔर10 रुपये
+पायें,
+।
+Paytm or Google Pay से
+www.aktunotes.in",ocr,2023
+12-2022.pdf,1,"Printed Page: 1 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  2x10 = 20 
+Qno 
+Questions 
+CO 
+(a) 
+List and briefly define the main structural components of a computer. 
+CO1 
+(b) 
+Differentiate between horizontal and vertical microprogramming. 
+CO3 
+(c) 
+Represent the following conditional control statements by two register 
+transfer statements with control functions. 
+         If(P=1) then (R1 R2) else if (Q=1) then (R1R3) 
+CO1 
+(d) 
+Design a 4-bit combinational incremental circuit using four full adder 
+circuits. 
+CO2 
+(e) 
+Differentiate between Daisy chaining and centralized parallel 
+arbitration. 
+ 
+ 
+CO5 
+(f) 
+What is the transfer rate of an eight-track magnetic tape whose speed is 
+120 inches per second and whose density is 1600 bits per inch? 
+CO5 
+(g) 
+Register A holds the binary values 10011101.What is the register value 
+after arithmetic shift right? Starting from the initial number 10011101, 
+determine the register value after arithmetic shift left, and state whether 
+there is an overflow. 
+CO2 
+(h) 
+What is an Associative memory? What are its advantages and 
+disadvantages? 
+CO4 
+(i) 
+Differentiate between static RAM and Dynamic RAM. 
+CO4 
+(j) 
+What are the different types of instruction formats? 
+CO3 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 10x3 = 30 
+Qno 
+Questions 
+CO 
+(a) 
+A digital computer has a common bus system for 8 registers of 16 bit 
+each. The bus is constructed using multiplexers.  
+I. 
+How many select input are there in each multiplexer? 
+II. 
+What is the size of multiplexers needed? 
+III. 
+How many multiplexers are there in the bus? 
+CO1 
+(b) 
+Explain destination-initiated transfer using handshaking method. 
+CO5 
+(c) 
+Explain 2-bit by 2-bit Array multiplier. Draw the flowchart for divide 
+operation of two numbers in signed magnitude form. 
+CO2 
+(d) 
+A digital computer has a memory unit of 64K X 16 and a cache 
+memory of 1K words. The cache uses direct mapping with a block size 
+of four words. 
+I. 
+How many bits are there in the tag, index, block, and word 
+fields of the address format? 
+II. 
+How many bits are there in each word of cache, and how 
+they are divided into functions? Include a valid bit. 
+III. 
+How many blocks can the cache accommodate? 
+CO4 
+(e) 
+Explain with neat diagram, the address selection for control memory. 
+CO3",pymupdf,2022
+12-2022.pdf,2,"Printed Page: 2 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+              10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+A binary floating-point number has seven bits for a biased exponent. 
+The constant used for the bias is 64.  
+ 
+ 
+ 
+ 
+I. 
+List the biased representation of all exponents from -64 to +63. 
+II. 
+Show that after addition of two biased exponents, it is necessary 
+to subtract 64 in order to have a biased exponent’s sum. 
+III. 
+Show that after subtraction of two biased exponents, it is 
+necessary to add 64 in order to have a biased exponent’s 
+difference. 
+CO2 
+(b) 
+Show the multiplication process using Booth algorithm, when the 
+following binary numbers, (+13) x (-15) are multiplied. 
+CO2 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Draw a diagram of a Bus system in which it uses 3 state buffers and a 
+decoder instead of the multiplexers. 
+CO1 
+(b) 
+Explain in detail multiple bus organization with the help of a diagram. 
+CO1 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+The logical address space in a computer system consists of 128 
+segments. Each segment can have up to 32 pages of 4K words each. 
+Physical memory consists of 4K blocks of 4K words each. Formulate 
+the logical and physical address formats. 
+ 
+CO4 
+(b) 
+How is the Virtual address mapped into physical address? What are the 
+different methods of writing into cache? 
+CO4 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Explain how the computer buses can be used to communicate with 
+memory and I/O. Also draw the block diagram for CPU-IOP 
+communication. 
+CO5 
+(b) 
+What are the different methods of asynchronous data transfer? Explain 
+in detail. 
+CO5 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Write a program to evaluate arithmetic expression using stack 
+organized computer with 0-address instructions. 
+ 
+ 
+ 
+ 
+X = (A-B) * (((C - D * E) / F) / G) 
+CO3 
+(b) 
+List the differences between hardwired and micro programmed control 
+in tabular format. Write the sequence of control steps for the following 
+instruction for single bus architecture. 
+ 
+ 
+ 
+ 
+R1   R2 * (R3) 
+CO3",pymupdf,2022
+13-2022-a.pdf,1,"QP22P2_290
+ | 02-Apr-2022 13:30:46 | 117.55.242.131
+QP22P2_290 | 02-Apr-2022 13:30:46 | 117.55.242.131
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  2x10 = 20 
+Qno 
+Questions 
+CO 
+(a) 
+List and briefly define the main structural components of a computer. 
+CO1 
+(b) 
+Differentiate between horizontal and vertical microprogramming. 
+CO3 
+(c) 
+Represent the following conditional control statements by two register 
+transfer statements with control functions. 
+         If(P=1) then (R1 R2) else if (Q=1) then (R1R3) 
+CO1 
+(d) 
+Design a 4-bit combinational incremental circuit using four full adder 
+circuits. 
+CO2 
+(e) 
+Differentiate between Daisy chaining and centralized parallel 
+arbitration. 
+ 
+ 
+CO5 
+(f) 
+What is the transfer rate of an eight-track magnetic tape whose speed is 
+120 inches per second and whose density is 1600 bits per inch? 
+CO5 
+(g) 
+Register A holds the binary values 10011101.What is the register value 
+after arithmetic shift right? Starting from the initial number 10011101, 
+determine the register value after arithmetic shift left, and state whether 
+there is an overflow. 
+CO2 
+(h) 
+What is an Associative memory? What are its advantages and 
+disadvantages? 
+CO4 
+(i) 
+Differentiate between static RAM and Dynamic RAM. 
+CO4 
+(j) 
+What are the different types of instruction formats? 
+CO3 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 10x3 = 30 
+Qno 
+Questions 
+CO 
+(a) 
+A digital computer has a common bus system for 8 registers of 16 bit 
+each. The bus is constructed using multiplexers.  
+I. 
+How many select input are there in each multiplexer? 
+II. 
+What is the size of multiplexers needed? 
+III. 
+How many multiplexers are there in the bus? 
+CO1 
+(b) 
+Explain destination-initiated transfer using handshaking method. 
+CO5 
+(c) 
+Explain 2-bit by 2-bit Array multiplier. Draw the flowchart for divide 
+operation of two numbers in signed magnitude form. 
+CO2 
+(d) 
+A digital computer has a memory unit of 64K X 16 and a cache 
+memory of 1K words. The cache uses direct mapping with a block size 
+of four words. 
+I. 
+How many bits are there in the tag, index, block, and word 
+fields of the address format? 
+II. 
+How many bits are there in each word of cache, and how 
+they are divided into functions? Include a valid bit. 
+III. 
+How many blocks can the cache accommodate? 
+CO4 
+(e) 
+Explain with neat diagram, the address selection for control memory. 
+CO3",pymupdf,2022
+13-2022-a.pdf,2,"QP22P2_290
+ | 02-Apr-2022 13:30:46 | 117.55.242.131
+QP22P2_290 | 02-Apr-2022 13:30:46 | 117.55.242.131
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+              10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+A binary floating-point number has seven bits for a biased exponent. 
+The constant used for the bias is 64.  
+ 
+ 
+ 
+ 
+I. 
+List the biased representation of all exponents from -64 to +63. 
+II. 
+Show that after addition of two biased exponents, it is necessary 
+to subtract 64 in order to have a biased exponent’s sum. 
+III. 
+Show that after subtraction of two biased exponents, it is 
+necessary to add 64 in order to have a biased exponent’s 
+difference. 
+CO2 
+(b) 
+Show the multiplication process using Booth algorithm, when the 
+following binary numbers, (+13) x (-15) are multiplied. 
+CO2 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Draw a diagram of a Bus system in which it uses 3 state buffers and a 
+decoder instead of the multiplexers. 
+CO1 
+(b) 
+Explain in detail multiple bus organization with the help of a diagram. 
+CO1 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+The logical address space in a computer system consists of 128 
+segments. Each segment can have up to 32 pages of 4K words each. 
+Physical memory consists of 4K blocks of 4K words each. Formulate 
+the logical and physical address formats. 
+ 
+CO4 
+(b) 
+How is the Virtual address mapped into physical address? What are the 
+different methods of writing into cache? 
+CO4 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Explain how the computer buses can be used to communicate with 
+memory and I/O. Also draw the block diagram for CPU-IOP 
+communication. 
+CO5 
+(b) 
+What are the different methods of asynchronous data transfer? Explain 
+in detail. 
+CO5 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10x1 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Write a program to evaluate arithmetic expression using stack 
+organized computer with 0-address instructions. 
+ 
+ 
+ 
+ 
+X = (A-B) * (((C - D * E) / F) / G) 
+CO3 
+(b) 
+List the differences between hardwired and micro programmed control 
+in tabular format. Write the sequence of control steps for the following 
+instruction for single bus architecture. 
+ 
+ 
+ 
+ 
+R1   R2 * (R3) 
+CO3",pymupdf,2022
+14-2022-2.pdf,1,"Printed Page: 1 of 2 
+  
+Subject Code: RCS302 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+1 | P a g e  
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.    Describe the term addressing mode. 
+b.    Compare microinstruction and microprogram. 
+c.    Write decimal numbers 35 and -35 in 2’s sign magnitude format. 
+d.    Define the term Memory Hierarchy in computer system. 
+e.    List the components of a typical I/O device interface. 
+f.    Explain speed up performance metric for a pipelined processor. 
+g.    Write one example of a 1-Address and 2-Address instruction. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.    Illustrate the designing of 3-bit carry look ahead adder. 
+b.    Differentiate between horizontal and vertical microinstruction.  
+A  vertical  microprogrammed  control  unit  supports  512  instructions.  The 
+system is using 8 conditional flags and contains 31 control signals. Each 
+instruction on an average required 1 μ operation. Calculate the approximate 
+size of control memory in bytes. 
+c.    Discuss the need of virtual memory. Demonstrate its implementation using 
+paging. 
+d.    Describe serial communication technique in detail. Explain and compare the 
+synchronous and asynchronous communication. 
+e.    Describe Flynn’s classification in detail. 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Illustrate the process of non-restoring division taking the division of (13)10 by 
+(3)10. 
+(b)  Demonstrate floating-point number representation in computer, also give IEEE 
+754 standard 32-bit floating point number format of (12.21)10 justifying each 
+step. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Describe the working of microprogram sequencer with a suitable diagram and 
+tables. 
+(b)  Explain  hardwired  control  unit  design  using  its  block  diagram.  Explain 
+generation of a control signal PCin  .",pymupdf,2022
+14-2022-2.pdf,2,"Printed Page: 2 of 2 
+  
+Subject Code: RCS302 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+ 
+2 | P a g e  
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain the interrupt driven I/O technique and design its flowchart in detail 
+along with its merits and demerits. 
+(b)  Discuss the interrupt processing. Differentiate between the following: 
+(i) Trap vs exception. 
+(ii) Maskable and non-maskable interrupt. 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  A computer has a 256 K Byte, 4-way set associative, write back data cache 
+with the block size of 32 Bytes. The processor sends 32-bit addresses to the 
+cache  controller.  Each  cache  tag  directory  entry  contains,  in  addition,  to 
+address tag, 2 valid bits, 1 modified bit and 1 replacement bit. Solve for the 
+number  of  bits  in  the  tag  field  of  an  address.  Explain  each  step  of  the 
+calculation. 
+(b)  Calculate the number of page faults using optimal page replacement algorithm 
+for the reference string: 1,5,4,3,2,5,1,2,4,3,6,4 if the number of frames in the 
+memory is 3 and 4 illustrating each step. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  (i) Justify the concept of Pipelining using a suitable diagram in a computer 
+system. 
+(ii) There is an instruction pipeline with four stages. The stage delays for each 
+stage is 5 nsec, 6 nsec, 11 nsec, and 8 nsec respectively. Consider the delay of 
+an inter-stage register in the pipeline is 1 nsec. Determine the approximate 
+speedup of the pipeline in the steady state under ideal conditions as compared 
+to the corresponding non-pipelined implementation? 
+(b)  Explain Cache performance measures. Evaluate the performance of 2-level 
+Cache memory.",pymupdf,2022
+15-2021.pdf,1,"Printed Page: 1 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+1 | P a g e  
+ 
+B TECH  
+(SEM-III) THEORY EXAMINATION 2020-21 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Q no. 
+Question 
+Marks 
+CO 
+a.  
+Define the term Computer architecture and Computer organization. 
+2 
+1 
+b.  
+What is mean by bus arbitration? List different types of bus arbitration. 
+2 
+1 
+c.  
+Discuss biasing with reference to floating point representation. 
+2 
+2 
+d.  
+What is restoring method in division algorithm? 
+2 
+2 
+e.  
+Define micro operation and micro code. 
+2 
+3 
+f.  
+Write short note on RISC. 
+2 
+3 
+g.  
+Define hit ratio. 
+2 
+4 
+h.  
+What do you mean by page fault? 
+2 
+4 
+i.  
+Explain the term cycle stealing. 
+2 
+5 
+j.  
+What do you mean by vector interrupt? Explain. 
+2 
+5 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+3 x 10 = 30 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+i. Draw a diagram of bus system using MUX which has four registers of size 4 bits 
+each. 
+ii. Evaluate the arithmetic statement. 
+       X = A + B * [C * D + E * (F + G)]  
+using a stack organized computer with zero address operation instructions. 
+10 
+1 
+b. 
+Explain in detail the principle of carry look ahead adder and design 4-bit CLA adder. 
+10 
+2 
+c. 
+Draw the flowchart for instruction cycle with neat diagram and explain. 
+10 
+3 
+d. 
+Discuss 2 D RAM and 2.5D RAM with suitable diagram. 
+10 
+4 
+e. 
+Draw and explain the block diagram of typical DMA controller. 
+10 
+5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+An instruction is stored at location 400 with its address field at location 401.The 
+address field has the value 500.A processor register R1 contains the number 200. 
+Evaluate the effective address if the addressing mode of the instruction is (i) direct (ii) 
+immediate (iii) relative (iv) register indirect (v) index with R1 as index register 
+10 
+1 
+b. 
+What do you mean by processor organization? Explain various types of processor 
+organization. 
+10 
+1 
+  
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Show the systemic multiplication process of (20) X (-19) using Booth’s algorithm 
+10 
+2 
+b. 
+Explain IEEE standard for floating point representation. Represent the number (-
+1460.125)10 in single precision and double precision format. 
+10 
+2",pymupdf,2021
+15-2021.pdf,2,"Printed Page: 2 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+2 | P a g e  
+ 
+ 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+What is a micro program sequencer? With block diagram, explain the working of 
+micro program sequencer. 
+10 
+3 
+b. 
+Differentiate between hardwired and micro programmed control unit. Explain each 
+component of hardwired control unit organization. 
+10 
+3 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Calculate the page fault for a given string with the help of LRU & FIFO page 
+replacement algorithm, Size of frames = 4 and string 1 2  3 4 2 1 5 6 2 1 2 3 7 6 3 2 1 
+2 3 6  
+10 
+4 
+b. 
+A computer uses RAM chips of 1024*1 capacity.  
+i) How many chips are needed & how should their address lines be connected to 
+provide a memory capacity of 1024*8? 
+ii) How many chips are needed to provide a memory capacity of 16 KB? 
+10 
+4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+What do you mean by asynchronous data transfer? Explain strobe control and hand 
+shaking mechanism. 
+10 
+5 
+b. 
+Discuss the different modes of data transfer. 
+10 
+5",pymupdf,2021
+16-2021-a.pdf,1,"AKTU_QP20E290QP
+ | 15-Mar-2021 13:57:06 | 117.55.242.131
+AKTU_QP20E290QP | 15-Mar-2021 13:57:06 | 117.55.242.131
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+1 | P a g e  
+ 
+B TECH  
+(SEM-III) THEORY EXAMINATION 2020-21 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Q no. 
+Question 
+Marks 
+CO 
+a.  
+Define the term Computer architecture and Computer organization. 
+2 
+1 
+b.  
+What is mean by bus arbitration? List different types of bus arbitration. 
+2 
+1 
+c.  
+Discuss biasing with reference to floating point representation. 
+2 
+2 
+d.  
+What is restoring method in division algorithm? 
+2 
+2 
+e.  
+Define micro operation and micro code. 
+2 
+3 
+f.  
+Write short note on RISC. 
+2 
+3 
+g.  
+Define hit ratio. 
+2 
+4 
+h.  
+What do you mean by page fault? 
+2 
+4 
+i.  
+Explain the term cycle stealing. 
+2 
+5 
+j.  
+What do you mean by vector interrupt? Explain. 
+2 
+5 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+ 
+3 x 10 = 30 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+i. Draw a diagram of bus system using MUX which has four registers of size 4 bits 
+each. 
+ii. Evaluate the arithmetic statement. 
+       X = A + B * [C * D + E * (F + G)]  
+using a stack organized computer with zero address operation instructions. 
+10 
+1 
+b. 
+Explain in detail the principle of carry look ahead adder and design 4-bit CLA adder. 
+10 
+2 
+c. 
+Draw the flowchart for instruction cycle with neat diagram and explain. 
+10 
+3 
+d. 
+Discuss 2 D RAM and 2.5D RAM with suitable diagram. 
+10 
+4 
+e. 
+Draw and explain the block diagram of typical DMA controller. 
+10 
+5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+An instruction is stored at location 400 with its address field at location 401.The 
+address field has the value 500.A processor register R1 contains the number 200. 
+Evaluate the effective address if the addressing mode of the instruction is (i) direct (ii) 
+immediate (iii) relative (iv) register indirect (v) index with R1 as index register 
+10 
+1 
+b. 
+What do you mean by processor organization? Explain various types of processor 
+organization. 
+10 
+1 
+  
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Show the systemic multiplication process of (20) X (-19) using Booth’s algorithm 
+10 
+2 
+b. 
+Explain IEEE standard for floating point representation. Represent the number (-
+1460.125)10 in single precision and double precision format. 
+10 
+2",pymupdf,2021
+16-2021-a.pdf,2,"AKTU_QP20E290QP
+ | 15-Mar-2021 13:57:06 | 117.55.242.131
+AKTU_QP20E290QP | 15-Mar-2021 13:57:06 | 117.55.242.131
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KCS302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+2 | P a g e  
+ 
+ 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+What is a micro program sequencer? With block diagram, explain the working of 
+micro program sequencer. 
+10 
+3 
+b. 
+Differentiate between hardwired and micro programmed control unit. Explain each 
+component of hardwired control unit organization. 
+10 
+3 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Calculate the page fault for a given string with the help of LRU & FIFO page 
+replacement algorithm, Size of frames = 4 and string 1 2  3 4 2 1 5 6 2 1 2 3 7 6 3 2 1 
+2 3 6  
+10 
+4 
+b. 
+A computer uses RAM chips of 1024*1 capacity.  
+i) How many chips are needed & how should their address lines be connected to 
+provide a memory capacity of 1024*8? 
+ii) How many chips are needed to provide a memory capacity of 16 KB? 
+10 
+4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+What do you mean by asynchronous data transfer? Explain strobe control and hand 
+shaking mechanism. 
+10 
+5 
+b. 
+Discuss the different modes of data transfer. 
+10 
+5",pymupdf,2021
+17-2021-2.pdf,1,"B TECH
+(SEM-IIT) THEORY EXAMINATION 2020-21
+COMPUTER ORGANIZATION AND ARCHITECTURE
+Time: 3 Hours
+Total Marks: 100
+Note:
+1, Attempt all Sections. If require any missing data: then choose suitably.
+SECTION A
+| Qno.
+|
+Question
+Marks) CO
+10.
+What is mean by bus arbitration? List different types of bus arbitration.
+2
+|
+|
+jc,
+Discuss biasing with reference to floating point representation.
+2
+| 2
+id.
+What is restoring method in division algorithm?
+2
+| 2
+le.
+Define micro operation and micro code.
+2
+(3
+[रब
+Write short note on RISC.
+23
+ig.
+Definehit ratio.
+ee
+2
+4
+h.
+What do you mean by page fault?
+2
+4
+li.
+Explain the term cycle stealing.
+2
+[5
+What do you mean by vector interrupt? Explain.
+__2
+[5
+SECTION 8
+2.
+_Attempt
+any three ofthe following:8X HO
+| Qno,
+Question
+Marks
+| CO
+i. Draw a diagram of bus system using MUX which has four registers of size 4 bits | 10
+jlo
+each.
+|
+ti. Evaluate the arithmetic statement.
+1
+X=A+B*(C*D+E*(F+G)|
+|
+using
+a stack organized computer with zero address operation instructions.
+|
+Ib. | Explain in detail the principle of carry look ahead adder and design 4-bit CLA adder.
+| 10
+2
+Draw the flowchart for instruction cycle with neat diagram and explain.
+10
+3
+i'd: | Discuss
+2D RAM and 2.5D RAM with suitable diagram.
+10
+| 4
+ce
+_
+SECTION C
+3:
+Attempt
+any one
+part ofthe following:
+हि
+क
+address field has the value 500.A processor register RI contains the number 200.
+।
+Evaluate the effective address if the addressing modeofthe instruction is (i) direct (il)
+immediate (iii) relative (iv) register indirect (v) index with RI as index register
+|
+organization.
+4,
+Attempt any ove
+part ofthe following:
+fa. |a
+शतज्लकफकपत_ 1]
+the systemic multiplication
+process of (20) X
+(-19) using Booth’s algorithm
+| 10
+2
+|
+1460.125)i0 in single
+precision and double
+precision format.
+1]
+www.aktunotes.in",ocr,2021
+18-2020.pdf,1,"Printed Page 1 of2
+Sub Code:KCS30Z
+Paper Id: | 110322 ||
+RoltNo:{ | | | [[[[[1[[[1[[][]
+|
+]
+]
+|
+॥
+|
+]
+|
+|
+|
+|
+|
+B, TECH.
+{(SEM-ID) THEORY EXAMINATION 2019-20
+COMPUTER ORGANIZATION AND ARCHITECTURE
+Time: 3 Hours
+Tatal Marks: 100
+Note: 1. Attempt all Sections. Ifrequire any missing data; then choose suitably.
+SECTION A
+1.
+Attempt कोquestions in brief.
+2x10=20
+=
+is)
+ca
+lb. | Draw the basic functional units ofa computer.
+|1 |
+Perform the 2'5 complement subtraction of smaller number (101011) from
+larger number
+(111001).
+है
+jd. | What is the role ofMultiplexer and Decoder?
+[2 |
+Je. | Write the differences between RISC and CISC.
+What are the types ofmicroinstructions available? Vr
+'g.
+| What isSRAM and DRAM?
+N
+NG
+fn
+What the diference baween 2D and2”""D moeGx raaniaton? खाजज4%
+[What
+is 70 ००४७mathe?
+ce
+EW)
+SROQION B
+6
+2.
+Attempt any three of the follagtag:
+%
+SD Gestion
+RK
+4 |
+6
+Convert the mone
+metic expressions from infix to hes
+80५polish | 5+5
+notation:
+.
+ay
+i
+A*B+C*D+E*F
+1,
+fi,
+_A*[B+C*CDHEY EYGHH
+LS
+ee | Design a 4-bit Carry-Look ahead Adder and exph
+$ ‘operation with an
+example.
+दि
+.
+जि
+i.
+Draw the timing diagram for a instruction
+dy@le and explain.
+ii, _Give a note on subroutine.
+aN
+What do you mean by
+virtual memory?}
+Discuss how paging
+helps
+in
+4
+implementing
+virtual memory.
+ge oF
+fe. | What is DMA? Describe howDM rank ed to transfer data from peripherals.
+10 |
+हैँ
+WO
+«
+*
+SECTION C
+3.
+Attempt apy one part ofdhe following:
+| २४०. |
+Question
+Marks
+Cc
+(8)
+|a.| Describe in detail the different kinds of addressing modes with an example.
+Discuss stack Organization. Explain the following in details-
+||
+{i)
+Register stack
+1
+ik
+Memory
+stack
+जन«yan tees
+अततशञ++
+a
+-
+bee unis tietasiie win
+»
+amen
+Sous
+11४०६८
+www.aktunotes.in",ocr,2020
+18-2020.pdf,2,"Printed Page 2 of 2
+Sub Code: KCS302
+Paper ld: [110322|]
+RoNo:|
+|
+|
+[
+|
+|
+|
+|
+| [||
+| |
+4,
+Attempt any one part of the following:
+Ono,
+Question
+ie)
+a.
+Represent the following decima! number in IEEE standard floating-point
+§+5
+2
+format in a single precision method (32-bit) representation method.
+i.
+(65.175)0
+it.
+-307.18735)0
+Using Booth algorithm perform the multiplication on the following 6-bit
+2
+unsigned integer 16110011* 11010101
+7
+5
+Attempt any one part of the following:
+Qno.
+;
+Question
+Marks | C
+8)
+a.
+What is parallelism and pipelining in computer Architecture?
+3
+|0. | Explain the organization of Microprogrammed control unit in detail.
+|10
+|
+हु
+~
+.
+fe PE
+6.
+Attempt any one part of the following:
+ee
+fe
+| 20०.
+Question
+fom
+Marks | C
+; हैके
+nate
+184
+Discuss the different mapping techniquessused in cache memories and their | 10 - 4
+relative merits and demerits.
+a
+हे
+है
+'_+
+|.
+RAM chip 4096 > 8 bits has two enable lines. How many pins are needed for
+| 3|5क, "" | 4
+the integrated circuits package? Draw a block diagram and label all input and a
+outputs of the RAM. What is nfaia feature of tandom-access memory?
+“. *
+Ray
+me
+:
+7.
+Attempt any one parf'of
+the following:
+=
+Qno.
+aoe
+Question
+Lo
+Marks | C
+200
+0
+a.
+Write down the difference between isolated I/O and memory tapped VO. Also
+5
+discuss advantages and disadvantazes of isolated /O and memory mapped.
+and tsemory mapped I/O.
+7
+i.
+Discuss the design of a typical input or output interface.
+0 | 5
+ii, __What are interrupts? How are they
+11018
+727:
+200...
+£
+www.aktunotes.in",ocr,2020
+19-2020-c.pdf,1,"Printed Page1 of2
+Sub Code: REC052
+--
+--CCE
+Paper td: |.130502]
+rave: TTL LLL
+B.TECH
+(SEM ९) THEORY EXAMINATION 2019-20
+COMPUTER ARCHITECTURE AND ORGANIZATION
+Time: 3 Houry
+Total Marks: 70
+Note:
+1. Attempt all Sections. lf require any missing data; then choose suitably,
+SECTION A
+1,
+Attempt करquestions in brief.
+2x7=14
+a.
+A divital computer hus a common bus system for 16 registers of 32 bits each.
+The bus is construcled with Multiplexers. What size of multiplexers is needed?
+b.
+What is a .....1९memory?
+c.
+What is instruction cycle?
+.
+d.
+Discuss floating point number representation,
+€.
+Explain concept of memory transfer.
+f
+What is meant by synchronous and asynchronous communication?
+हैं...
+Describe magnetic disk?
+;
+SECTIONB
+7
+2.
+Attempt any three of the following:
+=<
+-
+Tx3=2L 0
+-
+a.
+A computer employs RAM chigs.of 256 x 8 and ROM chips of [024 x 8. ‘The
+computer system needs 2K “bytes of RAM, 4K bytes of ROM, and: four
+interface units’, each with four registers.
+A memory-mapped I/Configuration is
+used. The two highest-order bits of the address bus are assigned 00-for RAM,
+01 for ROM, 10 forinterface registers.
+mo
+(i) How many RAM and ROM chips are necded?
+(1) Draw a memory-address map for the system.
+a.
+(11 Give the address range in hexadecimal for RAM;ROM, and interface.
+b.
+Describe the following organizations of cache memory:
+०
+(i). Associative mapping (ii). Direct Mapping (iit. Set associative mapping
+८,
+What आरthe advantages of assembly language? Mow is it different from high-level
+language?
+Poo
+0.
+Discuss control word with suitable examiple.
+९,
+Explain DMA transfer in detail with the.help of diageam.
+SECTION ९
+3.
+Attempt any ove part of the following:
+Tx1=7
+(a}
+ Diseuss Booth's algocithm. Multiply (-7) and (3} using Booth’s algorithm.
+(b}
+Design
+a digital circuits that perform four logic operations exclusive-OR
+exclusive-“OR, MOR and NAND. Use two selection variables. Show logic
+diagram ofcue typical stage?
+4,
+Attempt any eve part of the following:
+7x1=7
+(a)
+Discuss stack organization. Explain the following in details.
+(i} Register stack (1) Memory stack
+(b)
+What is Virtual Memory? Why is it necessary to implement virtual memory?
+What is use of page replacement algorithm?
+www.aktunotes.in",ocr,2020
+19-2020-c.pdf,2,"Printed Page 2 of2
+Sub Code: 1६६52
+5.
+Attempt any one part of the following:
+7x1l=7
+(a}
+Write a program to evaluate arithmetic expression X= (A — B) * (((C -D)/ 7) /
+G) Using a general register computer with three. two, one & zero address
+instructions.
+.
+(b)
+What are various addressing modes? Explain any five with help of suitable example.
+5.
+Attem pt any ere part of the following;
+7xi=7
+(a)
+Exptain General Register Organization with the help of suitable diagram.
+(b)
+«What is interrupt? What are the different types of interrupts?
+7,
+Attempt any ee pari of the following:
+7Txl=7
+(8).
+Explain 'wo ways fur establishing prtority ofinterrupt by multiple devices.
+(b}
+«Write short notes ofthe followings
+:
+1...
+Isoleted Vs meniory mapped 1/0
+WT.
+-RISC architecture
+https://www.aktuonline.com
+Whatsapp @ 9300930012
+Send your old paper & get 10/-
+अपने
+पुराने
+पैपर्सभेजेऔर10 रुपये
+पायें,
+Paytm or Google Pay से
+www.aktunotes.in",ocr,2020
+20-2020-b.pdf,1,"Printed Page 1 of2
+Sub Code:KCS302
+Paper Id: | 110322 ||
+RolNo:[ |
+[| [| | | | | | [1 [ [1 ]
+|
+]
+।
+|
+|
+|
+|
+|
+B, TECH.
+(भरना) THEORY EXAMINATION 2019-20
+COMPUTER ORGANIZATION AND ARCHITECTURE
+Time: 3 Hours
+Total Marks: 100
+Note:
+1. Attempt all Sections. Ifrequire any missing data; then choose suitably.
+SECTION A
+1.
+Attempt ail questions in brief.
+2x 10=20
+=
+0
+[8..__| Define the term Computer Architecture.
+}b. | Draw the basic functional units ofa computer.
+| Perform the 2’s complement subtraction ofsmaller number (101011) from
+larger number
+(111001).
+;
+|d. | What is the role ofMultiplexer and Decoder?
+le. | Write the differences between RISC and CISC.
+What are the types ofmicroinstructions available?
+>,(q
+|8..___| What is SRAM and DRAM?
+\
+14|. ५
+[1..._| What is the difference between 2D and 2-1) mesfgty
+organization?
+4 ३My
+jc Whats10 control method?
+पीपर
+ही,
+10४०B
+6
+2.
+Attempt any three of the follaytyg:
+a
+al
+Convert the onyApitfimetic expressions from infix to mes
+s&
+polish | 5+5
+notation:
+AN
+ay
+1.
+A*B+C*D+E*F
+ay
+ii,
+_A*(B+C*CD+E/F*(G+H
+AW)
+aa Design a 4-bit Carry-Look ahead Adder and expl
+9 “operation with an
+example.
+~
+|
+i.
+Draw the timing diagram for a instructiog
+¢ygle and explain.
+ii, __Give a note on subroutine.
+a
+fe | What do you mean by virtual memory]
+Discuss how paging helps in
+4
+implementing
+virtual memory.
+¢
+४“) Raw!
+pe What is DMA? Describe how DMA/i8\fséd
+to transfer data from
+peripherals.
+VS
+Yy
+SECTION C
+3.
+Attempt any one part of the following:
+[Qn
+Question
+Marks | 2
+ie)
+|a. | Describe in detail the different kinds of addressing modes with an example.
+1|
+Discuss stack Organization. Explain the following in details-
+1
+(0)
+Register stack
+ii
+Memory
+stack
+cnet onennne
+nme
+tigatenit
+inne
+nanan inten santaatin nea 173६६
+MANISH KUMAR JHA | 10-Dec-2019 09:02:23 | 117.55.242.131",ocr,2020
+20-2020-b.pdf,2,"Printed Page 2 of 2
+Sub Code:KCS302
+4.
+Attempt any one part of the following:
+=
+=
+O
+Represent the following decimal number in IEEE standard floating-point
+5+5
+2
+format in a single precision method (32-bit) representation method.
+i.
+(65.175)i0
+ii.
+-307.1875)i0
+;
+Using Booth algorithm perform the multiplication on the following 6-bit | 10
+2
+unsigned integer 10110011 * 11010101
+5.
+Attempt any one part of the following:
+Qno. ust
+CcO
+[8.
+| What is parallelism and pipelining in computer Architecture?
+3
+|b.| Explain the organization of Microprogrammed control unit in detail.
+10 |
+™
+6.
+Attempt any one part of the following:
+ws °
+?
+Discuss the different mapping techniques*wused in cache memories and their}
+10
+| p4”
+relative merits and demerits.
+an
+ti
+b.
+RAM chip 4096 x 8 bits has two enable-lines. How many pins are needed for |.545, ° | 4
+the integrated circuits package? Draw a block diagram and label all input and
+3”
+outputs of the RAM. What is main feature of random-access memory?
+ade
+7.
+Attempt any one partof the following:
+~
+| 20.
+ma
+Question
+rm
+Marks | C
+oa Write down the difference between isolated I/O and memory, mapped 1/O. Also |? |
+discuss advantages and disadvantages of isolated I/O and
+tremory
+mapped I/O.
+“5
+| |
+i.
+Discuss the design of a typical input or output interface.
+5
+ii.
+__What are interrupts? How are the handled?""
+2|Page
+MANISH KUMAR JHA
+| 10-Dec-2019 09:02:23
+| 117.55.242.131",ocr,2020
+21-2020-a.pdf,1,"Printed Page 1 of 2
+Sub Code: REC052
+B.TECH
+(SEM V) THEORY EXAMINATION 2019-20
+COMPUTER ARCHITECTURE AND ORGANIZATION
+Time: 3 Hours
+Total Marks: 70
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt a// questions in brief.
+2x7=14
+a.
+A digital computer has a common bus system for 16 registers of 32 bits each.
+The bus is constructed with Multiplexers. What size of multiplexers is needed?
+b.
+What is a.) he memory?
+९.
+What is instruction cycle?
+d.
+Discuss floating point number representation.
+_.
+€.
+Explain concept of memory transfer.
+है
+f.
+What is meant by synchronous and asynchronous communication?
+g.
+Describe magnetic disk?
+है
+SECTIONB
+>
+रा
+2.
+Attempt any three of the following:
+7x3=21
+-
+a.
+A computer employs RAM chips:of 256 x 8 and ROM chips of 1024 x 8. The
+computer system needs 2K ‘bytes of RAM, 4K bytes of ROM, and. four
+interface units’, each with four registers.
+A memory-mapped 1/Configuration is
+used. The two highest-order bits of the address bus are assigned 00-for RAM,
+01 for ROM, 10 for intertace registers.
+a
+‘
+(i) How many RAM ard ROM chips are needed?
+an
+(ii) Draw a memory-address map for the system.
+“af
+(iii) Give the address range in hexadecimal for RAM;-ROM, and interface.
+b.
+Describe the following organizations of cache memory+.” >”
+(i). Associative mapping (1), Direct Mapping (iii). Set associative mapping
+-
+८९.
+What are the advantages of assembly language? How is it different from high-level
+language?
+ae
+d.
+Discuss contro! word with suitable example.
+e.
+Explain DMA transfer in detail with the help of diagram.
+SECTION C
+3.
+Attempt any one part of the following:
+Tx1l=7
+(a}
+Discuss Booth’s algocithm. Multiply (-7) and (3) using Booth’s algorithm.
+(b)
+Design a digital
+‘circuits that perform four
+logic operations exclusive-OR
+exclusive-NOR, NOR and NAND. Use two selection variables. Show logic
+diagram ofone typical stage?
+4,
+Attempt any one part of the following:
+75157
+(a)
+Discuss stack organization. Explain the following in details.
+है
+(i) Register stack (ii) Memory stack
+(b)
+What is Virtual Memory? Why is it necessary to implement virtual memory?
+What is use of page replacement algorithm?",ocr,2020
+21-2020-a.pdf,2,"Printed Page 2 of 2
+Sub Code: REC052
+5.
+Attempt any one part of the following:
+Tx1=7
+(a)
+Write a program to evaluate arithmetic expression X= (A - B) * (((C -D)/ F)/
+.
+G) Using a general register computer with three, two, one & zero address
+instructions.
+ः
+(0)...
+What are various addressing modes? Explain any five with help of suitable example.
+:
+6.
+Attempt any one part of the following:
+7517
+(a)
+Explain General Register Organization with the help of suitable diagram.
+(b)
+What is interrupt? What are the different types of interrupts?
+7.
+Attempt any one pari of the following:
+7Tx1=7
+(a)
+Explain two ways tor establishing priority of interrupt by multiple devices.
+(b)
+Write short notes of the followings
+:
+1...
+{solated Vs memory mapped 1/O
+Il.
+—-RISC architecture
+~
+4",ocr,2020
+22-2020-2.pdf,1,"Printed Page 1 of 2 
+Sub Code: RCS302  
+Paper Id: 
+110302 
+Roll No: 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 
+1 | P a g e  
+ 
+B. TECH. 
+(SEM III) THEORY EXAMINATION 2019-20 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.   Define Speedup Performance Laws. 
+b.   Differentiate Linear and Nonlinear Pipeline Processors. 
+c.   Differentiate interrupts and exceptions. 
+d.   Show  the  bit  configuration  of  16  bit  register  when  its  contents  represent  the 
+decimal equivalent of 250 in BCD. 
+e.   Define the role of MIMD in computer architecture. 
+f.   Define horizontal and vertical microprogramming. 
+g.   What do you understand by locality of reference? 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.   Explain IEEE standard for floating point representation with example. 
+b.   What  is  associative  memory?  Explain  with  the  help  of  a  block  diagram.  In 
+addition,  mention  the  situation  in  which  associative  memory  can  be  effective 
+utilized. 
+c.   What  do  you  mean  by  processor  organization?  Explain  various  types  of 
+processor organization. 
+d.   What do you mean by high-speed adder? Discuss design of higher speed adders 
+using block diagram. 
+e.   Explain  the  different  between  vectored  and  non-vectored  interrupt.  Explain 
+using example of each. 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Represent (−456.1234)ଵ଴in single precision and double precision format. 
+(b) 
+Explain  the  bus  architecture  with  its  types.  Also,  discuss  the  I/O  bus 
+architecture with block diagram. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+ 
+ 
+ 
+(b) 
+Register  A  holds  the  8-bit  binary  1111111.  Determine  the  B  operand  and  the 
+logic micro operation to be performed in order to change the value in A to 
+i. 
+01101111 
+ii. 
+11111100 
+Differentiate  between  Synchronous  &  asynchronous  communication  taking  a 
+suitable example. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Write a program to evaluate the arithmetic statement  
+𝑋= ൫𝐴−𝐵+ 𝐶× (𝐷× 𝐸−𝐹)൯(𝐺+ 𝐻× 𝐾)
+⁄
+ 
+i. 
+Using a general register computer with three address instructions. 
+ii. 
+Using an accumulator type computer with one address instruction. 
+http://www.aktunotes.in
+www.aktunotes.in",pymupdf,2020
+22-2020-2.pdf,2,"Printed Page 2 of 2 
+Sub Code: RCS302  
+Paper Id: 
+110302 
+Roll No: 0 0 0 0 0 0 0 0 0 0 0 0 0 
+ 
+2 | P a g e  
+ 
+(b) 
+Discuss  Cache  memories.  What  are  the  design  issues?  How  performance  is 
+improved using the cache memories?  
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+A bit computer has 16-bit address bus. The first 15 lines of the address are used 
+to select a bank of 32KB of memory. The higher order bit of the address is used 
+to select a register, which receives the contents  of the data bus.  Explain How 
+this configuration can be used to extend the memory capacity of the system to 
+eight banks of 32KB each, for a total of 256 bytes of memory. 
+(b) 
+List and explain the Modes of Data Transfer using block diagram. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Show  the  systematic  multiplication  process  of 
+(20) × (−19)using  Booth’s 
+Algorithm. 
+(b) 
+Explain and classify the Architectural Classification Schemes and differentiate 
+between them. 
+ 
+http://www.aktunotes.in
+www.aktunotes.in",pymupdf,2020
+23-2019-a.pdf,1,"_—
+Printed pages: 02
+Sub Co.
+RCS302
+veperta: (व[67310]
+rose.
+CDP TTTT ETT
+BTECH
+(SEM II) THEORY EXAMINATION 2018-19
+COMPUTER ORGANIZATION AND ARCHITECTURE
++
+Time: 3 Hours
+Total Marks: 70
+Note:
+1.
+Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt all questions in brief.
+2x7=14
+a.
+What do you understand by Locality of Reference?
+b.
+Which of the following architecture is/are not suitable for realizing SIMD?
+c.
+What is the difference between RAM and DRAM?
+d.
+What are the difference between Horizontal and vertical micro codes?
+.
+e.
+Describe cycle stealing in DMA.
+f£
+List three types of contro} signals.
+g.
+Define the role ofMIMD in computer architecture.
+SECTION B..
+os
+Say
+~,
+2.
+Attempt any three of the following:
+ae
+7x3=21
+a.
+Evaluate the arithmetic statement X ~(A*B)*(C+D) using a general register cofniputer
+with three address, two address wid one address instruction format a piogram to
+evaluate the expression
+>, a,
+fw
+b. Perform the division process-of 00001111 by 001 1(use a dividend of8 bits).
+c. A two way set associative cathememory uses blocks of 4 words. The cache can
+accommodate a total £2048 words from memory. The main memory size is
+128K X 32
+we
+के
+i.
+Formulate all pertinent information required to construct the cache memory.
+ii,
+| What is the size of cache memory?
+wt
+d.
+What is associative memory? Explain with the help efa‘biock diagram. Also mention
+the situation in which associative memory can be €fféctive utilized.
+e. A Computer uses a memory unit with 256K wordsof 32 bits each. A binary
+instruction code is stored in oné word ofmeniory:""The instruction has four parts: an
+indirect bit, an operation code, a register code part to specify one of64 registers and
+an address part
+¥
+(i) How many bits are there in the operation code, the register code part and the address
+part?
+३
+(ii) Draw the instruction word farmat and indicate the number of bits in each part.
+(iii) How many bits are there inthe data and address inputs of the memory?",ocr,2019
+23-2019-a.pdf,2,"a
+SECTION C
+3.
+Attempt any one part of the following:
+7x1=10
+(a)
+Write short notes on:
+(i) Instruction pipeline.
+(ii) DMA based data transfer.
+*
+(b)
+Explain the difference between vectored and non-vectored interrupt. Explain
+stating examples of each.
+4.
+Attempt any one part of the following:
+7x1=10
+(a)
+Draw the flow chart of Booth’s Algorithm for multiplication and show the
+multiplication process using Booth’s Algorithm for (-7) X (+3).
+(b)
+Write short notes on:
+(i)
+Amdahl's Law
+01).
+Pipelining
+5.
+Attempt any one part of the following:
+7x1=10
+(a)
+What is a microprogram sequencer? With block diagram, explain the working
+of microprogram sequencer.
+(b)
+Draw a flowchart for adding and subtracting two fixed point binary numbers
+where negative numbers are signed |°s complement presentation.
+6.
+Attempt any one part of the following:
+a
+7x1=10
+(a)
+Give the block diagram ofDMA controtlet: Why are the read and write
+wae
+control lines in a DMA controller bidiréctional?
+i ve
+(b)
+Explain all the phases of instruction oyele.
+»
+7.
+Attempt any one part of the followings.” ~
+751 =40°
+(a)
+Explain the basic concept of Hardwired and Software control unit with neat
+७) [oP asa | 3 [4 [5]
+आओ
+kX
+53
+ofS
+|
+Xx.
+sae
+_
+=
+Po x[पा|
+For the following Reservation table:
+Hated
+i
+Calculate the set of the forbidden lateri¢ies and collision vector.
+it
+Draw a state diagram, showing allpossible initial sequences (cycles)
+without a collision in the pipeline:
+iii,
+Simple cycles (SC)
+Se
+iv.
+Greedy cycles among simple the cycles
+v.
+MAL (minimum average latency)
+vi.
+What is the minimum allowed constant cycles
+vii
+| Maxi, Throughpiit
+हि
+viii.
+| Throughput if the minimum constant cycle is used.",ocr,2019
+24-2019-2.pdf,1,"Printed pages:   02
+ 
+ 
+ 
+ 
+ 
+          Sub Code: RCS302 
+Paper Id:
+ 
+ 
+Roll No. 
+               BTECH  
+(SEM III) THEORY EXAMINATION 2018-19 
+COMPUTER ORGANIZATION AND ARCHITECTURE 
+Time: 3 Hours 
+ 
+             
+ 
+ 
+ 
+            Total Marks: 70 
+Note:  1. 
+Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x7 = 14 
+a. What  do you understand by Locality of Reference? 
+b. Which of the following architecture is/are not suitable for realizing SIMD? 
+c. What is the difference between RAM and DRAM? 
+d. What are the difference between Horizontal and vertical micro codes? . 
+e. Describe cycle stealing in DMA. 
+f. List three types of control signals.                           
+g. Define the role of MIMD in computer architecture. 
+ 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a. Evaluate the arithmetic statement X = (A+B)*(C+D) using a general register computer 
+with three address, two address and one address instruction format a program to 
+evaluate the expression . 
+b. Perform the division process of 00001111 by 0011(use a dividend of 8 bits). 
+c. A two way set associative cache memory uses blocks of 4 words. The cache can 
+      accommodate a total of 2048 words from memory. The main memory size is  
+     128K X 32. 
+i. 
+Formulate all pertinent information required to construct the cache memory. 
+ii. 
+What is the size of cache memory?                          
+d. What is associative memory? Explain with the help of a block diagram. Also mention 
+the situation in which associative memory can be effective utilized. 
+e. A Computer uses a memory unit with 256K words of 32 bits each. A binary 
+     instruction code is stored in one word of memory. The instruction has four parts: an 
+           indirect bit, an operation code, a register code part to specify one of 64 registers and 
+           an address part. 
+          (i) How many bits are there in the operation code, the register code part and the address    
+               part? 
+          (ii) Draw the instruction word format and indicate the number of bits in each part. 
+          (iii) How many bits are there in the data and address inputs of the memory? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 1 0 3 0 2",pymupdf,2019
+24-2019-2.pdf,2,"SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+                                    7 x 1 = 10 
+(a) 
+Write short notes on : 
+(i) Instruction pipeline. 
+(ii) DMA based data transfer. 
+(b) 
+Explain the difference between vectored and non-vectored interrupt. Explain 
+stating examples of each. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+                                   7x 1 = 10 
+(a) 
+Draw the flow chart of Booth’s Algorithm for multiplication and show the 
+multiplication process using Booth’s Algorithm for (-7) X (+3). 
+(b) 
+Write short notes on: 
+(i) 
+Amdahl’s Law  
+(ii) 
+Pipelining   
+5. 
+Attempt any one part of the following: 
+ 
+                                   7 x 1 = 10 
+(a) 
+What is a microprogram sequencer? With block diagram, explain the working 
+of microprogram sequencer. 
+(b) 
+Draw a flowchart for adding and subtracting two fixed point binary numbers 
+where negative numbers are signed 1’s complement presentation. 
+6. 
+Attempt any one part of the following: 
+ 
+                                    7 x 1 = 10 
+(a) 
+Give the block diagram of DMA controller. Why are the read and write 
+control lines in a DMA controller bidirectional? 
+(b) 
+Explain all the phases of instruction cycle. 
+7. 
+Attempt any one part of the following: 
+ 
+                                   7 x 1  = 10 
+(a) 
+Explain the basic concept of Hardwired and Software control unit with neat 
+diagrams. 
+ 
+(b) 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+S1 
+X 
+ 
+ 
+ 
+ 
+X 
+S2 
+ 
+X 
+ 
+ 
+X 
+ 
+S3 
+ 
+ 
+X 
+ 
+ 
+ 
+S4 
+ 
+ 
+ 
+X 
+ 
+ 
+S5 
+ 
+X 
+ 
+ 
+ 
+X 
+ 
+                For the following Reservation table: 
+i. 
+Calculate the set of the forbidden latencies and collision vector. 
+ii. 
+Draw a state diagram, showing all possible initial sequences (cycles) 
+without a collision in the pipeline. 
+iii. 
+Simple cycles (SC) 
+iv. 
+Greedy cycles among simple the cycles 
+v. 
+MAL (minimum average latency) 
+vi. 
+What is the minimum allowed constant cycles 
+vii. 
+Maxi. Throughput  
+viii. 
+Throughput if the minimum constant cycle is used.",pymupdf,2019
+25-2018-c.pdf,1,"Printed pages:  02 
+Sub Code: NEC 012 
+Paper Id: 
+131626 
+Roll No:
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B TECH 
+(SEM IV) THEORY EXAMINATION 2017-18 
+COMPUTER ARHITECTURE AND ORGANIZATION 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+  
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+a) Discuss the advantages and disadvantages of PLD's. 
+b) Explain the Design Methodology and the Design Process. 
+c) What are Combinational Array Multipliers? 
+d)  What do you understand by the data path and data path design? 
+e)  Explain Micro-operation & Microinstruction. 
+f)  What do you mean by fixed point arithmetic? 
+g) Discuss the basic concepts of Control Design. 
+h) Describe a CPU control unit. 
+i) Describe the various Communication methods. 
+j) Define VHDL. State the features and applications of VHDL. 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a)  Design a Register level 4-bit magnitude comparator and describe its operation.. 
+b) What are the components at processor design level in a computer system? Discuss 
+various design issues at processor level. 
+c) What do you mean by the structure and behavior of a system? Give the behavioral 
+VHDL description .of half adder. 
+d)  Define a micro-program sequencer. Draw the micro programmed CPU employing a 
+micro-program sequencer. Write a short note on multiplier control unit 
+e) Differentiate between Address translation and Memory allocation in relation to 
+memory organization. Also describe the multiplier control unit. 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) Design a 4-bit stream serial adder. Draw and explain the block diagram with truth 
+table. 
+(b) Explain the Register level design. Describe the major component types at the register 
+level. Describe any register level component in detail. 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) Differentiate between RISC and CISC based microprocessors. Describe the RISC 
+based instruction format. 
+(b) Give the overview of CPU beha
+chart. Also draw the block diagram 
+for processor memory communi
+ithout cache. 
+ 
+http
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+25-2018-c.pdf,2,"5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) Explain how Booth's algorithm is suitable for signed number multiplication. Perform 
+the multiplication of following using Booth algorithm (–4 x – 5). 
+(b) Write a program to evaluate the arithmetic statement X = (A+B) x (C x D). Use an 
+accumulator type computer with one address' instruction. 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a)  Explain the different types of pipelining. Also write a short note on performance and 
+hazards of pipelining. 
+(b) Differentiate between hardwired control & Micro programmed control. Explain each 
+method in detail.  
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a) Explain the Memory organization. Describe the Multi level memories. 
+(b) Discuss the various types of address mapping used in cache memory. Give a 
+comparison of the structure Vs performance. 
+ 
+ 
+http
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+26-2018-a.pdf,1,"Printed pages:  02 
+ 
+ 
+ 
+ 
+ 
+Sub Code: RCS 302 
+Paper Id:
+ 
+                                   Roll No. 
+B.Tech. 
+(SEM III) THEORY EXAMINATION 2017-18 
+COMPUTER ORGANIZATION & ARCHITECTURE 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.  
+Draw the circuit diagram of D Flip Flop. 
+b.  
+Write the difference between RAM & ROM. 
+c.  
+Write short note on pipelining process. 
+d.  
+Write the difference between serial & parallel communication. 
+e.  
+Perform the following operation on signed numbers using 2’s compliment 
+method: (56)10 + (-27)10 
+f.  
+Write speed up performance laws. 
+g.  
+Differentiate between Horizontal & Vertical microprogramming. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.  
+What is programmable logic device? List various techniques to program PLD. 
+Explain any one technique with example. 
+b.  
+(i) 
+Draw the block diagram for a small Accumulator based CPU 
+(ii) 
+How floating point numbers are represented in computer, also give 
+IEEE 754 standard 32-bit floating point number format. 
+c.  
+Draw the data path of sequential n bit binary divider. Give the non restoring 
+division algorithm for unsigned integers. Also illustrate algorithm for unsigned 
+integer with a suitable example. 
+d.  
+What is micro programmed control unit? Give the basic structure of micro 
+programmed control unit. Also discuss the microinstruction format and the 
+control unit organization for a typical micro programmed controllers using 
+suitable diagram. 
+e.  
+What do you mean by locality of reference? Explain with suitable example. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Differentiate between RISC & CISC based microprocessor. 
+(b) 
+Explain Booths multiplication algorithm in detail. 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Draw the Data path of 2’s compliment multiplier. Give the Robertson 
+multiplication algorithm for 2’s compliment fractions. Also illustrate the 
+algorithm for 2’s compliment fraction by a suitable example. 
+(b) 
+Describe Sequential Arithmetic & Logic unit (ALU) using proper diagram  
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+ Give the structure of commercial 8MX 8 bit DRAM chip. 
+(b) 
+Explain the working of DMA controller with help of suitable diagrams. 
+1 0 0
+3",pymupdf,2018
+26-2018-a.pdf,2,"6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+What is hardwired control? List various design methods for hardwired control. 
+Discuss in detail using diagram any one of the method for designing GCD 
+processor. 
+(b) 
+How pipeline performance can be measured? Discuss. Give a space time 
+diagram for visualizing the pipeline behavior for a four stage pipeline. 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Discuss the various types of address mapping used in cache memory. 
+(b) 
+A moving arm disc storage device has the following specifications: 
+Number of Tracks per recording surface               200 
+Disc rotation speed                                                2400 revolution/minute 
+Track-storage capacity                                           62500 bits 
+Estimate the average latency and data transfer rate of this device.",pymupdf,2018
+27-2018-2.pdf,1,"Printed pages:  02 
+ 
+ 
+ 
+ 
+ 
+Sub Code: RCS 302 
+Paper Id:
+ 
+                                   Roll No. 
+B.Tech. 
+(SEM III) THEORY EXAMINATION 2017-18 
+COMPUTER ORGANIZATION & ARCHITECTURE 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.  
+Draw the circuit diagram of D Flip Flop. 
+b.  
+Write the difference between RAM & ROM. 
+c.  
+Write short note on pipelining process. 
+d.  
+Write the difference between serial & parallel communication. 
+e.  
+Perform the following operation on signed numbers using 2’s compliment 
+method: (56)10 + (-27)10 
+f.  
+Write speed up performance laws. 
+g.  
+Differentiate between Horizontal & Vertical microprogramming. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.  
+What is programmable logic device? List various techniques to program PLD. 
+Explain any one technique with example. 
+b.  
+(i) 
+Draw the block diagram for a small Accumulator based CPU 
+(ii) 
+How floating point numbers are represented in computer, also give 
+IEEE 754 standard 32-bit floating point number format. 
+c.  
+Draw the data path of sequential n bit binary divider. Give the non restoring 
+division algorithm for unsigned integers. Also illustrate algorithm for unsigned 
+integer with a suitable example. 
+d.  
+What is micro programmed control unit? Give the basic structure of micro 
+programmed control unit. Also discuss the microinstruction format and the 
+control unit organization for a typical micro programmed controllers using 
+suitable diagram. 
+e.  
+What do you mean by locality of reference? Explain with suitable example. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Differentiate between RISC & CISC based microprocessor. 
+(b) 
+Explain Booths multiplication algorithm in detail. 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Draw the Data path of 2’s compliment multiplier. Give the Robertson 
+multiplication algorithm for 2’s compliment fractions. Also illustrate the 
+algorithm for 2’s compliment fraction by a suitable example. 
+(b) 
+Describe Sequential Arithmetic & Logic unit (ALU) using proper diagram  
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+ Give the structure of commercial 8MX 8 bit DRAM chip. 
+(b) 
+Explain the working of DMA controller with help of suitable diagrams. 
+1 0 0
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+27-2018-2.pdf,2,"6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+What is hardwired control? List various design methods for hardwired control. 
+Discuss in detail using diagram any one of the method for designing GCD 
+processor. 
+(b) 
+How pipeline performance can be measured? Discuss. Give a space time 
+diagram for visualizing the pipeline behavior for a four stage pipeline. 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Discuss the various types of address mapping used in cache memory. 
+(b) 
+A moving arm disc storage device has the following specifications: 
+Number of Tracks per recording surface               200 
+Disc rotation speed                                                2400 revolution/minute 
+Track-storage capacity                                           62500 bits 
+Estimate the average latency and data transfer rate of this device. 
+ 
+ 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+28-2017.pdf,1,"Printed Pages : 1 
+Roll No. 
+ 
+NEC012 
+B. TECH. 
+THEORY EXAMINATION (SEM–VI) 2016-17 
+COMPUTER ARCHITECTURE & ORGANIZATION 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. In case of numerical problem assume data wherever not provided. 
+SECTION-A 
+1. 
+Explain the following:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(10×2=20) 
+a) 
+Memory 
+b) 
+Flash Memory 
+c) 
+IEEE 
+d) 
+Design Methodology 
+e) 
+Normalization and Biasing 
+f) 
+Fixed point arithmetic 
+g) 
+Microcode & Microinstruction  
+h) 
+Horizontal and Vertical micro-
+instructions 
+i) 
+Processor-Memory 
+Communication. 
+j) 
+PLDs 
+ 
+SECTION-B 
+2. 
+Attempt any five of the following:   
+ 
+ 
+ 
+ 
+ 
+(10×5=50) 
+a) 
+What do you mean by pipelining? Explain instruction pipelining with the help of 
+example. 
+b) 
+What is Cache Memory? How is it implemented? A twoway set associated 'cache 
+memory uses blocks of fourwords. The cache can accommodate a total of2048 
+wordsfrom main memory. The main memory size is l28K x32. 
+i) 
+Formulate all pertinent information requiredto construct the cache memory. 
+ii) 
+What is the size of cache memory? 
+c) 
+What are Combinational Array Multipliers? Illustrate the Booth multiplication 
+Algorithm. 
+d) 
+Discuss about advantages and disadvantages of PLD’s. Design a 4-bit register with 
+parallel I/O and 4-bit register with parallel load. 
+e) 
+Explain with block diagram of Error Detection and Correction Logic with suitable 
+example. 
+f) 
+What are high speed adders? Design a Carry Look ahead adder. 
+g) 
+Draw a structure of an 8M X 8 bit DRAM chip. Explain its specifications. 
+h) 
+Explain VHDL. What is device modeling? What is complier and simulator? Explain 
+structural modeling with an example. 
+ 
+SECTION-C 
+Attempt any two of the following:   
+ 
+ 
+ 
+ 
+ 
+(15×2=30) 
+3. 
+Draw and explain typical micro programmed controller. What is program control unit? Design 
+a state transition graph for the accumulator based CPU with an example. 
+4. 
+Give the block diagram of micro program sequencer for a control memory and explain it 
+properly. What do you understand by term Superscalar? Explain the concept of superscalar 
+processing. 
+5. 
+Explain how Booth's algorithm is suitable for signed number multiplication. Perform the 
+multiplication of followingusing Booth algorithm - 4 X- 5. Explain the floating point 
+multiplication with the help offlowchart.",pymupdf,2017
+29-2017-b.pdf,1,"Printed Pages : 2 
+Roll No. 
+ 
+EEC402 
+B.TECH. 
+THEORY EXAMINATION (SEM–IV) 2016-17 
+COMPUTER ARCHITECTURE & ORGANIZATION 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. 
+SECTION – A  
+1 
+Answer all the questions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    10x2=20 
+a) 
+Explain shortly the different performance measures used to represent a computer 
+system’s performance. 
+b) 
+Design a full adder using half adder. 
+c) 
+Give the IEEE T54standard 32-bitfloating pointing number format. 
+d) 
+Define effective address of data. 
+e) 
+Define Normalization and Biasing. 
+f) 
+Write down the difference between structure and behaviour in the digital system 
+context. 
+g) 
+What are the characteristics of vertical micro instructions? 
+h) 
+""Hardwired control unit is faster than micro programmed control unit."" Justify this 
+statement. 
+i) 
+What do you understand by design levels in. the design of computer system? 
+j) 
+What is multiprogramming and pipelining? 
+ 
+SECTION-B 
+2 
+Answer any five questions of the following.  
+ 
+ 
+ 
+ 
+    5x10=50 
+a) 
+Describe the design of a 4-bit carry look ahead adder. 
+b) 
+Explain the Daisy chaining mechanism for bus arbitration. Analyze the three bus 
+arbitration methods-Daisy chaining, polling and independent requesting with respect to 
+communication reliability in the event of hardware failures. 
+c) 
+What is addressing mode?  Explain the various types of addressing modes with 
+example. 
+d) 
+Give the block diagram of microprogram sequencer for a control memory and explain it 
+properly. 
+e) 
+Design a data path unit with an ALU and a register file. 
+f) 
+Draw a structure of an 8M x 8 bit DRAM chip. Also explain its specification. 
+g) 
+Explain the organization of four stage pipeline. 
+h) 
+Explain the difference between hardwired control and micro-programmed control. Is it 
+possible to have a hardwired control associated with a control memory? Also define  
+the following terms : 
+i) 
+Microoperaion 
+ii) 
+Microinstruction 
+iii) 
+Microcode 
+iv) 
+Microprogram. 
+ 
+SECTION-C 
+Answer any two questions of the following.  
+ 
+ 
+ 
+ 
+    2x15=30 
+3. 
+Explain how Booth's algorithm is suitable for signed number multiplication. Perform the 
+multiplication of the following using Booth algorithm - 4 x - 5.",pymupdf,2017
+29-2017-b.pdf,2,"4. 
+Draw the functional block diagram of 8085 microprocessor and explain it in detail. 
+5. 
+Write short notes on any three 
+i) 
+Cache memory 
+ii) 
+Fixed point arithmetic 
+iii) 
+Vertical and horizontal microprogram 
+iv) 
+RISC and GISC",pymupdf,2017
+30-2017-a.pdf,1,"Printed Pages : 2 
+Roll No. 
+ 
+EC403MTU 
+B.TECH. 
+THEORY EXAMINATION (SEM–IV) 2016-17 
+COMPUTER ARCHITECTURE & ORGANIZATION 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. 
+SECTION – A  
+1 
+Answer all the questions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    10x2=20 
+a) 
+Explain shortly the different performance measures used to represent a computer 
+system’s performance. 
+b) 
+Design a full adder using half adder. 
+c) 
+Give the IEEE T54standard 32-bitfloating pointing number format. 
+d) 
+Define effective address of data. 
+e) 
+Define Normalization and Biasing. 
+f) 
+Write down the difference between structure and behaviour in the digital system 
+context. 
+g) 
+What are the characteristics of vertical micro instructions? 
+h) 
+""Hardwired control unit is faster than micro programmed control unit."" Justify this 
+statement. 
+i) 
+What do you understand by design levels in. the design of computer system? 
+j) 
+What is multiprogramming and pipelining? 
+ 
+SECTION-B 
+2 
+Answer any five questions of the following.  
+ 
+ 
+ 
+ 
+    5x10=50 
+a) 
+Describe the design of a 4-bit carry look ahead adder. 
+b) 
+Explain the Daisy chaining mechanism for bus arbitration. Analyze the three bus 
+arbitration methods-Daisy chaining, polling and independent requesting with respect to 
+communication reliability in the event of hardware failures. 
+c) 
+What is addressing mode?  Explain the various types of addressing modes with 
+example. 
+d) 
+Give the block diagram of microprogram sequencer for a control memory and explain it 
+properly. 
+e) 
+Design a data path unit with an ALU and a register file. 
+f) 
+Draw a structure of an 8M x 8 bit DRAM chip. Also explain its specification. 
+g) 
+Explain the organization of four stage pipeline. 
+h) 
+Explain the difference between hardwired control and micro-programmed control. Is it 
+possible to have a hardwired control associated with a control memory? Also define  
+the following terms : 
+i) 
+Microoperaion 
+ii) 
+Microinstruction 
+iii) 
+Microcode 
+iv) 
+Microprogram. 
+ 
+SECTION-C 
+Answer any two questions of the following.  
+ 
+ 
+ 
+ 
+    2x15=30 
+3. 
+Explain how Booth's algorithm is suitable for signed number multiplication. Perform the 
+multiplication of the following using Booth algorithm - 4 x - 5.",pymupdf,2017
+30-2017-a.pdf,2,"4. 
+Draw the functional block diagram of 8085 microprocessor and explain it in detail. 
+5. 
+Write short notes on any three 
+i) 
+Cache memory 
+ii) 
+Fixed point arithmetic 
+iii) 
+Vertical and horizontal microprogram 
+iv) 
+RISC and GISC",pymupdf,2017

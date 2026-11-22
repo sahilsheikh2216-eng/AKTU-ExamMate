@@ -1,0 +1,3629 @@
+[
+  {
+    "question_number": "a",
+    "original_question": "What is global perspective of cybercrime? साइबर अपराध का वैिʷक ̊ िʼकोण Ɛा है?",
+    "english_question": "What is global perspective of cybercrime",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Define Cyber Forensics. साइबर फॉरŐिसƛ को पįरभािषत कीिजए",
+    "english_question": "Define Cyber Forensics. साइबर फॉरŐिसƛ को पįरभािषत कीिजए",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Differentiate between mobile device proliferation and mobility trends. मोबाइल िडवाइस Ůसार (Proliferation) और मोिबिलटी टŌŐड्स मŐ अंतर बताइए",
+    "english_question": "Differentiate between mobile device proliferation and mobility trends. Proliferation)",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What is a phishing attack in mobile phones? मोबाइल फोन मŐ िफ़िशंग अटैक Ɛा होता है?",
+    "english_question": "What is a phishing attack in mobile phones",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What is a backdoor in cyber security? साइबर सुरƗा मŐ बैकडोर Ɛा होता है?",
+    "english_question": "What is a backdoor in cyber security",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Why is digital evidence easily alterable? िडिजटल साƙ आसानी से पįरवितŊत Ɛों हो सकता है?",
+    "english_question": "Why is digital evidence easily alterable",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "Explain how cyber laws in India deal with data breaches and cyber frauds. भारत मŐ साइबर कानून डेटा Űीच और साइबर धोखाधड़ी से कैसे िनपटते हœ, समझाइए Q no. Question CO",
+    "english_question": "Explain how cyber laws in India deal with data breaches and cyber frauds. Q no. Question CO",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain how attackers exploit human psychology in cyber offenses. Support your answer with examples. हमलावर साइबर अपराधों मŐ मानव मनोिवǒान का कैसे उपयोग करते हœ? उदाहरण सिहत समझाइए",
+    "english_question": "Explain how attackers exploit human psychology in cyber offenses. Support your answer with examples.",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Discuss major security challenges posed by mobile devices in modern organizations. आधुिनक संगठनों मŐ मोबाइल िडवाइस Ȫारा उȋɄ Ůमुख सुरƗा चुनौितयों पर चचाŊ कीिजए",
+    "english_question": "Discuss major security challenges posed by mobile devices in modern organizations.",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Explain the role of proxy servers and anonymizers in cyber crimes. साइबर अपराधों मŐ Ůॉƛी सवŊर और अनोिनमाइज़र की भूिमका समझाइए",
+    "english_question": "Explain the role of proxy servers and anonymizers in cyber crimes.",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Explain how digital evidence, email forensics, and network forensics collectively contribute to solving cyber crimes. | 11-May-2026 2:35:51 PM | 117.55.242.134 0Roll No: 0 CYBER SECURITY समझाइए िक िडिजटल साƙ, ई-मेल फॉरŐिसƛ और नेटवकŊ फॉरŐिसƛ िमलकर साइबर अपराधों को हल करने मŐ कैसे योगदान देते हœ",
+    "english_question": "Explain how digital evidence, email forensics, and network forensics collectively contribute to solving cyber crimes. May-2026 2:35:51 PM Roll No: 0 CYBER SECURITY",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Explain various intellectual property rights and discuss their importance in cyber space along with related legal provisions in India. िविभɄ बौİȠक संपदा अिधकारों को समझाइए तथा साइबर ˙ेस मŐ उनके महȕ के साथ भारत मŐ संबंिधत कानूनी Ůावधानों पर चचाŊ कीिजए Q no. Question CO",
+    "english_question": "Explain various intellectual property rights and discuss their importance in cyber space along with related legal provisions in India. Q no. Question CO",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Analyze the effectiveness of multi-factor authentication (MFA) in preventing cyber offenses based on social engineering. मʐी-फैƃर ऑथŐिटकेशन (MFA) सोशल इंजीिनयįरंग आधाįरत साइबर अपराधों को रोकने मŐ िकतना Ůभावी है? िवʶेषण कीिजए",
+    "english_question": "Analyze the effectiveness of multi-factor authentication (MFA) in preventing cyber offenses based on social engineering. MFA)",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Evaluate the role of ethical hacking in preventing cybercrime. How is it different from malicious hacking? एिथकल हैिकंग की भूिमका का मूʞांकन कीिजए जो साइबर अपराध को रोकने मŐ सहायक है। यह दुभाŊवनापूणŊ हैिकंग से कैसे िभɄ है? Q no. Question CO",
+    "english_question": "Evaluate the role of ethical hacking in preventing cybercrime. How is it different from malicious hacking Q no. Question CO",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Discuss various types of credit card frauds in mobile computing and explain their execution techniques. मोबाइल कंɗूिटंग मŐ िविभɄ Ůकार के Ţेिडट काडŊ धोखाधड़ी तथा उनके िन˃ादन के तरीकों पर चचाŊ कीिजए",
+    "english_question": "Discuss various types of credit card frauds in mobile computing and explain their execution techniques.",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Analyze the role of app permissions in compromising mobile security. How can misuse of permissions lead to cyber attacks? मोबाइल सुरƗा मŐ ऐप परिमशन की भूिमका का िवʶेषण कीिजए। इनके दुŜपयोग से साइबर हमले कैसे संभव होते हœ? Q no. Question CO",
+    "english_question": "Analyze the role of app permissions in compromising mobile security. How can misuse of permissions lead to cyber attacks Q no. Question CO",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain password cracking techniques. Why are weak passwords still a major security risk despite awareness? पासवडŊ Ţैिकंग तकनीकों को समझाइए। जागŝकता के बावजूद कमजोर पासवडŊ अभी भी बड़ा खतरा Ɛों हœ? | 11-May-2026 2:35:51 PM | 117.55.242.134 0Roll No: 0 CYBER SECURITY",
+    "english_question": "Explain password cracking techniques. Why are weak passwords still a major security risk despite awareness May-2026 2:35:51 PM Roll No: 0 CYBER SECURITY",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Describe the working of keyloggers and spyware. How can users detect and prevent them? कीलॉगर और ˙ायवेयर के कायŊ करने की ŮिŢया का वणŊन कीिजए उपयोगकताŊ इɎŐ कैसे पहचान और रोक सकते हœ? Q no. Question CO",
+    "english_question": "Describe the working of keyloggers and spyware. How can users detect and prevent them Q no. Question CO",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the challenges faced in computer forensics such as data encryption and data volume. कंɗूटर फॉरŐिसƛ मŐ आने वाली चुनौितयों जैसे एİ̢ Ţ̪ शन और बड़े डेटा वॉʞूम को समझाइए",
+    "english_question": "Explain the challenges faced in computer forensics such as data encryption and data volume.",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Analyze security and privacy threats in social networking sites from a forensic perspective. फॉरŐिसक ̊ िʼकोण से सोशल नेटविकō ग साइट्स मŐ सुरƗा और गोपनीयता खतरों का िवʶेषण कीिजए Q no. Question CO",
+    "english_question": "Analyze security and privacy threats in social networking sites from a forensic perspective. Q no. Question CO",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the importance of accountability, transparency and Consent in data protection frameworks. डेटा संरƗण ढांचे मŐ जवाबदेही, पारदिशŊता और सहमित के महȕ को समझाइए",
+    "english_question": "Explain the importance of accountability, transparency and Consent in data protection frameworks.",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the concept of “legal jurisdiction” in cyber law and why it is complex in online crimes. साइबर कानून मŐ “अिधकार Ɨेũ (Jurisdiction)” की अवधारणा और ऑनलाइन अपराधों मŐ इसकी जिटलता समझाइए",
+    "english_question": "Explain the concept of legal jurisdiction in cyber law and why it is complex in online crimes. Jurisdiction)",
+    "year": 2026,
+    "source_file": "01-2026.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "नोटःTHFHYPकोहलकरनेकाप्रवातकरें।यदिकोईजानकारीHUGहोतोTagan acy चुनें Attempt वाquestions in brief, no. \\* | What is global perspective ofcybercrime? |K2 साइबरअपराधकावैश्विकदृष्टिकोणक्याहै? || Define Cyber Forensics. | KI साइबरONRaeकोपरिभाषितकीजिए ह o>",
+    "english_question": "THFHYP HUG Tagan acy Attempt questions in brief, no. What is global perspective ofcybercrime K2 Define Cyber Forensics. KI ONRae o>",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "| Differentiate between mobile device proliferatiopand mobility trends. 1K2",
+    "english_question": "| Differentiate between mobile device proliferatiopand mobility trends. 1K2",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "मोबाइलडिवाइसWAR (Proliferation) औरAVaREE Sa में अंतरबताइए Wr at!",
+    "english_question": "WAR (Proliferation) AVaREE Sa Wr at",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "| What is a phishing attack in mobile phones?\\~ |Ki ॥ मोबाइलफोनमेंफ़िशिंगअटैकक्याहोताहै",
+    "english_question": "What is a phishing attack in mobile phones Ki",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "|What is a backdoor in cyber 80० ०WW Pai: साइबर सुरक्षा में बैकडोरक्याहोताBY",
+    "english_question": "|What is a backdoor in cyber 80० ०WW Pai: साइबर सुरक्षा में बैकडोरक्याहोताBY",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "f",
+    "original_question": "| Why ts digital evidence 28911 oniicabl \" | Why is digi ence easily, e? 40 - | K2 | डिजिटलसाक्ष्यआसानी से परिवर्चिल क्यों होसकताहै? !",
+    "english_question": "Why ts digital evidence 28911 oniicabl \" Why is digi ence easily, e K2",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "| Explainhow cyber laws in India deal with data breaches andal fr:",
+    "english_question": "| Explainhow cyber laws in India deal with data breaches andal fr:",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "भारतमेंसाइबरकानूनडेटाsa औरसाइबरधोखाधड़ीसेकैसे हैं, | समझाइए sm asl Attemptany three ofthe following: A: [6] Question AO) no. ~ Explain how attackers exploit humangpeythology in cyber offenses.|1.|K3 Support your answer withie ee ¢ है हमलावरसाइबरअपराधों में म",
+    "english_question": "sa sm asl Attemptany three ofthe following: A: [6] Question AO) no. Explain how attackers exploit humangpeythology in cyber offenses. K3 Support your answer withie ee",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "RNR काकैसेउपयोगकरते हैं: उदाहरणसहितसमझाइए",
+    "english_question": "RNR काकैसेउपयोगकरते हैं: उदाहरणसहितसमझाइए",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "b",
+    "original_question": "| Discuss major security challegges posed by mobile devices in modem |2 | K3 “ organizations. aN al जा संगठनों मेंमोबोइलडिवाइसद्वाराउत्पन्नप्रमुखसुरक्षाचुनौतियोंपर",
+    "english_question": "Discuss major security challegges posed by mobile devices in modem K3 organizations. aN al",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "| Explain the role of proxy servers and anonymizers in cyber crimes. | K2 “ साइबरअपराधों में प्रॉक्सीसर्वरऔरअनोनिमाइज़रकीभूमिका समझाइए Explain how digital evidence, email forensics, and network forensics collectively contribute to solving cyber crimes. NeESET TS | 11-May-2026 1:32:35 PM | 103.255.73.204 https://www.pyqonline.com PrinteaPay ~ ॥STE TET Pauper to ४2z8a706 |] Paae || TTL tii} CYBER SECURITY",
+    "english_question": "| Explain the role of proxy servers and anonymizers in cyber crimes. | K2 “ साइबरअपराधों में प्रॉक्सीसर्वरऔरअनोनिमाइज़रकीभूमिका समझाइए Explain how digital evidence, email forensics, and network forensics collectively contribute to solving cyber crimes. NeESET TS | 11-May-2026 1:32:35 PM | 103.255.73.204 https://www.pyqonline.com PrinteaPay ~ ॥STE TET Pauper to ४2z8a706 |] Paae || TTL tii} CYBER SECURITY",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "ae (7जझ्मझाइए किडिजिटलसाक्ष्य, ई-मेलफॉर्शिसिक्सऔरनेटवर्कweमिलकर|.|TO | | साइबरअपराधोंकोहलकरनेमेंकैसेयोगदानदेतेहैं onae /e. | Explain various intellectual property rights and discuss their impo ॥15 |KO | cyber space along with related legal provisions in India. |a",
+    "english_question": "ae (7 we TO onae /e. Explain various intellectual property rights and discuss their impo KO cyber space along with related legal provisions in India.",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "बौद्धिकसंपदाअधिकारों कोसमझाइएतथासाइबरस्पेसमेंउनकेमहत्व |_ केसाथभारतमेंसंबंधितकानूनीप्रावधानोंपरचर्चाकीजिए (OB t98 OT Tee \\ |] ayQS",
+    "english_question": "बौद्धिकसंपदाअधिकारों कोसमझाइएतथासाइबरस्पेसमेंउनकेमहत्व |_ केसाथभारतमेंसंबंधितकानूनीप्रावधानोंपरचर्चाकीजिए (OB t98 OT Tee \\ |] ayQS",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "a",
+    "original_question": "| Analyze the effectiveness of multi-factor dgthentication QMFA) in| |]",
+    "english_question": "| Analyze the effectiveness of multi-factor dgthentication QMFA) in| |]",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "v",
+    "original_question": "preventing cyber offenses based on social eeon AD मल्टी-फैक्टरऑरपेटिकेशन(MEA पोश आधारितसाइबर “>: अपराधों कोरोकनेमें कितनाप्रभावीहै? BX aA <7 Evaluate the role of ethical hac preventing cybercrime. How is it)1_ (KA different from maliciousaor Ze), एथिकलहैकिंगकी भूमिकाका कीजिएजोसाइबरअपराध BT Vea RO सहायकहै।यहGuia सेकैसेभिन्नहै? Q Q Question A5- 1 ह्ठ | Level no.",
+    "english_question": "preventing cyber offenses based on social eeon AD MEA BX aA <7 Evaluate the role of ethical hac preventing cybercrime. How is it)1 KA different from maliciousaor Ze), BT Vea RO Guia Q Q Question A5- 1 Level no.",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "3. . |Discuss various types of credit card frauds in mqbila-tomputing and/2 [K4 मईexplain their execution techniques. मोबाइलकंप्पूटिंगमेंविभिन्नप्रकारकेक्रेडिटतरधोखापड़ीतथाउनके निष्पादनकेतरीकोंपरचर्चाकीजिए",
+    "english_question": "Discuss various types of credit card frauds in mqbila-tomputing and/2 [K4 explain their execution techniques.",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "| Analyze the role of app permissions igsoiipromising mobile security. | K4 How can misuse of permissions lead to cyljet attacks? मोबाइलसुरक्षामेंएपपरमिशनSL काविश्लेषणकीजिए।इनके ora सेसाइबरहमलेकैसे",
+    "english_question": "Analyze the role of app permissions igsoiipromising mobile security. K4 How can misuse of permissions lead to cyljet attacks SL ora",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "at हैं) https://www.pygonline.com M7 Question ame छ Level ro [ele Explain password cracking techniques. Why are weak passwords stil! a | 3 |? major security risk despite awareness? बावजूद पासवर्डक्रैकिंगतकनीकोंकोसमझाइए।जागरूकताकेबावजूदकमजोर पासवर्डअभी भीबड़ाखतराक्योंहैं? ee https://www.pyqonline.com Pr ॥॥॥॥॥॥॥॥॥ semenPoa ubject= SERRE CYBER SECURITY eee Een andspyware. How can users detect [3 “ ae revent them? कीलॉगरऔरस्पायवेयरके कार्यकरनेकीप्रक्रियाकावर्णनकीजिए उपयोगकर्ता इन्हेंकैसेपहचानऔररोकसकतेहैं? पा Question",
+    "english_question": "at https://www.pygonline.com M7 Question ame Level ro [ele Explain password cracking techniques. Why are weak passwords stil a major security risk despite awareness ee https://www.pyqonline.com Pr semenPoa ubject= SERRE CYBER SECURITY eee Een andspyware. How can users detect [3 ae revent them Question",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "| Explain the challenges faced in computer forensics such as data encryption | 4 “ and data volume, कंप्यूटरफॉरेंसिक्समेंआनेवालीचुनौतियोंजैसेएन्क्रिप्पनऔरबड़ेडेटावॉल्यूम | a कोसमझाइए a>",
+    "english_question": "Explain the challenges faced in computer forensics such as data encryption and data volume, a a>",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "|Analyze security and privacy threats in soc tworking sites from 8 | 4 | K3 >: forensic perspective. खतरों | फॉरेंसिकदृष्टिकोणसेसोशलनेटवर्किंगEy सुरक्षाऔरगोपनीयताखतरों काविश्लेषणकीजिए",
+    "english_question": "Analyze security and privacy threats in soc tworking sites from 8 K3 >: forensic perspective. Ey",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "1) x1=07 Q Question no.",
+    "english_question": "1) x1=07 Q Question no.",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "|Explain the importance of accountability, transparency and GOpswnit in “ | data protection frameworks. डेटासंरक्षणढांचे में जवाबदेही, पारदर्शिता औरसहमतिकेAEST",
+    "english_question": "Explain the importance of accountability, transparency and GOpswnit in data protection frameworks. AEST",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "| Explain the concept of “legal jurisdiction” in cyber ley and why itis}5 |K2 complex in online crimes. Oy साइबरकानूनमें“अधिकारGA (Furisdiction)” कीSURO औरऑनलाइन अपराधों में इसकीजटिलतासमझाइए ५) १) oy रो 0726&_006 | 14-May-2026 1:32:35-PM https:/Awww.pygonline.com",
+    "english_question": "Explain the concept of legal jurisdiction in cyber ley and why itis}5 K2 complex in online crimes. Oy GA (Furisdiction) SURO oy May-2026 1:32:35-PM https:/Awww.pygonline.com",
+    "year": 2026,
+    "source_file": "02-2026-a.pdf",
+    "page_number": 3,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is social engineering in the context of cybercrime? साइबर अपराध मŐ सोशल इंजीिनयįरंग Ɛा होती है?",
+    "english_question": "What is social engineering in the context of cybercrime",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "List any two measures an organization can take to handle mobile device security. मोबाइल िडवाइस सुरƗा के िलए कोई भी दो संगठनाȏक उपाय बताइए",
+    "english_question": "List any two measures an organization can take to handle mobile device security.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Define anonymizers with an example. गुमनामता बनाए रखने वाले टूल (Anonymizers) को उदाहरण सिहत पįरभािषत कीिजए",
+    "english_question": "Define anonymizers with an example. गुमनामता बनाए रखने वाले टूल (Anonymizers) को उदाहरण सिहत पįरभािषत कीिजए",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Differentiate between Cyber Forensics and Digital Forensics. साइबर फॉरŐिसक और िडिजटल फॉरŐिसक मŐ अंतर बताइए",
+    "english_question": "Differentiate between Cyber Forensics and Digital Forensics.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Mention two key objectives of the Digital Personal Data Protection Act, 2023. िडिजटल ʩİƅगत डेटा संरƗण अिधिनयम, 2023 के दो Ůमुख उȞेʴ बताइए",
+    "english_question": "Mention two key objectives of the Digital Personal Data Protection Act, 2023.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What are registry settings in mobile devices and why are they important? मोबाइल िडवाइस मŐ रिजːŌी सेिटंƺ Ɛा होती हœ और ये Ɛों महȕपूणŊ होती हœ?",
+    "english_question": "What are registry settings in mobile devices and why are they important",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What is meant by \"intellectual property\" in the context of cyber security? साइबर सुरƗा के संदभŊ मŐ \"बौİȠक संपदा\" का Ɛा अथŊ है?",
+    "english_question": "What is meant by \"intellectual property\" in the context of cyber security",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "2",
+    "original_question": "िनɻिलİखत मŐ से कोई तीन Ůʲ हल कीिजए: 07 x 3 = 21 Q no. Question CO",
+    "english_question": "िनɻिलİखत मŐ से कोई तीन Ůʲ हल कीिजए: 07 x 3 = 21 Q no. Question CO",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Discuss how cybercriminals plan their attacks and the role of attack vectors. साइबर अपराधी अपने हमलों की योजना कैसे बनाते हœ और अटैक वेƃर की Ɛा भूिमका होती है?",
+    "english_question": "Discuss how cybercriminals plan their attacks and the role of attack vectors.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Analyze the key components of a robust organizational security policy in the mobile computing era. मोबाइल कंɗूिटंग युग मŐ एक मजबूत संगठनाȏक सुरƗा नीित के मुƥ घटकों का िवʶेषण कीिजए",
+    "english_question": "Analyze the key components of a robust organizational security policy in the mobile computing era.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Analyze Steganography as a tool in cybercrime. How does it differ from cryptography? साइबर अपराध मŐ एक उपकरण के ŝप मŐ ːेगनोŤाफी का िवʶेषण कीिजए। यह िŢɐोŤाफी से कैसे िभɄ है?",
+    "english_question": "Analyze Steganography as a tool in cybercrime. How does it differ from cryptography",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What is the Chain of Custody in digital forensics? Why is it important in legal proceedings? िडिजटल फॉरŐिसक मŐ ‘चेन ऑफ कːडी’ Ɛा है? यह कानूनी ŮिŢया मŐ Ɛों महȇपूणŊ है?",
+    "english_question": "What is the Chain of Custody in digital forensics Why is it important in legal proceedings",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Evaluate the effectiveness of Indian Cyber Law in dealing with digital frauds and data breaches. िडिजटल धोखाधड़ी और डेटा उʟंघनों से िनपटने मŐ भारतीय साइबर कानून की Ůभावशीलता का मूʞांकन कीिजए | 09-Jul-2025 1:38:52 PM | 117.55.242.134 0Roll No: 0 CYBER SECURITY",
+    "english_question": "Evaluate the effectiveness of Indian Cyber Law in dealing with digital frauds and data breaches. Jul-2025 1:38:52 PM Roll No: 0 CYBER SECURITY",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "3",
+    "original_question": "िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ: 07 x 1 = 07 Q no. Question CO",
+    "english_question": "िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ: 07 x 1 = 07 Q no. Question CO",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is the “Cybercrime Era”? Explain the survival mantra for netizens in this era. \"साइबर अपराध युग\" Ɛा है? इस युग मŐ नेिटज़Ɍ (इंटरनेट उपयोगकताŊओं) के िलए जीवन रƗा मंũ की ʩाƥा कीिजए",
+    "english_question": "What is the “Cybercrime Era”? Explain the survival mantra for netizens in this era. \"साइबर अपराध युग\" Ɛा है? इस युग मŐ नेिटज़Ɍ (इंटरनेट उपयोगकताŊओं) के िलए जीवन रƗा मंũ की ʩाƥा कीिजए",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are botnets? Explain how botnets serve as fuel for cybercrime activities. बोटनेट्स Ɛा हœ? समझाइए िक कैसे बोटनेट्स साइबर अपराध गितिविधयों के िलए ईंधन का कायŊ करते हœ िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ 07 x 1 = 07 Q no. Question CO",
+    "english_question": "What are botnets? Explain how botnets serve as fuel for cybercrime activities. बोटनेट्स Ɛा हœ? समझाइए िक कैसे बोटनेट्स साइबर अपराध गितिविधयों के िलए ईंधन का कायŊ करते हœ िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ 07 x 1 = 07 Q no. Question CO",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the proliferation of mobile and wireless devices and discuss the trends in mobility. मोबाइल और वायरलेस िडवाइसों के Ůसार को समझाइए और मोबाइिलटी की Ůवृिȅयों पर चचाŊ कीिजए",
+    "english_question": "Explain the proliferation of mobile and wireless devices and discuss the trends in mobility.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the organizational measures for handling mobile devices securely within",
+    "english_question": "Explain the organizational measures for handling mobile devices securely within",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "corporate network. कॉपŖरेट नेटवकŊ के भीतर मोबाइल िडवाइसों को सुरिƗत ŝप से संभालने के िलए संगठनाȏक उपायों को समझाइए िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ 07 x 1 = 07 Q no. Question CO",
+    "english_question": "corporate network. कॉपŖरेट नेटवकŊ के भीतर मोबाइल िडवाइसों को सुरिƗत ŝप से संभालने के िलए संगठनाȏक उपायों को समझाइए िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ 07 x 1 = 07 Q no. Question CO",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Describe the process and impact of SQL Injection and Buffer Overflow attacks on web applications. वेब अनुŮयोगों पर SQL इंजेƕन और बफर ओवरɢो हमलों की ŮिŢया और Ůभाव का वणŊन कीिजए",
+    "english_question": "Describe the process and impact of SQL Injection and Buffer Overflow attacks on web applications. SQL",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Identity Theft? How is it related to phishing and what are the preventive measures? पहचान की चोरी (आईडŐिटटी थेɝ) Ɛा है? इसका िफिशंग से Ɛा संबंध है और इससे बचने के उपाय Ɛा हœ? िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ 07 x 1 = 07 Q no. Question CO",
+    "english_question": "What is Identity Theft How is it related to phishing and what are the preventive measures x 1 = 07 Q no. Question CO",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Describe the Digital Forensics Life Cycle. Discuss each phase in detail with suitable examples. िडिजटल फॉरŐिसक जीवन चŢ को विणŊत कीिजए। Ůȑेक चरण को उपयुƅ उदाहरणों सिहत समझाइए | 09-Jul-2025 1:38:52 PM | 117.55.242.134 0Roll No: 0 CYBER SECURITY",
+    "english_question": "Describe the Digital Forensics Life Cycle. Discuss each phase in detail with suitable examples. Jul-2025 1:38:52 PM Roll No: 0 CYBER SECURITY",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How do social networking sites pose a challenge to computer forensics? Describe with examples. सोशल नेटविकō ग साइटŐ कंɗूटर फॉरŐिसक के िलए कैसे चुनौती Ůˑुत करती हœ? उदाहरण सिहत वणŊन कीिजए िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ 07 x 1 = 07 Q no. Question CO",
+    "english_question": "How do social networking sites pose a challenge to computer forensics Describe with examples. x 1 = 07 Q no. Question CO",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Illustrate with examples how copyright and patent laws protect intellectual property in the IT industry. उदाहरण सिहत ˙ʼ कीिजए िक कॉपीराइट और पेटŐट कानून आईटी उȨोग मŐ बौİȠक संपदा की कैसे रƗा करते हœ",
+    "english_question": "Illustrate with examples how copyright and patent laws protect intellectual property in the IT industry.",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the need for information security policies in organizations. How do they contribute to overall cybersecurity? संगठनों मŐ सूचना सुरƗा नीितयों की आवʴकता को समझाइए। ये समŤ साइबर सुरƗा मŐ कैसे योगदान करती हœ?",
+    "english_question": "Explain the need for information security policies in organizations. How do they contribute to overall cybersecurity",
+    "year": 2025,
+    "source_file": "03-2025.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "How does cybercrime differ from traditional crime?",
+    "english_question": "How does cybercrime differ from traditional crime?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the common profiles of cybercriminals in terms of demographics and skills?",
+    "english_question": "What are the common profiles of cybercriminals in terms of demographics and skills?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "How do registry settings differ between mobile operating systems such as Android and iOS?",
+    "english_question": "How do registry settings differ between mobile operating systems such as Android and iOS?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "How are financial institutions adapting to the increase in mobile credit card fraud?",
+    "english_question": "How are financial institutions adapting to the increase in mobile credit card fraud?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What is a keylogger, and how does it capture keystrokes?",
+    "english_question": "What is a keylogger, and how does it capture keystrokes?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What is digital forensics, and how does it differ from traditional forensic science?",
+    "english_question": "What is digital forensics, and how does it differ from traditional forensic science?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What is a patent, and what are the criteria for obtaining one in India?",
+    "english_question": "What is a patent, and what are the criteria for obtaining one in India?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What tools and technologies are essential for protecting against cybercrime?",
+    "english_question": "What tools and technologies are essential for protecting against cybercrime?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How do multi-factor authentication (MFA) systems work on mobile devices?",
+    "english_question": "How do multi-factor authentication (MFA) systems work on mobile devices?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is steganography, and how is it used to conceal information?",
+    "english_question": "What is steganography, and how is it used to conceal information?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What are the technical challenges faced by computer forensics professionals?",
+    "english_question": "What are the technical challenges faced by computer forensics professionals?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "How can trademark infringement be prevented and remedied under Indian law?",
+    "english_question": "How can trademark infringement be prevented and remedied under Indian law?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the typical stages of a cyber-attack?",
+    "english_question": "What are the typical stages of a cyber-attack?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How can botnet activities be detected and disrupted by cybersecurity professionals?",
+    "english_question": "How can botnet activities be detected and disrupted by cybersecurity professionals?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "How can users detect and respond to phishing attacks on their mobile devices?",
+    "english_question": "How can users detect and respond to phishing attacks on their mobile devices?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the key components of a comprehensive mobile security policy for organizations?",
+    "english_question": "What are the key components of a comprehensive mobile security policy for organizations?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is the difference between a DoS (Denial of Service) attack and a DDoS (Distributed Denial of Service) attack?",
+    "english_question": "What is the difference between a DoS (Denial of Service) attack and a DDoS (Distributed Denial of Service) attack?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is an SQL injection attack, and how does it exploit vulnerabilities in web applications?",
+    "english_question": "What is an SQL injection attack, and how does it exploit vulnerabilities in web applications?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the stages of the digital forensics life cycle?",
+    "english_question": "What are the stages of the digital forensics life cycle?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How do investigators capture and analyze network traffic during a network forensics investigation?",
+    "english_question": "How do investigators capture and analyze network traffic during a network forensics investigation?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the common intellectual property issues faced in the digital age?",
+    "english_question": "What are the common intellectual property issues faced in the digital age?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the penalties and legal consequences for cybercrimes under Indian law?",
+    "english_question": "What are the penalties and legal consequences for cybercrimes under Indian law?",
+    "year": 2024,
+    "source_file": "04-2024.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "| How do registry settings differ between mobile operating systems such as Android and iOS? How are financial institutions adapting to the increase In mobile credit card fraud? fe._| What is a keylogger, and how does it capture keystrokes? What is digital forensics, and how does it differ from traditional forensic science? What is a patent, and what are the criteria for obtaining one in India? Attempt any 11726 of the following: ee [a. | What tools and technologies are essential for protecting against cybercrime? +) ib. _| How do multi-factor authentication (MF 44, s¥3tems work on mobile devices? “A le. | What is steganography, and how is it 067 6conceal information? ‘ fd. | What are the technical challenges faced by computer forensics professionals? fe. | How can trademark infringemetiib revented and remedied under Indian 0४). Ta पर ake ION C (20 *",
+    "english_question": "| How do registry settings differ between mobile operating systems such as Android and iOS? How are financial institutions adapting to the increase In mobile credit card fraud? fe._| What is a keylogger, and how does it capture keystrokes? What is digital forensics, and how does it differ from traditional forensic science? What is a patent, and what are the criteria for obtaining one in India? Attempt any 11726 of the following: ee [a. | What tools and technologies are essential for protecting against cybercrime? +) ib. _| How do multi-factor authentication (MF 44, s¥3tems work on mobile devices? “A le. | What is steganography, and how is it 067 6conceal information? ‘ fd. | What are the technical challenges faced by computer forensics professionals? fe. | How can trademark infringemetiib revented and remedied under Indian 0४). Ta पर ake ION C (20 *",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "— os {a) es of a cyber-attack? {b) | How can botnet activities be detected andबनजल७कफजफैे curity professionals? _ Attempt any ove part of the following: __ ह Ix1l=7 om How can users detect and respond to phishing attacks oftheir mobile devices? —_",
+    "english_question": "— os {a) es of a cyber-attack? {b) | How can botnet activities be detected andबनजल७कफजफैे curity professionals? _ Attempt any ove part of the following: __ ह Ix1l=7 om How can users detect and respond to phishing attacks oftheir mobile devices? —_",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "| What are the key components of a comprehensive mobile security policy for organizations? SN: part of the following: _ ee What is the difference between a Do (Penal of Service) attack and a DDoS Distributed Denial of Service) attack? What is an SQL injection attack, eng fow does it exploit vulnerabilities in web applications? one part ofthe following»” d 7x1-7",
+    "english_question": "| What are the key components of a comprehensive mobile security policy for organizations? SN: part of the following: _ ee What is the difference between a Do (Penal of Service) attack and a DDoS Distributed Denial of Service) attack? What is an SQL injection attack, eng fow does it exploit vulnerabilities in web applications? one part ofthe following»” d 7x1-7",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "| How do investigators capt and analyze network traffic during a network forensics investigation? part of thajollowing: है",
+    "english_question": "| How do investigators capt and analyze network traffic during a network forensics investigation? part of thajollowing: है",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "| What are the comman intellectual property issues faced in the digital age?",
+    "english_question": "| What are the comman intellectual property issues faced in the digital age?",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the penalties and stare the penalties and legal consequences for cybercrimes under Indian law?",
+    "english_question": "What are the penalties and stare the penalties and legal consequences for cybercrimes under Indian law?",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Ff 1}Page OP2Z4EP2 > AP2Z4EP2 229 | 07-Aug-2024",
+    "english_question": "Ff 1}Page OP2Z4EP2 > AP2Z4EP2 229 | 07-Aug-2024",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "1",
+    "original_question": "40.11 PM| 103.62.147",
+    "english_question": "40.11 PM| 103.62.147",
+    "year": 2024,
+    "source_file": "05-2024-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the threats to Information system?",
+    "english_question": "What are the threats to Information system?",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the need of information security?",
+    "english_question": "What is the need of information security?",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What are the security threats to E-commerce?",
+    "english_question": "What are the security threats to E-commerce?",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What are the security issues in hardware?",
+    "english_question": "What are the security issues in hardware?",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Explain Firewall in brief.",
+    "english_question": "Explain Firewall in brief.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Explain Copyright Act in brief.",
+    "english_question": "Explain Copyright Act in brief.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What are Email security policies?",
+    "english_question": "What are Email security policies?",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean by Virtual Private Network (VPN)? Discuss authentication mechanism used in VPN.",
+    "english_question": "What do you mean by Virtual Private Network (VPN)? Discuss authentication mechanism used in VPN.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the security architecture of Information system? Explain the secure system design of Information system.",
+    "english_question": "What is the security architecture of Information system? Explain the secure system design of Information system.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "How can we provide the physical security of IT assets?",
+    "english_question": "How can we provide the physical security of IT assets?",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Explain public key and private key cryptography with the help of diagram.",
+    "english_question": "Explain public key and private key cryptography with the help of diagram.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Explain Intellectual Property Rights and Copyright Act in detail.",
+    "english_question": "Explain Intellectual Property Rights and Copyright Act in detail.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is the Information system? Discuss the different types of Information system.",
+    "english_question": "What is the Information system? Discuss the different types of Information system.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Confidentiality, Integrity and Availability in terms of cyber security.",
+    "english_question": "Explain Confidentiality, Integrity and Availability in terms of cyber security.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the e-Cash and Credit/Debit Cards with respect to E-commerce.",
+    "english_question": "Explain the e-Cash and Credit/Debit Cards with respect to E-commerce.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Intrusion Detection System? Explain with Block Diagram.",
+    "english_question": "What is Intrusion Detection System? Explain with Block Diagram.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is the need of Risk management? What are the processes involve to managing the risk during the development of information system.",
+    "english_question": "What is the need of Risk management? What are the processes involve to managing the risk during the development of information system.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the data security considerations? Explain Data backup security, data archival security in this reference.",
+    "english_question": "What are the data security considerations? Explain Data backup security, data archival security in this reference.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the various types of security policies and their review process.",
+    "english_question": "Explain the various types of security policies and their review process.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Discuss different types of ISO standard related to information security.",
+    "english_question": "Discuss different types of ISO standard related to information security.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Software License and Semiconductor Law in detail.",
+    "english_question": "Explain Software License and Semiconductor Law in detail.",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Cyber laws in India in detail. Source: AKTU official examination paper - www.aktunotes.in",
+    "english_question": "Explain Cyber laws in India in detail. Source: AKTU official examination paper - www.aktunotes.in",
+    "year": 2022,
+    "source_file": "06-2022.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Define VPN",
+    "english_question": "Define VPN",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Trojan Horse",
+    "english_question": "Explain Trojan Horse",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Explain Corporate Security",
+    "english_question": "Explain Corporate Security",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Describe Policy Review",
+    "english_question": "Describe Policy Review",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Define ISO",
+    "english_question": "Define ISO",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Explain Spoofs",
+    "english_question": "Explain Spoofs",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "medium"
+  },
+  {
+    "question_number": "g",
+    "original_question": "Describe the types of information system",
+    "english_question": "Describe the types of information system",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Cyber Security and its need in detail.",
+    "english_question": "Explain Cyber Security and its need in detail.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Write short notes on followings (i) E-Cash (ii) Credit & Debit Cards",
+    "english_question": "Write short notes on followings (i) E-Cash (ii) Credit & Debit Cards",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Explain Firewall with its types and applications in detail.",
+    "english_question": "Explain Firewall with its types and applications in detail.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Describe Intrusion detection system. What are the approaches used in it?",
+    "english_question": "Describe Intrusion detection system. What are the approaches used in it?",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Explain the backup security measures used in information system.",
+    "english_question": "Explain the backup security measures used in information system.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Information system and its development in detail.",
+    "english_question": "Explain Information system and its development in detail.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Describe the need and threats of information security in detail.",
+    "english_question": "Describe the need and threats of information security in detail.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Define E-Commerce. Explain Security Threats to E-Commerce in brief",
+    "english_question": "Define E-Commerce. Explain Security Threats to E-Commerce in brief",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Public Key Cryptography with suitable example.",
+    "english_question": "Explain Public Key Cryptography with suitable example.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Describe information Security Governance & Risk Management in brief.",
+    "english_question": "Describe information Security Governance & Risk Management in brief.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the Followings (i) CCTV (ii) Physical Security of IT Assets.",
+    "english_question": "Explain the Followings (i) CCTV (ii) Physical Security of IT Assets.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the WWW Policies in detail",
+    "english_question": "Explain the WWW Policies in detail",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Describe the publishing and notification requirement of the Security Policies.",
+    "english_question": "Describe the publishing and notification requirement of the Security Policies.",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain IT Act 2000 Provisions in detail",
+    "english_question": "Explain IT Act 2000 Provisions in detail",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Define the followings (i)Semiconductor Law (ii) Copy Right Law Source: AKTU official examination paper - www.aktunotes.in",
+    "english_question": "Define the followings (i)Semiconductor Law (ii) Copy Right Law Source: AKTU official examination paper - www.aktunotes.in",
+    "year": 2021,
+    "source_file": "07-2021.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean by access contro! to information resources?",
+    "english_question": "What do you mean by access contro! to information resources?",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the concept of EDI. What is meant by security attack? How are they classified?",
+    "english_question": "Explain the concept of EDI. What is meant by security attack? How are they classified?",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Describe security risk analysis.",
+    "english_question": "Describe security risk analysis.",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "How we can use firewall to make secure our application?",
+    "english_question": "How we can use firewall to make secure our application?",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What is e-mail spamming/e-mail bombing?",
+    "english_question": "What is e-mail spamming/e-mail bombing?",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What are the techniques involved in intrusion detection?",
+    "english_question": "What are the techniques involved in intrusion detection?",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain legal issues in Data mining Security.",
+    "english_question": "Explain legal issues in Data mining Security.",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Discuss different issues and challenges in cyber crime?:. Describe the basic concepts of integrity and confidentiality policies. री What is digital signature? What are the requirements of digital signature system. List on the security services provided by digital signature. as",
+    "english_question": "Discuss different issues and challenges in cyber crime?:. Describe the basic concepts of integrity and confidentiality policies. री What is digital signature? What are the requirements of digital signature system. List on the security services provided by digital signature. as",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What are the decision support systems?*Discuss major functional requirement of @); . decision support system. Seo we LE a 7k1=7 ‘",
+    "english_question": "What are the decision support systems?*Discuss major functional requirement of @); . decision support system. Seo we LE a 7k1=7 ‘",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain different types of Computer Forensics Technology? . % पे (90)... What is Security Threats to E-Commerce? RY",
+    "english_question": "Explain different types of Computer Forensics Technology? . % पे (90)... What is Security Threats to E-Commerce? RY",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain web seryer and session hijacking with example. - ee (6) What are electronic payment systems? Compare electronic payment system on Internet with conventional payment mechanism. “he ह bey",
+    "english_question": "Explain web seryer and session hijacking with example. - ee (6) What are electronic payment systems? Compare electronic payment system on Internet with conventional payment mechanism. “he ह bey",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the intellectual property law in details. 5",
+    "english_question": "Explain the intellectual property law in details. 5",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain unique features of Indian IT Act: Also Discuss the various tools of web security. af é",
+    "english_question": "Explain unique features of Indian IT Act: Also Discuss the various tools of web security. af é",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "| What is development of Information system? Explain spiral model of information system raed (0) Draw the diagrammatical .approach to make difference between symmetric and asymmetric Cryptographyi.",
+    "english_question": "| What is development of Information system? Explain spiral model of information system raed (0) Draw the diagrammatical .approach to make difference between symmetric and asymmetric Cryptographyi.",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the information system resource and activities and what may be the reason of failure of it?",
+    "english_question": "Explain the information system resource and activities and what may be the reason of failure of it?",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain and differentiate between integrating security at the implementation phase and the developing phase. Source: AKTU official examination paper - www.akiunotes.in शककिलियेSAAR aie Pts Des hie PAb288 $997 Bs Pees",
+    "english_question": "Explain and differentiate between integrating security at the implementation phase and the developing phase. Source: AKTU official examination paper - www.akiunotes.in शककिलियेSAAR aie Pts Des hie PAb288 $997 Bs Pees",
+    "year": 2020,
+    "source_file": "08-2020.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the security threats? Discuss.",
+    "english_question": "What are the security threats? Discuss.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What do you understand by security structure and design?",
+    "english_question": "What do you understand by security structure and design?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Who are the major victims of cyber-crime?",
+    "english_question": "Who are the major victims of cyber-crime?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What do you know about Security Risk Management?",
+    "english_question": "What do you know about Security Risk Management?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What are firewalls? f, Define IT asset and the security of IT Assets.",
+    "english_question": "What are firewalls? f, Define IT asset and the security of IT Assets.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What do you mean by virus, worm and IP spoofing? h. What is digital signature? What is Cryptography?",
+    "english_question": "What do you mean by virus, worm and IP spoofing? h. What is digital signature? What is Cryptography?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Legal issues in Data mining Security.",
+    "english_question": "Explain Legal issues in Data mining Security.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the key technological components used for security implementation?",
+    "english_question": "What are the key technological components used for security implementation?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+    "english_question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Draw the diagrammatical approathto make difference between symmetrie-and asymmetric cryptography.",
+    "english_question": "Draw the diagrammatical approathto make difference between symmetrie-and asymmetric cryptography.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What is Electronic cash? How does cash based transaction system differ ffom credit card based transactions?",
+    "english_question": "What is Electronic cash? How does cash based transaction system differ ffom credit card based transactions?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the five pillars of information assurance? Explain in details.",
+    "english_question": "What are the five pillars of information assurance? Explain in details.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How do you perform a risk analysis? Explain the process of risk analysis in details? 16x",
+    "english_question": "How do you perform a risk analysis? Explain the process of risk analysis in details? 16x",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is Malicious software? Explain the.fypes of malicious software in details.",
+    "english_question": "What is Malicious software? Explain the.fypes of malicious software in details.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Differentiate Backups, Archival Storage and Disposal of Data with suitable examples.",
+    "english_question": "Differentiate Backups, Archival Storage and Disposal of Data with suitable examples.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Write a short note on CCTV and-ts applications briefly.",
+    "english_question": "Write a short note on CCTV and-ts applications briefly.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the security threats in mobile computing? Explain in detail.",
+    "english_question": "What are the security threats in mobile computing? Explain in detail.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is Denial of Services (DoS) attack? How does a Dos attack in network security?",
+    "english_question": "What is Denial of Services (DoS) attack? How does a Dos attack in network security?",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain WWW policies and Email Security policies,",
+    "english_question": "Explain WWW policies and Email Security policies,",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Semiconductor Law and Patent Law.",
+    "english_question": "Explain Semiconductor Law and Patent Law.",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+    "english_question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+    "year": 2020,
+    "source_file": "09-2020-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the security threats? Discuss.",
+    "english_question": "What are the security threats? Discuss.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What do you understand by security structure and design?",
+    "english_question": "What do you understand by security structure and design?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Who are the major victims of cyber-crime?",
+    "english_question": "Who are the major victims of cyber-crime?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What do you know about Security Risk Management?",
+    "english_question": "What do you know about Security Risk Management?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What are firewalls? f, Define IT asset and the security of IT Assets.",
+    "english_question": "What are firewalls? f, Define IT asset and the security of IT Assets.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What do you mean by virus, worm and IP spoofing? h. What is digital signature? What is Cryptography?",
+    "english_question": "What do you mean by virus, worm and IP spoofing? h. What is digital signature? What is Cryptography?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Legal issues in Data mining Security.",
+    "english_question": "Explain Legal issues in Data mining Security.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the key technological components used for security implementation?",
+    "english_question": "What are the key technological components used for security implementation?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+    "english_question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Draw the diagrammatical approathto make difference between symmetrie-and asymmetric cryptography.",
+    "english_question": "Draw the diagrammatical approathto make difference between symmetrie-and asymmetric cryptography.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What is Electronic cash? How does cash based transaction system differ ffom credit card based transactions?",
+    "english_question": "What is Electronic cash? How does cash based transaction system differ ffom credit card based transactions?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the five pillars of information assurance? Explain in details.",
+    "english_question": "What are the five pillars of information assurance? Explain in details.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How do you perform a risk analysis? Explain the process of risk analysis in details? 16x",
+    "english_question": "How do you perform a risk analysis? Explain the process of risk analysis in details? 16x",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is Malicious software? Explain the.fypes of malicious software in details.",
+    "english_question": "What is Malicious software? Explain the.fypes of malicious software in details.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Differentiate Backups, Archival Storage and Disposal of Data with suitable examples.",
+    "english_question": "Differentiate Backups, Archival Storage and Disposal of Data with suitable examples.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Write a short note on CCTV and-ts applications briefly.",
+    "english_question": "Write a short note on CCTV and-ts applications briefly.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the security threats in mobile computing? Explain in detail.",
+    "english_question": "What are the security threats in mobile computing? Explain in detail.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is Denial of Services (DoS) attack? How does a Dos attack in network security?",
+    "english_question": "What is Denial of Services (DoS) attack? How does a Dos attack in network security?",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain WWW policies and Email Security policies,",
+    "english_question": "Explain WWW policies and Email Security policies,",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Semiconductor Law and Patent Law.",
+    "english_question": "Explain Semiconductor Law and Patent Law.",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+    "english_question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+    "year": 2020,
+    "source_file": "10-2020-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean by access control to information resources?",
+    "english_question": "What do you mean by access control to information resources?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the concept of EDI.",
+    "english_question": "Explain the concept of EDI.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is meant by security attack? How are they classified?",
+    "english_question": "What is meant by security attack? How are they classified?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Describe security risk analysis.",
+    "english_question": "Describe security risk analysis.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "How we can use firewall to make secure our application?",
+    "english_question": "How we can use firewall to make secure our application?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What is e-mail spamming/e-mail bombing? What are the techniques involved in intrusion detection?",
+    "english_question": "What is e-mail spamming/e-mail bombing? What are the techniques involved in intrusion detection?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain legal issues in Data mining Security.",
+    "english_question": "Explain legal issues in Data mining Security.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Discuss different issues and challenges in cyber crime?",
+    "english_question": "Discuss different issues and challenges in cyber crime?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Describe the basic concepts of integrity and confidentiality policies. पे. What is digital signature? What are the requirements of digital signature system. List the security services provided by digital signature.",
+    "english_question": "Describe the basic concepts of integrity and confidentiality policies. पे. What is digital signature? What are the requirements of digital signature system. List the security services provided by digital signature.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What are the decision support systems? Discuss major functional requirement of a decision support system.",
+    "english_question": "What are the decision support systems? Discuss major functional requirement of a decision support system.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain different types of Computer Forensics Technology?",
+    "english_question": "Explain different types of Computer Forensics Technology?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Security Threats to E-Commerce?",
+    "english_question": "What is Security Threats to E-Commerce?",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain web server and session hijacking with example.",
+    "english_question": "Explain web server and session hijacking with example.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are electronic payment systems? Compare electronic payment system on Internet with conventional payment mechanism.",
+    "english_question": "What are electronic payment systems? Compare electronic payment system on Internet with conventional payment mechanism.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "‘Explain the intellectual property law in details.",
+    "english_question": "‘Explain the intellectual property law in details.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain unique features of Indian IT Act. Also Discuss the various tools of web security. 7Tx1l=7",
+    "english_question": "Explain unique features of Indian IT Act. Also Discuss the various tools of web security. 7Tx1l=7",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is development of Information system? Explain spiral model of information system",
+    "english_question": "What is development of Information system? Explain spiral model of information system",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric Cryptography.",
+    "english_question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric Cryptography.",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the information system resource and activities and what may be the reason of AKTU paper | www.aktunotes.in- हु",
+    "english_question": "Explain the information system resource and activities and what may be the reason of AKTU paper | www.aktunotes.in- हु",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain and differentiate between integrating security at the implementation phase and the developing phase. Source: AKTU official examination paper - www.aktunotes.in",
+    "english_question": "Explain and differentiate between integrating security at the implementation phase and the developing phase. Source: AKTU official examination paper - www.aktunotes.in",
+    "year": 2020,
+    "source_file": "11-2020-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Write a short note on the Copyright Act?",
+    "english_question": "Write a short note on the Copyright Act?",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What do you mean by physical Security for informationSystems? Describe Intellectual Property Issues (IPR).",
+    "english_question": "What do you mean by physical Security for informationSystems? Describe Intellectual Property Issues (IPR).",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Write short notes on “Patent Law”.",
+    "english_question": "Write short notes on “Patent Law”.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What do you mean by WWW policy?",
+    "english_question": "What do you mean by WWW policy?",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Give small notes on Corporate Policy.",
+    "english_question": "Give small notes on Corporate Policy.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "Differentiate between Cyber Security and Information Security.",
+    "english_question": "Differentiate between Cyber Security and Information Security.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the key differences between Symmetric and Asymmetric encryption?",
+    "english_question": "What are the key differences between Symmetric and Asymmetric encryption?",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Information Security Governance in detail ‘aid process involved in the Risk Management? oe",
+    "english_question": "Explain Information Security Governance in detail ‘aid process involved in the Risk Management? oe",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "ce. Explain briefly about Application Development Sécurity with guidelines. ; nn",
+    "english_question": "ce. Explain briefly about Application Development Sécurity with guidelines. ; nn",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Elaborate the term Access Control. What,is*in¢lude in authorization process for,” (File, Program, Data rights) and explain thé all types ofcontrols. af i,",
+    "english_question": "Elaborate the term Access Control. What,is*in¢lude in authorization process for,” (File, Program, Data rights) and explain thé all types ofcontrols. af i,",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What do you understand by security sificture (Architecture) and design? oye ° £0\"",
+    "english_question": "What do you understand by security sificture (Architecture) and design? oye ° £0\"",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "a ae हीं, Fx1S7 ‘",
+    "english_question": "a ae Fx1S7",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean.by Intellectual Property? Describe varioys freans using which IntellectyaFProéperty may be protected to an extent,",
+    "english_question": "What do you mean.by Intellectual Property? Describe varioys freans using which IntellectyaFProéperty may be protected to an extent,",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Confidentiality, Integrity and Availability in terms’ ofcyber security. fe",
+    "english_question": "Explain Confidentiality, Integrity and Availability in terms’ ofcyber security. fe",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the approaches followed in developing tyformation System (IS)? Explain the difference between security ang (linats.",
+    "english_question": "What are the approaches followed in developing tyformation System (IS)? Explain the difference between security ang (linats.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the need of information Security, explain the term ISMS? my |—",
+    "english_question": "What is the need of information Security, explain the term ISMS? my |—",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the role of Security in Infefpet and Web Services.",
+    "english_question": "Explain the role of Security in Infefpet and Web Services.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Intrusion Detection Syétem? Explain with Block Diagram.",
+    "english_question": "What is Intrusion Detection Syétem? Explain with Block Diagram.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain in Detail abpyt Secure Information System Development.",
+    "english_question": "Explain in Detail abpyt Secure Information System Development.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Describe the working principle of CCTV.",
+    "english_question": "Describe the working principle of CCTV.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "| What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+    "english_question": "| What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Public Key Cryptography? Define its Advantage and Disadvantage. Source: AKTU official examination paper - www.aktunotes.in | Pa 8 e",
+    "english_question": "What is Public Key Cryptography? Define its Advantage and Disadvantage. Source: AKTU official examination paper - www.aktunotes.in | Pa 8 e",
+    "year": 2019,
+    "source_file": "12-2019.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Define Copyright Act.",
+    "english_question": "Define Copyright Act.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain IT asset.",
+    "english_question": "Explain IT asset.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Explain Digital Signature",
+    "english_question": "Explain Digital Signature",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "g. Explain disposal of Data. Define Cryptography Explain Firewall. Explain Worm.",
+    "english_question": "g. Explain disposal of Data. Define Cryptography Explain Firewall. Explain Worm.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Elaborate the difference between security and threats and e4plain web security.",
+    "english_question": "Elaborate the difference between security and threats and e4plain web security.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Elaborate the term access control. Explain the all types of controls.",
+    "english_question": "Elaborate the term access control. Explain the all types of controls.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is included in authorization process for File & Program Data rights",
+    "english_question": "What is included in authorization process for File & Program Data rights",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What is the information security? Explain cyber-crime and cyber security in this reference.",
+    "english_question": "What is the information security? Explain cyber-crime and cyber security in this reference.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Explain various Security policies and their review process.",
+    "english_question": "Explain various Security policies and their review process.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric cryptography.",
+    "english_question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric cryptography.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "How can you say that intrusion detection system is the backbone of information system? Justify along with its categories.",
+    "english_question": "How can you say that intrusion detection system is the backbone of information system? Justify along with its categories.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Define Intellectual Property with suitable Example.",
+    "english_question": "Define Intellectual Property with suitable Example.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the need of Risk Management. Explain the process for risk management for secure Information system.",
+    "english_question": "Explain the need of Risk Management. Explain the process for risk management for secure Information system.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the followings (i) E-Commerce (ii) Smart Card",
+    "english_question": "Explain the followings (i) E-Commerce (ii) Smart Card",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Information Security with Cybercrime & cyber security.",
+    "english_question": "Explain Information Security with Cybercrime & cyber security.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain Information system resource and activities in detail.",
+    "english_question": "Explain Information system resource and activities in detail.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Brief Corporate security with suitable example.",
+    "english_question": "Brief Corporate security with suitable example.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the security threats for E-Commerce in detail.",
+    "english_question": "Explain the security threats for E-Commerce in detail.",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the followings (i) Macro Virus (ii) Spoofs (iii) E-mail Security http://AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "Explain the followings (i) Macro Virus (ii) Spoofs (iii) E-mail Security http://AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2019,
+    "source_file": "13-2019-c.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Write a short note on the Copyright Act?",
+    "english_question": "Write a short note on the Copyright Act?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What do you mean by physical Security for information Systems?",
+    "english_question": "What do you mean by physical Security for information Systems?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Describe Intellectual Property Issues (IPR).",
+    "english_question": "Describe Intellectual Property Issues (IPR).",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Write short notes on \"Patent Law”.",
+    "english_question": "Write short notes on \"Patent Law”.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What do you mean by WWW policy?",
+    "english_question": "What do you mean by WWW policy?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Give small notes on Corporate Policy.",
+    "english_question": "Give small notes on Corporate Policy.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "Differentiate between Cyber Security and Information Security.",
+    "english_question": "Differentiate between Cyber Security and Information Security.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the key differences between Symmetric and Asymmetric encryption?",
+    "english_question": "What are the key differences between Symmetric and Asymmetric encryption?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Information Security Governance in detail and process involved in the Risk Management?",
+    "english_question": "Explain Information Security Governance in detail and process involved in the Risk Management?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Explain briefly about Application Development Security with guidelines.",
+    "english_question": "Explain briefly about Application Development Security with guidelines.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Elaborate the term Access Control. What is include in authorization process for (File, Program, Data rights) and explain the all types of controls.",
+    "english_question": "Elaborate the term Access Control. What is include in authorization process for (File, Program, Data rights) and explain the all types of controls.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What do you understand by security structure (Architecture) and design?",
+    "english_question": "What do you understand by security structure (Architecture) and design?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean by Intellectual Property? Describe various means using which Intellectual Property may be protected to an extent.",
+    "english_question": "What do you mean by Intellectual Property? Describe various means using which Intellectual Property may be protected to an extent.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Confidentiality, Integrity and Availability in terms of cyber security",
+    "english_question": "Explain Confidentiality, Integrity and Availability in terms of cyber security",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the approaches followed in developing Information System (IS)?Explain the difference between security and threats",
+    "english_question": "What are the approaches followed in developing Information System (IS)?Explain the difference between security and threats",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the need of information Security also explain the term ISMS?",
+    "english_question": "What is the need of information Security also explain the term ISMS?",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the role of Security in Internet and Web Services.",
+    "english_question": "Explain the role of Security in Internet and Web Services.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Intrusion Detection System? Explain with Block Diagram.",
+    "english_question": "What is Intrusion Detection System? Explain with Block Diagram.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain in Detail about Secure Information System Development.",
+    "english_question": "Explain in Detail about Secure Information System Development.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Describe the working principle of CCTV.",
+    "english_question": "Describe the working principle of CCTV.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+    "english_question": "What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Public Key Cryptography? Define its Advantage and Disadvantage Source: AKTU official examination paper - www.aktunotes.in",
+    "english_question": "What is Public Key Cryptography? Define its Advantage and Disadvantage Source: AKTU official examination paper - www.aktunotes.in",
+    "year": 2019,
+    "source_file": "14-2019-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean by Information System?",
+    "english_question": "What do you mean by Information System?",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Information Security.",
+    "english_question": "Explain Information Security.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is E-Commerce?",
+    "english_question": "What is E-Commerce?",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "j. Explain Denial of Service? Explain the Role of Digital Signature. Explain Security Risk Analysis. Explain Malicious Software. Define Trapdoors. Define Spoofs. What is VPN?",
+    "english_question": "j. Explain Denial of Service? Explain the Role of Digital Signature. Explain Security Risk Analysis. Explain Malicious Software. Define Trapdoors. Define Spoofs. What is VPN?",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain WWW policies in Cyber Security in detail.",
+    "english_question": "Explain WWW policies in Cyber Security in detail.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Biometric system? Discuss the advantages of Biometrics over traditional authentication method.",
+    "english_question": "Explain Biometric system? Discuss the advantages of Biometrics over traditional authentication method.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Describe the concept of Intrusion Detection System.",
+    "english_question": "Describe the concept of Intrusion Detection System.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Explain the Security technologies that are used for data & application security.",
+    "english_question": "Explain the Security technologies that are used for data & application security.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Explain the primary measures applied for security of backup.",
+    "english_question": "Explain the primary measures applied for security of backup.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the Objective & Scope of IT Act 2000.",
+    "english_question": "Explain the Objective & Scope of IT Act 2000.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain Smart Card. Explain how Credit Card is different from Debit Card.",
+    "english_question": "Explain Smart Card. Explain how Credit Card is different from Debit Card.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the Data Security, Email Security & Internet Security in detail.",
+    "english_question": "Explain the Data Security, Email Security & Internet Security in detail.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN.",
+    "english_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is Electronic Data Interchange? What are the benefits of EDI? How can it be helpful in governance?",
+    "english_question": "What is Electronic Data Interchange? What are the benefits of EDI? How can it be helpful in governance?",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the Followings (i) Firewall (ii) Cryptography (iii) Copyright & Patent",
+    "english_question": "Explain the Followings (i) Firewall (ii) Cryptography (iii) Copyright & Patent",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Describe Software License & Semiconductor Law in detail.",
+    "english_question": "Describe Software License & Semiconductor Law in detail.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain E-Cash. How is it useful in public domain?",
+    "english_question": "Explain E-Cash. How is it useful in public domain?",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain the Intellectual Property related legislation in India.",
+    "english_question": "Explain the Intellectual Property related legislation in India.",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Define the Followings (i) CCTV (ii) Intrusion Detection System (iii) E-mail Viruses http://AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "Define the Followings (i) CCTV (ii) Intrusion Detection System (iii) E-mail Viruses http://AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2019,
+    "source_file": "15-2019-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you mean by Data and Information? Can you differentiate between these two?",
+    "english_question": "What do you mean by Data and Information? Can you differentiate between these two?",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the need for Information Security?",
+    "english_question": "What is the need for Information Security?",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Differentiate between Threats and Attacks.",
+    "english_question": "Differentiate between Threats and Attacks.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Explain the need for Trusted System.",
+    "english_question": "Explain the need for Trusted System.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Briefly describe the properties of Firewall.",
+    "english_question": "Briefly describe the properties of Firewall.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Briefly describe a model for Network security with the help of a neat diagram.",
+    "english_question": "Briefly describe a model for Network security with the help of a neat diagram.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "Explain Web security requirements. h. Explain why cyber stalking is an offence.",
+    "english_question": "Explain Web security requirements. h. Explain why cyber stalking is an offence.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Discuss about the infringement of Copyright.",
+    "english_question": "Discuss about the infringement of Copyright.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain in detail Digital Signature Standard approach and its algorithm.",
+    "english_question": "Explain in detail Digital Signature Standard approach and its algorithm.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the use of SSL protocol? Explain its",
+    "english_question": "What is the use of SSL protocol? Explain its",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Explain Symmetric Cipher Model with neat block diagram.",
+    "english_question": "Explain Symmetric Cipher Model with neat block diagram.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Explain the procedure involved in RSA Public key encryption algorithm.",
+    "english_question": "Explain the procedure involved in RSA Public key encryption algorithm.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Define Security service. List different categories of Security service and explain.",
+    "english_question": "Define Security service. List different categories of Security service and explain.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain design issues and challenges in a Biometric system.",
+    "english_question": "Explain design issues and challenges in a Biometric system.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the limitations and use of WAP (Wireless Application Protocol).",
+    "english_question": "Explain the limitations and use of WAP (Wireless Application Protocol).",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Explain EDI architecture and its advantages in detail.",
+    "english_question": "Explain EDI architecture and its advantages in detail.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the Design aspects of a secure E-Commerce system and its applications.",
+    "english_question": "Explain the Design aspects of a secure E-Commerce system and its applications.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Discuss the Implementation and Applications of IPSec.",
+    "english_question": "Discuss the Implementation and Applications of IPSec.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Digital signature? Explain how the public key algorithms are used for obtaining Digital Signature.",
+    "english_question": "What is Digital signature? Explain how the public key algorithms are used for obtaining Digital Signature.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "Briefly describe the components of SET system.",
+    "english_question": "Briefly describe the components of SET system.",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the design goals of Kerberos?",
+    "english_question": "What are the design goals of Kerberos?",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What do you understand from Intellectual Property Right? Is copyright Intellectual Property?",
+    "english_question": "What do you understand from Intellectual Property Right? Is copyright Intellectual Property?",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Explain the purpose and role of certifying authorities under the Information Technology Act. AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "Explain the purpose and role of certifying authorities under the Information Technology Act. AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2018,
+    "source_file": "16-2018.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is the need of digital signature?",
+    "english_question": "What is the need of digital signature?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Differentiate between Worm and Virus.",
+    "english_question": "Differentiate between Worm and Virus.",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is Trojan horse?",
+    "english_question": "What is Trojan horse?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What is the need of information security?",
+    "english_question": "What is the need of information security?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What is Database Security?",
+    "english_question": "What is Database Security?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "Why is cyber Security important?",
+    "english_question": "Why is cyber Security important?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What is Encryption? h) Why do we need information security?",
+    "english_question": "What is Encryption? h) Why do we need information security?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "What are the security Issues in Hardware? j) Differentiate between symmetric key and asymmetric key algorithm. SECTION-B",
+    "english_question": "What are the security Issues in Hardware? j) Differentiate between symmetric key and asymmetric key algorithm. SECTION-B",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is a firewall? Explain its different types in detail.",
+    "english_question": "What is a firewall? Explain its different types in detail.",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "Write short notes on CCTV and its application.",
+    "english_question": "Write short notes on CCTV and its application.",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is application development security? Explain in detail.",
+    "english_question": "What is application development security? Explain in detail.",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What do you understand by information security governance and risk management?",
+    "english_question": "What do you understand by information security governance and risk management?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Discuss the ethical and legal issues in software piracy.",
+    "english_question": "Discuss the ethical and legal issues in software piracy.",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What are the steps involved in developing an information System?",
+    "english_question": "What are the steps involved in developing an information System?",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "Explain Security Architecture & Design with Diagram. h) What is Physical Security? Write down the basic tenets of physical security. SECTION-C Explain security threats to E-Commerce in detail. Also explain its types. What are the provisions of IT Act, 2000? List its advantages and limitations. Write short note on:",
+    "english_question": "Explain Security Architecture & Design with Diagram. h) What is Physical Security? Write down the basic tenets of physical security. SECTION-C Explain security threats to E-Commerce in detail. Also explain its types. What are the provisions of IT Act, 2000? List its advantages and limitations. Write short note on:",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "WWW policy",
+    "english_question": "WWW policy",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "ii",
+    "original_question": "E-mail Security policy",
+    "english_question": "E-mail Security policy",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "iii",
+    "original_question": "Information Security Process",
+    "english_question": "Information Security Process",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "iv",
+    "original_question": "Patent Law",
+    "english_question": "Patent Law",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "v",
+    "original_question": "Copy Right Law Source: AKTU official examination paper - www.aktunotes.in",
+    "english_question": "Copy Right Law Source: AKTU official examination paper - www.aktunotes.in",
+    "year": 2016,
+    "source_file": "17-2017.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is CIA (Confidentiality, Integrity and Availability) trade?",
+    "english_question": "What is CIA (Confidentiality, Integrity and Availability) trade?",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the threats to information system?",
+    "english_question": "What are the threats to information system?",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is System Development Life Cycle (SDLC)?",
+    "english_question": "What is System Development Life Cycle (SDLC)?",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Define the terms RTGS and NEFT.",
+    "english_question": "Define the terms RTGS and NEFT.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What do you mean by virus, worm and IP spoofing?",
+    "english_question": "What do you mean by virus, worm and IP spoofing?",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "How cyber security is different from computer security?",
+    "english_question": "How cyber security is different from computer security?",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "State the difference between Risk Management and Risk Assessment. (h) Explain briefly about disposal of data.",
+    "english_question": "State the difference between Risk Management and Risk Assessment. (h) Explain briefly about disposal of data.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Define IT asset and the security of IT Assets. (j) What is the need of cyber laws in India? SECTION – B",
+    "english_question": "Define IT asset and the security of IT Assets. (j) What is the need of cyber laws in India? SECTION – B",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are biometric? How can a biometric be used for access control? Discuss the criteria for selection of biometrics.",
+    "english_question": "What are biometric? How can a biometric be used for access control? Discuss the criteria for selection of biometrics.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Intrusion Detection System (IDS)? Explain its type in detail.",
+    "english_question": "What is Intrusion Detection System (IDS)? Explain its type in detail.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What are the backup security measures? Discuss its type.",
+    "english_question": "What are the backup security measures? Discuss its type.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What are the basic fundamental principles of information security? Explain.",
+    "english_question": "What are the basic fundamental principles of information security? Explain.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Write a short note on CCTV and its applications.",
+    "english_question": "Write a short note on CCTV and its applications.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What is Electronic cash? How does cash based transaction system differ from credit card based transactions?",
+    "english_question": "What is Electronic cash? How does cash based transaction system differ from credit card based transactions?",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+    "english_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Database Security",
+    "english_question": "Database Security",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "ii",
+    "original_question": "Email Security",
+    "english_question": "Email Security",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "iii",
+    "original_question": "Internet Security SECTION – C What is Electronic Data Interchange (EDI)? What are the benefits of EDI? How can it be helpful in governance? What is digital signature? What are the requirements of a digital signature system? List the security services provided by digital signature. Explain the following in detail :",
+    "english_question": "Internet Security SECTION – C What is Electronic Data Interchange (EDI)? What are the benefits of EDI? How can it be helpful in governance? What is digital signature? What are the requirements of a digital signature system? List the security services provided by digital signature. Explain the following in detail :",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Private Key cryptosystem and Public key cryptosystems.",
+    "english_question": "Private Key cryptosystem and Public key cryptosystems.",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "ii",
+    "original_question": "Firewall. AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "Firewall. AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2016,
+    "source_file": "18-2017-b.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What is CIA (Confidentiality, Integrity and Availability) trade?",
+    "english_question": "What is CIA (Confidentiality, Integrity and Availability) trade?",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What are the threats to information system?",
+    "english_question": "What are the threats to information system?",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What is System Development Life Cycle (SDLC)?",
+    "english_question": "What is System Development Life Cycle (SDLC)?",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "Define the terms RTGS and NEFT.",
+    "english_question": "Define the terms RTGS and NEFT.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "What do you mean by virus, worm and IP spoofing?",
+    "english_question": "What do you mean by virus, worm and IP spoofing?",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "How cyber security is different from computer security?",
+    "english_question": "How cyber security is different from computer security?",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "State the difference between Risk Management and Risk Assessment. (h) Explain briefly about disposal of data.",
+    "english_question": "State the difference between Risk Management and Risk Assessment. (h) Explain briefly about disposal of data.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Define IT asset and the security of IT Assets. (j) What is the need of cyber laws in India? SECTION – B",
+    "english_question": "Define IT asset and the security of IT Assets. (j) What is the need of cyber laws in India? SECTION – B",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are biometric? How can a biometric be used for access control? Discuss the criteria for selection of biometrics.",
+    "english_question": "What are biometric? How can a biometric be used for access control? Discuss the criteria for selection of biometrics.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is Intrusion Detection System (IDS)? Explain its type in detail.",
+    "english_question": "What is Intrusion Detection System (IDS)? Explain its type in detail.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "What are the backup security measures? Discuss its type.",
+    "english_question": "What are the backup security measures? Discuss its type.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "What are the basic fundamental principles of information security? Explain.",
+    "english_question": "What are the basic fundamental principles of information security? Explain.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Write a short note on CCTV and its applications.",
+    "english_question": "Write a short note on CCTV and its applications.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "f",
+    "original_question": "What is Electronic cash? How does cash based transaction system differ from credit card based transactions?",
+    "english_question": "What is Electronic cash? How does cash based transaction system differ from credit card based transactions?",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+    "english_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Database Security",
+    "english_question": "Database Security",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "ii",
+    "original_question": "Email Security",
+    "english_question": "Email Security",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "low"
+  },
+  {
+    "question_number": "iii",
+    "original_question": "Internet Security SECTION – C What is Electronic Data Interchange (EDI)? What are the benefits of EDI? How can it be helpful in governance? What is digital signature? What are the requirements of a digital signature system? List the security services provided by digital signature. Explain the following in detail :",
+    "english_question": "Internet Security SECTION – C What is Electronic Data Interchange (EDI)? What are the benefits of EDI? How can it be helpful in governance? What is digital signature? What are the requirements of a digital signature system? List the security services provided by digital signature. Explain the following in detail :",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "Private Key cryptosystem and Public key cryptosystems.",
+    "english_question": "Private Key cryptosystem and Public key cryptosystems.",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "ii",
+    "original_question": "Firewall. Source: AKTU official examination paper - www.aktunotes.in",
+    "english_question": "Firewall. Source: AKTU official examination paper - www.aktunotes.in",
+    "year": 2016,
+    "source_file": "19-2017-a.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the sectrity threats? Discuss. O) What do you understand by security structure and design? Describe the Intellectual Properfy Issues (IPR). Discuss the difference between Malware and sp) Mare.",
+    "english_question": "What are the sectrity threats? Discuss. O) What do you understand by security structure and design? Describe the Intellectual Properfy Issues (IPR). Discuss the difference between Malware and sp) Mare.",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "(d) (Following Paper ID and RoIl No. to be filled in your Answer Books) AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "(d) (Following Paper ID and RoIl No. to be filled in your Answer Books) AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Who are the major victims of cyber-crime? (0 What do you know about Security Risk Management?",
+    "english_question": "Who are the major victims of cyber-crime? (0 What do you know about Security Risk Management?",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "g",
+    "original_question": "What are firewalls? (h). Is hacking always for financial gains? 0) What is a virus? Explain. Sectiotr-B",
+    "english_question": "What are firewalls? (h). Is hacking always for financial gains? 0) What is a virus? Explain. Sectiotr-B",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 1,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "a",
+    "original_question": "What are the key technological components used for security inplenrentation?",
+    "english_question": "What are the key technological components used for security inplenrentation?",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "b",
+    "original_question": "What is the information securitf Explain cyter-crime and cyber security in this reference.",
+    "english_question": "What is the information securitf Explain cyter-crime and cyber security in this reference.",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "c",
+    "original_question": "Draw the diagrammatical approach to make difflerence between symmetric and asyrnmetric crptography. How can you say that intrusion detection sletem is the backbone of information system? Justify along with its categories.",
+    "english_question": "Draw the diagrammatical approach to make difflerence between symmetric and asyrnmetric crptography. How can you say that intrusion detection sletem is the backbone of information system? Justify along with its categories.",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "d",
+    "original_question": "AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in T",
+    "english_question": "AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in T",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "e",
+    "original_question": "Write short note on:",
+    "english_question": "Write short note on:",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "lncident Response Plan",
+    "english_question": "lncident Response Plan",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "ii",
+    "original_question": "Disaster Response Plan",
+    "english_question": "Disaster Response Plan",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "iii",
+    "original_question": "Business contirnrity Plan Elaborate the difference between security and threats and e4plain web security. What is sectrity SDLC? Explain its different phases. Explain and differentiate betrreen integrating security at the inplementation phase and the developing phase. Section{ (2*10:20)",
+    "english_question": "Business contirnrity Plan Elaborate the difference between security and threats and e4plain web security. What is sectrity SDLC? Explain its different phases. Explain and differentiate betrreen integrating security at the inplementation phase and the developing phase. Section{ (2*10:20)",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 2,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "3",
+    "original_question": "Elaborate the term access control. What is included in autho- nzatian process for (File, Progranl Data rights) and explain the all types of controls. (0",
+    "english_question": "Elaborate the term access control. What is included in autho- nzatian process for (File, Progranl Data rights) and explain the all types of controls. (0",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 3,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "4",
+    "original_question": "What are the data sectrity considerations? Explain in this refl erence Data backup security, data archival securty and data disposal considerations. [s+sJ Is+s] AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "What are the data sectrity considerations? Explain in this refl erence Data backup security, data archival securty and data disposal considerations. [s+sJ Is+s] AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 3,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "5",
+    "original_question": "write short notes on any two of the follows: hrtellectuat Property [,aw (ir) Copynght Act (iir) Cyber Laws in India.",
+    "english_question": "write short notes on any two of the follows: hrtellectuat Property [,aw (ir) Copynght Act (iir) Cyber Laws in India.",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 3,
+    "extraction_confidence": "high"
+  },
+  {
+    "question_number": "i",
+    "original_question": "ir AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "english_question": "ir AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in AKTU paper | www.aktunotes.in",
+    "year": 2015,
+    "source_file": "20-2016.pdf",
+    "page_number": 3,
+    "extraction_confidence": "high"
+  }
+]

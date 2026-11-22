@@ -1,0 +1,5826 @@
+﻿source_file,page_number,final_text,extraction_method,year
+01-2026.pdf,1,"QP26E_145
+ | 20-May-2026 1:35:18 PM | 115.244.153.242
+QP26E_145 | 20-May-2026 1:35:18 PM | 115.244.153.242
+Printed Page: 1 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+02 x 7 = 14 
+Q no
+Question 
+CO Level 
+a.  What is the main advantage of the layered approach to system design? 
+सिस्टम सिज़ाइन के स्तरीय (लेयिड) दृसिकोण क़ा मुख्य ल़ाभ क्य़ा है? 
+1 
+K2 
+b.  What is interprocess communication? How can it be implemented? 
+अंतर-प्रसिय़ा िंच़ार क्य़ा है? इिे कैिे ल़ागू सकय़ा ज़ा िकत़ा है? 
+2 
+K2 
+c.  A counting semaphore is initialized to 10. Then 6 P (wait) and 4 V (signal) operations are 
+performed on this semaphore. What will be the resulting value of the semaphore? 
+एक क़ाउंस ंग िेम़ाफोर को 10 िे आरंभ सकय़ा गय़ा है। इिके ब़ाद इि िेम़ाफोर पर 6 P (wait) 
+और 4 V (signal) ऑपरेशन सकए गए। िेम़ाफोर क़ा अंसतम म़ान क्य़ा होग़ा? 
+3 
+K3 
+d.  Illustrate the reason for the convoy effect in process scheduling. 
+प्रोिेि शेड्यूसलंग में Convoy Effect के क़ारण को स्पि कीसजए। 
+2 
+K2 
+e.  What are the necessary conditions for deadlock in an operating system? 
+ऑपरेस ंग सिस्टम में िेिलॉक की आवश्यक शतें क्य़ा हैं? 
+3 
+K2 
+f.  What is locality of reference in demand paging? 
+सिम़ांि पेसजंग में लोकैसल ी ऑफ रेफरेंि (Locality of Reference) क्य़ा है? 
+4 
+K2 
+g.  Explain seek time and rotational latency while accessing the disk. 
+सिस्क एक्सेि करते िमय िीक  ़ाइम और रो ेशनल ले ेंिी को िमझ़ाइए। 
+5 
+K2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+The services and functions provided by an operating system can be divided into two 
+main categories. Briefly describe the two categories and discuss how they differ. 
+ऑपरेस ंग सिस्टम द्व़ाऱा प्रद़ान की ज़ाने व़ाली िेव़ाओं और क़ायों को दो मुख्य श्रेसणयों में सवभ़ासजत 
+सकय़ा ज़ा िकत़ा है। इन दोनों श्रेसणयों क़ा िंक्षेप में वणडन कीसजए तथ़ा इनके बीच अंतर स्पि 
+कीसजए। 
+1 
+K2 
+b. 
+Describe the actions taken by a kernel to context-switch between processes. 
+प्रोिेिों के बीच कॉन्टेक्स्ट स्विच (Context Switch) करने के सलए कनेल द्व़ाऱा सकए ज़ाने व़ाले 
+क़ायों क़ा वणडन कीसजए। 
+2 
+K2 
+c. 
+Consider a system consisting of m resources of the same type being shared by n 
+processes. A process can request or release only one resource at a time. Show that the 
+system is deadlock free if the following two conditions hold:  
+i. The maximum need of each process is between one resource and m resources.  
+ii. The sum of all maximum needs is less than m + n. 
+एक ऐिे सिस्टम पर सवच़ार कीसजए सजिमें एक ही प्रक़ार के 𝑚िंि़ाधन, 𝑛प्रसिय़ाओं द्व़ाऱा ि़ाझ़ा 
+सकए ज़ा रहे हैं। एक प्रसिय़ा एक िमय में केवल एक िंि़ाधन क़ा अनुरोध य़ा ररलीज कर िकती 
+है। यह सिद्ध कीसजए सक सनम्नसलस्वित दो शतों के पूऱा होने पर सिस्टम िेिलॉक-फ्री (Deadlock 
+Free) है: 
+i. प्रत्येक प्रसिय़ा की असधकतम आवश्यकत़ा एक िंि़ाधन िे लेकर 𝑚 िंि़ाधनों के बीच है। 
+ii. िभी प्रसिय़ाओं की असधकतम आवश्यकत़ाओं क़ा योग 𝑚+ 𝑛िे कम है। 
+3 
+K3 
+d. 
+Explain the working of the Translation Lookaside Buffer (TLB) along with the page 4 
+K2",pymupdf,2026
+01-2026.pdf,2,"QP26E_145
+ | 20-May-2026 1:35:18 PM | 115.244.153.242
+QP26E_145 | 20-May-2026 1:35:18 PM | 115.244.153.242
+Printed Page: 2 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+table in address translation, with a neat diagram. 
+एिरेि  ऱांिलेशन में पेज  ेबल के ि़ाथ  ऱांिलेशन लुकअि़ाइि बफर (TLB) के क़ायड करने की 
+प्रसिय़ा को एक ि़ाफ-िुथरे आरेि के ि़ाथ िमझ़ाइए। 
+e. 
+What are the advantages of using RAID architecture in disk drive? Explain in detail.  
+सिस्क िऱाइव में RAID आसकड ेक्चर के उपयोग के क्य़ा ल़ाभ हैं? सवस्त़ार िे िमझ़ाइए। 
+5 
+K2 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+What is the main advantage of the microkemel approach to system design? How do user 
+programs and system services interact in a microkernel architecture? 
+सिस्टम सिज़ाइन में म़ाइिोकनेल (Microkernel) दृसिकोण क़ा मुख्य ल़ाभ क्य़ा है? म़ाइिोकनेल 
+आसकड ेक्चर में यूजर प्रोग्ऱाम और सिस्टम िेव़ाएँ सकि प्रक़ार परस्पर सिय़ा (interact) करती हैं? 
+1 
+K2 
+b. 
+Discuss the classification of operating systems and provide real-world examples for each 
+type. 
+ऑपरेस ंग सिस्टम के वगीकरण पर चच़ाड कीसजए तथ़ा प्रत्येक प्रक़ार के सलए व़ास्तसवक जीवन 
+(Real-world) के उद़ाहरण दीसजए। 
+ 
+K2 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Consider the set of processes with arrival time (in milliseconds) and CPU burst time (in 
+milliseconds) shown below. None of the processes have I/O burst time. Draw the Gantt 
+chart and calculate the Average Waiting Time and Average Turnaround Time using the 
+preemptive Shortest Job First (SJF) scheduling algorithm. 
+Process  
+Arrival Time 
+Brust Time 
+P1 
+0 
+8 
+P2 
+1 
+6 
+P3 
+2 
+9 
+P4 
+3 
+3 
+P5 
+4 
+4 
+उपरोक्त दी गई त़ासलक़ा में दश़ाडए गए Processes के िमूह पर सवच़ार कीसजए, सजनके आगमन 
+िमय (समलीिेकंि में) और CPU बस्टड िमय (समलीिेकंि में) सदए गए हैं। सकिी भी प्रसिय़ा क़ा 
+I/O बस्टड िमय नहीं है। गैं  च़ा ड बऩाइए तथ़ा प्रीएस्वटिव शॉ ेस्ट जॉब फस्टड (SJF) शेड्यूसलंग 
+एल्गोररद्म क़ा उपयोग करते हुए औित प्रतीक्ष़ा िमय (Average Waiting Time) और औित 
+ नडअऱाउंि िमय (Average Turnaround Time) की गणऩा कीसजए। 
+2 
+K3 
+b. 
+What is a Process Control Block? Explain its role in process management. 
+प्रोिेि कं रोल ब्लॉक (Process Control Block) क्य़ा है? प्रोिेि प्रबंधन में इिकी भूसमक़ा को 
+िमझ़ाइए। 
+2 
+K2 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO Level 
+a. 
+What do you mean by critical section? how semaphore can be used to ensure 
+synchronization in critical section? Each process Pi, i =1…….9 is coded as follows: 
+Repeat 
+3 
+K2,K
+3",pymupdf,2026
+01-2026.pdf,3,"QP26E_145
+ | 20-May-2026 1:35:18 PM | 115.244.153.242
+QP26E_145 | 20-May-2026 1:35:18 PM | 115.244.153.242
+Printed Page: 3 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+  P(mutex){ 
+  critical section 
+  } 
+  V(mutex) 
+  Forever 
+The code for P10 is identical except that it uses V(mutex) in place of P(mutex). What is 
+the largest number of processes that can be inside the critical section at any moment? 
+Explain. 
+सिस कल िेक्शन (Critical Section) िे आप क्य़ा िमझते हैं? सिस कल िेक्शन में सिंिोऩाइजेशन 
+िुसनसित करने के सलए िेम़ाफोर (Semaphore) क़ा उपयोग कैिे सकय़ा ज़ा िकत़ा है? प्रत्येक 
+प्रसिय़ा 𝑃𝑖, जह़ाँ 𝑖= 1िे 9तक, उपरोक्त प्रक़ार िे कोसित है।  
+P10 के सलए कोि भी िम़ान है, केवल इिमें 𝑃(𝑚𝑢𝑡𝑒𝑥)के स्थ़ान पर 𝑉(𝑚𝑢𝑡𝑒𝑥)क़ा उपयोग सकय़ा 
+गय़ा है। सकिी भी िमय असधकतम सकतनी प्रसिय़ाएँ सिस कल िेक्शन के अंदर हो िकती हैं? 
+िमझ़ाइए। 
+b. 
+Consider the following snapshot of a system: 
+ 
+Allocation 
+ABCD 
+Max 
+ABCD 
+Available 
+ABCD 
+T0 
+0 0 1 2 
+0 0 1 2 
+1 5 2 0 
+T1 
+1 0 0 0 
+1 7 5 0 
+ 
+T2 
+1 3 5 4  
+2 3 5 6 
+ 
+T3 
+0 6 3 2  
+0 6 5 2 
+ 
+T4 
+0 0 1 4  
+0 6 5 6 
+ 
+Answer the following questions using the banker’s algorithm: 
+i. 
+What is the content of the matrix Need? 
+ii. 
+Is the system in a safe state? 
+iii. 
+If a request from thread T1 arrives for (0,4,2,0), can the request be granted 
+immediately? 
+सिस्टम के उपरोक्त स्नैपशॉ  पर सवच़ार कीसजए: 
+बैंकर के एल्गोररद्म (Banker’s Algorithm) क़ा उपयोग करते हुए सनम्न प्रश्ों के उत्तर दीसजए: 
+i. Need मैस रक्स की ि़ामग्री क्य़ा है? 
+ii. क्य़ा सिस्टम िुरसक्षत अवस्थ़ा (Safe State) में है? 
+iii. यसद थ्रेि T1द्व़ाऱा (0, 4, 2, 0) क़ा अनुरोध आत़ा है, तो क्य़ा इि अनुरोध को तुरंत िीक़ार सकय़ा 
+ज़ा िकत़ा है? िमझ़ाइए। 
+3 
+K3 
+ 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO Level 
+a. 
+Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in 
+order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 
+KB, 417 KB, 112 KB, and 426 KB (in order)? Which algorithm makes the most efficient 
+use of memory? 
+100 KB, 500 KB, 200 KB, 300 KB और 600 KB (िम में) के प़ाँच मेमोरी प़ास डशन सदए गए 
+हैं। फस्टड-सफ  (First-Fit), बेस्ट-सफ  (Best-Fit) और वस्टड-सफ  (Worst-Fit) एल्गोररद्म 212 KB, 
+417 KB, 112 KB और 426 KB (िम में) के प्रोिेिों को कैिे आवंस त करेंगे? कौन-ि़ा एल्गोररद्म 
+मेमोरी क़ा िबिे कुशल उपयोग करत़ा है? 
+4 
+K3 
+b. 
+Consider the virtual page reference string 
+4 
+K3",pymupdf,2026
+01-2026.pdf,4,"QP26E_145
+ | 20-May-2026 1:35:18 PM | 115.244.153.242
+QP26E_145 | 20-May-2026 1:35:18 PM | 115.244.153.242
+Printed Page: 4 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+4 | P a g e 
+ 
+1, 
+2, 
+3, 
+4, 
+2, 
+1, 
+5, 
+6, 
+2, 
+1, 
+2, 
+3, 
+7, 
+6, 
+3, 
+2, 
+1, 
+2, 
+3, 
+6.  
+on a demand paged virtual memory system running on a computer system that has main 
+memory size of  4 page frames which are initially empty. How many pages faults will 
+occur if the program uses: LRU and Optimal Page replacement techniques. 
+सनम्नसलस्वित वचुडअल पेज रेफरेंि स्वस्टरंग पर सवच़ार कीसजए: 
+1, 2, 3, 4, 2, 1, 5, 6, 2, 1, 2, 3, 7, 6, 3, 2, 1, 2, 3, 6 
+एक सिम़ांि पेज्ड वचुडअल मेमोरी सिस्टम पर, जो ऐिे कंप्यू र सिस्टम पर चल रह़ा है सजिमें मुख्य 
+मेमोरी क़ा आक़ार 4 पेज फ्रेम है और जो प्ऱारंभ में ि़ाली हैं। यसद प्रोग्ऱाम सनम्न पेज ररप्लेिमें  
+तकनीकों क़ा उपयोग करत़ा है, तो सकतने पेज फॉल्ट्ि होंगे: 
+LRU (Least Recently Used) और Optimal Page Replacement तकनीक। 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Consider 
+a 
+disk 
+queue 
+with 
+requests 
+for 𝐼/𝑂 to 
+blocks 
+on 
+cylinders 47,38,121,191,87,11,92,10.  The head is initially at cylinder number 63, 
+moving towards larger cylinder numbers on its servicing pass. The cylinders are 
+numbered from 0 to 199. What is the total head movement (in number of cylinders) 
+incurred while servicing these requests if C-SCAN and C-LOOK disk scheduling 
+algorithms are used?  
+सिस्क क्यू पर सवच़ार कीसजए सजिमें I/O के सलए सिसलंिरों 47, 38, 121, 191, 87, 11, 92, 10 पर 
+अनुरोध हैं। सिस्क हेि प्ऱारंभ में सिसलंिर िंख्य़ा 63 पर है और अपनी िसवडसिंग सदश़ा में बडे 
+सिसलंिर नंबरों की ओर बढ़ रह़ा है। सिसलंिरों की िंख्य़ा 0 िे 199 तक है। 
+यसद C-SCAN और C-LOOK सिस्क शेड्यूसलंग एल्गोररद्म क़ा उपयोग सकय़ा ज़ाए, तो इन 
+अनुरोधों को िसवडि करते िमय कुल हेि मूवमें  (सिसलंिरों की िंख्य़ा में) सकतऩा होग़ा? 
+5 
+K3 
+b. 
+Explain the followings in detail: 
+i. 
+Direct Memory Access 
+ii. 
+Interrupt 
+iii. 
+Polling 
+सनम्नसलस्वित को सवस्त़ार िे िमझ़ाइए: 
+i. ि़ायरेक्ट मेमोरी एक्सेि (Direct Memory Access) 
+ii. इं रि (Interrupt) 
+iii. पोसलंग (Polling) 
+5 
+K2",pymupdf,2026
+02-2026-a.pdf,1,"QP26E_290
+ | 20-May-2026 2:28:34 PM | 117.55.242.134
+QP26E_290 | 20-May-2026 2:28:34 PM | 117.55.242.134
+Printed Page: 1 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+02 x 7 = 14 
+Q no
+Question 
+CO Level 
+a.  What is the main advantage of the layered approach to system design? 
+सिस्टम सिज़ाइन के स्तरीय (लेयिड) दृसिकोण क़ा मुख्य ल़ाभ क्य़ा है? 
+1 
+K2 
+b.  What is interprocess communication? How can it be implemented? 
+अंतर-प्रसिय़ा िंच़ार क्य़ा है? इिे कैिे ल़ागू सकय़ा ज़ा िकत़ा है? 
+2 
+K2 
+c.  A counting semaphore is initialized to 10. Then 6 P (wait) and 4 V (signal) operations are 
+performed on this semaphore. What will be the resulting value of the semaphore? 
+एक क़ाउंस ंग िेम़ाफोर को 10 िे आरंभ सकय़ा गय़ा है। इिके ब़ाद इि िेम़ाफोर पर 6 P (wait) 
+और 4 V (signal) ऑपरेशन सकए गए। िेम़ाफोर क़ा अंसतम म़ान क्य़ा होग़ा? 
+3 
+K3 
+d.  Illustrate the reason for the convoy effect in process scheduling. 
+प्रोिेि शेड्यूसलंग में Convoy Effect के क़ारण को स्पि कीसजए। 
+2 
+K2 
+e.  What are the necessary conditions for deadlock in an operating system? 
+ऑपरेस ंग सिस्टम में िेिलॉक की आवश्यक शतें क्य़ा हैं? 
+3 
+K2 
+f.  What is locality of reference in demand paging? 
+सिम़ांि पेसजंग में लोकैसल ी ऑफ रेफरेंि (Locality of Reference) क्य़ा है? 
+4 
+K2 
+g.  Explain seek time and rotational latency while accessing the disk. 
+सिस्क एक्सेि करते िमय िीक  ़ाइम और रो ेशनल ले ेंिी को िमझ़ाइए। 
+5 
+K2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+The services and functions provided by an operating system can be divided into two 
+main categories. Briefly describe the two categories and discuss how they differ. 
+ऑपरेस ंग सिस्टम द्व़ाऱा प्रद़ान की ज़ाने व़ाली िेव़ाओं और क़ायों को दो मुख्य श्रेसणयों में सवभ़ासजत 
+सकय़ा ज़ा िकत़ा है। इन दोनों श्रेसणयों क़ा िंक्षेप में वणडन कीसजए तथ़ा इनके बीच अंतर स्पि 
+कीसजए। 
+1 
+K2 
+b. 
+Describe the actions taken by a kernel to context-switch between processes. 
+प्रोिेिों के बीच कॉन्टेक्स्ट स्विच (Context Switch) करने के सलए कनेल द्व़ाऱा सकए ज़ाने व़ाले 
+क़ायों क़ा वणडन कीसजए। 
+2 
+K2 
+c. 
+Consider a system consisting of m resources of the same type being shared by n 
+processes. A process can request or release only one resource at a time. Show that the 
+system is deadlock free if the following two conditions hold:  
+i. The maximum need of each process is between one resource and m resources.  
+ii. The sum of all maximum needs is less than m + n. 
+एक ऐिे सिस्टम पर सवच़ार कीसजए सजिमें एक ही प्रक़ार के 𝑚िंि़ाधन, 𝑛प्रसिय़ाओं द्व़ाऱा ि़ाझ़ा 
+सकए ज़ा रहे हैं। एक प्रसिय़ा एक िमय में केवल एक िंि़ाधन क़ा अनुरोध य़ा ररलीज कर िकती 
+है। यह सिद्ध कीसजए सक सनम्नसलस्वित दो शतों के पूऱा होने पर सिस्टम िेिलॉक-फ्री (Deadlock 
+Free) है: 
+i. प्रत्येक प्रसिय़ा की असधकतम आवश्यकत़ा एक िंि़ाधन िे लेकर 𝑚 िंि़ाधनों के बीच है। 
+ii. िभी प्रसिय़ाओं की असधकतम आवश्यकत़ाओं क़ा योग 𝑚+ 𝑛िे कम है। 
+3 
+K3 
+d. 
+Explain the working of the Translation Lookaside Buffer (TLB) along with the page 4 
+K2",pymupdf,2026
+02-2026-a.pdf,2,"QP26E_290
+ | 20-May-2026 2:28:34 PM | 117.55.242.134
+QP26E_290 | 20-May-2026 2:28:34 PM | 117.55.242.134
+Printed Page: 2 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+table in address translation, with a neat diagram. 
+एिरेि  ऱांिलेशन में पेज  ेबल के ि़ाथ  ऱांिलेशन लुकअि़ाइि बफर (TLB) के क़ायड करने की 
+प्रसिय़ा को एक ि़ाफ-िुथरे आरेि के ि़ाथ िमझ़ाइए। 
+e. 
+What are the advantages of using RAID architecture in disk drive? Explain in detail.  
+सिस्क िऱाइव में RAID आसकड ेक्चर के उपयोग के क्य़ा ल़ाभ हैं? सवस्त़ार िे िमझ़ाइए। 
+5 
+K2 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+What is the main advantage of the microkemel approach to system design? How do user 
+programs and system services interact in a microkernel architecture? 
+सिस्टम सिज़ाइन में म़ाइिोकनेल (Microkernel) दृसिकोण क़ा मुख्य ल़ाभ क्य़ा है? म़ाइिोकनेल 
+आसकड ेक्चर में यूजर प्रोग्ऱाम और सिस्टम िेव़ाएँ सकि प्रक़ार परस्पर सिय़ा (interact) करती हैं? 
+1 
+K2 
+b. 
+Discuss the classification of operating systems and provide real-world examples for each 
+type. 
+ऑपरेस ंग सिस्टम के वगीकरण पर चच़ाड कीसजए तथ़ा प्रत्येक प्रक़ार के सलए व़ास्तसवक जीवन 
+(Real-world) के उद़ाहरण दीसजए। 
+ 
+K2 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Consider the set of processes with arrival time (in milliseconds) and CPU burst time (in 
+milliseconds) shown below. None of the processes have I/O burst time. Draw the Gantt 
+chart and calculate the Average Waiting Time and Average Turnaround Time using the 
+preemptive Shortest Job First (SJF) scheduling algorithm. 
+Process  
+Arrival Time 
+Brust Time 
+P1 
+0 
+8 
+P2 
+1 
+6 
+P3 
+2 
+9 
+P4 
+3 
+3 
+P5 
+4 
+4 
+उपरोक्त दी गई त़ासलक़ा में दश़ाडए गए Processes के िमूह पर सवच़ार कीसजए, सजनके आगमन 
+िमय (समलीिेकंि में) और CPU बस्टड िमय (समलीिेकंि में) सदए गए हैं। सकिी भी प्रसिय़ा क़ा 
+I/O बस्टड िमय नहीं है। गैं  च़ा ड बऩाइए तथ़ा प्रीएस्वटिव शॉ ेस्ट जॉब फस्टड (SJF) शेड्यूसलंग 
+एल्गोररद्म क़ा उपयोग करते हुए औित प्रतीक्ष़ा िमय (Average Waiting Time) और औित 
+ नडअऱाउंि िमय (Average Turnaround Time) की गणऩा कीसजए। 
+2 
+K3 
+b. 
+What is a Process Control Block? Explain its role in process management. 
+प्रोिेि कं रोल ब्लॉक (Process Control Block) क्य़ा है? प्रोिेि प्रबंधन में इिकी भूसमक़ा को 
+िमझ़ाइए। 
+2 
+K2 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO Level 
+a. 
+What do you mean by critical section? how semaphore can be used to ensure 
+synchronization in critical section? Each process Pi, i =1…….9 is coded as follows: 
+Repeat 
+3 
+K2,K
+3",pymupdf,2026
+02-2026-a.pdf,3,"QP26E_290
+ | 20-May-2026 2:28:34 PM | 117.55.242.134
+QP26E_290 | 20-May-2026 2:28:34 PM | 117.55.242.134
+Printed Page: 3 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+  P(mutex){ 
+  critical section 
+  } 
+  V(mutex) 
+  Forever 
+The code for P10 is identical except that it uses V(mutex) in place of P(mutex). What is 
+the largest number of processes that can be inside the critical section at any moment? 
+Explain. 
+सिस कल िेक्शन (Critical Section) िे आप क्य़ा िमझते हैं? सिस कल िेक्शन में सिंिोऩाइजेशन 
+िुसनसित करने के सलए िेम़ाफोर (Semaphore) क़ा उपयोग कैिे सकय़ा ज़ा िकत़ा है? प्रत्येक 
+प्रसिय़ा 𝑃𝑖, जह़ाँ 𝑖= 1िे 9तक, उपरोक्त प्रक़ार िे कोसित है।  
+P10 के सलए कोि भी िम़ान है, केवल इिमें 𝑃(𝑚𝑢𝑡𝑒𝑥)के स्थ़ान पर 𝑉(𝑚𝑢𝑡𝑒𝑥)क़ा उपयोग सकय़ा 
+गय़ा है। सकिी भी िमय असधकतम सकतनी प्रसिय़ाएँ सिस कल िेक्शन के अंदर हो िकती हैं? 
+िमझ़ाइए। 
+b. 
+Consider the following snapshot of a system: 
+ 
+Allocation 
+ABCD 
+Max 
+ABCD 
+Available 
+ABCD 
+T0 
+0 0 1 2 
+0 0 1 2 
+1 5 2 0 
+T1 
+1 0 0 0 
+1 7 5 0 
+ 
+T2 
+1 3 5 4  
+2 3 5 6 
+ 
+T3 
+0 6 3 2  
+0 6 5 2 
+ 
+T4 
+0 0 1 4  
+0 6 5 6 
+ 
+Answer the following questions using the banker’s algorithm: 
+i. 
+What is the content of the matrix Need? 
+ii. 
+Is the system in a safe state? 
+iii. 
+If a request from thread T1 arrives for (0,4,2,0), can the request be granted 
+immediately? 
+सिस्टम के उपरोक्त स्नैपशॉ  पर सवच़ार कीसजए: 
+बैंकर के एल्गोररद्म (Banker’s Algorithm) क़ा उपयोग करते हुए सनम्न प्रश्ों के उत्तर दीसजए: 
+i. Need मैस रक्स की ि़ामग्री क्य़ा है? 
+ii. क्य़ा सिस्टम िुरसक्षत अवस्थ़ा (Safe State) में है? 
+iii. यसद थ्रेि T1द्व़ाऱा (0, 4, 2, 0) क़ा अनुरोध आत़ा है, तो क्य़ा इि अनुरोध को तुरंत िीक़ार सकय़ा 
+ज़ा िकत़ा है? िमझ़ाइए। 
+3 
+K3 
+ 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO Level 
+a. 
+Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in 
+order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 
+KB, 417 KB, 112 KB, and 426 KB (in order)? Which algorithm makes the most efficient 
+use of memory? 
+100 KB, 500 KB, 200 KB, 300 KB और 600 KB (िम में) के प़ाँच मेमोरी प़ास डशन सदए गए 
+हैं। फस्टड-सफ  (First-Fit), बेस्ट-सफ  (Best-Fit) और वस्टड-सफ  (Worst-Fit) एल्गोररद्म 212 KB, 
+417 KB, 112 KB और 426 KB (िम में) के प्रोिेिों को कैिे आवंस त करेंगे? कौन-ि़ा एल्गोररद्म 
+मेमोरी क़ा िबिे कुशल उपयोग करत़ा है? 
+4 
+K3 
+b. 
+Consider the virtual page reference string 
+4 
+K3",pymupdf,2026
+02-2026-a.pdf,4,"QP26E_290
+ | 20-May-2026 2:28:34 PM | 117.55.242.134
+QP26E_290 | 20-May-2026 2:28:34 PM | 117.55.242.134
+Printed Page: 4 of 4 
+  
+Subject Code:BCS401 
+ 0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+OPERATING SYSTEM 
+TIME: 3 HRS 
+M.MARKS: 70 
+ 
+4 | P a g e 
+ 
+1, 
+2, 
+3, 
+4, 
+2, 
+1, 
+5, 
+6, 
+2, 
+1, 
+2, 
+3, 
+7, 
+6, 
+3, 
+2, 
+1, 
+2, 
+3, 
+6.  
+on a demand paged virtual memory system running on a computer system that has main 
+memory size of  4 page frames which are initially empty. How many pages faults will 
+occur if the program uses: LRU and Optimal Page replacement techniques. 
+सनम्नसलस्वित वचुडअल पेज रेफरेंि स्वस्टरंग पर सवच़ार कीसजए: 
+1, 2, 3, 4, 2, 1, 5, 6, 2, 1, 2, 3, 7, 6, 3, 2, 1, 2, 3, 6 
+एक सिम़ांि पेज्ड वचुडअल मेमोरी सिस्टम पर, जो ऐिे कंप्यू र सिस्टम पर चल रह़ा है सजिमें मुख्य 
+मेमोरी क़ा आक़ार 4 पेज फ्रेम है और जो प्ऱारंभ में ि़ाली हैं। यसद प्रोग्ऱाम सनम्न पेज ररप्लेिमें  
+तकनीकों क़ा उपयोग करत़ा है, तो सकतने पेज फॉल्ट्ि होंगे: 
+LRU (Least Recently Used) और Optimal Page Replacement तकनीक। 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Consider 
+a 
+disk 
+queue 
+with 
+requests 
+for 𝐼/𝑂 to 
+blocks 
+on 
+cylinders 47,38,121,191,87,11,92,10.  The head is initially at cylinder number 63, 
+moving towards larger cylinder numbers on its servicing pass. The cylinders are 
+numbered from 0 to 199. What is the total head movement (in number of cylinders) 
+incurred while servicing these requests if C-SCAN and C-LOOK disk scheduling 
+algorithms are used?  
+सिस्क क्यू पर सवच़ार कीसजए सजिमें I/O के सलए सिसलंिरों 47, 38, 121, 191, 87, 11, 92, 10 पर 
+अनुरोध हैं। सिस्क हेि प्ऱारंभ में सिसलंिर िंख्य़ा 63 पर है और अपनी िसवडसिंग सदश़ा में बडे 
+सिसलंिर नंबरों की ओर बढ़ रह़ा है। सिसलंिरों की िंख्य़ा 0 िे 199 तक है। 
+यसद C-SCAN और C-LOOK सिस्क शेड्यूसलंग एल्गोररद्म क़ा उपयोग सकय़ा ज़ाए, तो इन 
+अनुरोधों को िसवडि करते िमय कुल हेि मूवमें  (सिसलंिरों की िंख्य़ा में) सकतऩा होग़ा? 
+5 
+K3 
+b. 
+Explain the followings in detail: 
+i. 
+Direct Memory Access 
+ii. 
+Interrupt 
+iii. 
+Polling 
+सनम्नसलस्वित को सवस्त़ार िे िमझ़ाइए: 
+i. ि़ायरेक्ट मेमोरी एक्सेि (Direct Memory Access) 
+ii. इं रि (Interrupt) 
+iii. पोसलंग (Polling) 
+5 
+K2",pymupdf,2026
+03-2025.pdf,1,"QP25EP1_290
+ | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+QP25EP1_290 | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+Printed Page: 1 of 4 
+  
+Subject Code: BCS401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+02 x 7 = 14 
+Q 
+no. 
+Question 
+CO 
+Level 
+a.  What are the primary functions of an operating system? 
+ऑपरेिटंग िसːम के मुƥ कायŊ Ɛा हœ? 
+1 
+K2 
+b.  A system has 3 processors and 5 programs ready for execution. In how many 
+ways can the processors be assigned to the programs assuming each processor 
+executes one program at a time? 
+एक system मŐ 3 Ůोसेसर हœ और 5 ŮोŤाम िन˃ादन (execution) के िलए तैयार हœ। यिद Ůȑेक 
+Ůोसेसर एक समय मŐ एक ही ŮोŤाम िन˃ािदत करता है, तो Ůोसेसरों को ŮोŤामों के िलए िकतने 
+तरीकों से आवंिटत िकया जा सकता है? 
+2 
+K3 
+c.  What is the difference between a process and a program? 
+Process और Program मŐ Ɛा अंतर है? 
+2 
+K2 
+d.  In a Producer-Consumer system, the buffer size is 4. If Producer produces 6 
+items and Consumer consumes 3, find the number of items in the buffer at the 
+end. 
+एक उȋादक-उपभोƅा Ůणाली  (Producer-Consumer system) मŐ बफ़र का आकार 
+(size) 4 है। यिद उȋादक (Producer) 6 items उȋɄ करता है और उपभोƅा  
+(Consumer) 3 items उपभोग करता है, तो अंत मŐ बफ़र मŐ िकतनी items बचŐगी? 
+3 
+K3 
+e.  A process executes the following code:  
+fork(); 
+fork(); 
+fork(); 
+How many processes are created in total, including the original? 
+एक Process िनɻिलİखत कोड िन˃ािदत (executes) करती है: 
+fork(); 
+fork(); 
+fork(); 
+मूल ŮिŢया सिहत कुल िकतनी Processes बनाई जाएँगी? 
+2 
+K3 
+f.  List three components stored in a PCB. 
+PCB मŐ संŤिहत तीन घटकों की सूची बनाइए। 
+2 
+K1 
+g.  What is the purpose of a page replacement algorithm? 
+Page replacement एʎोįरदम का उȞेʴ Ɛा है? 
+4 
+K2 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+a. 
+Explain the process concept in detail with its states and state transition diagram. 
+Process अवधारणा को उसकी अव˕ाओं और अव˕ा संŢमण आरेख (state transition) 
+के साथ िवˑार से समझाइए है। 
+2 
+K2",pymupdf,2025
+03-2025.pdf,2,"QP25EP1_290
+ | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+QP25EP1_290 | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+Printed Page: 2 of 4 
+  
+Subject Code: BCS401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+b. 
+Consider the set of processes with arrival time (in milliseconds). CPU burst 
+time (in milliseconds), and priority (0 is the highest priority) shown below. 
+None of the processes have I/O burst time. 
+ 
+Process 
+Arrival Time 
+Burst Time 
+Priority 
+P1 
+0 
+11 
+2 
+P2 
+5 
+28 
+0 
+P3 
+12 
+2 
+3 
+P3 
+2 
+10 
+1 
+P5 
+9 
+16 
+4 
+ 
+Draw the Gantt chart and find average waiting time using preemptive priority 
+scheduling algorithm. 
+िनɻ तािलका मŐ िदए गए Processes के आगमन समय (िमलीसेकंड मŐ), CPU बːŊ समय 
+(िमलीसेकंड मŐ) तथा Ůाथिमकता (0 सवŖǄ Ůाथिमकता है) पर िवचार करŐ। िकसी भी ŮिŢया मŐ 
+I/O बːŊ समय नहीं है। 
+Process 
+Arrival Time 
+Burst Time 
+Priority 
+P1 
+0 
+11 
+2 
+P2 
+5 
+28 
+0 
+P3 
+12 
+2 
+3 
+P3 
+2 
+10 
+1 
+P5 
+9 
+16 
+4 
+Preemptive priority scheduling एʎोįरदम का उपयोग करके गœट चाटŊ बनाइए और 
+औसत ŮतीƗा समय ǒात कीिजए। 
+2 
+K3 
+c. 
+Compare and contrast FCFS, SJF, and Round Robin scheduling algorithms. 
+FCFS, SJF और राउंड रॉिबन scheduling एʎोįरदम की तुलना कीिजए और उनके बीच 
+अंतर ˙ʼ कीिजए। 
+2 
+ 
+d. 
+In optimal page replacement algorithm, information about all future page 
+references is available to the operating system (OS). A modification of the 
+optimal page replacement algorithm is as follows:  
+The OS correctly predicts only up to next 4 page references (including the 
+current page) at the time of allocating a frame to a page. A process accesses the 
+pages in the following order of page numbers: 
+                           1, 3, 2, 4, 2, 3, 1, 2, 4, 3, 1, 4. 
+If the system has three memory frames that are initially empty, find the number 
+of page faults that will occur during execution of the process. 
+ऑिɐमल पेज replacement एʎोįरदम मŐ, ऑपरेिटंग िसːम (OS) को सभी भिवˈ के पेज 
+संदभŘ की जानकारी उपलɩ होती है। इस एʎोįरदम का एक संशोिधत ŝप इस Ůकार है: 
+OS को िकसी पेज को ůेम आवंिटत करते समय वतŊमान पेज सिहत केवल अगले 4 पेज संदभŘ 
+की सही जानकारी होती है। एक process िनɻिलİखत Ţम मŐ पेजों को एƛेस करती है: 
+1, 3, 2, 4, 2, 3, 1, 2, 4, 3, 1, 4। 
+यिद िसːम मŐ तीन मेमोरी ůेम हœ जो Ůारंभ मŐ खाली हœ, तो process के िन˃ादन के दौरान 
+कुल िकतने पेज फॉʐ होंगे, ǒात कीिजए। 
+  4 
+ 
+e.",pymupdf,2025
+03-2025.pdf,3,"QP25EP1_290
+ | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+QP25EP1_290 | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+Printed Page: 3 of 4 
+  
+Subject Code: BCS401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Discuss the differences between Batch, Interactive, and Time Sharing 
+Operating Systems with real-world applications. 
+बैच, इंटरैİƃव और टाइम शेयįरंग ऑपरेिटंग िसːम के बीच अंतर पर चचाŊ कीिजए तथा इनके 
+वाˑिवक जीवन मŐ उपयोगों को उदाहरण सिहत समझाइए। 
+2 
+K2 
+b. 
+Two semaphores S1 and S2 are both initialized to 1. Process P1 executes 
+wait(S1); wait(S2); and P2 executes wait(S2); wait(S1);. Explain how a 
+deadlock may occur and under what sequence. 
+दो सेमाफोर S1 और S2 दोनों की Ůारंिभक मान 1 है। Process P1 िनɻिलİखत Ţम मŐ 
+िन˃ािदत होती है: wait(S1); wait(S2); और Process  P2 िन˃ािदत होती है: wait(S2); 
+wait(S1);। समझाइए िक िकस Ůकार डेडलॉक हो सकता है और िकस Ţम मŐ हो सकता है। 
+ 
+3 
+K3 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Define the Critical Section Problem and list the conditions that a solution must 
+satisfy. 
+िŢिटकल सेƕन सम˟ा को पįरभािषत कीिजए और वे शतŒ बताइए िजɎŐ इसका समाधान 
+पूरा करना चािहए। 
+3 
+K2 
+b. 
+A system shares 9 tape drives. The current allocation and maximum 
+requirement of tape drives for three processes are shown below: 
+ 
+Process 
+Current 
+Allocation 
+Maximum 
+Requirement 
+P1 
+3 
+7 
+P2 
+1 
+6 
+P3 
+3 
+5 
+ 
+Which of the following best describes current state of the system? Explain. 
+1. Safe, Deadlocked 
+2. Safe, Not Deadlocked 
+3. Not Safe, Deadlocked 
+4. Not Safe, Not deadlocked 
+एक system मŐ 9 टेप डŌ ाइव साझा िकए जाते हœ। तीन ŮिŢयाओं के िलए टेप डŌ ाइव का वतŊमान 
+आवंटन और अिधकतम आवʴकता िनɻिलİखत तािलका मŐ दी गई है: 
+Process 
+Current 
+Allocation 
+Maximum 
+Requirement 
+P1 
+3 
+7 
+P2 
+1 
+6 
+P3 
+3 
+5 
+िनɻ मŐ से कौन-सा िवकʙ system की वतŊमान İ˕ित को सबसे अǅी तरह दशाŊता है? 
+समझाइए। 
+1. Safe, Deadlocked 
+2. Safe, Not Deadlocked 
+3 
+K3",pymupdf,2025
+03-2025.pdf,4,"QP25EP1_290
+ | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+QP25EP1_290 | 26-Jul-2025 1:32:20 PM | 117.55.242.134
+Printed Page: 4 of 4 
+  
+Subject Code: BCS401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+4 | P a g e 
+ 
+3. Not Safe, Deadlocked 
+4. Not Safe, Not deadlocked 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Discuss the limitations of Dekker’s and Peterson’s solutions when applied to 
+modern multiprocessor architectures. 
+आधुिनक मʐीŮोसेसर आिकŊ टेƁर पर लागू होने पर डेſर और पीटरसन के समाधानों की 
+सीमाओं (limitations) पर चचाŊ कीिजए। 
+3 
+K2 
+b. 
+Explain file directories and directory structures in operating systems. 
+ऑपरेिटंग िसːम मŐ फ़ाइल डायरेƃरी और डायरेƃरी संरचनाओं को समझाइए। 
+5 
+K2 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Discuss multiprogramming with variable partitions and how it improves 
+memory utilization. 
+Variable partitions के साथ मʐीŮोŤािमंग पर चचाŊ कीिजए और यह िकस Ůकार मेमोरी 
+उपयोग को बेहतर बनाती है, समझाइए। 
+4 
+K2 
+b. 
+Consider a disk queue with requests for I/O to blocks on cylinders 
+47,38,121,191,87,11, 92, 10. The C-LOOK scheduling algorithm is used. The 
+head is initially at cylinder number 63, moving towards larger cylinder numbers 
+on its servicing pass. The cylinders are numbered from 0 to 199. Calculate the 
+total head movement (in cylinders) required to service these requests. 
+िडˋ कतार (disk queue) मŐ िसिलंडर 47, 38, 121, 191, 87, 11, 92, 10 पर ɰॉकों के 
+िलए I/O अनुरोध िदए गए हœ। C-LOOK scheduling एʎोįरदम का उपयोग िकया गया है। 
+हेड Ůारंभ मŐ िसिलंडर संƥा 63 पर है और अपनी सेवा पास मŐ बड़े िसिलंडर नंबरों की ओर 
+बढ़ रहा है। िसिलंडरों की संƥा 0 से 199 तक है। इन अनुरोधों की सेवा के िलए कुल हेड 
+मूवमŐट (िसिलंडरों मŐ) की गणना कीिजए। 
+4 
+K3 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Consider a demand paging memory management system with 32-bit logical 
+address, 20-bit physical address, and page size of 2048 bytes. Assuming that the 
+memory is byte addressable, what is the maximum number of entries in the 
+page table? 
+32-िबट लॉिजकल address, 20-िबट िफिजकल address और 2048 बाइट्स पेज आकार 
+वाले िडमांड पेिजंग मेमोरी Ůबंधन system पर िवचार कीिजए। मान लीिजए िक मेमोरी बाइट 
+addressable है। पेज टेबल मŐ अिधकतम िकतनी Ůिविʼयाँ (entries) हो सकती हœ? 
+4 
+K3 
+b. 
+Discuss RAID 0, RAID 1, and RAID 5 in detail. 
+RAID 0, RAID 1 और RAID 5 के बारे मŐ िवˑार से चचाŊ कीिजए। 
+5 
+K2",pymupdf,2025
+04-2025-a.pdf,1,"QP25DP1_290
+ | 08-Jan-2025 1:53:09 PM | 117.55.242.132
+QP25DP1_290 | 08-Jan-2025 1:53:09 PM | 117.55.242.132
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KOT075 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM VII) THEORY EXAMINATION 2024-25 
+REAL TIME OPERATING SYSTEMS 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Q no. 
+Question 
+CO 
+Level 
+a.  
+How have advancements in hardware and software influenced RTOS 
+evolution? 
+1 
+K1, 
+K2 
+b.  
+Discuss importance of Real-Time Service Utility. 
+1 
+K1, 
+K2 
+c.  
+How do capacity and allocation strategies affect system performance? 
+2 
+K3 
+d.  
+What are the challenges associated with using shared memory? 
+2 
+K3 
+e.  
+Describe the principles of high reliability design in real-time systems. 
+3 
+K1, 
+K2 
+f.  
+What are the common pitfalls for designing reliable software for real-time 
+systems? 
+3 
+K1, 
+K2 
+g.  
+How can ECC memory enhance the reliability of shared memory operations? 
+4 
+K3 
+h.  
+Analyze the challenges of using flash file systems in real-time embedded 
+systems. 
+4 
+K3 
+i.  
+What techniques can be used to prevent or mitigate priority inversion? 
+3 
+K1, 
+K2 
+j.  
+How do missed deadlines affect QoS? 
+3 
+K1, 
+K2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 20 
+Q no. 
+Question 
+C
+O 
+Level 
+a. 
+Analyze the role of resource analysis in real-time embedded systems. 
+How does it impact the overall performance and reliability of an RTOS? 
+1 
+K1, 
+K2 
+b. 
+Define the concepts of blocking, deadlock, and livelock in the context 
+of multi-resource services in real-time systems. How can critical 
+sections be used to protect shared resources? 
+2 
+K3 
+c. 
+Compare path length, efficiency, and call frequency as fundamental 
+optimizations in real-time systems. How can these optimizations 
+improve system performance? 
+3 
+K1, 
+K2 
+d. 
+Discuss the intermediate I/O strategies in real-time embedded systems. 
+How do they enhance I/O performance? 
+4 
+K3 
+e. 
+Explain the role of firmware components in real-time embedded 
+systems. How do they interact with the RTOS and application software? 
+3 
+K1, 
+K2 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+Q no. 
+Question 
+C
+O 
+Level 
+a. 
+Discuss the importance of thread-safe reentrant functions in real-time 
+operating systems. How do they contribute to system stability and 
+reliability? 
+1 
+K1, 
+K2",pymupdf,2025
+04-2025-a.pdf,2,"QP25DP1_290
+ | 08-Jan-2025 1:53:09 PM | 117.55.242.132
+QP25DP1_290 | 08-Jan-2025 1:53:09 PM | 117.55.242.132
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KOT075 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM VII) THEORY EXAMINATION 2024-25 
+REAL TIME OPERATING SYSTEMS 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+2 | P a g e 
+ 
+b. 
+Explain the feasibility tests for preemptive fixed-priority scheduling. 
+How do the rate monotonic least upper bound and deadline-monotonic 
+policies differ in terms of feasibility? 
+1 
+K1, 
+K2 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+Q no. 
+Question 
+C
+O 
+Level 
+a. 
+Discuss the components of firmware in embedded systems. How do 
+these components interact with RTOS system software mechanisms? 
+2 
+K3 
+b. 
+Describe the process of debugging real-time embedded systems using 
+kernel scheduler traces. What insights can be gained from these traces? 
+2 
+K3 
+ 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Analyze the process of application-level debugging in real-time 
+systems. How does it differ from kernel-level debugging? 
+3 
+K1, 
+K2 
+b. 
+Explain the concept of drill-down tuning in performance optimization 
+of real-time systems. How can hardware-supported profiling and tracing 
+aid in this process? 
+3 
+K1, 
+K2 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Explain the cyclic executive model in detail. How does it manage task 
+scheduling and execution in real-time systems? 
+4 
+K3 
+b. 
+Analyze the impact of preemptive fixed priority scheduling on system 
+performance. How does it handle high-priority and low-priority tasks? 
+4 
+K3 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Explain the concept of kernel scheduler traces in debugging. How can 
+these traces be used to optimize system performance? 
+3 
+K1, 
+K2 
+b. 
+Analyze the significance of test access ports and trace ports in 
+debugging embedded systems. How do they facilitate the identification 
+and resolution of hardware and software issues? 
+3 
+K1, 
+K2",pymupdf,2025
+05-2024.pdf,1,"Printed Page: 1 of1
+BU QEDEDEN
+CTT
+ES
+Subject Code: BCS401
+=
++
+r
+PAPER ID411519
+N
+Roll No:
+|
+BTECH
+(SEM IV) THEORY EXAMINATION 2023-24
+हु
+*
+OPERATING SYSTEM
+TIME: 3 HRS
+M.MARKS: 70
+er
+I
+Note:
+1. Attempt all Sections. If require any missing data, then choose suitably.
+SECTION A
+1.
+Attempt afl questions in brief.
+2x7=14
+[a __| Whatis the primary fu
+What 15 the primary——
+of atv operating system?
+b.
+Define a batch processing system?
+7
+:
+Define the pnnciple of concurrency?
+न
+| Define a process state?
+—_—
+i
+——_——
+ _
+«०»
+le | Name one piece ofprocess identification information? *
+f.
+Define a resident monitor?
+g.
+Define au /O subsystem?
+~
+‘SECTION B
+2.
+Attempt any three of the following:
+7x3=21
+me
+a
+| Compare and contrast ume-sharine
+andeo
+operating system concepts?
+=. |
+.
+Expiain the challenges of achieving mutual exclusion in concurrent programming?
+9...
+c.
+| Explain the structure and contents of a Process Control Block (PCB)?
+_
+।
+98,
+-* Compare and contrast multiprogramming with fixed partitions and variable partitions?..
+je. | Compare
+| Compare and contrast different disk storage technologies, such as HDDs and SSDs?""
+.
+0
+os SECTION C
+ना
+३...
+Attempt any one part of the following:
+2 PY हातन
+पक
+Ein करcae a वकाथभयकसकेee गण२कल्तबन+
+| How does a multiuser operating system differ from a multiprocessing.system?
+—ttb)__| Explain the structure and com
+)
+| Explain the structure and components of an operating system witha layered architecture?
+—
+4.
+Attempt any one part ofthe following:
+के
+गा
+75157
+i (a)
+| Explore the concept of deadlock and how ita
+Occur “in concurreut systems, discussing
+{|
+|
+|__|
+prevention
+and avoidance techniques?
+__|/|__
+ss
+she
++s
+—_
+| (b)
+| Compare and contrast Dekker's and Peterson's algorithms for mutual exclusion, considering
+|
+their advantages and limitation?
+__
+5.
+Attempt any one part of the following:
+75157
+f(a)
+| Evaluate strategies for deadlock prevention, avoidance, Snesto an esoveny in concur
+and recovery in Concurrent
+___|systems.
+highhebting
+their effectiveness and trade-offs?
+i(b)
+| Define deadlock in operating systems, discussing the Cele mod and Conditions necessary |
+model and conditions necessary
+|<<
+_|
+fordeadlock
+occurrence?
+6.
+Attempt any ore part ofthe following:
+Ix l=7
+19).
+| Explain the principles of paging and Segmentation as memory management techniques,
+aS memory management techniques,
+“comparing
+their suitability for different systemarchitectures?”
+—
+1(b)_
+| Discuss virtual memory concepts, including address translation, page tables, and demand
+}
+|"" __paving mechanisms?
+तनत्ूू
+तूू
+""खूखू
+ख्9$£&«- -_#_|
+7.
+Attempt any ure part ofthe fullowing:
+75157
+| (a)
+Discuss the orgamzation of files within file ‘systems,a a
+“contiguous, linked, and
+-——__ indexed allocation methods?
+__
+_
+ €छृ
+है
+(0)
+Explain the structure and manavement of file directories, including hierarchical and flat
+——L directory structures?
+=
+a
+www.aktunotes.in",ocr,2024
+06-2024-c.pdf,1,"QP24DP1_290
+ | 18-01-2024 13:42:19 | 117.55.242.131
+QP24DP1_290 | 18-01-2024 13:42:19 | 117.55.242.131
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KOT075 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM VII) THEORY EXAMINATION 2023-24 
+REAL TIME OPERATING SYSTEMS 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Q no. 
+Question 
+Marks 
+a.  
+What is the need for a Real-Time Operating System (RTOS) ? 
+2 
+b.  
+Provide examples of applications where real-time systems are crucial. 
+2 
+c.  
+Discuss the differences between hard real-time and soft real-time systems. 
+2 
+d.  
+What are the key performance metrics used to evaluate the effectiveness of a 
+Real-Time Operating System (RTOS)? 
+2 
+e.  
+Define interrupt routines and their role in handling hardware and software 
+events in an RTOS. 
+2 
+f.  
+Explain the concept of task priority and how it influences task scheduling and 
+execution. 
+2 
+g.  
+Discuss the key differences between real-time databases and general-purpose 
+databases. 
+2 
+h.  
+Discuss the advantages and challenges associated with storing and managing 
+data primarily in main memory. 
+2 
+i.  
+Discuss the importance of understanding failure causes in the context of fault 
+tolerance. 
+2 
+j.  
+Write various fault detection methods employed in fault tolerance. 
+2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3= 30 
+a. 
+Compare and contrast the features of General-Purpose Operating Systems 
+(GPOS) and Real-Time Operating Systems (RTOS). 
+10 
+b. 
+Explain the concept of a cyclic executive scheduling algorithm. 
+10 
+c. 
+Explain the role of messages, queues, mailboxes, and pipes in a Real-Time 
+Operating System. How do these features facilitate communication between 
+tasks? 
+10 
+d. 
+How are transaction priorities assigned, and how do they influence the 
+scheduling and execution of transactions in RTOS? 
+10 
+e. 
+Define different types of faults, including hardware faults, software faults, 
+and transient faults. 
+10 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1= 10 
+a. 
+Explain how factors such as task scheduling, interrupt handling, and resource 
+management can impact the real-time performance of an RTOS. 
+10 
+b. 
+Provide an overview of the LINUX/UNIX operating system. 
+10",pymupdf,2024
+06-2024-c.pdf,2,"QP24DP1_290
+ | 18-01-2024 13:42:19 | 117.55.242.131
+QP24DP1_290 | 18-01-2024 13:42:19 | 117.55.242.131
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KOT075 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM VII) THEORY EXAMINATION 2023-24 
+REAL TIME OPERATING SYSTEMS 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+2 | P a g e 
+ 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1= 10 
+a. 
+Discuss scenarios where Rate Monotonic Scheduling is suitable and its 
+impact on system performance. 
+10 
+b. 
+How does Least Laxity Scheduling prioritize tasks based on their laxity, and 
+what advantages does this approach offer? 
+10 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1= 10 
+a. 
+Explain the trade-offs involved in RTOS design decisions and their impact 
+on system performance. 
+10 
+b. 
+Explain how timers are used to enforce timing constraints and deadlines. 
+10 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1= 10 
+a. 
+Discuss the advantages and disadvantages of each concurrency control 
+approach in real-time databases. 
+10 
+b. 
+Provide an overview of disk scheduling algorithms used in real-time 
+databases. 
+10 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1= 10 
+a. 
+Explain the strategies and mechanisms used to contain faults and prevent 
+them from spreading to other parts of the system. 
+10 
+b. 
+Explain how time redundancy techniques, such as retry mechanisms and 
+time-based voting, are used to address transient faults. 
+10",pymupdf,2024
+07-2024-b.pdf,1,"QP24EP2_290
+ | 23-Aug-2024 1:34:09 PM | 117.55.242.132
+QP24EP2_290 | 23-Aug-2024 1:34:09 PM | 117.55.242.132
+ 
+Printed Page: 1 of 1 
+  
+Subject Code: BCS401 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2023-24 
+OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+SECTION A 
+ 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.  
+What is the primary function of an operating system? 
+b.  
+Define a batch processing system? 
+c.  
+Define the principle of concurrency? 
+d.  
+Define a process state? 
+e.  
+Name one piece of process identification information? 
+f.  
+Define a resident monitor? 
+g.  
+Define an I/O subsystem? 
+SECTION B 
+ 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.  
+Compare and contrast time-sharing and multiprogramming operating system concepts? 
+b.  
+Explain the challenges of achieving mutual exclusion in concurrent programming? 
+c.  
+Explain the structure and contents of a Process Control Block (PCB)? 
+d.  
+Compare and contrast multiprogramming with fixed partitions and variable partitions? 
+e.  
+Compare and contrast different disk storage technologies, such as HDDs and SSDs? 
+SECTION C 
+ 
+3. 
+Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+How does a multiuser operating system differ from a multiprocessing system? 
+(b) 
+Explain the structure and components of an operating system with a layered architecture? 
+ 
+4. 
+Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Explore the concept of deadlock and how it can occur in concurrent systems, discussing 
+prevention and avoidance techniques? 
+(b) 
+Compare and contrast Dekker's and Peterson's algorithms for mutual exclusion, considering 
+their advantages and limitation? 
+ 
+5. 
+Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Evaluate strategies for deadlock prevention, avoidance, detection, and recovery in concurrent 
+systems, highlighting their effectiveness and trade-offs? 
+(b) 
+Define deadlock in operating systems, discussing the system model and conditions necessary 
+for deadlock occurrence? 
+ 
+6. 
+Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Explain the principles of paging and segmentation as memory management techniques, 
+comparing their suitability for different system architectures? 
+(b) 
+Discuss virtual memory concepts, including address translation, page tables, and demand 
+paging mechanisms? 
+ 
+7. 
+Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Discuss the organization of files within file systems, including contiguous, linked, and 
+indexed allocation methods? 
+(b) 
+Explain the structure and management of file directories, including hierarchical and flat 
+directory structures?",pymupdf,2024
+08-2024-a.pdf,1,"QP24DP1_290
+ | 02-02-2024 13:31:24 | 117.55.242.132
+QP24DP1_290 | 02-02-2024 13:31:24 | 117.55.242.132
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KOT055 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM V) THEORY EXAMINATION 2023-24 
+EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Q no. 
+Question 
+Marks 
+CO 
+a.  
+What is the primary purpose of an embedded operating system? 
+2 
+1 
+b.  
+Name two key components of the kernel in an embedded OS. 
+2 
+1 
+c.  
+List two popular open-source RTOS platforms and their key features. 
+2 
+2 
+d.  
+Define hard real time and soft real time.  
+2 
+2 
+e.  
+What is the purpose of a scheduler in a real-time kernel? 
+2 
+3 
+f.  
+How does a real-time kernel ensure deterministic behavior in task 
+execution? 
+2 
+3 
+g.  
+Define a semaphore and explain its use in real-time systems. 
+2 
+4 
+h.  
+How does FreeRTOS manage task synchronization. 
+2 
+4 
+i.  
+Provide an example of an embedded system where a real-time operating 
+system is crucial. 
+2 
+5 
+j.  
+What are cross compilers? 
+2 
+5 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10x3=30 
+a. 
+Compare and contrast monolithic and microkernel architectures in the 
+context of embedded operating systems. Highlight their advantages and 
+disadvantages. 
+10 
+1 
+b. 
+What are the main characteristics of open-source real-time operating 
+systems? Discuss the advantages and challenges associated with using 
+open-source RTOS in embedded systems. 
+10 
+2 
+c. 
+Explain the concept of task scheduling in real-time operating systems. 
+Describe various scheduling algorithms used in real-time kernels 
+10 
+3 
+d. 
+Compare and contrast VxWorks and FreeRTOS in terms of architecture, 
+features, and performance. In what scenarios would one be preferred 
+over the other? 
+10 
+4 
+e. 
+Explain the role and significance of simulators, debuggers, cross-
+compilers, and in-circuit emulators in the software development life 
+cycle for microcontrollers. 
+10 
+5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Discuss the role of interrupt handling in embedded systems and how it 
+contributes to achieving real-time responsiveness. 
+10 
+1 
+b. 
+Describe the process of task scheduling in embedded operating systems. 
+How does it impact the real-time performance of the system? 
+10 
+1",pymupdf,2024
+08-2024-a.pdf,2,"QP24DP1_290
+ | 02-02-2024 13:31:24 | 117.55.242.132
+QP24DP1_290 | 02-02-2024 13:31:24 | 117.55.242.132
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KOT055 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM V) THEORY EXAMINATION 2023-24 
+EMBEDDED SYSTEMS AND REAL TIME OPERATING SYSTEM 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+2 | P a g e 
+ 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Explain the role of file systems in RTOS and the challenges associated 
+with providing efficient file I/O operations in a real-time context. 
+10 
+2 
+b. 
+Describe the basic architecture of an RTOS, breaking down its 
+components and their roles in managing real-time tasks. 
+10 
+2 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Provide an in-depth analysis of the FreeRTOS scheduling algorithm. 
+How does it manage task priorities and deadlines to ensure real-time 
+responsiveness? 
+10 
+3 
+b. 
+What are the key differences between a standard Linux kernel and a real-
+time Linux kernel, and why might there be a need to convert a normal 
+kernel to a real-time variant? 
+10 
+3 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Provide an overview of the general architecture of I/O systems .Discuss 
+the importance of device drivers and their role in facilitating 
+communication between the operating system and peripheral devices. 
+10 
+4 
+b. 
+Describe how tasks are created, managed, and interact with interrupts in 
+real-time operating systems. 
+10 
+4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Discuss the key considerations, steps, and challenges involved in 
+adapting an OS/RTOS to specific hardware. How does this process 
+contribute to the overall performance and functionality of the embedded 
+system? 
+10 
+5 
+b. 
+Describe the best practices for testing a real-time application. Also 
+discuss the challenges specific to real-time applications and how these 
+differ from traditional software testing. 
+10 
+5",pymupdf,2024
+09-2023.pdf,1,"QP23EP2_290
+ | 10-08-2023 13:26:26 | 117.55.242.132
+QP23EP2_290 | 10-08-2023 13:26:26 | 117.55.242.132
+Printed Pages:03 
+Sub Code:KCS-401 
+Paper Id: 
+238341 
+                                     Roll No.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B.TECH. 
+(SEM IV) THEORY EXAMINATION 2022-23 
+OPERATING SYSTEMS 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+(a) Define two main functions of an operating system. 
+(b) Explain the principal advantages of multiprogramming. 
+(c) Define the term busy waiting. 
+(d) Define semaphore and its types. 
+(e) Explain starvation problem and its solution. 
+(f) 
+Explain internal and external fragmentation. 
+(g) Explain thrashing and locality of reference. 
+(h) Distinguish between physical and logical address space of a process. 
+(i) 
+Explain various operations associated with a file. 
+(j) 
+Explain tree level directory structure. 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+10x3=30 
+(a)
+Explain the following terms in detail: 
+(i) Multiprocessor operating system 
+(ii) Real time system 
+(iii) Time sharing system 
+(b)
+For the following processes, draw Gantt chart to illustrate the execution using, 
+(i) Preemptive priority scheduling 
+(ii) Non-Preemptive priority scheduling. 
+Also, Calculate average waiting time and average turnaround time. 
+(Assumption: A larger priority number has higher priority.) 
+ 
+Process
+Arrival Time
+Burst Time
+Priority
+A 
+0 
+5 
+4 
+B
+2
+4
+2
+C 
+2 
+2 
+6 
+D 
+4 
+4 
+3 
+ 
+ 
+ 
+ 
+(c)
+Consider the given snapshot of a system with five processes (P0,P1,P2,P3,P4) and three 
+resources (A,B,C). 
+ 
+Allocation 
+MAX 
+Available 
+Process/Resource
+A   B   C
+A    B    C
+A     B    C
+P0 
+1    1    2 
+4     3    3 
+2      1     0 
+P1
+2    1    2
+3     2    2
+P2 
+4    0    1 
+9     0    2 
+P3 
+0    2    0
+7     5    3
+P4 
+1    1    2 
+       11   2   3 
+ 
+(i) Calculate the content of Need Matrix. 
+(ii) Apply safety algorithm and check the current system is in safe state or not. 
+(iii) If the request from process P1 arrives for (1,1,0), can the request be granted 
+immediately?",pymupdf,2023
+09-2023.pdf,2,"QP23EP2_290
+ | 10-08-2023 13:26:26 | 117.55.242.132
+QP23EP2_290 | 10-08-2023 13:26:26 | 117.55.242.132
+(d)
+Define process and process control block. Also, describe process state transition 
+diagram in detail. 
+(e)
+Explain the concept of paging. Also, explain paging hardware support using TLB with 
+suitable diagram 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+(a)
+Explain the term RAID and its characteristics. Also, explain various RAID levels with 
+their advantages and disadvantages. 
+(b)
+Explain the concept of file system management. Also, explain various file allocation and 
+file access mechanisms in details.
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+(a)
+Explain producer consumer problem and its solution using semaphore. 
+(b)
+Explain dinning philosopher problem and its solution using semaphore. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+(a)
+Explain the concept of demand paging. Consider the given references to the following 
+pages by a program: 
+0,9,0,1,8,1,8,7,8,7,1,2,8,2,7,8,2,3,8,3 
+How many pages faults will occur if the program has three-page frames available to it 
+and uses: 
+(i) 
+FIFO replacement 
+(ii) 
+LRU replacement 
+(iii) 
+Optimal replacement
+(b)
+Explain the terms hit ratio and miss ratio. On a simple paged system, associative registers 
+hold the most active page entries and the full-page table is stored in main memory. If 
+references satisfied by associative registers take 100ns, and references through main 
+memory page table takes 180 ns, what must the hit ratio be to achieve an effective access 
+time of 125 ns? 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+(a)
+Explain the following terms: 
+(i) 
+Multilevel feedback Queue Scheduling 
+(ii) 
+Fixed portioning vs. variable partitioning  
+(b)
+Suppose the following disk request sequence (track numbers) for a disk with 100 tracks 
+is given: 45, 20, 90, 10, 50, 60, 80, 25, 70. Assume that the initial position of the R/W 
+head is on track 49. Calculate the net head movement using: 
+(i) 
+SSTF 
+(ii) 
+SCAN  
+(iii) 
+CSCAN 
+(iv) 
+LOOK 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+(a)
+Explain Deadlock and necessary conditions for deadlock. Also, Explain resource 
+allocation graph with suitable diagram.
+(b)
+Explain the followings: 
+(i) 
+Buffering 
+(ii) 
+Polling 
+(iii) 
+Direct Memory Access (DMA)",pymupdf,2023
+10-2023-2.pdf,1,"at
+03
+Sub Code:KCS-40]
+Printed
+Pages:03
+_
+.
+1 No. rr
+Paper Id:
+| 238341|
+}
+Roll
+No
+B.TECH.
+(SEM IV) THEORY EXAMINATION 2022-23
+OPERATING SYSTEMS
+Total Marks: 100
+Time: 3 Hours
+;
+Note: Attempt all Sections. If require any missing data: then choose suitably.
+SECTION A
+1.
+Attempt ai! questions in brief.
+2x 10=20
+(a)
+Define two main functions of an opcrating system.
+(b)
+Explain the principal advantages of multiprogramming.
+(c)
+Define the term busy waiting.
+(d)
+Define semaphore and its types.
+(e)
+Explain starvation problem and its solution.
+(H
+Explain internal and external fragmentation.
+(g)
+Explain thrashing and locality of reference.
+th)
+Distinguish between physical and logical address space of a process.
+(i)
+Explain various operations associated with a file. 4
+Qj)
+Explain tree level directory structure.
+O5
+roneC
+SECTION 9)
+Y
+८1,
+*
+2
+Attempt any three of the following: LQ Y cv
+1053-30
+(a)
+Explainthe following terms2४97
+ifs
+A. हु
+(i) Multiprocessor operating
+5
+फू
+(ti) Real time system
+‘So. +
+(ir)
+Time sharing 44ीकादथेमेQ
+nO
+(b)
+For the following processes_draw Gantt chart to illustrate the execution NOEs
+(i) Preemptive priority scheduling
+oe)a
+(i) Non-Preemptive priority scheduling.
+AY
+Also,
+Calculate average waiting time and average turnaround 15 .
+(Assumption: A larger priority number has higher priority.) Y
+a.""
+Arrival Time
+Burst
+Tne)
+|छाए
+80ee
+ee
+ey _
+—
+3 अ
+विलमाईअल
+0
+4
+>
+——_Qr -
+|
+|
+(c)
+Consider the given snapshot ofa syst ny th five rocesses (901 72
+resources (A.8.C),
+?
+(PO,P1.P2.P3,P4) and three
+Allabagioh
+MAX
+Available
+7] 12
+ee
+JPa
+[3.2 2
+Oo
+2 O
+मं
+§3
+Pa
+|
+cr?
+a
+का
+“ip Apply eaters tontent of Need Matrix.
+au) ifthe request जप, and check the current system is in safe state or not.
+immediately?
+Process PI arrives for (1.1.0). can the request be granted
+www.aktunotes.in",ocr,2023
+10-2023-2.pdf,2,"(8).
+Detine process and process control block. Also, describe process state transition
+chagram in detul
+(e)
+Explain the concept of paging. Also, explain paging hardware support using TLB with
+suttable diagram
+SECTION C
+a
+Attempt any one part of the following:
+10x1=10
+(a)
+Explain the term RAID and its characteristics. Also, explain various RAID levels with
+their advantages and disadvantages.
+(b)
+Explain the concept of file system.management. Also, explain various file allocation and
+file access mechanisms in details.
+~
+4.
+Attempt any one part of the following:
+10x1=10
+(a)
+Explain producer consumer problem and its solution using semaphore.
+(b)
+Explain dinning philosopher problem and its solution using semaphore.
+5.
+Attempt any one part of the following:
+10x1=10
+(a)
+Explain the concept of demand paging. Consider the given references to the following
+pages by a program:
+0.9,0,1,.8.1,8,7,8,7,1,2,8,2,7,8,2,3,8,3
+4
+How many pages faults will occur if the Progragyy
+s three-page frames available to it
+and uses:
+QS
+oD
+(i)
+FIFO replacement
+१,:
+(i) रणreplacement
+OY 7
+रु
+(iii)
+Optimal replacement
+Q
+(b)
+Explain the terms hit ratio andmike On asimple paged system, mma neg
+re “Ns हु
+hold
+the most active page cmt
+the full-page table is stored in main
+. If
+references satisfied by asset
+registers take 100ns. and references
+‘main
+memory page table takes F8ARs. what must the hil ratio be to achieve an ofieee access
+www.aktunotes.in
+८>\
+6.
+Attempt anyone part ofthe following:
+6°
+10x1=10
+(a) Explain the following terms:
+VYve) हु
+(i)
+Multilevel feedback Queue Scheduling
+- |
+(0)...
+Fixedportioning vs. variable partitioning
+Ne
+(b)
+Suppose the following disk request sequence Crackepum
+$) for a disk with 100 tracks
+15 given: 45, 20, 90, 10, 50, 60, 80, 25. 70. Ass
+at the initial position of the R/W
+head is on track 49. Calculate the net head mo@yet using:
+6)
+ SSTF
+a>७
+(i)
+SCAN
+Qy
+(1)
+=CSCAN
+Q
+(iv) LOOK
+ay
+7.
+Attempt uny one part of th
+कि
+:
+(a) Explain
+Dead! ‘
+* 1३०७
+[01-10
+“USXplain
+Deadlock
+and necessary conditions
+1:
+:
+k
+so
+:
+anocation graph with suitable diagram.
+=
+lor deadlock. “Also, Explain resource
+(b)
+Explain the followings:
+Q)
+Buffering
+(७).
+Polling
+(1).
+Direct Memory Access (DMA)
+www.aktunotes.in",ocr,2023
+11-2022.pdf,1,"Printed Page: 1 of 2 
+  
+Subject Code: KCS401 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2021-22 
+OPERATING SYSTEMS 
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  2*10 = 20 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Define Operating system and mention its major functions. 
+2 
+2 
+(b)  
+Briefly define the term Real Time Operating System. 
+2 
+1 
+(c)  
+What do you mean by Concurrent Processes? 
+2 
+2 
+(d)  
+Define Seek time and Latency time. 
+2 
+1 
+(e)  
+What do we need Scheduling? 
+2 
+3 
+(f)  
+What are the Performance Criteria in CPU Scheduling? 
+2 
+3 
+(g)  
+Explain  the  Logical  address  space  and  Physical  address  space 
+diagrammatically. 
+2 
+4 
+(h)  
+Explain in brief about the Multiprogramming with fixed partitions. 
+2 
+4 
+(i)  
+What do you mean by the safe state and an unsafe state? 
+2 
+5 
+(j)  
+What do you mean by the I/O Buffering? 
+2 
+5 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+  10*3 = 30 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Explain in detail about the File system protection and security. 
+10 
+5 
+(b)  
+Explain  in  detail  about  the  Mutual  Exclusion  and  Critical  Section 
+Problem. 
+10 
+2 
+(c)  
+Explain  in  detail  about  the  Process  Control  Block  (PCB)  in  CPU 
+Scheduling. 
+10 
+3 
+(d)  
+Explain in detail about the Disk storage and Disk scheduling. 
+10 
+4 
+(e)  
+Explain  in  detail  about  the  Multiuser  Systems  and  Multithreaded 
+Systems. 
+10 
+1 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+              10*1 = 10 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Write short notes on following. 
+i) 
+File system protection and security and 
+ii) 
+ Linked File allocation methods 
+10 
+5 
+(b)  
+Explain in detail about the Dining Philosopher Problem. 
+10 
+2",pymupdf,2022
+11-2022.pdf,2,"Printed Page: 2 of 2 
+  
+Subject Code: KCS401 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2021-22 
+OPERATING SYSTEMS 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10 *1 = 10 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Explain in detail about the Operating System services. 
+10 
+1 
+(b)  
+Explain in detail about the Threads and their management. 
+10 
+3 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10*1 = 10 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Explain about the concept of File concept. Define in detail about the 
+File organization and access mechanism. 
+10 
+4 
+(b)  
+A hard disk having 2000 cylinders, numbered from 0 to 1999. the 
+drive is currently serving the request at cylinder 143,and the previous 
+request was at cylinder 125.The status of the queue is as follows  
+86, 1470, 913, 1774,948,1509,1022,1750,130  
+What is the total distance (in cylinders) that the disk arm moves to 
+satisfy  the  entire  pending  request  for  each  of  the  following  disk-
+scheduling algorithms?  
+(i) 
+SSTF 
+(ii)  
+FCFS 
+10 
+5 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10*1 = 10 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Explain in detail about the Inter Process Communication models and 
+Schemes. 
+10 
+2 
+(b)  
+Explain in detail about the Monolithic and Microkernel Systems. 
+10 
+1 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10*1 = 10 
+Q.no 
+Questions 
+Marks  CO 
+(a)  
+Explain  in  detail  about  the  Deadlock  System  model  and  Deadlock 
+characterization. 
+10 
+3 
+(b)  
+Illustrate the following page-replacement algorithms.  
+i) 
+FIFO  
+ii) 
+Optimal Page Replacement 
+Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 
+for a memory with three frames. 
+10 
+4",pymupdf,2022
+12-2022-a.pdf,1,"QP22EP2_290
+ | 06-08-2022 13:32:03 | 117.55.242.132
+QP22EP2_290 | 06-08-2022 13:32:03 | 117.55.242.132
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KCS401 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2021-22 
+OPERATING SYSTEMS 
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  2*10 = 20 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Define Operating system and mention its major functions. 
+2 
+2 
+(b) 
+Briefly define the term Real Time Operating System. 
+2 
+1 
+(c) 
+What do you mean by Concurrent Processes? 
+2 
+2 
+(d) 
+Define Seek time and Latency time. 
+2 
+1 
+(e) 
+What do we need Scheduling? 
+2 
+3 
+(f) 
+What are the Performance Criteria in CPU Scheduling? 
+2 
+3 
+(g) 
+Explain the Logical address space and Physical address space 
+diagrammatically. 
+2 
+4 
+(h) 
+Explain in brief about the Multiprogramming with fixed partitions. 
+2 
+4 
+(i) 
+What do you mean by the safe state and an unsafe state? 
+2 
+5 
+(j) 
+What do you mean by the I/O Buffering? 
+2 
+5 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+  10*3 = 30 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Explain in detail about the File system protection and security. 
+10 
+5 
+(b) 
+Explain in detail about the Mutual Exclusion and Critical Section 
+Problem. 
+10 
+2 
+(c) 
+Explain in detail about the Process Control Block (PCB) in CPU 
+Scheduling. 
+10 
+3 
+(d) 
+Explain in detail about the Disk storage and Disk scheduling. 
+10 
+4 
+(e) 
+Explain in detail about the Multiuser Systems and Multithreaded 
+Systems. 
+10 
+1 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+              10*1 = 10 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Write short notes on following. 
+i) 
+File system protection and security and 
+ii) 
+ Linked File allocation methods 
+10 
+5 
+(b) 
+Explain in detail about the Dining Philosopher Problem. 
+10 
+2",pymupdf,2022
+12-2022-a.pdf,2,"QP22EP2_290
+ | 06-08-2022 13:32:03 | 117.55.242.132
+QP22EP2_290 | 06-08-2022 13:32:03 | 117.55.242.132
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KCS401 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2021-22 
+OPERATING SYSTEMS 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10 *1 = 10 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Explain in detail about the Operating System services. 
+10 
+1 
+(b) 
+Explain in detail about the Threads and their management. 
+10 
+3 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10*1 = 10 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Explain about the concept of File concept. Define in detail about the 
+File organization and access mechanism. 
+10 
+4 
+(b) 
+A hard disk having 2000 cylinders, numbered from 0 to 1999. the 
+drive is currently serving the request at cylinder 143,and the previous 
+request was at cylinder 125.The status of the queue is as follows  
+86, 1470, 913, 1774,948,1509,1022,1750,130  
+What is the total distance (in cylinders) that the disk arm moves to 
+satisfy the entire pending request for each of the following disk-
+scheduling algorithms?  
+(i) 
+SSTF 
+(ii) 
+FCFS 
+10 
+5 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10*1 = 10 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Explain in detail about the Inter Process Communication models and 
+Schemes. 
+10 
+2 
+(b) 
+Explain in detail about the Monolithic and Microkernel Systems. 
+10 
+1 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10*1 = 10 
+Q.no 
+Questions 
+Marks CO 
+(a) 
+Explain in detail about the Deadlock System model and Deadlock 
+characterization. 
+10 
+3 
+(b) 
+Illustrate the following page-replacement algorithms.  
+i) 
+FIFO  
+ii) 
+Optimal Page Replacement 
+Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 
+for a memory with three frames. 
+10 
+4",pymupdf,2022
+13-2021.pdf,1,"Printed Page: 1 of 1 
+  
+Subject Code: NCS075 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+B. TECH 
+(SEM VII) THEORY EXAMINATION 2020-21 
+ANDROID OPERATING SYSTEM 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note: Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+a.   Compare Android OS with IOS. 
+b.   Explain the static and dynamic elements of multimedia. 
+c.   How a typical HTTP request looks like? 
+d.   Why we need Android Adapter? 
+e.   What are the four states in Android Activity Life Cycle? 
+f.   How an event is handled in android? 
+g.   List the limitations while designing a widget. 
+h.   Mention the usage of On Touch Event () Method. 
+i.   State the appropriate method used for scanning wireless networks. 
+j.   Write short note on XML parsing. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+     
+ 
+ 
+ 
+10x3=30 
+a. 
+How to parse XML data in Android? 
+b. 
+Write the code for creating an application which is used to send a custom Broadcast intent. 
+c. 
+How the resources are organized in Android? Write the Code for Accessing the resources. 
+d. 
+Describe the role of Delvik Virtual Machine. 
+e. 
+How to launch the existing camera application to capture an image and display the result in 
+the form of bitmap? 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+What are the different types of topologies, explain with example? 
+b. 
+Explain in detail about Android Layouts. List out the attributes of layout. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Explain the in-app mechanism for playing audio and video. 
+b. 
+Describe the Android Architecture and difference between android architecture and android 
+stack. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Write the code for creating an application which is used to send a custom Broadcast intent. 
+b. 
+Describe how style and theme are applied to an activity? 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Create an application to capture the photo through the front camera and save it in SD card 
+b. 
+Create  a  simple  application  that  connects  to  the  network  and  perform  the  network 
+operations. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10x1=10 
+a. 
+Write short notes on  
+i.  Multi touch gestures. 
+ii.  How to send an email to the client from our application. 
+b. 
+Write a code for creating a tab layout to show different screen for each tab. Create three 
+tabs and set different images and screen for each tab.",pymupdf,2021
+14-2019.pdf,1,"Printed Pages: 02 
+Sub Code: NCS401 
+ 
+Page 1 of 2 
+ 
+Paper Id:  
+110247 
+                                      Roll No.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TECH. 
+(SEM IV) THEORY EXAMINATION 2018-19 
+OPERATING SYSTEM 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+a.  What do you mean by multitasking? 
+b.  Define kernel and names of type of kernel. 
+c.  Explain critical region? 
+d.  Write a short note on interprocess communication. 
+e.  What is process control block? 
+f.  Define scheduling with example. 
+g.  What do you mean by memory management? 
+h.  Define Paging? 
+i.  Explain RAID? 
+j.  Describe in term Directory system. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+     
+ 
+ 
+ 
+10x3=30
+  
+ 
+ 
+a. 
+Explain OS? Define the services provided by the operating system. 
+b. 
+Describe the Producer-Consumer problem with its suitable solution. 
+c. 
+Differentiate between user thread and kernel thread. What is thread cancellation? 
+d. 
+What are the necessary conditions to hold a deadlock in a system? 
+e. 
+Explain the difference between internal and external fragmentation. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following:  
+     
+ 
+ 
+ 
+10x1= 10 
+a. 
+Discuss the difference between a time-sharing system and real time system. 
+b. 
+What do you understand by system call? List and explain four system calls used for 
+process management. 
+ 
+4. 
+Attempt any one part of the following:  
+     
+ 
+ 
+ 
+10x1= 10 
+a. 
+Define semaphore. Give a scheme for implementation of semaphore primitives. 
+b. 
+Explain Dining Philosopher problem with its suitable solution. 
+ 
+5. 
+Attempt any one part of the following:  
+     
+ 
+ 
+ 
+10x1=10 
+a. 
+Consider the set of processes given in the table and the following scheduling 
+algorithms: 
+i. 
+Round Robin (Quantum=2) 
+ii. 
+SJF 
+http://www.aktunotes.in
+www.aktunotes.in",pymupdf,2019
+14-2019.pdf,2,"Printed Pages: 02 
+Sub Code: NCS401 
+ 
+Page 2 of 2 
+ 
+Draw the Gantt chart and find the average waiting time and turn-around time for the 
+algorithms. 
+Process ID Arrival Time
+Execution Time
+A 
+0 
+4 
+B 
+2 
+7 
+C 
+3 
+3 
+D 
+3.5 
+3 
+E 
+4 
+5 
+ 
+b. 
+Explain the various CPU scheduling techniques with Gantt charts clearly as 
+indicated by (process name, arrival time, process time) for the following (A,0,4), 
+(B,2,7), (C,3,2) and (D,2,2) for FCFS and SRTF. 
+ 
+6. 
+Attempt any one part of the following:  
+     
+ 
+ 
+ 
+10x1=10 
+a. 
+Write and explain Banker’s algorithm for avoidance of deadlock. 
+b. 
+Differentiate between Deadlock and Starvation in detail. 
+ 
+7.        Attempt any one part of the following:  
+     
+ 
+ 
+ 
+10x1=10 
+a. 
+Given memory partition of 100 K, 500 K, 200 K, 300 K, and 600 K (in order) how 
+would each of the first-fit, best-fit and worst-fit algorithms place processes of 212 
+K, 417 K, 112 K, and 426 K (in order)? Which algorithm makes the most efficient 
+use of memory? 
+b. 
+Define virtual memory concepts and also discuss replacement algorithms in brief. 
+ 
+ 
+http://www.aktunotes.in
+www.aktunotes.in",pymupdf,2019
+15-2019-a.pdf,1,"DR VIJAY KUMAR GUPTA
+ | 16-May-2019 08:57:43 | 45.115.62.2
+DR VIJAY KUMAR GUPTA | 16-May-2019 08:57:43 | 45.115.62.2
+ Printed Pages:2 
+Sub Code: RCS401 
+ 
+ 
+ 
+B.TECH 
+(SEM IV) THEORY EXAMINATION 2018-19 
+Operating System 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 2. Any special paper specific instruction. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a. Describe the typical elements of the process control block 
+b. What are the various scheduling criteria for CPU scheduling?  
+c. What is the main function of the memory-management unit? 
+d. Define seek time and latency time. 
+e. Define SCAN and C-SCAN scheduling algorithms. 
+1. What is a safe state and an unsafe state? 
+f. Explain the logical address space and physical address space 
+diagrammatically. 
+ 
+ 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a. Define Process. Explain various steps involved in change of a process state 
+with neat transition diagram. 
+ 
+b. Explain Batch operating system with example. 
+ 
+c. What is a Critical Section problem? Give the conditions that a solution to the 
+critical section problem must satisfy. 
+ 
+d. Illustrate the page-replacement algorithms 
+(i) 
+FIFO 
+(ii) 
+Optimal Page Replacement 
+ use the reference string  7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a 
+memory with three frames. 
+ 
+e. A hard disk having 2000 cylinders, numbered from 0 to 1999. the drive is 
+currently serving the request at cylinder 143,and the previous request was at 
+cylinder 125.The status of the queue is as follows 
+             86, 1470, 913, 1774,948,1509,1022,1750,130 
+What is the total distance (in cylinders) that the disk arm moves to satisfy the 
+entire pending request for each of the following disk-scheduling algorithms? 
+  (i)    SSTF 
+(ii)   FCFS 
+ 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) What is an Operating system? Describe the Operating-System Functions 
+ 
+(b) Write about monolithic kernel, layered, and microkernel structures of 
+operating systems. 
+ 
+Paper Id:  
+110255 
+                                      Roll No.",pymupdf,2019
+15-2019-a.pdf,2,"DR VIJAY KUMAR GUPTA
+ | 16-May-2019 08:57:43 | 45.115.62.2
+DR VIJAY KUMAR GUPTA | 16-May-2019 08:57:43 | 45.115.62.2
+ Printed Pages:2 
+Sub Code: RCS401 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Explain what semaphores are, their usage, implementation given to avoid 
+busy waiting and binary semaphores. 
+ 
+(b) What is Producer Consumer problem? How it can illustrate the classical 
+problem of synchronization? Explain. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Consider the following process: 
+ 
+Process 
+Arrival 
+Time 
+Burst 
+Time 
+P1 
+0 
+8 
+P2 
+1 
+4 
+P3 
+2 
+9 
+P4 
+3 
+5 
+ 
+ 
+What is the average waiting and turn around time for these process with 
+(i) 
+FCFS Scheduling 
+(ii) 
+Preemptive SJF Scheduling 
+ 
+(b) Consider the following snapshot of a system: 
+        
+  
+ 
+ 
+ 
+ 
+Answer the following questions using the banker’s algorithm: 
+1) What is the content of the matrix need? 
+2) Is the system in a safe state? 
+ 
+ 
+Allocated 
+Maximum 
+Available 
+Process 
+R1 
+R2 
+R3 
+R1 
+R2 
+R3 
+R1 
+R2 
+R3 
+P1 
+2 
+2 
+3 
+3 
+6 
+8 
+7 
+7 
+10 
+P2 
+2 
+0 
+3 
+4 
+3 
+3 
+ 
+ 
+ 
+P3 
+1 
+2 
+4 
+3 
+4 
+4 
+ 
+ 
+ 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Explain Paging with example. Differentiate Paging and Segmentation. 
+ 
+(b)  Explain the difference between External fragmentation and Internal 
+fragmentation. How to solve the fragmentation problem using paging. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) What are files and explain the access methods for files. 
+ 
+(b) Write short notes on : 
+     i) File system protection and security and 
+    ii) Linked File allocation methods",pymupdf,2019
+16-2019-2.pdf,1,"Printed Pages:2 
+Sub Code: RCS401 
+ 
+ 
+ 
+B.TECH 
+(SEM IV) THEORY EXAMINATION 2018-19 
+Operating System 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 2. Any special paper specific instruction. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a. Describe the typical elements of the process control block 
+b. What are the various scheduling criteria for CPU scheduling?  
+c. What is the main function of the memory-management unit? 
+d. Define seek time and latency time. 
+e. Define SCAN and C-SCAN scheduling algorithms. 
+1.  What is a safe state and an unsafe state? 
+f. Explain the logical address space and physical address space 
+diagrammatically. 
+ 
+ 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.  Define Process. Explain various steps involved in change of a process state 
+with neat transition diagram. 
+ 
+b.  Explain Batch operating system with example. 
+ 
+c.  What is a Critical Section problem? Give the conditions that a solution to the 
+critical section problem must satisfy. 
+ 
+d.  Illustrate the page-replacement algorithms 
+(i) 
+FIFO 
+(ii)  
+Optimal Page Replacement 
+ use the reference string  7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a 
+memory with three frames. 
+ 
+e.  A hard disk having 2000 cylinders, numbered from 0 to 1999. the drive is 
+currently serving the request at cylinder 143,and the previous request was at 
+cylinder 125.The status of the queue is as follows 
+             86, 1470, 913, 1774,948,1509,1022,1750,130 
+What is the total distance (in cylinders) that the disk arm moves to satisfy the 
+entire pending request for each of the following disk-scheduling algorithms? 
+  (i)    SSTF 
+(ii)   FCFS 
+ 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) What is an Operating system? Describe the Operating-System Functions 
+ 
+(b) Write about monolithic kernel, layered, and microkernel structures of 
+operating systems. 
+ 
+Paper Id:  
+110255 
+                                      Roll No.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+http://www.aktunotes.in
+www.aktunotes.in",pymupdf,2019
+16-2019-2.pdf,2,"Printed Pages:2 
+Sub Code: RCS401 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Explain what semaphores are, their usage, implementation given to avoid 
+busy waiting and binary semaphores. 
+ 
+(b) What is Producer Consumer problem? How it can illustrate the classical 
+problem of synchronization? Explain. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Consider the following process: 
+ 
+Process 
+Arrival 
+Time 
+Burst 
+Time 
+P1 
+0 
+8 
+P2 
+1 
+4 
+P3 
+2 
+9 
+P4 
+3 
+5 
+ 
+ 
+What is the average waiting and turn around time for these process with 
+(i) 
+FCFS Scheduling 
+(ii)  
+Preemptive SJF Scheduling 
+ 
+(b) Consider the following snapshot of a system: 
+        
+  
+ 
+ 
+ 
+ 
+Answer the following questions using the banker’s algorithm: 
+1) What is the content of the matrix need? 
+2) Is the system in a safe state? 
+ 
+ 
+Allocated 
+Maximum 
+Available 
+Process  R1  R2  R3  R1  R2  R3  R1  R2  R3 
+P1 
+ 2 
+2 
+3 
+3 
+6 
+8 
+7 
+7 
+10 
+P2 
+ 2 
+0 
+3 
+4 
+3 
+3 
+ 
+  
+  
+P3 
+ 1 
+2 
+4 
+3 
+4 
+4 
+ 
+  
+  
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Explain Paging with example. Differentiate Paging and Segmentation. 
+ 
+(b)  Explain the difference between External fragmentation and Internal 
+fragmentation. How to solve the fragmentation problem using paging. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) What are files and explain the access methods for files. 
+ 
+(b) Write short notes on : 
+     i) File system protection and security and 
+    ii) Linked File allocation methods 
+ 
+ 
+http://www.aktunotes.in
+www.aktunotes.in",pymupdf,2019
+17-2018-c.pdf,1,"Printed Pages : 2 
+Paper Code:NCS075 
+(Following Paper ID and Roll No. to be filled in your Answer Books) 
+PAPER ID :-1051 
+Roll No. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B.Tech 
+(Odd Sem.-VII) Theory Examination 2017-18 
+(Android Operating System) 
+Time:3 Hours  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks:100 
+Note: Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 
+ 
+SECTION – A 
+ 
+1. Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+a. Name the multiple facets of multimedia. Mention its advantages. 
+b. How a typical HTTP request looks like? 
+   c. Write short note on XML parsing. 
+   d. Why we need Android Adapter? 
+e. Explain the static and dynamic elements of multimedia. 
+ 
+f.  What are the four states in Android Activity Life Cycle ? 
+ 
+g. How an Event is handled in Android ? 
+ 
+h. Mention the Usage of On Touch Event() Method. 
+i.  Write down the code for a simple vertical layout with a textview and button. 
+j. Compare Android OS with IOS. 
+ 
+SECTION – B 
+2. Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a. What are the various different types of topologies, explain with example. 
+       b.   Explain the in-app mechanism for playing audio and video. 
+               . 
+       c.  How will you calculate the distance between two points? 
+ 
+       d.   How the resources are organized in Android ? Write the Code for Accessing the resources. 
+       e.   How to parse XML data in Android ? 
+SECTION – C 
+3. Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. Explain in detail about Android Layouts. List out the Attributes of Layout. 
+ 
+b. Describe the role of Delvik Virtual Machine. 
+ 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+17-2018-c.pdf,2,"4. Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. How to launch the existing camera application to capture an Image and Display the result in the 
+form of Bitmap ?  
+ 
+b. Describe the Android Architecture and difference between android architecture and 
+android stack. 
+5. Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+ 
+a. Write a code for creating a tab layout to show different screen for each tab. Create three 
+tabs and set different images and screen for each tab. 
+ 
+b. Define style and theme. How are they applied to an activity? 
+ 
+6. Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+ 
+a. Create a simple application that connects to the network and perform the network operations. 
+ 
+b. Discuss the following: 
+a) Preference Fragment 
+b) Relative Layout 
+  7. Attempt any one part of the following:  
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+ 
+a. i) Write short notes on multi touch gestures. 
+ii) How to send an email to the client from our application ? 
+ 
+b. Write the code for creating an application which is used to send a custom Broadcast intent. 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+18-2018-b.pdf,1,"Printed pages: 2 
+ 
+ 
+ 
+                                                   Sub Code ; ECS501 
+                                   
+ 
+ 
+ Roll No. 
+Paper    Id:                                                         
+B.TECH 
+(SEM. V) THEORY EXAMINATION 2017-18 
+OPERATING SYSTEM 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  1. 
+Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 2. 
+Any special paper specific instruction. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x10 = 20 
+a. Define kernel. 
+b. What are batch systems? 
+c. What is meant by context switch? 
+d. State the advantages of multiprocessor system. 
+e. What is the use of inter process communication? 
+f. What is Semaphores? 
+g. What do you understand by demand paging? 
+h. What is the basic function of paging? 
+i. 
+When does thrashing occur? 
+j. 
+What are device drivers? 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a. What is thrashing? Explain its advantages and disadvantages. Consider the following 
+pages of a reference string:  1, 2, 0, 3, 5, 1, 5, 7, 2, 0, 3, 5, 4, 1, 2, 5, 3, 7 
+Implement FCFS, LRU and optimal page replacement algorithm and calculate the 
+number of page fault and hit ratio by considering three frames in a block. 
+ 
+b. Discuss message-passing systems. Explain how message passing can be used to solve 
+to buffer Producer/Consumer problem with infinite buffer. 
+ 
+c. Define deadlock. List four necessary conditions for occurrence of deadlock. A system 
+contains 6 units of resource, and n processes that use the resource. What is the 
+maximum value of n for which the system will be deadlock free if the maximum 
+requirement of each process is 3? 
+ 
+d. Discuss various file allocation strategies for disk space management. What criteria 
+should be used in deciding which strategies is best utilize for a particular file? 
+ 
+e. Write short notes on : 
+(i) I/O Buffering 
+(ii) Sequential file 
+(iii) Indexed file. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 0 2
+3 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+18-2018-b.pdf,2,"SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+        
+ 
+10 x 1 =10 
+(a) What do you mean by thread?  How it is different from process? Explain various 
+thread models with their relative advantages and disadvantages. 
+(b) Consider a variant of Round-robin scheduling algorithm where the entries in the 
+ready queue are pointers to the processes. What would be the effect of putting two 
+pointers to the same process in the ready queue? What would be advantages and 
+disadvantages of this scheme? 
+ 
+ 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+       
+ 
+ 10 x 1 =10 
+(a)  What do you understand by critical section? Write and explain Peterson solution 
+to the critical section problem. 
+(b) How many page faults occur for optimal page replacement algorithm with 
+following reference string for four page frames:  
+1, 2, 3, 4, 5, 3, 4, 1, 6, 7, 8, 7, 8, 9, 7, 8, 9, 5, 4, 5, 4, 2 
+ 
+ 
+ 
+5. 
+Attempt any two parts of the following: 
+ 
+        
+ 
+5 x 2 = 10 
+ 
+(a) Discuss the evolution of operating system. 
+ 
+(b) Explain inter process communication. 
+ 
+(c) Explain bankers algorithm with example. 
+ 
+ 
+ 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+10 x 1 =10 
+(a) Draw and explain the process state transition diagram 
+(b) What is scheduling?  What criteria affect the scheduler performance? What are 
+the different principles which must be considered while selection of scheduling 
+algorithm? 
+ 
+ 
+ 
+7. 
+Attempt any two parts of the following: 
+ 
+ 
+ 
+5 x 2 = 10 
+(a) What is the difference between preemptive and non-preemptive scheduling? 
+Discuss the Multilevel Feedback Queue scheduling algorithm. 
+ 
+(b) Consider a logical address space of eight pages of 1024 words, each mapped onto 
+a physical memory of 32 frames then : 
+(i) How many bits are in logical address? 
+(ii) How many bits are in physical address? 
+ 
+(c) Explain multiprocessing system and time sharing system with example. 
+ 
+ 
+ 
+ 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+19-2018-a.pdf,1,"Printed Pages:02 
+Sub Code: RCS401 
+Paper Id:  1 1 0 4 3 1  
+                                     Roll No.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B.TECH 
+(SEM IV) THEORY EXAMINATION 2017-18 
+Operating System 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 2. Any special paper specific instruction. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a. Define Operating System. List the objectives of an operating system 
+b. What are the various scheduling criteria for CPU scheduling?  
+c. What is the use of inter process communication and context switching?  
+d. Write the difference between internal and external fragmentation.  
+e. What are the disadvantages of single contiguous memory allocation? 
+f. Discuss the usage of wait-for graph method.  
+g. Define Busy Waiting? How to overcome busy waiting using Semaphore 
+operations. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a. Explain briefly Layered Operating system structure with neat sketch. Also 
+explain protection and security.
+ 
+b. What is Dining Philosophers problem? Discuss the solution to Dining 
+philosopher’s problem using monitors.
+ 
+c. Consider the following snapshot of a system: 
+     
+  
+ 
+ 
+ 
+ 
+      Answer the following questions using the banker’s algorithm: 
+        1) What is the content of the matrix need? 
+        2) Is the system in a safe state?
+ 
+Allocated
+Maximum
+Available 
+Process 
+R1 
+R2 
+R3
+R1
+R2
+R3
+R1
+R2
+R3 
+P1
+2 
+2 
+3
+3
+6
+8
+7
+7
+10 
+P2
+2 
+0 
+3
+4
+3
+3
+ 
+P3
+1 
+2 
+4
+3
+4
+4
+ 
+ 
+d. Consider the following page reference string: 
+   1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6 
+How many page faults would occur for the optimal page replacement 
+algorithm, assuming three frames and all frames are initially empty. 
+ 
+e. Is it possible to have a deadlock involving only a single process? Explain. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Enumerate various Operating System components with their functions in 
+brief. 
+ 
+(b) Differentiate between  (with one suitable example): 
+         (i) Interactive and Batch processing System.  
+        (ii) Multiprogramming and Time Sharing System.
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7",pymupdf,2018
+19-2018-a.pdf,2,"(a) Discuss Mutual-exclusion implementation with test and set() 
+instruction. 
+ 
+(b) State the Critical Section problem. Illustrate the software based solution 
+to the Critical Section problem.
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Consider the following process: 
+Process 
+Arrival 
+Time 
+Burst 
+Time
+P1 
+0 
+8
+P2 
+1 
+4
+P3 
+2 
+9
+P4 
+3 
+5
+ 
+ 
+Draw Gantt chart and find the average waiting time and average turnaround 
+time: 
+(i) 
+FCFS Scheduling 
+(ii) 
+SRTF Scheduling\ 
+(b) Consider the following process: 
+Process Arrival 
+Time 
+Burst 
+Time
+Priority
+P1 
+0 
+6
+3
+P2 
+1 
+4
+1
+P3 
+2 
+5
+2
+P4 
+3 
+8
+4
+ 
+ 
+            Draw Gantt chart and find the average waiting time and average turnaround time:              
+(i) 
+ SRTF Scheduling 
+(ii) 
+ Round robin (time quantum:3) 
+6. Attempt any one part of the following:  
+ 
+ 
+ 
+          7 x 1 = 7 
+(a) What do you mean by Belady's anomaly? Which algorithm suffers from 
+Belady,s anomaly and how can it be rectified?
+ 
+(b)  What is Thrashing? What is the cause of Thrashing? How does the system 
+detect Thrashing? What can the system do to eliminate this problem? 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Discuss the Linked, Contiguous and Index and multilevel Indexing file 
+allocation schemes. Which allocation scheme will minimize the amount of space 
+required in directory structure and why?
+ 
+(b) Write short notes on : 
+     i) I/O Buffering  
+    ii) Disk storage and scheduling",pymupdf,2018
+20-2018-5.pdf,1,"Printed Pages:02,
+Sub Code: RCS401
+Paper Id: | 1) 1| 0| 4| 3) 1
+RollNo.| ] 1 | | | [| [ [ [|
+No.
+B.TECH
+(SEM IV) THEORY EXAMINATION 2017-18
+Operating System
+Time: 3 Hours
+Total Marks: 70
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+2. Any special paper specific instruction.
+SECTION A
+1.
+Attempt all questions in brief.
+2x7=14
+a.
+Define Operating System. List the objectives of an operating system
+b.
+What are the various scheduling criteria for CPU scheduling?
+c.
+What is the use of inter process communication and context switching?
+d.
+Write the difference between internal and external fragmentation.
+e.
+What are the disadvantages of single contiguous memory allocation?
+f.
+Discuss the usage of wait-for graph method.
+g.
+Define Busy Waiting? How to overcome busy waiting using Semaphore
+operations.
+SECTION B
+2.
+Attempt any three of the following:
+7x3=21
+a.
+Explain briefly Layered Operating system structure with neat sketch. Also
+explain protection and security.
+b.
+What is Dining Philosophers problem? Discuss the solution to Dining
+philosopher’s problem using monitors.
+c.
+Consider the following snapshot of a system:
+| 6 | 8 |
+|0|3|[
+4131 31_ | | |
+|
+|
+1
+|
+Answer the following questions using the banker’s
+algorithm:
+1) What is the content of the matrix need?
+2) Is the system in a safe state?
+d.
+Consider the following page reference string:
+1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6
+How many page faults would occur for the optimal page replacement
+algorithm, assuming three frames and all frames are initially empty.
+e.
+Is it possible to have a deadlock involving only a single process? Explain.
+SECTION C
+3.
+Attempt any one part of the following:
+7x1=7
+(a) Enumerate various Operating System components with their functions in
+brief.
+(b) Differentiate between (with one suitable example):
+(i) Interactive and Batch processing System.
+(ii) Multiprogramming and Time Sharing System.
+4.
+Attempt any one part of the following:
+75157
+www.aktunotes.in",ocr,2018
+20-2018-5.pdf,2,"(a) Discuss Mutual-exclusion implementation with test and set()
+instruction.
+(b) State the Critical Section problem. Illustrate the software based solution
+to the Critical Section problem.
+5.
+Attempt any one part of the following:
+7x1=7
+(a) Consider
+the following process:
+Process
+Arrival
+Burst
+Time
+Time
+[0
+[|$
+|
+|?
+ '
+Draw Gantt chart and find the average waiting time and average turnaround
+time:
+(i)
+FCFS Scheduling
+(01)
+SRTF Scheduling\
+(b) Consider
+the following
+process:
+Process | Arrival | Burst
+Priority
+Time
+Time
+fo
+[8 |
+Draw Gantt chart and find the average waiting time and average turnaround time:
+(i)
+SRTF Scheduling
+(11)
+Round robin (time quantum:3)
+6. Attempt any one part of the following:
+7Tx1=7
+(a) What do you mean by Belady's anomaly? Which algorithm suffers from
+Belady,s anomaly and how can it be rectified?
+(b) What is Thrashing? What is the cause of Thrashing? How does the system
+detect Thrashing? What can the system do to eliminate this problem?
+7.
+Attempt any one part of the following:
+75157
+(a) Discuss the Linked, Contiguous and Index and multilevel Indexing file
+allocation schemes. Which allocation scheme will minimize the amount of space
+required in directory structure and why?
+(b) Write short notes on
+:
+i) I/O Buffering
+ii) Disk storage and scheduling
+www.aktunotes.in",ocr,2018
+21-2018-2.pdf,1,"Printed Pages:02 
+Sub Code: NCS 401/RCS401 
+Paper Id:  1 1 0 4 2 1  
+                                     Roll 
+No.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B.TECH 
+(SEM IV) THEORY EXAMINATION 2017-18 
+Operating System 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+ 2. Any special paper specific instruction. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a. Define Operating System. List the objectives of an operating system 
+b. What are the various scheduling criteria for CPU scheduling?  
+c. What is the use of inter process communication and context switching?  
+d. Write the difference between internal and external fragmentation.  
+e. What are the disadvantages of single contiguous memory allocation? 
+f. Discuss the usage of wait-for graph method.  
+g. Define Busy Waiting? How to overcome busy waiting using Semaphore 
+operations.
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a. Explain briefly Layered Operating system structure with neat sketch. Also 
+explain protection and security.
+ 
+b. What is Dining Philosophers problem? Discuss the solution to Dining 
+philosopher’s problem using monitors.
+ 
+c. Consider the following snapshot of a system: 
+     
+  
+ 
+ 
+ 
+ 
+      Answer the following questions using the banker’s algorithm: 
+        1) What is the content of the matrix need? 
+        2) Is the system in a safe state?
+ 
+Allocated
+Maximum
+Available 
+Process 
+R1 
+R2 
+R3
+R1
+R2
+R3
+R1
+R2
+R3 
+P1
+2 
+2 
+3
+3
+6
+8
+7
+7
+10 
+P2
+2 
+0 
+3
+4
+3
+3
+ 
+P3
+1 
+2 
+4
+3
+4
+4
+ 
+ 
+d. Consider the following page reference string: 
+   1,2,3,4,2,1,5,6,2,1,2,3,7,6,3,2,1,2,3,6 
+How many page faults would occur for the optimal page replacement algorithm, 
+assuming three frames and all frames are initially empty.
+ 
+e. Is it possible to have a deadlock involving only a single process? Explain. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Enumerate various Operating
+nts with their functions in 
+brief. 
+ 
+(b) Differentiate between  (with 
+ple): 
+         (i) Interactive and Batch pr
+  
+        (ii) Multiprogramming and 
+tem.
+ 
+4. 
+Attempt any one part of the foll
+ 
+ 
+ 
+7 x 1 = 7 
+http
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+21-2018-2.pdf,2,"(a) Discuss Mutual-exclusion implementation with test and set() instruction. 
+ 
+(b) State the Critical Section problem. Illustrate the software based solution 
+to the Critical Section problem.
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Consider the following process: 
+Process 
+Arrival 
+Time 
+Burst 
+Time
+P1 
+0 
+8
+P2 
+1 
+4
+P3 
+2 
+9
+P4 
+3 
+5
+ 
+ 
+Draw Gantt chart and find the average waiting time and average turnaround time: 
+(i) 
+FCFS Scheduling 
+(ii) 
+SRTF Scheduling\ 
+(b) Consider the following process: 
+Process
+Arrival 
+Time 
+Burst 
+Time
+Priority
+P1 
+0 
+6 
+3
+P2 
+1 
+4 
+1
+P3 
+2 
+5 
+2
+P4 
+3 
+8 
+4
+ 
+ 
+            Draw Gantt chart and find the average waiting time and average turnaround time:              
+(i) 
+ SRTF Scheduling 
+(ii) 
+ Round robin (time quantum:3) 
+6. Attempt any one part of the following:  
+ 
+ 
+ 
+          7 x 1 = 7 
+(a) What do you mean by Belady's anomaly? Which algorithm suffers from 
+Belady,s anomaly and how can it be rectified?
+ 
+(b)  What is Thrashing? What is the cause of Thrashing? How does the system 
+detect Thrashing? What can the system do to eliminate this problem? 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) Discuss the Linked, Contiguous and Index and multilevel Indexing file 
+allocation schemes. Which allocation scheme will minimize the amount of space 
+required in directory structure and why?
+ 
+(b) Write short notes on : 
+     i) I/O Buffering  
+    ii) Disk storage and scheduling
+ 
+ 
+http
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2018
+22-2017.pdf,1,"Printed Pages : 1 
+Roll No. 
+ 
+NCS401 
+B. TECH. 
+THEORY EXAMINATION (SEM–IV) 2016-17 
+OPERATING SYSTEM 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. In case of numerical problem assume data wherever not provided. 
+ 
+SECTION – A  
+1.  
+Attempt all of the following questions:            
+ 
+ 
+ 
+10 x 2 = 20 
+(a) 
+Difference between Process and Program. 
+(b) 
+Explain   Context Switching. 
+(c) 
+What is Demand paging? 
+(d) 
+Explain Concept of Virtual Memory. 
+(e) 
+Difference between Directory and File. 
+(f) 
+ Define multiprogramming system. 
+(g) 
+Difference between External and Internal Fragmentation. 
+(h) 
+What is Critical Section?  
+(i) 
+Explain threads. 
+(j) 
+Define operating system explain in short.  
+ 
+ 
+SECTION – B  
+2.  
+Attempt any five of the following questions:            
+ 
+ 
+ 
+5 x 10 = 50 
+(a)  
+Write down the different types of operating system 
+(b)  
+What is Kernel? Describe various operations performed by Kernel.  
+(c)  
+What is the cause of Thrashing? What steps are taken by the system to eliminate this 
+problem? 
+(d)  
+What do you understand by Process? Explain various states of process with suitable 
+diagram. Explain process control block. 
+(e)  
+Give the principles, mutual exclusion in critical section problem. Also discus how well 
+these principles are followed in Dekker’s solution. 
+(f)  
+State the Producer-consumer problem. Given a solution to the  solution using 
+semaphores. 
+(g)   
+Explain File organization and Access mechanism. 
+(h)   
+Explain the services provided by operating system. 
+ 
+SECTION – C 
+  
+Attempt any two of the following questions:            
+ 
+ 
+ 
+2 x 15 = 30  
+3   
+(i) 
+What is a deadlock? Discuss the necessary conditions for  deadlock with 
+examples 
+     
+(ii) 
+Describe Banker’s algorithm for safe allocation. 
+4 
+What do you mean by cashing, spooling and error handling,  explain in detail. 
+ 
+Explain FCFS, SCAN & CSCAN scheduling with eg. 
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2017
+23-2017-c.pdf,1,"[P.T.O.
+                       NCS - 075
+  NCS - 075
+B.TECH.
+Regular Theory Examination (Odd Sem-VII), 2016-17
+ANDROID OPERATING SYSTEM
+Time : 3 Hours
+ Max. Marks : 100
+Section - A
+1.
+Answer all parts. All parts carry equal marks. Write answer
+of each part in short.
+(10×2=20)
+a)
+Compare android OS with IOS.
+b)
+What are the four states in Android Activity Life
+Cycle?
+c)
+Write down the code for a simple vertical layout
+with a textview and button.
+d)
+Give the anatomy of an Android application.
+e)
+List the limitations while designing a widget.
+f)
+How an event is handled in android?
+g)
+Identify the methods used in controlling audio and
+video.
+h)
+State the appriate method used for scanning wireless
+networks.
+i)
+List the three types of XML parsers provided by
+android.
+j)
+Mention the usage of On Touch Event() Method.
+Section - B
+Note:
+Attempt any five questions from this section
+(5×10=50)
+2.
+How the resources are organized in Android? Write the
+code for accessing the resource.
+3.
+Explain in detail about Android Layouts. List out the
+attributes of layout.
+4.
+Write the code for creating an application which is used
+to send a custom Broadcast intent.
+5.
+How to launch the existing camera application to capture
+an image and display the result in the form of bitmap?
+6.
+Create a simple application that connects to the network
+and perform the network operations.
+7.
+How to parse XML data in Android?
+Section - C
+Note:
+Attempt any two questions from this section.
+(2×15=30)
+8.
+Write a code for creating a tab layout to show different
+screen for each tab. Create three tabs and set different
+images and screens for each tab.
+Printed Pages: 3
+(Following Paper ID and Roll No. to be filled in your
+Answer Books)
+Roll No.
+Paper ID :  2012273
+075/12/2016/1860
+(1)
+(2)
+075/12/2016/1860",pymupdf,2017
+23-2017-c.pdf,2,"[P.T.O.
+                       NCS - 075
+  NCS - 075
+OR
+i)
+How to open the camera and take the pictures
+programmatically?
+ii)
+Create an application to capture the photo through
+the front camera and save it in SD card
+9.
+i)
+Write short notes on multi touch gestures.
+ii)
+How to send an email to the client from our
+application?
+_____________
+(3)
+075/12/2016/1860",pymupdf,2017
+24-2017-b.pdf,1,"Paper Code : ECS-501
+B. TECH 
+(Odd Sem.-V) Theory Examination, 2016-17
+Operating System
+Time : 3 : 00 Hr.]
+[Maximum Marks : 100
+Note :
+Attempt questions from all sections as per directions.
+Section-A
+1.
+Attempt all parts of this section. Answer in brief :
+2×10=20
+(a)
+What is real time operating system?
+(b)
+Define the services provided by the operating system.
+(c)
+Write down the difference between multiprocessing and 
+multiprogramming operating system.
+(d)
+What is the cause of thrashing?
+(e)
+What do you understand by critical section?
+(f)
+Explain the difference between Monolithic and Microkernel 
+system.
+(g)
+Differentiate between User thread and Kernel thread.
+(h)
+What is I/O buffering?
+(i)
+What is SPOOLING?
+(j)
+Why is it called as ""multitasking in the logical extension of 
+multiprogramming""?
+(a)
+FCFS
+(b)
+SSTF
+(c)
+C-Scan?
+12.
+Explain the following terms :
+(a)
+RAID
+(b)
+Implementation of access matrix.
+(Following Paper ID and Roll No. to be filled in your Answer Book)
+Paper ID : 110511 Roll No.
+( 4 )
+ECS-501/Dec. 2016-4-",pymupdf,2017
+24-2017-b.pdf,2,"( 2 )
+( 3 )
+(i)
+Determine the total amount of resources of each type.
+(ii)
+Compute the Need matrix.
+(iii) Determine if the state is safe or not using Banker's algorithm.
+(iv)
+Would the following request be granted in the current state?
+(x)
+P1 < 3, 3, 1 >
+(y) 
+P2 < 2, 1, 0 >
+9.
+When do page faults occur? Describe in detail the actions taken by 
+the operating system when a page faults occur.
+Section - C
+Attempt any two questions. Each question carries equal marks.
+15×2=20
+10.
+Discuss various file allocation strategies for disk space 
+management. What criteria should be used in deciding which 
+strategy is best utilized for a particular file?
+11.
+Suppose the moving head disk with 200 tracks is currently serving 
+a request for track 143 and has just finished a request for track 125. 
+If the queue of request is kept in FIFO Order 86, 147, 91, 177, 94, 
+150. What is total head movement for the following scheduling :
+Section-B
+Attempt any five questions from this section.
+5×10=50
+2.
+What do you mean by Belady's anomaly? Which algorithm suffers 
+from Belady's anomaly?
+3.
+Explain paged segmentation with its advantages and 
+disadvantages. In a paged segmented system, a virtual consists of 
+32 bits of which 12 bits are for displacement, 11 bits are segment 
+number and 9 bits are page number. Calculate the following :
+(i)
+Page size
+(ii)
+Max segment size
+(iii) Max number of pages
+(iv)
+Max number of segments.
+4.
+What is thrashing? When it does occur? Describe the actions taken 
+by the operating system when a page fault occurs.
+5.
+What is paging? Describe how logical address is translated to 
+physical address in a paged system. Further give reasons as to why 
+page sizes are always kept in powers of 2.
+6.
+What is the difference between 'preemptive and non-preemptive 
+scheduling'? Discuss the Multilevel feedback queue scheduling 
+algorithm?
+7.
+Write a short note on interprocess communication.
+8.
+Describe the Banker's algorithm for Safe allocation. Consider a 
+system with five processes and three resource types and at time T 
+the following snapshot of the system has been taken :
+ECS-501/Dec. 2016
+ECS-501/Dec. 2016
+Process ID
+R1
+R2
+R3
+R1
+R2
+R3
+R1
+R2
+R3
+P1
+1
+1
+2
+4
+3
+3
+3
+1
+0
+P2
+2
+1
+2
+3
+2
+2
+P3
+4
+0
+1
+9
+0
+2
+P4
+0
+2
+0
+7
+5
+3
+P5
+1
+1
+2
+11
+2
+3
+Allocated
+Maximum
+Available",pymupdf,2017
+25-2017-a.pdf,1,"Printed Pages : 1 
+Roll No. 
+ 
+NCS401 
+B. TECH. 
+THEORY EXAMINATION (SEM–IV) 2016-17 
+OPERATING SYSTEM 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. In case of numerical problem assume data wherever not provided. 
+ 
+SECTION – A  
+1.  
+Attempt all of the following questions:            
+ 
+ 
+ 
+10 x 2 = 20 
+(a) 
+Difference between Process and Program. 
+(b) 
+Explain   Context Switching. 
+(c) 
+What is Demand paging? 
+(d) 
+Explain Concept of Virtual Memory. 
+(e) 
+Difference between Directory and File. 
+(f) 
+ Define multiprogramming system. 
+(g) 
+Difference between External and Internal Fragmentation. 
+(h) 
+What is Critical Section?  
+(i) 
+Explain threads. 
+(j) 
+Define operating system explain in short.  
+ 
+ 
+SECTION – B  
+2.  
+Attempt any five of the following questions:            
+ 
+ 
+ 
+5 x 10 = 50 
+(a)  
+Write down the different types of operating system 
+(b)  
+What is Kernel? Describe various operations performed by Kernel.  
+(c)  
+What is the cause of Thrashing? What steps are taken by the system to eliminate this 
+problem? 
+(d)  
+What do you understand by Process? Explain various states of process with suitable 
+diagram. Explain process control block. 
+(e)  
+Give the principles, mutual exclusion in critical section problem. Also discus how well 
+these principles are followed in Dekker’s solution. 
+(f)  
+State the Producer-consumer problem. Given a solution to the  solution using 
+semaphores. 
+(g)   
+Explain File organization and Access mechanism. 
+(h)   
+Explain the services provided by operating system. 
+ 
+SECTION – C 
+  
+Attempt any two of the following questions:            
+ 
+ 
+ 
+2 x 15 = 30  
+3   
+(i) 
+What is a deadlock? Discuss the necessary conditions for  deadlock with 
+examples 
+     
+(ii) 
+Describe Banker’s algorithm for safe allocation. 
+4 
+What do you mean by cashing, spooling and error handling,  explain in detail. 
+ 
+Explain FCFS, SCAN & CSCAN scheduling with eg.",pymupdf,2017
+26-2016.pdf,1,"(Following Paper ID and RolI No. to be filted in your
+Answer Books)
+Printed Pages: 4
+NCS-401
+B.TE.CH.
+Th$sry Examinatlon (Semester-fV) 2015- I 6
+OPENATINGSYSTEM
+Time.' 3 Hours
+Max. Marlw: I00
+Note: Attempt questions for all Sections as per direcfions,
+$ection-A
+Atternpt aH partr $f thts rwti$n. Anw in brief.
+(2x10 : 20)
+1. (a) What is SPOOLING?
+(b) Write a brief note oil multiprocessor scheduling.
+(c) What is the need for Process Control Block (PCBX
+(d) &fine Multithreading.
+(e) Differentiate concturent execution and parallel execu-
+tion.
+(g) How is a system call handled by the system?
+/s32t13300
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2016
+26-2016.pdf,2,"2.
+(h) Draw process state transition diagram.
+O What do you mean by Kernel?
+fi) Define the multilevel feedback queues scheduling.
+Section-B
+Attempt any five questions from this section.
+(5x 10 : 50)
+(a) State the cause of thrashing and discuss its solution.
+(b) What are the different techniqpes to remove fragmenta-
+tion in case ofmultiprogramming with fixedpartitions and
+variables partitions?
+(c) Disqas the perfonrrance crituia for C?U Scheduling.
+(d) Consider the following reference string
+12342L56212376321236. How many pa5e faults witl
+occur for:
+(r) FIFO 
+, 
+.
+(ii) LRU Page Replacement algorithm?
+Assuming three and forrr franres in each case and
+fiames are initially empty.
+(e) Give the solution of Readers - Writers problem by using
+the concept of Sernaphore.?
+ls32/13300
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2016
+26-2016.pdf,3,"(0 Explain the following methods.
+(i) Bit vector
+(iii) Grouping
+(ii) Linked List
+(iv) Cotnrting
+(g) Consider the processes, CPU burst time and Arrival
+time given below:
+Processes CPU burst time Arrival time
+PI
+P2
+P3
+P4
+8;ro
+41
+92
+53
+Draw the Gantt chart and calculate the following by
+using qfTq pPg Schpduling Algorithm, (r) Average
+Waiting Tirne, (ii) Average Tunr Around time.
+(h) Cofrsider the following snapshot of the system:-
+Allocation 
+Ndax 
+Arnailable
+ABCD
+ABCD
+ABCD
+:
+Pr l0 00 
+17 s 0
+.,
+P2 13 5 4
+2 3 s 6
+P3 0 6 3 2 
+0 6 5 2
+1532t13300
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2016
+26-2016.pdf,4,"Answer the following questions using the banker's algorithm:-
+(i) What is the content of the matrix Need?
+(ii) Is the system in a safe state? If yes then find the Safe
+sequence,
+(iii) If a request from process PI arrives for (A, 4,2, 0) can
+the request be granted immediately?
+Sectlon-C
+Attempt any two questions from this section. (2x 15 - 30)
+3. 
+What is directory? Explain any two ways to implement the
+directory.
+4. 
+Suppose the moving head dislc with 2A0 fiacks is etrrently
+serving a request for ftack 143 and has just finished a request
+for track l25.If the l1ueue ofrequest is kept in FIFO order 86.
+147,91, 177. 94. 150. What is total head movement for the
+fo[owing sche&ling:
+(i) FCFS
+(ii) ssTF
+(iii) c-scA}.r
+5. Write short notes on:
+(i) Y0ltutrering
+0i) Sequential File
+(ru) Indexed File
+1s32tr3300
+www.aktunotes.in
+www.aktunotes.in
+www.aktunotes.in",pymupdf,2016
+27-2016-a.pdf,1,"Printed Pages:5
+| 545
+ECS-501
+(Following Paper ID and Roll No. to be filled in your
+ह
+Answer Book)
+Paper ID :110511
+Roll
+[| [11[1[[11[1
+४
+:
+B.TECH
+:
+(SEM. V)THEORY EXAMINATION, 2015-16
+OPERATING SYSTEM
+[Time:3 hours]
+;
+-
+[Total Marks:100]
+Note: Attempt questions from.all Sections as per
+directions.
+Part-A
+= Attempt all parts ofthis section. Answer in brief.
+.
+7
+~
+(2x 10=20)
+Q.1
+(a)
+Define process.
+ह
+(b)
+What isbusy waiting?
+_
+(0)
+Differentiate shell and kernel.
+ह
+(0)
+Whatdo you understand by system call?
+~
+(e)
+What is the reason behind dual mode operation of
+processors?
+_—",ocr,2016
+27-2016-a.pdf,2,"|
+(f)
+Differentiate page and segment.
+y
+5.
+List various perfor
+(g)
+Whats the role ofThreविक्?
+oy
+7
+algorithms. Five prcess
+,
+है
+burst of3, 5, 2, 5 and 5
+(h) What are the advantages of the layered tiedoach
+|
+times in the system ar
+ह
+.
+to the design ofoperating system? a
+Draw Gantt chart and 
+-
+(i),
+What is an operating system? Define the
+_
+time and average wait
+components ofan operating system.
+the Shortestjob First (S
+0)
+.Whatare Semaphores?
+..
+.
+First (SRTF) schedulin
+Section-B
+|
+6..
+Consider a logical addr
+ह
+oe
+|
+:
+|
+‘
+words, each mapped 
+Attempt any five questions from this section.
+(10x5=50)
+frames then:
+2.
+Define the different states of a process with diagram.
+(i)
+Howmany bits a
+Explain the need ofprocess suspension.
+हे
+न
+""
+ह
+-
+-
+(ii)
+How many bits a
+3. . Define Message passing and shared memory inter-
+process communication.
+|
+Alsoexplain the differ
+|
+fragmentation.
+4.
+What is process control block? Discuss the difference
+है
+among short-term, medium-term and long-term
+7.
+Write and explain P
+scheduling.
+-
+हे
+रा
+section problem.
+(2)
+-
+°",ocr,2016
+27-2016-a.pdf,3,"8.
+Describe the Banker’s algorithm for safe allocation.
+|
+P
+Consider a system with five processes and three
+.
+Attempt any two questions
+resource types and at time ""1 the following snapshot of
+हु
+the system has been taken:
+.
+1
+\
+4
+Allocated
+Maximum
+wailable
+10.
+Explain Linked list an
+.
+p44] 3} 3] 3}ilo|
+Pt
+[| |
+11.
+Explain the SSTF and
+p4tot{ilsfof2{
+| |
+Obtain the total numbe
+|
+1
+ft |
+satisfy the following s
+of the two policies.
+(i)
+Determine the total amount of resources of each
+type.
+~
+:
+27, 129, 110, 18
+(ii)
+Compute the Need matrix.
+है
+;
+—
+;
+;
+है
+,
+Assume that the disk 
+(iii) Determine ifthe state is safe or not using Banker’s
+.
+.
+हे
+track 100 and is movi
+algorithm.
+.
+.
+Ww,
+;
+है
+;
+track number.
+(iv)
+Would the following request be granted in the
+i
+‘
+}
+पु
+.
+current state?
+{
+12.
+What is a Directory? D
+(a)
+Pl <3,3,1>
+the directory.
+ह
+(b)
+?2 <2, 1, 0>
+ह
+ह
+—
+9.
+Explain the need ofprocess synchronization.
+|
+(4)
+.",ocr,2016

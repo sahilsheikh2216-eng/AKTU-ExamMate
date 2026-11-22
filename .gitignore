@@ -1,0 +1,16 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local source PDFs (do not commit copyrighted or large exam files)
+data/subjects/*/pdfs/raw/*.pdf
+
+# Local logs
+*.log
+.DS_Store

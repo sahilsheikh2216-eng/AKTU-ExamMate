@@ -1,0 +1,4361 @@
+﻿source_file,page_number,final_text,extraction_method,year
+01-2026-b.pdf,1,"BTECH
+(SEM
+Mt)THEORY EXAMINATION 2025-26
+‘IME
+H
+ROGRAM
+.
+TIME: 31IRS __
+PROGRAMMING7
+कम
+70
+——
+——__—
+ee
+ote: Attempt all Sections. In case ofany Missing data; choose suitably.
+_l.
+Attemptवाquestions in brief. SECTION 4
+__ 02 x7 = 14)
+Q
+|
+7 a .. Questian” _
+हुa
+।CO
+| Level
+|
+| 700. |
+fp
+a.
+| What are Python variables? Give an exampleof declaring numeric datasre
+| | )K
+!__|
+पाइथनवैरिएबल्सक्याहैं? न्यूमेरिकडेटाप्रकारघोषितकरनेकाएकउदाहरणदें।__
+--
+ही|
+|:
+| Differentiate between for loop using range and while loop in python.
+|
+|
+| K2
+|
+|_|पाइथन
+में
+रेंजकाउपयोगकरकेफॉरलूपऔरव्हाइललूपकेबीचअंतरHAM
+-+->क्ठा
+c.
+| Explain string slicing in Python with an example. OO
+| 2
+K2
+|
+| पाइथनमेंस्टिंगसलाइसिंग
+कोएकउदाहरण
+केसाथसमझाएं।
+_
+d.
+| Whats a tuple in Python?
+How is it different from alist?
+| 3 (KI|
+| पाइथनमेंट्यूपल
+क्याहै? यहलिस्टसेकैसेअलगहै?
+__
+""
+|
+|
+e.
+| Define dictionary in Python and give an example of its manipulation.
+3
+K]
+|
+|| पाइथन
+में
+डिक्शनरीकोपरिभाषितकरेंऔरइसकेगैनिपुलेशनकाएकउदाहरणदें।
+|| or
+f.
+।What areae and readline() functions in file handling? 7
+4
+| K]
+|
+=
+|__| फाइलहैंडलिंगमें(००4) औरreadline!)
+HAA क्याहैं?
+_
+i
+| A
+g.
+. Fxpiuls encapsulation in Python 007,
+है
+5
+| K2
+|
+|
+Use oop में
+एनकैप्सुलेशनसगझाएं।__ 5४
+ः
+._।
+}
+SECTION B
+2,
+Attempt any free of thefollowing:
+__.
+ 0753721
+Q
+Question
+| co
+| Level
+no
+a
+—
+——
+ee
+on
+———
+*
+Python basic operators and data types. Write a program to check if a |
+1.
+| K2
+|
+number is even or odd using if-else.
+|
+।
+पाइथनबेसिकऑपरेटर्सऔरडेटाप्रकारसमझाएं।#-९७काउपयोगकरकेएकसंख्या
+|
+(| समयाविषमजांचनेकाप्रोग्रामलिखें।
+_
+ह
+|
+|
+b.
+|
+Describe loop manipulation statements: pass, continue, break. Write a program (1
+| K2
+|
+to print prime numbers between 1 to 50 using for loop.
+|
+|
+लूपमैनिपुलेशनस्टेटमेंट्स: 19५55, continue, break वर्णनकरें।for लूपकाउपयोगकरके
+|
+।
+|
+1 से50 तकप्राइमनंबर्सप्रिंटकरनेकाप्रोग्रामलिखें।. _« _
+ee
+।
+lc,
+‘Discuss string operations and built-in functions. Write a program to count
+| 2
+K3
+vowels in a string.
+है
+।
+|
+|
+| स्ट्रिंगऑपरेशन्सऔरविल्ट-इनपं/कशन्सपरचर्चाकरें।एकस्टिंगमेंस्वरों
+कीगिनती
+।
+'करनेकाप्राग्राभलिखें
+।.._.
+3
+४
+-..[...
+४;
+J.
+|
+Explain list ond dictio.ary in wuill functions. Write a program to merge two
+| 3.
+| K3
+|
+dictionaries.
+\
+|
+| लिस्टऔरडिक्शनरीइन-बिल्टwary समझाएँ।दोडिक्शनरीमर्जकरनेकाप्रोग्राम|
+|
+|
+|
+Bebe We
+तिखें।a eehe
+re, | Describe file writing functions: write(), writelines(). Write
+a program to write \4
+K
+|
+student records to a file.
+|
+|) फाइलराइटिंगफंक्शन्स: write’), writclinesy वर्णनकरें।एकफाइलमेंछात्ररिकॉर्डस।
+|
+लिखनेकाप्रोग्रामलिखें।
+_
+_
+ / _.... सपन्ें
+लनलल_
+1|
+728४
+Source: AKTU official examination paper - www.aktunotes.in
+https://www pyqon |iné.com
+ह",ocr,2026
+01-2026-b.pdf,2,"Printed Page:
+MU
+oe
+subject Cote: BC
+PAPER 10:3 10796
+Roll No:
+|
+|
+|
+|
+oe
+oe
+ईऑऋ
+—
+4
+|
+1.
+BTEC
+(SEAT) THEORY EXAMINATION 2025-26
+PYTHON PROGRAMMING
+TIME:
+3 HRS
+_
+M.MARKS:
+|
+SECTION (*
+3.
+Attempt any vae part of the following:
+07x 1 5 07
+Q
+Question
+|
+CO
+7 Level
+ne
+—
+-
+ba
+| Explain Python blocks and conditional statements. Write
+a program to prade
+|
+K2
+.
+students based on marks using elif
+पाइथनब्लॉक्सऔरकंडीशनलस्टेटमेंट्सWAM) elif काउपयोगकरके
+छात्रोंको
+|.
+मार्क्सकेआधारपरग्रेडदेनेकाप्रोग्रामलिखें।
+|
+b.
+| Discuss for loops with strings and lists. Write 3 program to sum elements of a | |
+2
+list.
+Rea औरलिस्ट्सकेसाथफॉरलूप्सपरचर्चाकरें।एकलिस्टकेतत्वों
+कायोगकरनेका
+__
+प्रोग्रामलिखें।
+—
+३:
+4.
+Attempt tiany ore part of the following:
+_
+OT
+107
+a, | Explain functions in Python, Write a function to calculate area of circle.
+2
+K2
+_
+| UR agra समझाएं।सर्कलके
+क्षेत्रफलकीगणनाकरनेवालाफंक्शनलिखें।|
+b.
+|
+Describe string manipulation methods. Write a program to replace characters in
+2
+K2
+a String,
+|
+RET मेनेपुलेशनमेथड्सवर्णनकरें
+।
+एकट्टिंगमेंकैरेक्टर्सबदलने
+काप्रोग्रामलिखें।_
+|.
+5...
+Attempt any one part of the following: _ a
+_ 07६1>707
+७४...
+जिजायाsets and their operations Write a program 10 find difference between
+| 3
+K3
+Wo SeLs.
+कर, 1 Discuss tuple and list slicing Write a program to1eversea tuple.
+| 3
+K 3
+quua औरलिस्टसलाइसिंगपरचर्चा
+करें।एकट्यूपल,3 | रिवर्सकरनेका
+प्रोग्रामतिखें।
+0.
+Atlumpt any eae part of the following: oe
+_
+Vix L=07
+u.
+| Expia manipulating file pointer using seek() \eite a program to read last n | 4
+६2
+1010५froma file
+seek() काउपयोगकरकेफाइलपॉइंटरमैनिपुलेट
+करनासमझाएं।एकफाइलसेअंतिम
+|
+॥लाइनोंकोपटनका
+प्रोग्रामलिखें।
+|
+9... Describe regular expressions using re module. fate a program to find all digits | 4
+| K2
+॥1 3 string
+re मॉड्यूलकाउपयोगकरकेरेगुलरएक्सप्रेशन्सवर्णनकरें।एकfen में
+सभीअंकोंको
+leerAR)
+_
+|
+7 Attempt any one part ofthe following; =
+07. 1=07
+ja,
+| Explain
+anheritance
+and
+polymorphism
+Write
+a
+program
+showing | 5
+K3
+।
+multipleinheritance.
+....एइनहेरिटेंसऔरपॉलीमॉर्फिज्यसमझाए।sere इनहरिटेंसदिखानेवालाप्रोग्राम
+|
+लिखे।
+| 2
+| शिरर8३रन
+हा
+a Rate a [धणका[.८2..1७a simple window with a label
+| 5.
+1K
+using [kinter.
+शा
+3 अम
+|
+Teinter विजेट्सपरचर्चाकरें।Thinter काउपयोगकरकेएकसाधारणविंडोमेंलेबल
+_ बनानेकाप्रोग्रामलिखें।
+|
+https:/Awww.pyqonline.com",ocr,2026
+02-2026-a.pdf,1,"QP26DP1_290
+ | 01-Jan-2026 1:35:01 PM | 117.55.242.134
+QP26DP1_290 | 01-Jan-2026 1:35:01 PM | 117.55.242.134
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: BCC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2025-26 
+PYTHON PROGRAMMING 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+02 x 7 = 14 
+Q 
+no. 
+Question 
+CO 
+Level 
+a.  What are Python variables? Give an example of declaring numeric data types. 
+पाइथन वैरिएबल्स क्या हैं? न्यूमेरिक डेटा प्रकाि घोषित किने का एक उदाहिण दें।  
+1 
+K1 
+b.  Differentiate between for loop using range and while loop in Python. 
+पाइथन में िेंज का उपयोग किके फॉि लूप औि व्हाइल लूप के बीच अंति बताएं।  
+1 
+K2 
+c.  Explain string slicing in Python with an example.  
+पाइथन में स्ट्
+रंग स्लाइष ंग को एक उदाहिण के  ाथ  मझाएं।  
+2 
+K2 
+d.  What is a tuple in Python? How is it different from a list?  
+पाइथन में ट्यूपल क्या है? यह षल्
+  े कै े अलग है?  
+3 
+K1 
+e.  Define dictionary in Python and give an example of its manipulation.  
+पाइथन में षडक्शनिी को परिभाषित किें औि इ के मैषनपुलेशन का एक उदाहिण दें।  
+3 
+K1 
+f.  What are read() and readline() functions in file handling?  
+फाइल हैंडषलंग में read() औि readline() फंक्शन्स क्या हैं?  
+4 
+K1 
+g.  Explain encapsulation in Python OOP.  
+पाइथन OOP में एनकैप्सुलेशन  मझाएं।  
+5 
+K2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain Python basic operators and data types. Write a program to check if a 
+number is even or odd using if-else.  
+पाइथन बेष क ऑपिेट स औि डेटा प्रकाि  मझाएं। if-else का उपयोग किके एक  ंख्या 
+ म या षविम जांचने का प्रोग्राम षलखें।  
+1 
+K2 
+b. 
+Describe loop manipulation statements: pass, continue, break. Write a program 
+to print prime numbers between 1 to 50 using for loop.  
+लूप मैषनपुलेशन ्े
+टमेंट् : pass, continue, break वणसन किें। for लूप का उपयोग किके 
+1  े 50 तक प्राइम नंब स षप्रंट किने का प्रोग्राम षलखें।  
+1 
+K2 
+c. 
+Discuss string operations and built-in functions. Write a program to count 
+vowels in a string. 
+ स्ट्
+रंग ऑपिेशन्स औि षबल्ट-इन फंक्शन्स पि चचास किें। एक स्ट्
+रंग में स्विों की षगनती 
+किने का प्रोग्राम षलखें।  
+2 
+K2 
+d. 
+Explain list and dictionary in-built functions. Write a program to merge two 
+dictionaries.  
+षल्
+ औि षडक्शनिी इन-षबल्ट फंक्शन्स  मझाएं। दो षडक्शनिी मजस किने का प्रोग्राम 
+षलखें।  
+3 
+K3 
+e. 
+Describe file writing functions: write(), writelines(). Write a program to write 
+student records to a file.  
+फाइल िाइषटंग फंक्शन्स: write(), writelines() वणसन किें। एक फाइल में छात्र रिकॉड्स  
+षलखने का प्रोग्राम षलखें।  
+4 
+K2",pymupdf,2026
+02-2026-a.pdf,2,"QP26DP1_290
+ | 01-Jan-2026 1:35:01 PM | 117.55.242.134
+QP26DP1_290 | 01-Jan-2026 1:35:01 PM | 117.55.242.134
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: BCC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2025-26 
+PYTHON PROGRAMMING 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain Python blocks and conditional statements. Write a program to grade 
+students based on marks using elif.  
+पाइथन ब्लॉक्स औि कंडीशनल ्े
+टमेंट्   मझाएं। elif का उपयोग किके छात्रों को 
+माक्सस के आधाि पि ग्रेड देने का प्रोग्राम षलखें।  
+1 
+K2 
+b. 
+Discuss for loops with strings and lists. Write a program to sum elements of a 
+list.  
+स्ट्
+रंग्स औि षल््
+  के  ाथ फॉि लूप्स पि चचास किें। एक षल्
+ के तत्ों का योग किने का 
+प्रोग्राम षलखें।  
+1 
+K2 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Explain functions in Python. Write a function to calculate area of circle.  
+पाइथन में फंक्शन्स  मझाएं।  कसल के क्षेत्रफल की गणना किने वाला फंक्शन षलखें।  
+2 
+K2 
+b. 
+Describe string manipulation methods. Write a program to replace characters in 
+a string.  
+स्ट्
+रंग मैषनपुलेशन मेथड्  वणसन किें। एक स्ट्
+रंग में कैिेक्ट स बदलने का प्रोग्राम षलखें।  
+2 
+K2 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Explain sets and their operations. Write a program to find difference between 
+two sets.  
+ ेट्  औि उनके ऑपिेशन्स  मझाएं। दो  ेट्  के बीच अंति खोजने का प्रोग्राम षलखें।  
+3 
+K3 
+b. 
+Discuss tuple and list slicing. Write a program to reverse a tuple.  
+ट्यूपल औि षल्
+ स्लाइष ंग पि चचास किें। एक ट्यूपल को रिव स किने का प्रोग्राम षलखें।  
+3 
+K3 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Explain manipulating file pointer using seek(). Write a program to read last n 
+lines from a file.  
+ seek() का उपयोग किके फाइल पॉइंटि मैषनपुलेट किना  मझाएं। एक फाइल  े अंषतम 
+n लाइनों को पढ़ने का प्रोग्राम षलखें।  
+4 
+K2 
+b. 
+Describe regular expressions using re module. Write a program to find all digits 
+in a string.  
+re मॉड्यूल का उपयोग किके िेगुलि एक्सप्रेशन्स वणसन किें। एक स्ट्
+रंग में  भी अंकों को 
+खोजने का प्रोग्राम षलखें।  
+4 
+K2 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+a. 
+Explain 
+inheritance 
+and 
+polymorphism. 
+Write 
+a 
+program 
+showing 
+multipleinheritance.  
+ए. इनहेरिटें  औि पॉलीमॉषफसज्म  मझाएं। मल्टीपल इनहेरिटें  षदखाने वाला प्रोग्राम 
+षलखें।  
+5 
+K3 
+b. 
+Discuss Tkinter widgets. Write a program to create a simple window with a label 
+using Tkinter.  
+Tkinter षवजेट्  पि चचास किें। Tkinter का उपयोग किके एक  ाधािण षवंडो में लेबल 
+बनाने का प्रोग्राम षलखें।  
+5 
+K3",pymupdf,2026
+03-2026-2.pdf,1,"BTEC
+(SEM ithTHEORY EXAMINATION 2025-26
+TIMEsuRS |
+हे
+PROGRAMMINGMARKS: 70
+70
+eo
+Note:
+p
+ect
+€ Attempt all Sections. In case of any missing data; choose suitably.
+SEC riOs
+[0७
+Questisn ei
+oe:
+a.
+|What are Python variables? Give an example of dec|
+ing
+nu meric data types:
+|
+Kl
+पाइथनवैरिएबल्सक्याहैं?
+न्यूमेरिकडेटाप्रकारघोषितकरनेकाएकउदाहरणदें।
+-
+bY
+Differentiate between for loop using range and while loop in Python.
+1
+[६५2
+पाइथनमें
+रेंजकाउपयोगकरकेफॉरलूपऔरव्हाइल
+तूपकेबीचअंतरबताएँ।
+—
+c. | Explain string slicing in Python with an example,
+2
+| K2
+|
+पाइथनमें
+स्टिंगस्लाइसिंगकोएकउदाहरणकेसाधसमझाएं।
+____ ----
+d.
+| ०१15 3 tuple in Python? How is itdifferent
+from alist?
+-
+3
+| Kl
+.___| पाइथनमें
+ट्यूपलक्याहै? यहलिस्टसेकैसेअलगहै?
+fe
+i¢. | Define dictionary in Python and give an example of its manipulation.
+3
+Kl
+का
+|
+|पाइथन
+में
+डिक्शनरीकोपरिभाषित
+करें
+औरइसकेमैनिपुलेशनकाएकउदाहरणदें।| _a oN)
+'f, |What
+are read() and readline() functions in file handling? -
+4
+|Kl pe
+|_| rset
+फ़ाइलहैं
+डलिंग
+A read() और
+३५0] औरreadiine() FEAT BTहैं? oo
+--...-
+दिन
+8.
+! Fxptiis encapsulation in Python OOP.
+i
+| 5
+K2
+|
+|
+1पाइथन007
+मैंएनकैप्सुलेशनसगझाएं।_
+ee
+रद
+|
+SECTION B
+2.
+Haceany three of thefollowing: -- -- 1""3=21
+ढ़
+।
+. Question
+|
+pmo;
+__ ____
+2...
+__.
+| a.
+xplain Python basic operators and data types. Write a program tocheck ifa)
+|
+K2
+umber is even orodd using if-else.
+|
+|
+प्राइथनबेसिकऑपरेटर्सऔरडेटाप्रकारसमझाएं।if-else काउपयोगकरकेएकसंख्या|
+|
+।
+| समयाविषमजांचनेerwin
+_ ___
+_
+|
+|
+|
+।
+b.
+|
+ese statements: pass, continue,break.Write a program | |
+|K2 |
+to print prime numbers between 1 to 50 using far loop:
+|
+|
+|
+तूपमैनिपुलेशनREACH: pass, continue, breakवर्णन
+Hy forलूपकाउपयोगकरके
+|
+|
+|
+|
+| 1 Aso तकप्राइम
+नंबर्सप्रिंटकरनेaor toafered)
+eeee
+lc. | Discuss string operations and built-in functions. Write a program to count}?
+| K2
+i
+|
+vowels in a string.
+|
+||
+स्ट्रिंगऑपेशन्सऔरदिल्ट-इनGaara परचर्चाकरें।एकस्टिंगमेंखरोंकीगिनती
+' छरनेकीप्राप्रामलिखें।
+oo
+a
+oo!
+J.
+, Explain list wd dictiorary in buill functions, Write a progrim to merge two
+3
+K3
+|
+lie
+है
+|
+|
+| लिस्टऔरडिक्शनरीइन-बिल्टफंव्शन्ससमझाएं।दोडिक्शनरीमर्जकरनेकाप्रोग्राम
+|
+|
+लिखें।
+oo
+-- -..-
+_|_ __----
+| €.
+Describe file writing functions: write(), writelines(). Write a program to write 4
+| K2
+student records toa file.
+|
+|
+फाइलराइटिंगफंवशन्स: ५11५५), writolinesy वर्णनकरें।एकफाइलमेंछात्ररिकॉर्ड्स
+|
+a|
+|
+1|
+कर
+https://www.pyqonline.com",ocr,2026
+03-2026-2.pdf,2,"7
+Printed Page:
+wa
+1
+“य]य
+cr
+pee
+PAP
+-
+Nu:
+|
+|
+Roll
+Na:
+I | 11
+[| | ||.
+1 '
+-
+BEC
+(SEM I) THEORY EXAMINATION 2025-26
+PYTHON PROGRAMMING
+TIME: JHRS
+ma
+M.MARKS: °
+SECTION ¢:
+ce
+Attempt anywnepart ofthe following:
+0751 5८07
+oe Question
+oo
+हु
+| CO” Level |
+no.
+|
+=.
+a.
+| Explain Python blocks and
+onal statements, Writea program to grade, 1
++
+students based on marks using elif.
+|
+| पाइथनब्लॉक्सऔरकंडीशनलREACH समझाएं।out काउपयोगकरकेछात्रोंको
+|
+हे
+_.मार्क्सकेआधारपरग्रेडदेनेकाप्रोग्रामलिखें।
+_
+ee raf
+—_
+. | Discuss for loops with strings and lists. Write a program to sum elements of a | |
+K2
+list.
+|
+|
+स्ट्रिंसऔरलिस्ट्सकेसाथफॉरलूप्सपरचर्चाकरें।एकलिस्टकेतत्वों
+कायोगकरनेका
+७:
+प्रोग्रामलिखें।
+जज
+Attempt any one part of the following: _._____
+_0751507
+""|e
+| Explain functions in Python. Writea function to calculate area of circle.
+(2
+|K2
+पाइथनमें
+फंक्शन्ससमझाएं।सर्कलकेक्षेत्रफल
+कीगणनाकरनेवाला
+फंक्शनलिखें।_ 1
+।
+0.
+| Describe string manipulation methods. Write a program to replace characters in | 2
+K2
+a string.
+_
++डिंगमैनिपुलेशनमेथड्सवर्णनकरें।एकद्धिंगमेंकैरेक्टर्सबदलनेकाप्रोग्रामलिखें।
+5.
+Attempt any one part of the following: _ee
+_
+___ 07x
+1=07
+«Explain
+sets and thei operations Write a program 10 find difference between | 3
+K3
+two sets.
+b. | Discuss tuple and list slicing. Write a program tateverse a tuple.
+| 3
+K3
+| अल
+औरलिस्टस्ताइसिंग
+परचर्चाकरें।एकट्यूपलरिवर्सकरनेanemia
+0.
+|
+AUempt any one part of the following:
+|
+_
+_-
+(४7५1-४7
+‘at
+| Expiawn manipulating file pointer using seek() Write a program to read last n
+| 4
+K2
+|
+linus from a file,
+|
+seek() वेगउपयोगकरकेफाइलपॉइंटरमैनिपुलेट
+करनासमझाएं।एकफाइलसेअंतिम
+|
+in लाइनोंकोपटनकाप्रोग्रामलिखें।_
+।
+|
+b. | Describe regular expressions using re module, vote a program to find all digits | 4.
+| K2 7
+na string
+re मॉड्यूलकाउपयोगकरकेरेगुलरएक्सप्रेश-सवर्णनकरें।एकस्ट्रिंगमें
+सभीअंकोंको
+|
+-खोजनेकाप्रोग्रामलिखें।__
+|
+2__Attempt any one part of thefollowing:
+SSS
+|
+a.
+| Explain
+inheritance
+and
+polymorphism.
+Write
+a
+program
+showing! 5 Ki _
+|
+! multiplenheritance.
+;
+है
+|
+एइनहैरिटेंसऔरपॉलीमॉर्फिज्यसमझाएं।॥त्टीजलइनहेरिटेंसदिखानेवालाप्रोग्राम
+कि
+1 छ55 १४६te tr Matea [कणगा'y.2..t0 9 simple window with a ७७७
+| S| KR
+|
+| using Ikinter.
+रण1
+॥
+|
+Tkinter विजेट्सपरचर्चाBU Thinter काउपयोगकरकेएकसाधारणविंडोमेंलेबल
+|
+_-७(बनानेकाप्रोग्रामलिखें
+।._ _.
++||+|/|//£_<
+https://www.pyqonline.com",ocr,2026
+04-2025.pdf,1,"QP25DP2_290
+ | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+QP25DP2_290 | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+Printed Page: 1 of 4
+Subject Code: BCC302
+0Roll No:
+0
+0
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+PYTHON PROGRAMMING 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 07 = 14 
+Q no. 
+Question 
+CO 
+Level 
+a.  
+State how to handle exceptions in Python? Provide a simple example. 
+पायथनम अपवादोकोकैससंभाल? एकसरलउदाहरणद। 
+4 
+K1 
+b.  
+What will be the output of the following Python code? 
+def compute(x):  
+           return [i**2 for i in x if i%2==0] 
+print(compute([1, 2, 3, 4, 5])) 
+िनिलखत पायथन कोड का आउटपुट #ा होगा? 
+def compute(x):  
+           return [i**2 for i in x if i%2==0] 
+print(compute([1, 2, 3, 4, 5]))
+2 
+K3 
+c.  
+Explain floor division with an example 
+उदाहरणकेसाथमंिज़लिवभाजन (floor division) समझाएँ। 
+2 
+K2 
+d.  
+Describe the purpose of the ‘with’ statement in file handling? 
+फ़ाइलोका+बंधन (फाइलह/डिलंग) म 'with' कथनकेउ0े1 कावण2नकर। 
+4 
+K2 
+e.  
+Briefly describe the use of lambda functions in Python. 
+पायथनम लै34डाफ़ं5नोकेउपयोगकासंि67 वण2नकर। 
+3 
+K2 
+f.  
+Demonstrate how to assign a single value to a tuple. 
+टपल (tuple) कोएकलमानकैसेअसाइनकर, इस+दिश2तकर। 
+1 
+K3 
+g.  
+Explain why numpy is used instead of python arrays for mathematical 
+calculations? 
+गणना9क गणनाओं के िलए numpy का उपयोग #ों िकया जाता है, इसे 
+समझाएँ? 
+5 
+K2 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Design a basic calculator in Python that supports addition, subtraction, 
+multiplication, division. 
+पायथन म एक बेिसक कैलकुलेटर िडज़ाइन कर जो जोड़, घटाव, गुणा, भाग का 
+समथ2नकरताहो। 
+1 
+K3 
+b. 
+Define Membership and Identity Operators. 
+Given: 
+a = 3 
+b = 3 
+Distinguish between: (a is b) and (a = = b) ? 
+सद=ता और पहचान ऑपरेटर (Membership and Identity Operators) 
+पAरभािषतकर। 
+िदया गया: 
+a = 3 
+b = 3 
+(a is b) और (a == b) केबीचअंतरDEकर। 
+2 
+K4",pymupdf,2025
+04-2025.pdf,2,"QP25DP2_290
+ | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+QP25DP2_290 | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+Printed Page: 2 of 4
+Subject Code: BCC302
+0Roll No:
+0
+0
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+PYTHON PROGRAMMING 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+c. 
+Write a Python function to count the frequency of each character in a 
+given string and return the output in a dictionary. Example: 
+char_frequency(""HELLO"") returns {""H"":1, ""E"":1, ""L"":2, ""O"":1} 
+एक पायथन फ़ं5न िलख जो िदए गए FGंग म +Hेक वण2 की आवृिJ 
+(frequency) िगनता है और आउटपुट को एक िड5नरी म लौटाता 
+है।उदाहरण: char_frequency(""HELLO"") लौटाता है {""H"":1, ""E"":1, ""L"":2, 
+""O"":1}
+3 
+K3 
+d. 
+Write a program to reverse the contents of a file character by character, 
+separating each character with a comma. 
+एक +ोLाम िलख जो िकसी फाइल की सामLी को वण2 दर वण2 उMा करे, 
++Hेकवण2 कोकॉमासअलगकरतOए। 
+4 
+K3 
+e. 
+Create a pie chart using matplotlib to represent the following data:  
+Languages
+Popularity
+Python
+30
+Java
+25
+C++
+20
+JavaScript
+15
+Ruby    
+10
+ 
+matplotlib का उपयोग करके िनिलखत डेटा का  +ितिनिधP करने के िलए 
+एक पाई चाट2 बनाएं: 
+भाषाएँ 
+लोकि+यता 
+पायथन 
+30 
+जावा 
+25 
+C++
+20
+जावाRS 
+15 
+Tबी
+10 
+5 
+K3 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Write short notes on the following with examples:  
+a) Operator Precedence 
+b) Python Indentation 
+c) Type Conversion 
+िनिलखत पर संि67 नोट िलख उदाहरण सिहत: 
+a) ऑपरेटर+ाथिमकता (Operator Precedence) 
+b) पायथनइंडटेशन (Indentation) 
+c) +कारपAरवत2न (Type Conversion) 
+1 
+K2 
+b. 
+Write a program to validate email addresses using regular expressions. 
+Criteria: 
+1. Must contain @ symbol 
+2. Must contain domain name 
+3. Should not have spaces
+1 
+K3",pymupdf,2025
+04-2025.pdf,3,"QP25DP2_290
+ | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+QP25DP2_290 | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+Printed Page: 3 of 4
+Subject Code: BCC302
+0Roll No:
+0
+0
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+PYTHON PROGRAMMING 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+िनयिमतअिभUVयों (regular expressions) का उपयोग करके ईमेल पते 
+सHािपत 
+करने 
+के 
+िलए 
+एक 
++ोLाम 
+िलख।मापदंड:
+1. @ िचW होना चािहए 
+2. डोमेन नाम होना चािहए 
+3. Dेसनहीहोनाचािहए 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Write a program to create a hollow pyramid pattern given below: 
+*    
+* *    
+*   *   
+*    *  
+********* 
+नीचे िदया गया खोखला िपरािमड पैटन2 बनाने के िलए एक +ोLाम िलख: 
+*    
+* *    
+*   *   
+*    *  
+********* 
+2 
+K3 
+b. 
+Explain the why loops are needed and the types of loops in python. 
+Discuss break and continue with example. 
+लूY की आव1कता #ों होती हैऔर पायथन म लूY के +कार #ाह/, इसे 
+समझाएँ। break और continue कोउदाहरणसिहतसमझाएँ। 
+2 
+K2 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Write a function to find the longest word in a given list of words. 
+Example: longest_word([‘apple’, ‘banana’, ‘cherry’]) returns ‘banana’. 
+िदए गए शZों की सूची म सबसे लंबा शZ खोजने के िलए एक फ़ं5न 
+िलख।उदाहरण: longest_word(['apple', 'banana', 'cherry']) लौटाता है 
+'banana'। 
+3 
+K3 
+b. 
+Distinguish between a Tuple and a List with examples. Explain with 
+examples atleast 4 built-in methods of Dictionary. 
+टपल (Tuple) और िलF (List) के बीच अंतर DE कर।िड5नरी के कम से 
+कम 4 इनिबMमेथड्स (अंतिन2िहतिविध) केउदाहरणद। 
+3 
+K4 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Discuss different types of file modes in Python? Explain with examples. 
+पायथन म िविभ\ +कार के फ़ाइल मोड पर चचा2 कर।उदाहरण सिहत 
+समझाएँ। 
+4 
+2",pymupdf,2025
+04-2025.pdf,4,"QP25DP2_290
+ | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+QP25DP2_290 | 21-Mar-2025 1:32:40 PM | 117.55.242.134
+Printed Page: 4 of 4
+Subject Code: BCC302
+0Roll No:
+0
+0
+0
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2024-25 
+PYTHON PROGRAMMING 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+4 | P a g e 
+ 
+b. 
+Write a program to read a CSV file and display the rows where a 
+specific column value exceeds a given threshold. 
+एक +ोLाम िलख जोए क CSV फ़ाइल को पढ़ेऔरउन पंVयों को +दिश2त करे 
+जहाँएकिवशेषकॉलममानएकिनधा2Aरतसीमासअिधकहै। 
+4 
+K4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q no. 
+Question 
+CO 
+Level 
+a. 
+Discuss the role of event handling in Tkinter. How can you bind events 
+to widgets? Provide examples. 
+Tkinter म इवट ह/डिलंग की भूिमका पर चचा2 कर।आपइवट्स को िवजेट्स से 
+कैसबाँधसकतेह/? उदाहरणद। 
+5 
+K2 
+b. 
+Write a program to read data from a CSV file 'students.csv', calculate the 
+average marks for each student, and display the results. 
+एक +ोLाम िलख जो 'students.csv' फ़ाइल से डेटा पढ़े, +Hेक छा_ केऔसत 
+अंककीगणनाकरेऔरपAरणाम+दिश2तकरे। 
+5 
+K4",pymupdf,2025
+05-2025-a.pdf,1,"printed Page: 1 of
+4
+॥॥॥॥॥॥॥॥॥॥॥॥॥॥
+मलअर
+नआपउपकाबे
+जे
+के
+कपल
+ला
+rove: TTT
+| | TTT TTL
+|
+BTECH
+(SEM वा) THEORY EXAMINATION 2024-25
+PYTHON PROGRAMMING
+Note: Attempt all Sections. In case ofany missing data; choose suitably.
+SECTION A
+i
+Attempt
+ail questions in brief.
+207 -14
+| Qno.
+|
+Question
+ve
+aa
+as SSE
+=
+॥।
+|
+पायथनमेंअपवादो
+कोकैससप्तालें? एकसरलउदाहरणदें।
+|
+|
+ib.
+What will be the output of the following Python code?
+2
+|K3
+|
+def compute(x):
+।
+॥
+return [i**2 for i in x if i%2—=0]
+|
+|
+print(compute([1, 2, 3, 4, 5]))
+॥
+।
+|
+निम्नलिखितपायथनकोडकाआउटपुटकयाहोगा?
+|
+|]
+|
+def compute(x):
+|
+|
+|
+return [i**2 for i in x ifi'%2—=0]
+|
+।
+rint(compute([1, 2, 3, 4, 5
+|
+Ez
+|
+Explain floor division with an example
+/2
+|K2
+<r
+उदाहरण
+FE साथमज़िलविभाजन(floor division) WASTE|
+|
+0-४
+0.
+Describe the purpose of the ‘with’ statementin
+file handling?
+4
+|K2,
+|
+फ़ाइलोGIUses (फाइलहैंडलिए) मेंwith कथनेaVewaकावर्णनकरें।
+|
+|
+e.
+Briefly describe the use of lambda eon aimee
+Python.
+3
+|e
+|
+पायथनमें
+लैम्ब्डाGER
+क॒उपयोग,कोश्षन्षिप्त
+वर्णनकरें।
+(६
+।
+f
+Demonstrate how to assign a single Value to a tuple.
+1. [53
+।
+| टपल(tuple) कोएकलमानSAGSISA करें, इसप्रदर्शितकरें।
+Ol”
+|
+।
+g.
+Explain why numpy is used‘instead of python arrays for mathNal 5
+K2
+|
+calculations?
+id
+Nal
+|
+गणनात्मकगणनाओएक!लिएnumpy काउपयोगक्योएकियाgree
+}
+|
+।
+समझाएँ?
+A
+|
+|
+SECTION B
+रे
+25
+Attempt any three of the following:
+On
+07x3=71
+a.
+Design a basic calculator in Python that supports addition, subtraction, | 1
+| K3
+multiplication, division.
++
+ieee ५
+|
+|
+पायधनमेंएकafte कैलकुलहर
+डिज़ा
+जोजोड़, घटाव, गुणा, भागका
+|
+समर्थनकरताहो।
+N
+|
+b.
+Define Membership and IdentityOperators.
+2
+K4
+Given:
+Mf
+|
+a=3
+Y
+|
+|
+|
+b=3
+\
+Distinguish between: (a is 0) and (a == b) ?
+|
+सदस्यताऔरपहचानऑपरतर(Membership and Identity Operators)
+|
+परिभाषितकरें।
+।
+|
+See
+LL
+गया:
+|
+a=3
+|
+| b=3
+(ais ७) और(a = b) कब्बीचअप्तरस्पष्टकरें।
+1|Page
+https://www.aktdonline:com' 725
+7 हाPM
+ह",ocr,2025
+05-2025-a.pdf,2,"|
+printed हे
+४\Y
+॥|॥॥॥॥|॥॥MEare
+__.ी__.[ै]
+500००Code: BY
+-31152:
+Roll No:
+BTECH
+(SEM Tl) THEORY EXAMINATION 2024-25
+PYTHON PROGRAMMING
+TIME: 3 HRS
+ee
+eee
+CM MARKS: 79
+eee
+रे
+...
+.
+MMARKS: 70
+५.
+Write a Python function to count the frequency of each character in
+3 | 3. | K3
+given string and return the output in a dictionary. Example:
+|
+char_frequency(""HELLO"") retums 1 ""BL ""०००, ९0"")
+Ro TT TERRA लिखें
+जोदिएगएfer में
+प्रत्यक्षवर्णकीआवृत्ति
+(Fequency) गिनताहैऔरआउटपुटकोएकडिक्शनरीमें
+लौटाता
+न
+char_frequency(""HELLO"") लौटाताहै("":1, ""8"":1, ""."":2,
+Write ३program to reverse the contents of a file character by character,
+K3
+Separating each character with a comma.
+एकप्रोग्रामलिखें
+जोकिसीफाइलकीसामग्रीकोवर्णदरवर्णser करा
+प्रत्यक्षवर्ण
+कोकॉमा
+सअलगकरत
+हए।
+|
+Create
+a pie chart usin, matplotlib to represent the following data:
+5
+K3
+ae
+—eo
+&
+eae
+we
+A
+[Ruby
+[10 |
+१,2
+रे
+matplotlib काउपयोगrear
+काकाप्रतिनिधित्वकरनाक़ालिए८3) ;
+एकपाईचार्टFAT
+गे
+ty
+भाषाएँ
+[लोकप्रियता
+|
+ie
+cee
+>
+N
+जावा
+९
+Q
+जावास्क्रि्ट
+oN
+SECTIONC 9
+3.
+Attempt anyone part ofthe following: ५a
+07x 1=07
+|67०.
+|
+:
+Write short notes on the following withyéxamples:
+K2
+a) Operator Precedence
+/
+b) Python Indentation A\G
+c) Type Conversion
+बजे
+निम्नलिखितपरie
+ale feng उदाहरणसहित:
+a} ऑपरठरप्रा
+perator Precedence)
+|
+b) UMUASSCBE
+(Itdentation)
+c) प्रकारपरिवर्तन(Type Conversion
+Write a program to validate email addresses using regular expressions. | 1
+| K3
+Criteria:
+1.
+Must contain @ symbol
+2.
+Must contain domain name
+3.
+Should not have spaces
+a
+;
+a
+2|Page
+www.aktunotes.in",ocr,2025
+05-2025-a.pdf,3,"eT
+printed Fage: 2 ७५
+V0 A
+Subject Code: BCC302
+-
+BTECH
+(SEM Ill) THEORY EXAMINATION 2024-25
+PYTHON PROGRAMMING
+या:
+उप्
+तार$इ_॒
+_[॒
+[॒
+[॒
+7४६MARKS: 70
+पमितअभिव्यक्तिये(regular expressions) का
+उपयोग
+करका
+SHA al
+सत्यापितत
+करन1
+का
+लिए
+एक
+Wa
+लिखें।मापदाड:
+1. ७चिह्नहोनाचाहिए
+2. SHH नामहोनाचाहिए
+3.TG नहीहोनाचाहिए
+4.
+Attempt any one part ofthe following:
+07x1=07
+| Qno. |Do
+estion
+फ््
+'
+Question
+[ Level |
+Write a program to create a hollow pyramid pattern given below:
+2
+K3
+*
+*
+के
+*
+के
+*
+मे
+हेकेकेकेकेजेकंकेके
+oD
+नीचादियागयाखोखलापिरामिडपैटर्नबनानाक्राहिएइकप्रोग्रामलिखें:
+1
+*
+*
+ee
+8
+Ne
+*
+*
+aeok मंदok जेटमरकेमरमर
+LY
+५5
+Explain the why loops
+eeded and the types of loops in pythga™|
+2
+K2
+Discuss break and continbe ith example.
+श्र
+लूप्सकीआवश्यकताHeh हैऔरपायथनमेंलूप्सITER, इस
+समझाएँ।break औरcontinue कोउदाहरणसहितसमझाएँ।
+5.
+Attempt any one part ofthe following:
+ay
+07x1=07
+es ____7_7_7_7_1
+7
+हत््लश क
+Write a function to find the longest ०१४. a given list of words. | 3
+K3
+Example: longest 'सूचीमेंसबसे
+‘bana
+|!
+rry’]) returns ‘banana’.
+दिएगएशब्दोकक़ीसूचीमेंसंबसातलहाPS खोजनाकालिएएकGER
+लिखें।उदाहरण: 108०७. ४०१: ‘banana’, ‘cherry']) लौटाताहै
+‘banana’ |
+z=
+Distinguish between a Tua.
+d a List with examples. Explain with | 3
+examples atleast 4Freaks
+hods of Dictionary.
+टपल(Tuple) औरलिपकाआत्तरस्पष्टकरें।डिक्शनरीकाकमao
+कम
+4 इनबिल्टमधड्स
+(
+विधि)
+कउदाहरणदें।
+6.
+Attempt any one part of the following:
+07x1=07
+एजन
+जन
+Discuss different types of file modes in Python?folain with examples. | 4
+पायथनमें
+विभिन्नप्रकारकाफ़ाइलमोडपरचर्चाकरें।उदाहरणसहित
+समझाएँ।
+3|Page
+QP25DP2_054 | 21-Mar-2025 1:32:37 PM | 43.252.117.135
+ह
+www.aktunotes.in
+oO
+——
+oa",ocr,2025
+05-2025-a.pdf,4,"|
+rrinted rage; 4 ot 4
+॥॥॥॥॥॥IM॥॥॥॥॥॥|
+|
+_,— Sublet Code: BCC302 ,
+R
+ID-
+4
+.
+PAPERIO
+rotor]
+| |
+|
+| | TTT
+TTT [2]
+BTECH
+(SEM 11) THEORY EXAMINATION 2024-25
+PYTHON PROGRAMMING
+JNUME:SHRSOM
+MARKS: 70 |
+ib
+| Write a program to read a CSV file and display the rows where a
+a
+| specific column value exceeds a given threshold,
+|
+| एकप्रोग्रामलिखेंजोएकcsv फ़ाइलकोपढ़औरउनपक्र्तियोककोप्रदर्शित
+करा
+|__|
+जहाँएकविशाष्नकॉलममानएकनिर्धारितसीमासअधिकहै।
+7.
+Attempt any one part of the following:
+07x1=07
+[a. | Discuss the role of event handling in Tkinter. How can you bind events|5 | K2
+|
+to widgets? Provide ca
+les.
+|
+Tkinter
+मेंइवेंटSSR कीभूमिकापरचर्चाकरें।आपइवेंट्सकोविजतृससा|
+|
+कैस
+बाँधसकतहैं? उदाहरणदें।
+b.
+Write a program to read data from a CSV file 'students.csv', calculate the | 5
+K4
+avera:semarks for each student, and display the results.
+एकप्रोग्रामलिखेंजो'students.csv' फ़ाइलVISEUIT छात्रकभऔसत
+5
+आक्
+कीगणनाकरऔरपरिणाम
+प्रदर्शितकगा।»
+हे
+3
+हा
+९
+a
+82
+v
+g
+‘
+>
+०9
+ay
+NK:
+p
+7)
+नौ
+eS
+»
+>
+\
+-
+-
+-
+—
+ae
+QP25DP2_054 | 21-Mar-2025 1:32:37 PM | 43.252.117.135
+www.aktunotes.in",ocr,2025
+06-2024.pdf,1,"Printed Page:
+1 of
+2
+॥॥॥॥॥॥॥॥॥॥॥॥॥
+ra,Ty cote: BCCee
+PA
+11076
+BTECH
+{SEM IV) THEORY EXAMINATION 2023-24
+PYTHON PROGRAMMING
+TIME: 3 HRS
+M.MARKS: 70
+a
+a SM
+MARKS: 70
+Note:
+L. Attempt all Sections. If require any missing data, then choose suitably.
+SECTION A
+1.
+Attempt off questions in brief.
+2x7=14
+Ib
+How weprint
+thecharacter of a givenASCII
+value in
+Python?
+_ |
+te|Can you use else with a for Joop? If so,when is it executed?
+_|
+d. | What will be the output of
+the following Python code?
+|
+|
+I= (1,0, 0, 2, ""hi,""
+1]
+|
+4
+4
+print(list(filter(bool.
+Dy
+////""/ू/ू$ू$&०9&9&«/
+;
+&. _ Describe2 thepurpose of the split() methodin string manipulation.
+;
+f
+| What does
+does the readline() function return when it
+reaches thesade? न
+of a file?
+.
+|gfWhich function isused to create identity matrix in NumPy?
+_
+SECTION B .. -
+at
+2.
+Attempt aay three of the following:
+.
+Tx3=2h
+—{b.
+| Explain how to define a list in Python. Write a Python program to
+uo _|
+1
+an
+| duplicates froma list and print the resulting list.
+fae
+ic
+Explain the concept of functions in Python. Write a function that takes a list of
+annumbers and returns the sum of all the numbers in'the list.
+|
+ld.
+| Write a Python program to read a file named “ABC.txt? and count the number |
+file named “ABC.txt” and count the number
+|__|
+of lines, words. and characters in the file. ___tne"" डकारWile = Pon
+i
+है
+*
+*
+fe.
+| Explain the basic usage of: matplotlib for plotting’ graphs. Write a Python
+|
+| program to plot a simple line graph showing
+the relationship between x = [1, 2,
+SECTION ९
+3.
+Attempt any one part of the following: a
+7x1l=7
+[(b)
+1Write a Python Program to find the LCM of two
+numbers,
+4,
+Attempt any one part of the following:
+Ixj=7
+(a) | Write9 program takes two strings and checks common letiers in both”the |
+|
+| strings
+'
+|
+।
+| Enter first string: Hari
+|
+|
+| Enter second string: Hale
+|
+| The common letters are:
+|
+|
+1H
+|
+i (b)
+] Write a Python Program to find the sum all the items in a dictionary.
+|
+|__|
+For example ifd=s'A""100.'3""'540,'C:239) then output should ७87०.
+1|Fazge
+www.aktunotes.in",ocr,2024
+06-2024.pdf,2,"Printed Page: 2 of
+2
+॥॥॥|॥॥॥॥॥॥॥॥॥॥॥॥
+_
+Subject Code: 8९402
+rarerioatvor
+rotNo:|
+|
+|
+|
+| tf ty
+itl)
+BTECH
+(SEM IV) THEORY EXAMINATION 2023-24
+PYTHON PROGRAMMING
+TIME: 3 HRS
+_
+ee
+M.MARKS: 70
+5.
+Attempt any one part of the following:
+75157
+लए
+।Explain the concept ofa set in Python and its characteristics How elements are |
+डॉ>पध्पणात्तात्णव्ततह... |
+((b)
+| Explain how lambda functions can be used within a list comprehension Write a
+|
+।
+| Python program that uses a lambda function within a list comprehension to
+|
+जतागलाa list oftemperatures
+in Celsius to Fahrenheit.
+---... |
+6.
+Attempt any one part of the following:
+7x1l=7
+(a) | Explain differentfile opening modes also write a Python Program to read a file |
+___| and capitalize
+the first letter ofevery word in the file.
+— /
+9
+||
+7>-७६02-1 Whatdo youMean byYgenerators
+in Python? How it iscreated inPython?|
+7.
+Attempt any one part ofthe following:
+75157
+(a) | Describe how to generate random numbers”using NumPy. Write a Python |
+पता
+Esha
+eats an array of S random integersbetween
+10 and50.|
+_7tb)
+| Explain the concept of DataFrame in pandas. Write a Python program to create
+|
+2...
+~
+a PataFrame from a dictionary and printita.ee
+eeoat
+www.aktunotes.in",ocr,2024
+07-2024-b.pdf,1,"QP24DP1_290
+ | 31-01-2024 13:37:14 | 117.55.242.132
+QP24DP1_290 | 31-01-2024 13:37:14 | 117.55.242.132
+ 
+Printed Page: 1 of 1 
+  
+Subject Code: KME056 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM V) THEORY EXAMINATION 2023-24 
+PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON 
+TIME: 3 HRS                                                                                                                 M.MARKS: 100 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+Qno. 
+Question 
+Marks 
+CO 
+a.  
+State any two characteristics of python programming language. 
+2 
+1 
+b.  
+Tell how to initialize a string in python? 
+2 
+1 
+c.  
+Differentiate between an array and a list. 
+2 
+2 
+d.  
+Explain slicing. 
+2 
+2 
+e.  
+Define a function in python. 
+2 
+3 
+f.  
+Define global scope with respect to functions. 
+2 
+3 
+g.  
+What is a stack? 
+2 
+4 
+h.  
+Define a queue in python. 
+2 
+4 
+i.  
+Explain Big-O notation. 
+2 
+5 
+j.  
+Define dynamic programming. 
+2 
+5 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a. 
+Explain in detail the various data types in python? 
+10 
+1 
+b. 
+Explain the use of tuples and dictionaries. Use valid examples and their 
+associated operations. 
+10 
+2 
+c. 
+What is a file handle. Explain its utility and significance with examples. 
+10 
+3 
+d. 
+Explain the various commands related to queues and stacks in python. 
+10 
+4 
+e. 
+Write a program for multiplication of two matrices in python. 
+10 
+5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Summarize – break, continue and pass with examples. 
+10 
+1 
+b. 
+Briefly explain the functions of python IDE’s. 
+10 
+1 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Explain various list operations with suitable examples. 
+10 
+2 
+b. 
+Explain and write the program for selection sort. 
+10 
+2 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Explain the various commands related to reading of files in python. 
+10 
+3 
+b. 
+Summarize with examples write related commands in python 
+programming. 
+10 
+3 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Briefly explain classes and objects in python. Write any valid program to 
+explain them. 
+10 
+4 
+b. 
+Summarize search trees in python. Briefly explain binary trees. 
+10 
+4 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+a. 
+Write a python program to calculate simple greatest common divisor 
+(gcd) and explain it. 
+10 
+5 
+b. 
+Summarize a python program for Euclid’s algorithm for gcd. 
+10 
+5",pymupdf,2024
+08-2024-a.pdf,1,"QP24DP2_290
+ | 12-03-2024 13:20:30 | 117.55.242.132
+QP24DP2_290 | 12-03-2024 13:20:30 | 117.55.242.132
+ 
+Printed Page: 1 of 3 
+  
+Subject Code: BCC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2023-24 
+PYTHON PROGRAMMING 
+TIME:  3HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+ 
+Q no. 
+Question 
+Marks 
+a.  
+Describe the concept of list comprehension with a suitable example 
+2 
+b.  
+Differentiate between / and // operator with an example 
+2 
+c.  
+Compute the output of the following python code: 
+def count(s):  
+for str in string.split(): 
+s = “&”.join(str) 
+return s  
+print(count(“Python is fun to learn.”)) 
+2 
+d.  
+How to use the functions defined in library.py in main.py 
+2 
+e.  
+Describe the difference between linspace and argspace. 
+2 
+f.  
+Explain why the program generates an error. 
+x = [‘12’, ’hello’, 456] 
+x[0] *= 3 
+x[1][1]=’bye’ 
+2 
+g.  
+Describe about different functions of matplotlib and pandas. 
+2 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Illustrate Unpacking tuples, mutable sequences, and string concatenation with 
+examples 
+7 
+b. 
+Illustrate different list slicing constructs for the following operations on the 
+following list: 
+L = [1, 2, 3, 4, 5, 6, 7, 8, 9] 
+1. Return a list of numbers starting from the last to second item of the list 
+2. Return a list that start from 3rd item to second last item. 
+3. Return a list that has only even position elements of list L to list M. 
+4. Return a list that starts from the middle of the list L. 
+5. Return a list that reverses all the elements starting from element at index 
+0 to middle index only and return the entire list. 
+Divide each element of the list by 2 and replace it with the remainder. 
+7 
+c. 
+Construct a function perfect_square(number) that returns a number if it is a perfect 
+square otherwise it returns -1. 
+ For example:  
+perfect_square(1) returns 1 
+perfect_square (2) returns -1 
+7 
+d. 
+Construct a program to change the contents of the file by reversing each character 
+separated by comma: 
+Hello!! 
+Output 
+H,e,l,l,o,!,! 
+7 
+e. 
+Construct a plot for following dataset using matplotlib : 
+7",pymupdf,2024
+08-2024-a.pdf,2,"QP24DP2_290
+ | 12-03-2024 13:20:30 | 117.55.242.132
+QP24DP2_290 | 12-03-2024 13:20:30 | 117.55.242.132
+ 
+Printed Page: 2 of 3 
+  
+Subject Code: BCC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2023-24 
+PYTHON PROGRAMMING 
+TIME:  3HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+Food 
+Calories 
+Potassium fat 
+Meat 
+250 
+40 
+8 
+Banana 
+130 
+55 
+5 
+Avocados 
+140 
+20 
+3 
+Sweet 
+Potatoes 
+120 
+30 
+6 
+Spinach 
+20 
+40 
+1 
+Watermelon 
+20 
+32 
+1.5 
+Coconut 
+water 
+10 
+10 
+0 
+Beans 
+50 
+26 
+2 
+Legumes 
+40 
+25 
+1.5 
+Tomato 
+19 
+20 
+2.5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Determine a python function removenth(s,n) that takes an input a string and an 
+integer n>=0 and removes a character at index n. If n is beyond the length of s, 
+then whole s is returned.  For example: 
+removenth(“MANGO”,1) returns MNGO 
+removenth(“MANGO”,3) returns MANO 
+ 
+7 
+b. 
+Construct a program that accepts a comma separated sequence of words as input 
+and prints the words in a comma-separated sequence after sorting them 
+alphabetically. 
+Suppose the following input is supplied to the program: 
+without, hello, bag, world 
+Then, the output should be: 
+bag, hello, without, world 
+7 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+A website requires the users to input username and password to register. Construct 
+a program to check the validity of password input by users. 
+Following are the criteria for checking the password: 
+1. At least 1 letter between [a-z] 
+2. At least 1 number between [0-9] 
+3. At least 1 letter between [A-Z] 
+4. At least 1 character from [$#@] 
+5. Minimum length of transaction password: 6 
+6. Maximum length of transaction password: 12 
+Your program should accept a sequence of comma separated passwords and will 
+check them according to the above criteria. Passwords that match the criteria are 
+to be printed, each separated by a comma 
+7 
+b. 
+Explore the working of while, and for loop with examples. 
+7 
+5. 
+Attempt any one part of the following:",pymupdf,2024
+08-2024-a.pdf,3,"QP24DP2_290
+ | 12-03-2024 13:20:30 | 117.55.242.132
+QP24DP2_290 | 12-03-2024 13:20:30 | 117.55.242.132
+ 
+Printed Page: 3 of 3 
+  
+Subject Code: BCC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2023-24 
+PYTHON PROGRAMMING 
+TIME:  3HRS                                                                                                                 M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+a. 
+Construct a function ret smaller(l) that returns smallest list from a nested list. If 
+two lists have same length then return the first list that is encountered. For 
+example: 
+ 
+ret smaller([ [ -2, -1, 0, 0.12, 1, 2], [3, 4, 5], [6 , 7, 8, 9, 10], [11, 12, 13, 14, 15]]) 
+returns [3,4,5] 
+ret smaller([ [ -2, -1, 0, 0.12, 1, 2], [‘a’, ’b’, ’c’, ’d’, 3, 4, 5], [6 , 7, 8, 9, 10], [11, 
+12, 13, 14, 15]]) returns [6 , 7, 8, 9, 10] 
+7 
+b. 
+Construct following filters: 
+1. Filter all the numbers 
+2. Filter all the strings starting with a vowel 
+3. Filter all the strings that contains any of the following noun: Agra, 
+Ramesh, Tomato, Patna. 
+Create a program that implements these filters to clean the text. 
+7 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Change all the numbers in the file to text. Construct a program for the same.   
+Example: 
+Given 2 integer numbers, return their product only if the product is equal to or lower 
+than 10.  
+And the result should be: 
+Given two integer numbers, return their product only if the product is equal to or 
+lower than one zero 
+7 
+b. 
+Construct a program which accepts a sequence of words separated by whitespace 
+as file input. Print the words composed of digits only. 
+7 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 
+a. 
+Construct a program to read cities.csv dataset, remove last column and save it in 
+an array. Save the last column to another array. Plot the first two columns.  
+7 
+b. 
+Design a calculator with the following buttons and functionalities like addition, 
+subtraction, multiplication, division and clear. 
+ 
+ 
+ 
+7",pymupdf,2024
+09-2023.pdf,1,"है
+Sub Code: KNC-402
+Printed Pages: 2
+Paper Id: [238061|
+Roll No.
+SE
+B.Tech.
+(SEM IV) THEORY EXAMINATION 2022-23
+PYTHON PROGRAMMING
+Time: 3 Hours
+Total Marks: 100
+Note: Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1,
+Attempt काquestions in brief.
+2x10=20
+a,
+Detine the programming cycle for Python
+b.
+Describe the use of class *__init__()° method.
+.c,
+Explain features ofany two Python IDEs.
+9.
+Discuss the purpose of the break and continue statement in loops.
+_e.
+Explain mutable sequences in Python.
+f.
+Explain the output of following function.
+f
+defprintalpha (abc_list, num_list):
+for char in abc_list:
+for num in num_list:
+print(char, num)
+return
+printalpha ({'a’, “b’. 'c'], [1, 2, 31)
+:
+g.
+Discuss the special metheds __le__ and __ne_.
+bh.
+Discuss various file opening modes of python.
+L
+Compare assert, try-except and raise statements.
+j.
+Write python function to perform linear search.
+SECTION B
+2.
+Attempt any three of the following:
+10x3=30
+a.
+Write Python code snippet to display n terms of Fibonacci series using recursion.
+b.
+Write and explain an algorithm through python code to generate prime numbers.
+०.
+Compare list and tuple data structure with suitable examples. Explain the concept
+.
+of list comprehension.
+0.
+Explain the python implementation of stack ADT.
+९.
+Describe python program to implement selection sort. Simulate your code on the
+following data
+2.52, 1.5,2.54,62,64.",ocr,2023
+09-2023.pdf,2,"SECTION C
+3;
+Attempt any one part of the following:
+10x1=10
+a.
+Discuss various categories of operators in python. Find and explain stepwise
+solution of following expressions if a=3, b=5, c=10.
+1)
+a &b<<2//5**2+¢%b
+ii)
+b>>a**2<<2 >> DE*2AG #3
+0.
+Discuss why python is interpreted language. Explain history and features of
+python while comparing python version 2 and 3.
+4.
+Attempt any one part of the following:
+10x1=10
+|
+a.
+Write a python program to count the vowels present in given input string.
+‘Explain the output of program through example.
+0.
+Write a program that accepts sequence of lines as input and prints the lines
+after making all characters in the sentence capitalized.
+e.g. If Input:
+Hello world
+Practice makes perfect
+Then, Output:
+है
+HELLO WORLD
+.
+~*
+PRACTICE MAKES PERFECT
+हा
+fn
+5.
+Attempt any one part of the following:
+10x1=10°
+¢
+a.
+Discuss list data structure of python. Explain various inbuilt methods of list with
+suitable example of each.
+a
+b.
+Compare list and dictionary data structure. Explain various dictionary methods
+with suitable examples of each.
+.
+6.
+Attempt any one part of the following:
+”
+10x1=10
+8.
+Discuss the concept of Iterators in python. Explain, how we can create text file
+_
+in python? Describe python program to write the number of letters and digits in
+given input string into a File object.
+b.
+Illustrate
+through examples, hew we can implement
+different type of .
+‘
+inheritance in python? Explain the: static, instance and class method through
+suitable example.
+7.
+Attempt any one part of the following:
+10x1=10
+a.
+Explain the Tower of Hanoi problem and its recursive solution in Python.
+b.
+Write python program to implement merge sort algorithm. Discuss, how we can
+compare the time complexity of two algorithms?",ocr,2023
+10-2023-d.pdf,1,"Printed Pages: 2
+Sub Code: KANC-402
+Paper id: |
+238061
+_—|
+Roll No.
+B.Tech.
+(SEM IV) THEORY EXAMINATION 2022-23
+PYTHON PROGRAMMING
+Time: 3 Hours
+Total Marks: 100
+Note: Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt ail questions in brief.
+2x 10=20
+a.
+Define the programming cycle for Python
+b.
+Describe the use of class *__init__()° method.
+९.
+Explain features of any two Python IDEs.
+d.
+Discuss the purpose of the break and continue statement in loops.
+e.
+Explain mutable sequences in Python.
+f.
+Explain the output of following function. “
+defprintalpha (abe_list, num_list):
+O)
+9
+for char in abc_list:
+9
+0,Y
+for
+num in num_list:
+‘7s
+nN L
+print(char, num)
+Q
+,
+.
+return
+KY
+पे
+printalpha ([७, '७', 'c'], (1.2)
+‘
+g.
+Discuss the special moh —le__ and __ne__.
+(५2
+h.
+Discuss various file @pduing modes of python
+N
+i.
+Compare assert, try-excep! and raise statements.
+>
+J.
+White python function to perform linear search.
+५
+Oo.”
+Ne,
+SECTION
+B Ay
+9] 2)
+Q iv
+‘otowin.
+OS
+2.
+Attempt any three of the “mee v
+10x3=30
+८
+a
+Write Python codeashen n terms of Fibonacci series using recursion,
+b.
+Write and explain 31 9
+m through python code to generate prime numbers
+८.
+Compare list and tuple data suucture With suitable examples. Explain the concept
+of list comprehension.
+५
+‘stack
+ADT
+d.
+Explain the python implementation of stack ADT
+e
+Describe python program 10 implement clecuon sort, Simulate your code on the
+|
+following data
+2.§2,1.5.2,54,02,64
+AKTU paper
+| www.aktunotes.in",ocr,2023
+10-2023-d.pdf,2,"SECTION C
+3.
+Attempt any one part of the following:
+10x1=10
+a.
+Discuss various categories of operators in python. Find and explain stepwise
+solution of following expressions if a=3, b=5, c=10.
+i)
+a &b<<2//5**240%b
+ii)
+b>>a**2<<2 >> b**2%c**3
+E
+a
+catures of
+b.
+Discuss why python is interpreted language.
+Explain history
+nd tea
+python while comparing python version 2 and 3.
+4.
+Attempt any one part of the following:
+10x1=10
+a.
+Write a python program to count the vowels present in given input string.
+Explain the output of program through example.
+,
+0.
+Write a program that accepts sequence of lines as input and prints the lines
+after making all characters in the sentence capitalized.
+e.g. [f Input:
+Hello world
+Practice makes perfect
+A
+Then, Output:
+HELLO WORLD
+Oy
+oS
+PRACTICE MAKES PERFECT
+8
+6)
+१7
+KY
+5.
+Attempt any one part ofthecage
+10x“a(10
+ow
+a.
+Discuss list dataoesAF python. Explain various inbuilt ५७५७७oF list with
+suitable example
+कं
+m
+b.
+Compare list and
+ary data strudure. Explain various diguionary methods
+with suitable examples of each.
+QS
+v
+6.
+Altempt any one part of the following:
+0) ye
+10x1=10
+on AA
+a.
+Discuss the concept of Iterators in python Explain, how we can create text file
+in python? Descnbe python programnayte the number of letters and digits in
+given input string into a File object,
+1५
+b.
+Hlustrate through examples, १००३can implement different type of
+inheritance in python? Explaube
+ic. instance and class method through
+suitable example.
+Q
+हु
+)
+7.
+Attempt any one part of te Foowing
+10x1=10
+a.
+Explain the Tower of Hanoi problem and its [६४७७९solution in PVthon
+b.
+White python program to implement वार? ort algonthin: Discuss. how we can
+compare the ime complexity of two algonthmys?
+AKTU paper
+| www.aktunotes.in",ocr,2023
+11-2023-c.pdf,1,"Printed Pages: 02
+‘
+;
+Sub Code:KNC.392
+Paper Id:
+|
+233077
+|
+Roll No,
+ae
+(SEM_IlI) THEORY EXAMINATION 2022-23
+|
+> |""
+PYTHON PROGRAMMING
+है
+हि
+Total Marks: 50
+*
+H
+\.
+.
+हु
+पु
+- ad
+tom
+s
+-
+Note:
+Attempt all Sections. Ifyou require any missing data, then choose suitably.
+oe
+;
+SECTION A
+1.
+Attempt 41 questions in brief.
+1x10 =10
+.
+}
+2
+हु
+(a)
+Explain the Programming Cycle for Python in detail..
+(b)
+Describe the concept of List Slicing with a suitable example.
+(०)
+Show the way to import the module in python.
+(d)
+Differentiate between Python .Arrays and lists?
+(e)
+Define floor division with an example.
+-
+(9
+Explain the difference between ‘append’ and ‘extend’ in Python?
+(g)
+What is a dictionary in Python?
++
+(1)
+What is object-oriented programm(t JOOP) in Python? Give an example.
+(i)
+What will be the output of theCpuogine python code
+-
+“Y
+defcounten
+vows.
+EIOUaeiou""
+ay
+OS ems:
+(> 110 in vowels:
+countt=1
+|
+.
+return count|
+print(count!(‘I love India’))_
+(j)'
+What will be the output of the following cong न
+'
+list] = ['M', '०', 'n’, 1०, '५""]
+aN
+print(""@"" join(list!))
+17
+serio
+ह
+2.
+Attempt any three of the followings >
+5535८15
+(a)
+Demonstrate five hae
+efit built in functions used in the String. Write_a.
+-
+‘
+program to check w
+era string is a palindrome or not.
+.
+a
+(b)
+Explain the following loops with a flow diagram, syntax, and suitable
+'
+xamples.
+है
+;
+,
+°
+D.
+For
+II) while
+‘
+(c)
+Explain the continue, break, and pass statements with a suitable example.
+ह
+हे
+(0)
+Develop a program to calculate the reverse of any entered number.
+(e)
+Explain the list Comprehension with any suitable example.
+.
+; AKTU paper
+| www.aktunotes.in",ocr,2023
+11-2023-c.pdf,2,"re
+SECTION C
+7
+©mpt any one part of the following:
++
+8४155
+a
+५
+(७)
+ilustrate
+Unpacking
+Sequences,
+Mutable
+"" Sequences,
+and
+List
+""
+comprehension with examples.
+_.
+(0)...
+Explain the lambda faneten
+rice, ie:
+.
+.
+,
+॥
+Explain map() funet;
+ction. How it is helpful in the higher order function.
+ce
+Soe
+etton with aSuitable example.
+4.
+oo,
+|
+Attempt any one part of the following:
+5x1=5
+(a)
+Discuss the different types of argument-passing methods in python. Explain
+thevariable length argument with any suitable example.
+o
+(b)
+Write short notes on the following with a suitable example
+t
+I} Encapsulation —_ ID) Inheritance
+.
+7
+5.
+Attempt any one part of the following:
+5x1=5
+(9)
+-Demonstrate the file handing procedure in detail. Write a python code to
+create a file with ‘P.txt’ nathe and wee your name and father’s name in this
+_
+file and then read this file to print pay
+oD
+(b)
+Demonstrate the ‘Sieve of EratQth
+es’ theorem and write the pythony. 1
+function to print prime numbers, betyeen 1 to 100.
+hk
+ofSK
+!
+(6५
+6.
+Attempt any one part of the
+wing: ।
+od
+Vy
+*
+र्तः
+oats
+(a)
+Develop
+and
+yte
+the
+python
+code
+of
+selection,
+to
+sort
+41,65,43,91,12N.4762 elements. Also, explain its complexity.
+(b)
+Explain Binary search with its pyihon code and rome
+7.
+Attempt any one part of the following:
+a. °
+(5x1=5
+(a)
+Explain the importance of Exteptj
+yhaling in any object-oriented
+programming language, Explain ॥
+F ptions and finally block with any
+suitable example.
+(५४V
+.
+©
+(0).
+Summarize the ‘Tower of Han6}}Puzzle and write its recursive function to
+implement it.
+Oy
+i
+AKTU paper
+| www.aktunotes.in
+.
+-
+a",ocr,2023
+12-2023-b.pdf,1,"QP23DP1_290  
+ | 16-01-2023 13:27:52 | 117.55.242.132
+QP23DP1_290   | 16-01-2023 13:27:52 | 117.55.242.132
+Printed Pages: 2 
+Sub Code: KME056 
+ 
+ 
+ 
+Paper Id:  
+231674 
+ 
+                                       Roll No.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TECH. 
+(V SEM) THEORY EXAMINATION 2022-23 
+PROGRAMMING, DATA STRUCTURES AND ALGORITHMS USING PYTHON 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  2x10 = 20 
+(a) 
+Explain the characteristics of python. 
+(b) 
+Illustrate the syntax of the range( ) method in python. 
+(c) 
+Write short notes on tuple data structure with any suitable example. 
+(d) 
+Describe big O notation with an example. 
+(e) 
+Find out value of Y if X = ‘I love India’ and Y=X [:9:2] 
+(f) 
+Explain the concept of variable length argument with an example. 
+(g) 
+Compare the list with the tuple data structure. 
+(h) 
+Explain the importance of memoization. 
+(i) 
+Explain hashing and write names of different collision techniques 
+(j) 
+Explain abstract data types (ADT) with examples. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+  10x3 = 30 
+(a) 
+Illustrate the concept of list comprehension. Write a python code to multiply 
+two matrices using the concept of list comprehension. 
+(b) 
+Explain ‐filter(),map(),reduce() functions with example 
+(c) 
+Code a program to use exception handling for dividing the numbers. and 
+explain exception handling in detail. 
+(d) 
+Explain Euclid’s algorithm for the greatest common division problem. 
+(e) 
+Explain and write python code for the binary search algorithm and explain its 
+complexity. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+              10x1 = 10 
+(a) 
+Explain the Queue data structure. Also, write python code for different 
+operations. 
+(b) 
+Explain the Stack data structure. Also, write python code for different 
+operations. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 10 x1 = 10 
+(a) 
+Describe grid path problem algorithms. Find out the maximum path from (0,0) 
+to (5,6) if there exist two obstacle points (2,4) and (3,1). 
+(b) 
+Explain loop control statements‐break, continue, pass with example",pymupdf,2023
+12-2023-b.pdf,2,"QP23DP1_290  
+ | 16-01-2023 13:27:52 | 117.55.242.132
+QP23DP1_290   | 16-01-2023 13:27:52 | 117.55.242.132
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10x1 = 10 
+(a) 
+Illustrate the concept of merge sort. Also, write python code for it. 
+(b) 
+Explain different important commands in handling files. Also, write python 
+code to count the number of lower-case alphabets present in a text file 
+“PQR.txt”. 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10x1 = 10 
+(a) 
+Write a python function to find out the longest common subsequences. Apply 
+the concept to calculate the longest common subsequence of X = (B,A,C,D,B) 
+and Y = (B,D,C,B). 
+(b) 
+Explain the concept of user-defined list (linked list). Write python code to 
+create a list and print the list. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+  10x1 = 10 
+(a) 
+Create a binary search tree of the given list [14,16,11,21,10,13,12,8,36,25,42] 
+and then delete 21 and 25 elements from it. Show all the steps   
+(b) 
+Determine the best multiplication ways of a matrix of a given chain of a matrix 
+with order A= 6*7, B= 7*4, C=4*5",pymupdf,2023
+13-2023-a.pdf,1,"QP23DP2_290  
+ | 21-03-2023 13:31:19 | 117.55.242.132
+QP23DP2_290   | 21-03-2023 13:31:19 | 117.55.242.132
+Printed Pages: 02 
+Sub Code:KNC-302 
+ 
+ 
+ 
+Paper Id:  
+233077 
+ 
+                                       Roll No.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B.TECH. 
+(SEM III) THEORY EXAMINATION 2022-23 
+PYTHON PROGRAMMING 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 50 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  1x10 = 10 
+ 
+(a) 
+Explain the Programming Cycle for Python in detail. 
+(b) 
+Describe the concept of List Slicing with a suitable example. 
+(c) 
+Show the way to import the module in python. 
+(d) 
+Differentiate between Python Arrays and lists? 
+(e) 
+Define floor division with an example. 
+(f) 
+Explain the difference between 'append' and 'extend' in Python? 
+(g) 
+What is a dictionary in Python? 
+(h) 
+What is object-oriented programming (OOP) in Python? Give an example. 
+(i) 
+What will be the output of the following python code 
+ 
+def count1(s): 
+    vowels = ""AEIOUaeiou"" 
+    count = 0 
+    for c in s: 
+        if c in vowels: 
+            count += 1 
+    return count 
+print(count1(‘I love India’)) 
+ 
+(j) 
+What will be the output of the following code? 
+list1 = ['M', 'o', 'n', 'k', 'y'] 
+print(""@"".join(list1)) 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+  5x3 = 15 
+(a) 
+Demonstrate five different built in functions used in the string. Write a 
+program to check whether a string is a palindrome or not. 
+(b) 
+Explain the following loops with a flow diagram, syntax, and suitable 
+examples. 
+I) 
+For                           II)   while 
+(c) 
+Explain the continue, break, and pass statements with a suitable example. 
+(d) 
+Develop a program to calculate the reverse of any entered number. 
+(e) 
+Explain the list Comprehension with any suitable example.",pymupdf,2023
+13-2023-a.pdf,2,"QP23DP2_290  
+ | 21-03-2023 13:31:19 | 117.55.242.132
+QP23DP2_290   | 21-03-2023 13:31:19 | 117.55.242.132
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5x1 = 5 
+ 
+(a) 
+Illustrate 
+Unpacking 
+Sequences, 
+Mutable 
+Sequences, 
+and 
+List 
+comprehension with examples. 
+(b) 
+Explain the lambda function. How it is helpful in the higher order function. 
+Explain map() function with a suitable example. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5x1 = 5 
+ 
+(a) 
+Discuss the different types of argument-passing methods in python. Explain 
+the variable length argument with any suitable example. 
+(b) 
+Write short notes on the following with a suitable example 
+ I) Encapsulation      II) Inheritance  
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5x1 = 5 
+ 
+(a) 
+Demonstrate the file handling procedure in detail. Write a python code to 
+create a file with ‘P.txt’ name and write your name and father’s name in this 
+file and then read this file to print it. 
+(b) 
+Demonstrate the ‘Sieve of Eratosthenes’ theorem and write the python 
+function to print prime numbers between 1 to 100. 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5x1 = 5 
+ 
+(a) 
+Develop and write the python code of selection sort to sort 
+41,65,43,91,12,14,62 elements. Also, explain its complexity. 
+(b) 
+Explain Binary search with its python code and complexity. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5x1 = 5 
+ 
+(a) 
+Explain the importance of Exception handling in any object-oriented 
+programming language. Explain try exceptions and finally block with any 
+suitable example. 
+(b) 
+Summarize the ‘Tower of Hanoi’ puzzle and write its recursive function to 
+implement it.",pymupdf,2023
+14-2022.pdf,1,"QP22P2_290
+ | 22-Mar-2022 13:25:36 | 117.55.242.131
+QP22P2_290 | 22-Mar-2022 13:25:36 | 117.55.242.131
+ 
+Printed Page: 1 of 2 
+  
+Subject Code: KNC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+PYTHON PROGRAMMING 
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 50 
+Note:  Attempt all Sections. If you require any missing data, then choose suitably. 
+ 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+  2*5 = 10 
+Qno 
+Questions 
+CO 
+(a) 
+Explain the Programming Cycle for Python in detail. 
+1 
+(b) 
+What will be the output of the following Python code? 
+i = 0 
+while i< 3: 
+    print(i) 
+i += 1 
+else: 
+print(0) 
+2 
+(c) 
+What will be the output of the following Python code? 
+def cube(x): 
+    return x * x * x       
+x = cube(3)     
+print x 
+3 
+(d) 
+How do we define an Interface for an ADT? 
+4 
+(e) 
+How do you perform a search in Python? 
+5 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+5*3 = 15 
+Qno 
+Questions 
+CO 
+(a) 
+What do you mean by Python IDE? Explain in detail. 
+1 
+(b) 
+How can you randomize the items of a list in place in Python? 
+2 
+(c) 
+Explain Tuples and Unpacking Sequences in Python Data Structure. 
+3 
+(d) 
+What are File input and output operations in Python Programming? 
+4 
+(e) 
+Solve the Tower of Hanoi problem for n= 3 disk and show all the steps. 
+5 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+              5*1 = 5 
+Qno 
+Questions 
+CO 
+(a) 
+Write a program in Python to execute the Selection sort algorithm. 
+5 
+(b) 
+Explain why python is considered an interpreted language. 
+1 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+ 5 *1 = 5 
+Qno 
+Questions 
+CO 
+(a) 
+Write a Python program to construct the following pattern, using a 
+nested for loop. 
+ 
+*  
+* *  
+* * *  
+* * * *  
+* * * * *  
+2",pymupdf,2022
+14-2022.pdf,2,"QP22P2_290
+ | 22-Mar-2022 13:25:36 | 117.55.242.131
+QP22P2_290 | 22-Mar-2022 13:25:36 | 117.55.242.131
+ 
+Printed Page: 2 of 2 
+  
+Subject Code: KNC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM III) THEORY EXAMINATION 2021-22 
+PYTHON PROGRAMMING 
+ 
+* * * *  
+* * *  
+* *  
+* 
+(b) 
+Write a program to produce Fibonacci series in Python. 
+4 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5*1 = 5 
+Qno 
+Questions 
+CO 
+(a) 
+Write a Python program to change a given string to a new string where 
+the first and last chars have been exchanged. 
+3 
+(b) 
+Write a Python program to add an item in a tuple. 
+3 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5*1 = 5 
+Qno 
+Questions 
+CO 
+(a) 
+How to create and import a module in Python? 
+4 
+(b) 
+Explain the algorithm Sieve of Eratosthene used in Python 
+Programming. 
+4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+5*1 = 5 
+Qno 
+Questions 
+CO 
+(a) 
+Write a Recursive function in python BinarySearch(Arr,l,R,X) to 
+search the given element X to be searched from the List Arr having R 
+elements, where l represent slower bound and R represents the upper 
+bound. 
+5 
+(b) 
+Explain the terms Merge List and Merge Sort in Python Programming. 
+5",pymupdf,2022
+15-2021.pdf,1,"AKTU_QP20E290QP
+ | 12-Mar-2021 14:07:56 | 117.55.242.131
+AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131
+ 
+Printed Page: 1 of 4 
+  
+Subject Code: KNC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+B.TECH 
+(SEM III) THEORY EXAMINATION 2020-21 
+PYTHON PROGRAMMING 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+What is the use of “raise” statement? Describe with an example. 
+2 
+5 
+b. 
+Write a recursive Python function “rprint” to print all elements in a 
+list in reverse. 
+rprint([]) prints nothing 
+rprint([1,2,3]) prints 3 2 1 
+2 
+3 
+c. 
+Describe the behavior of “range (s, e)” in Python. 
+2 
+3 
+d. 
+Explain the use of “with” construct in Python with an example 
+program. 
+2 
+5 
+e. 
+Which of the following statements produce an error in Python? 
+x, y, z = 1,2,3 # s1 
+a, b 
+= 4,5,6 # s2 
+u 
+= 7,8,9 # s3 
+(List all the statements that have error.) 
+2 
+1 
+f. 
+Explain the role of precedence with an example. 
+2 
+1 
+g. 
+How do you read an input from a user in Python to be used as an integer 
+in the rest of the program? Explain with an example. 
+2 
+5 
+h. 
+Consider the program: 
+ 
+x 
+= ['12', 'hello', 456] 
+x[0] 
+*= 3 
+x[1][1] = 'bye' 
+ 
+Explain why this program generates an error. 
+2 
+1 
+i. 
+What is the output of the following program? 
+ 
+(lambda x,y : y - 2*x) (1, 11) 
+2 
+5 
+j. 
+Explain the use of 
+lt  function in a class Python? 
+2 
+5",pymupdf,2021
+15-2021.pdf,2,"AKTU_QP20E290QP
+ | 12-Mar-2021 14:07:56 | 117.55.242.131
+AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131
+ 
+Printed Page: 2 of 4 
+  
+Subject Code: KNC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Write a Python function removekth(s, k) that takes as input a 
+string s and an integer k>=0 and removes the character at index k. If k 
+is beyond the length of s, the whole of s is returned. For example, 
+ 
+removekth(“PYTHON”, 1) returns “PTHON” 
+removekth(“PYTHON”, 3) returns “PYTON” 
+removekth(“PYTHON”, 0) returns “YTHON” 
+removekth(“PYTHON”, 20) returns  “PYTHON” 
+10 
+5 
+b. 
+Write a Python function average to compute the average of a list of 
+numbers. The function must use try-except to handle the case 
+where the input list is empty. Further, in that case the average for the 
+empty list should be set to 0.0 using the except block. 
+10 
+3 
+c. 
+Describe the differences between a linear search and a binary search? 
+10 
+5 
+d. 
+Write a function lessthan(lst, k) to return list of numbers less 
+than k from a list lst. The function must use list comprehension. 
+Example: 
+lessthan([1, -2, 0, 5, -3], 0)  returns  [-2, -3] 
+10 
+4 
+e. 
+Write a program factors(N) that returns a list of all positive divisors 
+of N (N>=1). For example: 
+factors(6) returns  [1,2,3,6] 
+factors(1) returns  [1] 
+factors(13) returns  [1,13] 
+10 
+2 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+How can you create Python file that can be imported as a library as well 
+as run as a standalone script? 
+10 
+5 
+b. 
+Describe the difference between 
+import library 
+and 
+from library import * 
+when  used  in  a  python  program.  Here library is  some python 
+library. 
+10 
+5",pymupdf,2021
+15-2021.pdf,3,"AKTU_QP20E290QP
+ | 12-Mar-2021 14:07:56 | 117.55.242.131
+AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131
+ 
+Printed Page: 3 of 4 
+  
+Subject Code: KNC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Write a function makePairs that takes as input two lists of equal 
+length and returns a single list of same length where k-th element is the 
+pair of k-th elements from the input lists. For example, 
+ 
+makePairs([1,3,5,7],[2,4,6,8]) 
+returns [(1,2),(3,4),(5,6),(7,8)] 
+makePairs([],[]) 
+returns [] 
+10 
+2 
+b. 
+Show an example where both Keyword arguments and Default 
+arguments are used for the same function in a call. Show both the 
+definition of the function and its call. 
+10 
+4 
+ 
+ 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Explain why Python is considered an interpreted language. 
+10 
+1 
+b. 
+What is short circuit evaluation? What is printed by the following 
+Python program? 
+a = 0 
+b = 2 
+c = 3 
+x = c or a 
+print(x) 
+10 
+1",pymupdf,2021
+15-2021.pdf,4,"AKTU_QP20E290QP
+ | 12-Mar-2021 14:07:56 | 117.55.242.131
+AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131
+ 
+Printed Page: 4 of 4 
+  
+Subject Code: KNC302 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Write a Python program, triangle(N), that prints a right triangle 
+having base and height consisting of N * symbols as shown in these 
+examples: 
+ 
+triangle(3) prints: 
+* 
+** 
+*** 
+ 
+triangle(5) prints: 
+* 
+** 
+*** 
+**** 
+***** 
+10 
+3 
+b. 
+Write a Python program, countSquares(N), that returns the count 
+of perfect squares less than or equal to N (N>1). For example: 
+countSquares(1) 
+returns 1 
+# Only 1 is a perfect square <= 1 
+countSquares(5) returns 2 
+# 1, 4 are perfect squares <= 5 
+countSquares(55) returns 7 
+# 1, 4, 9, 16, 25, 36, 49 <= 55 
+10 
+4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+Q no. 
+Question 
+Marks 
+CO 
+a. 
+Write a Python function, alternating(lst), that takes as 
+argument a sequence lst. The function returns True if the elements 
+in lst are alternately odd and even, starting with an even number. 
+Otherwise it returns False. For example: 
+alternating([10, 9, 9, 6]) returns False 
+alternating([10, 15, 8]) returns True 
+alternating([10]) returns True 
+alternating([]) returns True 
+alternating([15, 10, 9]) returns False 
+10 
+4 
+b. 
+Write a Python function, searchMany(s, x, k), that takes as 
+argument a sequence s and integers x, k (k>0). The function returns 
+True if there are at most k occurrences of x in s. Otherwise it returns 
+False. For example: 
+searchMany([10, 17, 15, 12], 15, 1) returns True 
+searchMany([10, 12, 12, 12], 12, 2) returns False 
+searchMany([10, 12, 15, 11], 17, 18) returns True 
+10 
+3",pymupdf,2021
+16-2020.pdf,1,"Printed Page 1 of2
+Sub Code:KNC302
+Paper Id: [__ 199344
+RottNo:[
+| [ T TTT TTT TTT)
+B. TECH.
+(SEM ता) THEORY EXAMINATION 2019-20
+है
+PYTHON PROGRAMMING
+.
+Time: 3 Hours
+Total Marks: 100
+Ss
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt a// questions in brief.
+2x 10=20
+.
+| Qno. |
+Question
+Marks | CO
+la. __| What is the difference between list and tuples in Python?
+CO3
+| In some languages, every statement ends with a semi-colon (;). What | 2
+९02
+happens if
+you
+put a semi-colon at the end ofa Python statement?
+;
+Mention five benefits of using Python.
+id.
+| How is Python an interpreted language?
+le. | What type of language is python?
+What are local variables and global variables in Python?
+le. | What is the difference between Python Arrays and lists?
+1.
+Define ADTinterface.
+li, | Define floor division with example.
+7
+i. | Differentiate Fruitful functions and void functions.
+2
+Cos}
+SECTION B
+2.
+Attempt any three of the following:
+3x10 = 30
+‘
+Explain iterator. Write a program to demonstrate the tower of Hanoi | 10
+COS
+using
+function.
+vy
+5
+b.
+Discuss function tm python with
+its parts and scope. Explain with
+CcO3
+example. (Take Simple calculator with add, subtract,: Division and
+|
+Multiplication).
+a
+c.
+Discuss ADT in python.How to define ADT? Write code for a student | 10
+(04
+information.
+Explain
+all the Conditional statement
+in Python using small code | 10
+(02
+example.
+a
+6.
+What is Python? How Python is interpreted? What are the tools that help | 10
+col
+to find bugs or
+perform static analysis? What are Python decorators?
+-
+SECTION C
+3..
+Attempt any one partofthe following:
+1x10=10
+Qno.
+Question
+~
+Marks
+co
+Write short notes with example:The Programming Cycle for Python, | 10
+col
+|
+Elements of Python, Type Conversion in Python, Operator Precedence,
+|
+and Boolean Expression.
+How memory is managed in Python? Explain PEP 8. Write a Python
+col
+rogram to
+print even length words in a string.
+|
+1jrage
+Source: AKTU official examination paper - www.aktunotes.in",ocr,2020
+16-2020.pdf,2,"Printed Page 2 of2
+Sub Code:KNC302
+Paper Id: [__ 199344
+RoltNo:[_[
+|] |] | T TT TT TTT
+4.
+Attempt any one part of the following:
+1x10=10
+एजनकननननफ
+मम
+Explain Expression Evaluation & Float Representation with example.
+(02
+Write a Python Program
+for How to check
+if a given number
+is
+,
+Fibonacci number.
+Explain the purpose and working of loops. Discuss Break and continue
+co2
+with example. Write a Python program to convert time from 12 hour to
+24-hour format.
+5.
+Attempt any one part of the following:
+1x10=10
+a Explain higher order function with respect to lambda expression. Write a
+003
+Python code to Count occurrences of an element in a list.
+b.
+Explain
+Unpacking
+Sequences,
+Mutable
+Sequences,
+and
+List
+CO3
+.
+Comprehension with example. Write a program to sort list of dictionaries
+by
+values in Python — Using
+lambda function.
+~
+6.
+Attempt any one part of the following:
+.
+1x10=10
+-
+कण
+Question
+यू
+ह
+a.
+Discuss File I/O in python. How to perform open, read,write, and close
+CO4
+into a file? Write a Python program to reada file line-by-line store it into
+a variable.
+a
+Discuss Exceptions and Assertions in python.How to handle Exceptions
+with Try-Finally? Ex lain 5 Bujit-in |
+5 Bujit-in Exceptions with example.
+५६
+7.
+Attempt any one part
+of the following:
+an
+1x10=10
+| Qno. |
+है
+Question
+Ds
+Marks | CO
+a.
+Discuss and differentiate Iterators & Recursion. Write @ program for1 |
+Recursive Fibonacci series.
+ae
+b.
+Discuss Sorting & Merging. Explain different.typés of sorting with 1 |
+example. Write a Python Program for Sieve of Exatosthenes.
+,
+2|Page",ocr,2020
+17-2020-a.pdf,1,"Printed Page 1 of2
+Sub Code: KNC302
+Paper Id: [199344
+|
+RollNo:{
+|
+|
+|
+|
+|
+|
+[|
+[
+|]
+[|
+[
+[ !
+B. TECH.
+(SEM वा) THEORY EXAMINATION 2019-20
+PYTHON PROGRAMMING
+.
+Time: 3 Hours
+Total Marks: 160
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+ह
+1.
+Attempt af questions in brief.
+2x 10 = 20
+Ono.
+Question
+Marks
+co
+a.
+What is the difference between listand tuples in Python?
+C03
+in some languages, every statement ends with a semi-colon (:). What | 2
+coz
+|
+happens if
+you
+put a semi-colon at the end ofaPython statement?
+|
+९.
+Mention five benefits of using Python.
+6.
+How is Python an interpreted language?
+2
+e.
+What type of language is python?
+2
+f.
+What are local variables and global variables in Python?
+2
+(01
+|
+lz.| What is the difference between Python Arrays and lists?
+2
+५०3
+h.
+Define ADTinterface. https://www.aktuonline.com
+coq!
+i.
+Define floor division with example.
+a
+2
+cos
+j.
+Differentiate Fruitful functions and void functions.
+2
+{oO}
+SECTION B
+|
+2.
+Attempt any fhzee of the following:
+‘3x10 = 30
+Ono.
+a +
+Question
+te
+Marks | CO
+|
+a.
+Fxplain iterator. Write a program to demonstrate the tower of Hanoi | 10
+COS
+।
+using
+function.
+है
+""_ः
+|
+b.
+Discuss function ft ‘python with
+its parts and scope. Explain with | 10
+(031
+example. {Take Simple calculator with add, subtract, Division and
+Multiplication).
+_
+___
+हा
+९
+Discuss ADT in python.How to define ADT? Write code for a student | 10
+CO4
+|
+information.
+_
+|
+0.
+Explain
+all the Conditional
+statement
+in Python using small code | 10
+(५02
+_|
+example,
+ee
+_____
+e.
+What is Python? How Python is interpreted? What are the tools that help | 10
+Col
+|
+to find bugs or
+perform static analysis” What are Python decorators?
+SECTION C
+3..
+Attempt any one part ofthe following:
+15% 11 5 |
+3.
+Write short notes with example:The Programmingil
+for Pythan, tor
+col
+|
+Elements of Python, Type Conversion in Python, Operator Precedence.
+|
+1]
+and Boolean Expression,
+ _____
+;
+b.
+How memoryis managed in Python? Explain PEP 8 Write a Python | 10
+col
+rogram to
+printeven length words
+ina
+string,
+111 तछ€
+AKTU paper
+| www.aktunotes.in
+ह
+ह
+ह",ocr,2020
+17-2020-a.pdf,2,"Paper Id:
+[|
+199344]
+RottNo:{
+| | | | PTT ttt? TTI
+4.
+Attempt any one part of the following:
+1x10=10
+Explain Expression Evaluation & Float Representation with example. | 10°
+(0२2
+Write. a Python Program for How to check
+if a given number
+ts
+Fibonacci number.
+Explain the purpose and working of loops. Discuss Break and continue
+coz
+with example. Write a Python program to convert time from 12 hour to
+24-hour format.
+5.
+Attempt any one part of the following:
+1x10=10
+a.
+Explain higher order function with respect to lambda expression. Write a
+CO3
+Python code to Count occurrences of an element in a
+list.
+b.
+Explain
+Unpacking
+Sequences,
+Mutable
+Sequences,
+and
+List
+CO3
+Comprehension with example. Write a program to sort list of dictionaries
+by
+values in Python - Using
+lambda function.
+6.
+Attempt any one part of the following:
+oe
+ह
+Ixl0=10 .
+.
+बन
+Discuss File 0 in python. How to perform open, read,write, and close | 10
+(04
+into a file? Write a Python program to reada file line-by-line store it into
+an
+a variable.
+_
+a
+7
+Discuss Exceptions and Assertions in python.How to handle Exceptions
+(एव
+with Try-Finally? Explain 5
+Buth-in Exceptions with example.
+%
+7.
+Attempt any one paxt of the following:
+oe
+1x10=10
+| 0४०. |
+=
+Question
+४
+Marks | CO
+| a.
+Discuss and differentiate Iterators & Recursion. Write 4 program for | | cos
+Recursive Fibonacci series.
+noe
+b.
+Discuss Sorting & Merging. Explain different typds of sorting with | 10
+(05
+_
+example.
+Write a Python Program forSieve of Exatosthenes,
+tosthenes.
+|
+.'.
+https://www.aktuonline.com
+Whatsapp @ 9300930012
+Send your old paper & get 10/-
+अपने
+पुराने
+पेपर्सभैजेऔर10 रुपये
+पायें,
+Paytm or Google Pay से
+AKTU paper
+| www.aktunotes.in",ocr,2020

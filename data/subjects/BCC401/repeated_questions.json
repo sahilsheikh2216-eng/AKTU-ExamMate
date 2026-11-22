@@ -1,0 +1,1962 @@
+[
+  {
+    "group_id": 1,
+    "canonical_question": "Illustrate with examples how copyright and patent laws protect intellectual property in the IT industry.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2019,
+      2020,
+      2022,
+      2025
+    ],
+    "distinct_year_count": 5,
+    "source_files": [
+      "03-2025.pdf",
+      "06-2022.pdf",
+      "08-2020.pdf",
+      "11-2020-a.pdf",
+      "15-2019-a.pdf",
+      "16-2018.pdf"
+    ],
+    "average_similarity": 0.8735,
+    "variations": [
+      {
+        "question": "Explain the intellectual property law in details. 5",
+        "original": "Explain the intellectual property law in details. 5",
+        "year": 2020,
+        "source_file": "08-2020.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "‘Explain the intellectual property law in details.",
+        "original": "‘Explain the intellectual property law in details.",
+        "year": 2020,
+        "source_file": "11-2020-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Intellectual Property Rights and Copyright Act in detail.",
+        "original": "Explain Intellectual Property Rights and Copyright Act in detail.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you understand from Intellectual Property Right? Is copyright Intellectual Property?",
+        "original": "What do you understand from Intellectual Property Right? Is copyright Intellectual Property?",
+        "year": 2018,
+        "source_file": "16-2018.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the Intellectual Property related legislation in India.",
+        "original": "Explain the Intellectual Property related legislation in India.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Illustrate with examples how copyright and patent laws protect intellectual property in the IT industry.",
+        "original": "Illustrate with examples how copyright and patent laws protect intellectual property in the IT industry. उदाहरण सिहत ˙ʼ कीिजए िक कॉपीराइट और पेटŐट कानून आईटी उȨोग मŐ बौİȠक संपदा की कैसे रƗा करते हœ",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 6
+  },
+  {
+    "group_id": 2,
+    "canonical_question": "Explain the need for information security policies in organizations. How do they contribute to overall cybersecurity",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2018,
+      2019,
+      2021,
+      2025
+    ],
+    "distinct_year_count": 5,
+    "source_files": [
+      "03-2025.pdf",
+      "07-2021.pdf",
+      "12-2019.pdf",
+      "14-2019-b.pdf",
+      "15-2019-a.pdf",
+      "16-2018.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.8601,
+    "variations": [
+      {
+        "question": "Explain Information Security.",
+        "original": "Explain Information Security.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Information Security Process",
+        "original": "Information Security Process",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the need for Information Security?",
+        "original": "What is the need for Information Security?",
+        "year": 2018,
+        "source_file": "16-2018.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe the need and threats of information security in detail.",
+        "original": "Describe the need and threats of information security in detail.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Encryption? h) Why do we need information security?",
+        "original": "What is Encryption? h) Why do we need information security?",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by physical Security for information Systems?",
+        "original": "What do you mean by physical Security for information Systems?",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the need for information security policies in organizations. How do they contribute to overall cybersecurity",
+        "original": "Explain the need for information security policies in organizations. How do they contribute to overall cybersecurity? संगठनों मŐ सूचना सुरƗा नीितयों की आवʴकता को समझाइए। ये समŤ साइबर सुरƗा मŐ कैसे योगदान करती हœ?",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by physical Security for informationSystems? Describe Intellectual Property Issues (IPR).",
+        "original": "What do you mean by physical Security for informationSystems? Describe Intellectual Property Issues (IPR).",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 8
+  },
+  {
+    "group_id": 3,
+    "canonical_question": "Define E-Commerce. Explain Security Threats to E-Commerce in brief",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2020,
+      2021,
+      2022
+    ],
+    "distinct_year_count": 4,
+    "source_files": [
+      "06-2022.pdf",
+      "07-2021.pdf",
+      "11-2020-a.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.947,
+    "variations": [
+      {
+        "question": "What are the security threats to E-commerce?",
+        "original": "What are the security threats to E-commerce?",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Security Threats to E-Commerce?",
+        "original": "What is Security Threats to E-Commerce?",
+        "year": 2020,
+        "source_file": "11-2020-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the security threats for E-Commerce in detail.",
+        "original": "Explain the security threats for E-Commerce in detail.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define E-Commerce. Explain Security Threats to E-Commerce in brief",
+        "original": "Define E-Commerce. Explain Security Threats to E-Commerce in brief",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 4,
+    "canonical_question": "What is the information security? Explain cyber-crime and cyber security in this reference.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2016,
+      2019,
+      2021
+    ],
+    "distinct_year_count": 4,
+    "source_files": [
+      "07-2021.pdf",
+      "13-2019-c.pdf",
+      "17-2017.pdf",
+      "20-2016.pdf"
+    ],
+    "average_similarity": 0.8564,
+    "variations": [
+      {
+        "question": "Explain Cyber Security and its need in detail.",
+        "original": "Explain Cyber Security and its need in detail.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Information Security with Cybercrime & cyber security.",
+        "original": "Explain Information Security with Cybercrime & cyber security.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Why is cyber Security important?",
+        "original": "Why is cyber Security important?",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the information security? Explain cyber-crime and cyber security in this reference.",
+        "original": "What is the information security? Explain cyber-crime and cyber security in this reference.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the information securitf Explain cyter-crime and cyber security in this reference.",
+        "original": "What is the information securitf Explain cyter-crime and cyber security in this reference.",
+        "year": 2015,
+        "source_file": "20-2016.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 5
+  },
+  {
+    "group_id": 5,
+    "canonical_question": "Evaluate the effectiveness of Indian Cyber Law in dealing with digital frauds and data breaches. Jul-2025 1:38:52 PM Roll No: 0 CYBER SECURITY",
+    "match_type": "semantic",
+    "years_appeared": [
+      2022,
+      2025,
+      2026
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "03-2025.pdf",
+      "06-2022.pdf"
+    ],
+    "average_similarity": 0.9121,
+    "variations": [
+      {
+        "question": "Explain how cyber laws in India deal with data breaches and cyber frauds. Q no. Question CO",
+        "original": "Explain how cyber laws in India deal with data breaches and cyber frauds. भारत मŐ साइबर कानून डेटा Űीच और साइबर धोखाधड़ी से कैसे िनपटते हœ, समझाइए Q no. Question CO",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "| Explainhow cyber laws in India deal with data breaches andal fr:",
+        "original": "| Explainhow cyber laws in India deal with data breaches andal fr:",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Evaluate the effectiveness of Indian Cyber Law in dealing with digital frauds and data breaches. Jul-2025 1:38:52 PM Roll No: 0 CYBER SECURITY",
+        "original": "Evaluate the effectiveness of Indian Cyber Law in dealing with digital frauds and data breaches. िडिजटल धोखाधड़ी और डेटा उʟंघनों से िनपटने मŐ भारतीय साइबर कानून की Ůभावशीलता का मूʞांकन कीिजए | 09-Jul-2025 1:38:52 PM | 117.55.242.134 0Roll No: 0 CYBER SECURITY",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Cyber laws in India in detail. Source: AKTU official examination paper - www.aktunotes.in",
+        "original": "Explain Cyber laws in India in detail. Source: AKTU official examination paper - www.aktunotes.in",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 6,
+    "canonical_question": "Analyze the key components of a robust organizational security policy in the mobile computing era.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2025,
+      2026
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "01-2026.pdf",
+      "03-2025.pdf",
+      "04-2024.pdf"
+    ],
+    "average_similarity": 0.8574,
+    "variations": [
+      {
+        "question": "Analyze the key components of a robust organizational security policy in the mobile computing era.",
+        "original": "Analyze the key components of a robust organizational security policy in the mobile computing era. मोबाइल कंɗूिटंग युग मŐ एक मजबूत संगठनाȏक सुरƗा नीित के मुƥ घटकों का िवʶेषण कीिजए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the key components of a comprehensive mobile security policy for organizations?",
+        "original": "What are the key components of a comprehensive mobile security policy for organizations?",
+        "year": 2024,
+        "source_file": "04-2024.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Discuss major security challenges posed by mobile devices in modern organizations.",
+        "original": "Discuss major security challenges posed by mobile devices in modern organizations. आधुिनक संगठनों मŐ मोबाइल िडवाइस Ȫारा उȋɄ Ůमुख सुरƗा चुनौितयों पर चचाŊ कीिजए",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "List any two measures an organization can take to handle mobile device security.",
+        "original": "List any two measures an organization can take to handle mobile device security. मोबाइल िडवाइस सुरƗा के िलए कोई भी दो संगठनाȏक उपाय बताइए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 7,
+    "canonical_question": "What is digital forensics, and how does it differ from traditional forensic science?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2025,
+      2026
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "01-2026.pdf",
+      "03-2025.pdf",
+      "04-2024.pdf"
+    ],
+    "average_similarity": 0.8291,
+    "variations": [
+      {
+        "question": "Define Cyber Forensics. साइबर फॉरŐिसƛ को पįरभािषत कीिजए",
+        "original": "Define Cyber Forensics. साइबर फॉरŐिसƛ को पįरभािषत कीिजए",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 1,
+        "confidence": "medium"
+      },
+      {
+        "question": "Differentiate between Cyber Forensics and Digital Forensics.",
+        "original": "Differentiate between Cyber Forensics and Digital Forensics. साइबर फॉरŐिसक और िडिजटल फॉरŐिसक मŐ अंतर बताइए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is digital forensics, and how does it differ from traditional forensic science?",
+        "original": "What is digital forensics, and how does it differ from traditional forensic science?",
+        "year": 2024,
+        "source_file": "04-2024.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 8,
+    "canonical_question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2019,
+      2022
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "06-2022.pdf",
+      "15-2019-a.pdf",
+      "18-2017-b.pdf",
+      "19-2017-a.pdf"
+    ],
+    "average_similarity": 0.9805,
+    "variations": [
+      {
+        "question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+        "original": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+        "year": 2016,
+        "source_file": "18-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+        "original": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN. (h) Write a short note on:",
+        "year": 2016,
+        "source_file": "19-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN.",
+        "original": "What do you mean by Virtual Private Networks? Discuss authentication mechanism used in VPN.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by Virtual Private Network (VPN)? Discuss authentication mechanism used in VPN.",
+        "original": "What do you mean by Virtual Private Network (VPN)? Discuss authentication mechanism used in VPN.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 9,
+    "canonical_question": "What is the Information system? Discuss the different types of Information system.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2021,
+      2022
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "06-2022.pdf",
+      "07-2021.pdf",
+      "15-2019-a.pdf"
+    ],
+    "average_similarity": 0.8634,
+    "variations": [
+      {
+        "question": "What is the Information system? Discuss the different types of Information system.",
+        "original": "What is the Information system? Discuss the different types of Information system.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe the types of information system",
+        "original": "Describe the types of information system",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by Information System?",
+        "original": "What do you mean by Information System?",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 10,
+    "canonical_question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2020,
+      2021
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "07-2021.pdf",
+      "09-2020-c.pdf",
+      "10-2020-b.pdf",
+      "15-2019-a.pdf"
+    ],
+    "average_similarity": 0.931,
+    "variations": [
+      {
+        "question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+        "original": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+        "year": 2020,
+        "source_file": "09-2020-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+        "original": "Explain IT Act 2000 Provisions. AKTU paper | www.aktunotes.in",
+        "year": 2020,
+        "source_file": "10-2020-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain IT Act 2000 Provisions in detail",
+        "original": "Explain IT Act 2000 Provisions in detail",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the Objective & Scope of IT Act 2000.",
+        "original": "Explain the Objective & Scope of IT Act 2000.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 11,
+    "canonical_question": "Explain the backup security measures used in information system.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2019,
+      2021
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "07-2021.pdf",
+      "15-2019-a.pdf",
+      "18-2017-b.pdf",
+      "19-2017-a.pdf"
+    ],
+    "average_similarity": 0.9435,
+    "variations": [
+      {
+        "question": "What are the backup security measures? Discuss its type.",
+        "original": "What are the backup security measures? Discuss its type.",
+        "year": 2016,
+        "source_file": "18-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the backup security measures? Discuss its type.",
+        "original": "What are the backup security measures? Discuss its type.",
+        "year": 2016,
+        "source_file": "19-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the primary measures applied for security of backup.",
+        "original": "Explain the primary measures applied for security of backup.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the backup security measures used in information system.",
+        "original": "Explain the backup security measures used in information system.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 12,
+    "canonical_question": "Explain Information Security Governance in detail ‘aid process involved in the Risk Management? oe",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2019,
+      2021
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "07-2021.pdf",
+      "12-2019.pdf",
+      "14-2019-b.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.9362,
+    "variations": [
+      {
+        "question": "Explain Information Security Governance in detail and process involved in the Risk Management?",
+        "original": "Explain Information Security Governance in detail and process involved in the Risk Management?",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you understand by information security governance and risk management?",
+        "original": "What do you understand by information security governance and risk management?",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe information Security Governance & Risk Management in brief.",
+        "original": "Describe information Security Governance & Risk Management in brief.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Information Security Governance in detail ‘aid process involved in the Risk Management? oe",
+        "original": "Explain Information Security Governance in detail ‘aid process involved in the Risk Management? oe",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 13,
+    "canonical_question": "Explain the Security technologies that are used for data & application security.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2019,
+      2020
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "09-2020-c.pdf",
+      "10-2020-b.pdf",
+      "15-2019-a.pdf",
+      "20-2016.pdf"
+    ],
+    "average_similarity": 0.9198,
+    "variations": [
+      {
+        "question": "What are the key technological components used for security implementation?",
+        "original": "What are the key technological components used for security implementation?",
+        "year": 2020,
+        "source_file": "09-2020-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the key technological components used for security implementation?",
+        "original": "What are the key technological components used for security implementation?",
+        "year": 2020,
+        "source_file": "10-2020-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the key technological components used for security inplenrentation?",
+        "original": "What are the key technological components used for security inplenrentation?",
+        "year": 2015,
+        "source_file": "20-2016.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the Security technologies that are used for data & application security.",
+        "original": "Explain the Security technologies that are used for data & application security.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 14,
+    "canonical_question": "What is Digital signature? Explain how the public key algorithms are used for obtaining Digital Signature.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2018,
+      2019
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "13-2019-c.pdf",
+      "16-2018.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.8537,
+    "variations": [
+      {
+        "question": "Explain Digital Signature",
+        "original": "Explain Digital Signature",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the need of digital signature?",
+        "original": "What is the need of digital signature?",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain in detail Digital Signature Standard approach and its algorithm.",
+        "original": "Explain in detail Digital Signature Standard approach and its algorithm.",
+        "year": 2018,
+        "source_file": "16-2018.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Digital signature? Explain how the public key algorithms are used for obtaining Digital Signature.",
+        "original": "What is Digital signature? Explain how the public key algorithms are used for obtaining Digital Signature.",
+        "year": 2018,
+        "source_file": "16-2018.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 15,
+    "canonical_question": "How can users detect and respond to phishing attacks on their mobile devices?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "04-2024.pdf"
+    ],
+    "average_similarity": 0.8817,
+    "variations": [
+      {
+        "question": "What is a phishing attack in mobile phones",
+        "original": "What is a phishing attack in mobile phones? मोबाइल फोन मŐ िफ़िशंग अटैक Ɛा होता है?",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is a phishing attack in mobile phones Ki",
+        "original": "| What is a phishing attack in mobile phones?\\~ |Ki ॥ मोबाइलफोनमेंफ़िशिंगअटैकक्याहोताहै",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How can users detect and respond to phishing attacks on their mobile devices?",
+        "original": "How can users detect and respond to phishing attacks on their mobile devices?",
+        "year": 2024,
+        "source_file": "04-2024.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 16,
+    "canonical_question": "Explain the proliferation of mobile and wireless devices and discuss the trends in mobility.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2025,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "03-2025.pdf"
+    ],
+    "average_similarity": 0.9154,
+    "variations": [
+      {
+        "question": "Differentiate between mobile device proliferation and mobility trends. Proliferation)",
+        "original": "Differentiate between mobile device proliferation and mobility trends. मोबाइल िडवाइस Ůसार (Proliferation) और मोिबिलटी टŌŐड्स मŐ अंतर बताइए",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "| Differentiate between mobile device proliferatiopand mobility trends. 1K2",
+        "original": "| Differentiate between mobile device proliferatiopand mobility trends. 1K2",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the proliferation of mobile and wireless devices and discuss the trends in mobility.",
+        "original": "Explain the proliferation of mobile and wireless devices and discuss the trends in mobility. मोबाइल और वायरलेस िडवाइसों के Ůसार को समझाइए और मोबाइिलटी की Ůवृिȅयों पर चचाŊ कीिजए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 17,
+    "canonical_question": "1) x1=07 Q Question no.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2025,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "02-2026-a.pdf",
+      "03-2025.pdf"
+    ],
+    "average_similarity": 0.8793,
+    "variations": [
+      {
+        "question": "1) x1=07 Q Question no.",
+        "original": "1) x1=07 Q Question no.",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ: 07 x 1 = 07 Q no. Question CO",
+        "original": "िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ: 07 x 1 = 07 Q no. Question CO",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "low"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 18,
+    "canonical_question": "Describe the Digital Forensics Life Cycle. Discuss each phase in detail with suitable examples. Jul-2025 1:38:52 PM Roll No: 0 CYBER SECURITY",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "04-2024.pdf"
+    ],
+    "average_similarity": 0.8511,
+    "variations": [
+      {
+        "question": "Describe the Digital Forensics Life Cycle. Discuss each phase in detail with suitable examples. Jul-2025 1:38:52 PM Roll No: 0 CYBER SECURITY",
+        "original": "Describe the Digital Forensics Life Cycle. Discuss each phase in detail with suitable examples. िडिजटल फॉरŐिसक जीवन चŢ को विणŊत कीिजए। Ůȑेक चरण को उपयुƅ उदाहरणों सिहत समझाइए | 09-Jul-2025 1:38:52 PM | 117.55.242.134 0Roll No: 0 CYBER SECURITY",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the stages of the digital forensics life cycle?",
+        "original": "What are the stages of the digital forensics life cycle?",
+        "year": 2024,
+        "source_file": "04-2024.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 19,
+    "canonical_question": "How do registry settings differ between mobile operating systems such as Android and iOS?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "04-2024.pdf"
+    ],
+    "average_similarity": 0.8495,
+    "variations": [
+      {
+        "question": "What are registry settings in mobile devices and why are they important",
+        "original": "What are registry settings in mobile devices and why are they important? मोबाइल िडवाइस मŐ रिजːŌी सेिटंƺ Ɛा होती हœ और ये Ɛों महȕपूणŊ होती हœ?",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How do registry settings differ between mobile operating systems such as Android and iOS?",
+        "original": "How do registry settings differ between mobile operating systems such as Android and iOS?",
+        "year": 2024,
+        "source_file": "04-2024.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 20,
+    "canonical_question": "What are the threats to Information system?",
+    "match_type": "exact",
+    "years_appeared": [
+      2016,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "18-2017-b.pdf",
+      "19-2017-a.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "What are the threats to Information system?",
+        "original": "What are the threats to Information system?",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the threats to information system?",
+        "original": "What are the threats to information system?",
+        "year": 2016,
+        "source_file": "18-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the threats to information system?",
+        "original": "What are the threats to information system?",
+        "year": 2016,
+        "source_file": "19-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 21,
+    "canonical_question": "What is the need of information security?",
+    "match_type": "exact",
+    "years_appeared": [
+      2016,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "What is the need of information security?",
+        "original": "What is the need of information security?",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the need of information security?",
+        "original": "What is the need of information security?",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 22,
+    "canonical_question": "Explain Confidentiality, Integrity and Availability in terms of cyber security.",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "14-2019-b.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Explain Confidentiality, Integrity and Availability in terms of cyber security.",
+        "original": "Explain Confidentiality, Integrity and Availability in terms of cyber security.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Confidentiality, Integrity and Availability in terms of cyber security",
+        "original": "Explain Confidentiality, Integrity and Availability in terms of cyber security",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 23,
+    "canonical_question": "What is Intrusion Detection System? Explain with Block Diagram.",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "14-2019-b.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "What is Intrusion Detection System? Explain with Block Diagram.",
+        "original": "What is Intrusion Detection System? Explain with Block Diagram.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Intrusion Detection System? Explain with Block Diagram.",
+        "original": "What is Intrusion Detection System? Explain with Block Diagram.",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 24,
+    "canonical_question": "What are the data security considerations? Explain Data backup security, data archival security in this reference.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "12-2019.pdf",
+      "14-2019-b.pdf"
+    ],
+    "average_similarity": 0.973,
+    "variations": [
+      {
+        "question": "| What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+        "original": "| What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+        "original": "What are the Data Security Considerations? Explain in this reference Data Backup Security.",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the data security considerations? Explain Data backup security, data archival security in this reference.",
+        "original": "What are the data security considerations? Explain Data backup security, data archival security in this reference.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 25,
+    "canonical_question": "Explain the various types of security policies and their review process.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.9868,
+    "variations": [
+      {
+        "question": "Explain the various types of security policies and their review process.",
+        "original": "Explain the various types of security policies and their review process.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain various Security policies and their review process.",
+        "original": "Explain various Security policies and their review process.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 26,
+    "canonical_question": "Explain Software License and Semiconductor Law in detail.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "15-2019-a.pdf"
+    ],
+    "average_similarity": 0.9746,
+    "variations": [
+      {
+        "question": "Explain Software License and Semiconductor Law in detail.",
+        "original": "Explain Software License and Semiconductor Law in detail.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe Software License & Semiconductor Law in detail.",
+        "original": "Describe Software License & Semiconductor Law in detail.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 27,
+    "canonical_question": "Briefly describe the properties of Firewall.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "16-2018.pdf"
+    ],
+    "average_similarity": 0.927,
+    "variations": [
+      {
+        "question": "Explain Firewall in brief.",
+        "original": "Explain Firewall in brief.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Briefly describe the properties of Firewall.",
+        "original": "Briefly describe the properties of Firewall.",
+        "year": 2018,
+        "source_file": "16-2018.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 28,
+    "canonical_question": "Explain public key and private key cryptography with the help of diagram.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2021,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "07-2021.pdf"
+    ],
+    "average_similarity": 0.8948,
+    "variations": [
+      {
+        "question": "Explain public key and private key cryptography with the help of diagram.",
+        "original": "Explain public key and private key cryptography with the help of diagram.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Public Key Cryptography with suitable example.",
+        "original": "Explain Public Key Cryptography with suitable example.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 29,
+    "canonical_question": "What is the need of Risk management? What are the processes involve to managing the risk during the development of information system.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.8812,
+    "variations": [
+      {
+        "question": "What is the need of Risk management? What are the processes involve to managing the risk during the development of information system.",
+        "original": "What is the need of Risk management? What are the processes involve to managing the risk during the development of information system.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the need of Risk Management. Explain the process for risk management for secure Information system.",
+        "original": "Explain the need of Risk Management. Explain the process for risk management for secure Information system.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 30,
+    "canonical_question": "Explain Copyright Act in brief.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.877,
+    "variations": [
+      {
+        "question": "Explain Copyright Act in brief.",
+        "original": "Explain Copyright Act in brief.",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define Copyright Act.",
+        "original": "Define Copyright Act.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 31,
+    "canonical_question": "What are Email security policies?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "06-2022.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.8365,
+    "variations": [
+      {
+        "question": "What are Email security policies?",
+        "original": "What are Email security policies?",
+        "year": 2022,
+        "source_file": "06-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "E-mail Security policy",
+        "original": "E-mail Security policy",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 32,
+    "canonical_question": "Explain the WWW Policies in detail",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2021.pdf",
+      "12-2019.pdf",
+      "14-2019-b.pdf"
+    ],
+    "average_similarity": 0.9319,
+    "variations": [
+      {
+        "question": "What do you mean by WWW policy?",
+        "original": "What do you mean by WWW policy?",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you mean by WWW policy?",
+        "original": "What do you mean by WWW policy?",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the WWW Policies in detail",
+        "original": "Explain the WWW Policies in detail",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 33,
+    "canonical_question": "Describe Intrusion detection system. What are the approaches used in it?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2021.pdf",
+      "15-2019-a.pdf"
+    ],
+    "average_similarity": 0.9492,
+    "variations": [
+      {
+        "question": "Describe Intrusion detection system. What are the approaches used in it?",
+        "original": "Describe Intrusion detection system. What are the approaches used in it?",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe the concept of Intrusion Detection System.",
+        "original": "Describe the concept of Intrusion Detection System.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 34,
+    "canonical_question": "Explain Information system resource and activities in detail.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2021.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.9222,
+    "variations": [
+      {
+        "question": "Explain Information system and its development in detail.",
+        "original": "Explain Information system and its development in detail.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Information system resource and activities in detail.",
+        "original": "Explain Information system resource and activities in detail.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 35,
+    "canonical_question": "What is Trojan horse?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2021.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.9147,
+    "variations": [
+      {
+        "question": "Explain Trojan Horse",
+        "original": "Explain Trojan Horse",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Trojan horse?",
+        "original": "What is Trojan horse?",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 36,
+    "canonical_question": "Explain Firewall with its types and applications in detail.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2021.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.9136,
+    "variations": [
+      {
+        "question": "Explain Firewall with its types and applications in detail.",
+        "original": "Explain Firewall with its types and applications in detail.",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is a firewall? Explain its different types in detail.",
+        "original": "What is a firewall? Explain its different types in detail.",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 37,
+    "canonical_question": "Brief Corporate security with suitable example.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2021.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.8536,
+    "variations": [
+      {
+        "question": "Explain Corporate Security",
+        "original": "Explain Corporate Security",
+        "year": 2021,
+        "source_file": "07-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Brief Corporate security with suitable example.",
+        "original": "Brief Corporate security with suitable example.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 38,
+    "canonical_question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric Cryptography.",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2020
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2020-a.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric Cryptography.",
+        "original": "Draw the diagrammatical approach to make difference between symmetric and asymmetric Cryptography.",
+        "year": 2020,
+        "source_file": "11-2020-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Draw the diagrammatical approach to make difference between symmetric and asymmetric cryptography.",
+        "original": "Draw the diagrammatical approach to make difference between symmetric and asymmetric cryptography.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 39,
+    "canonical_question": "Explain WWW policies and Email Security policies,",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2020
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2020-c.pdf",
+      "10-2020-b.pdf",
+      "15-2019-a.pdf"
+    ],
+    "average_similarity": 0.9449,
+    "variations": [
+      {
+        "question": "Explain WWW policies and Email Security policies,",
+        "original": "Explain WWW policies and Email Security policies,",
+        "year": 2020,
+        "source_file": "09-2020-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain WWW policies and Email Security policies,",
+        "original": "Explain WWW policies and Email Security policies,",
+        "year": 2020,
+        "source_file": "10-2020-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain WWW policies in Cyber Security in detail.",
+        "original": "Explain WWW policies in Cyber Security in detail.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 40,
+    "canonical_question": "Who are the major victims of cyber-crime? (0 What do you know about Security Risk Management?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2020
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2020-c.pdf",
+      "10-2020-b.pdf",
+      "20-2016.pdf"
+    ],
+    "average_similarity": 0.9467,
+    "variations": [
+      {
+        "question": "Who are the major victims of cyber-crime?",
+        "original": "Who are the major victims of cyber-crime?",
+        "year": 2020,
+        "source_file": "09-2020-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Who are the major victims of cyber-crime?",
+        "original": "Who are the major victims of cyber-crime?",
+        "year": 2020,
+        "source_file": "10-2020-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Who are the major victims of cyber-crime? (0 What do you know about Security Risk Management?",
+        "original": "Who are the major victims of cyber-crime? (0 What do you know about Security Risk Management?",
+        "year": 2015,
+        "source_file": "20-2016.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 41,
+    "canonical_question": "What do you understand by security sificture (Architecture) and design? oye ° £0\"",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2020
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2020-c.pdf",
+      "10-2020-b.pdf",
+      "12-2019.pdf",
+      "14-2019-b.pdf"
+    ],
+    "average_similarity": 0.9498,
+    "variations": [
+      {
+        "question": "What do you understand by security structure and design?",
+        "original": "What do you understand by security structure and design?",
+        "year": 2020,
+        "source_file": "09-2020-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you understand by security structure and design?",
+        "original": "What do you understand by security structure and design?",
+        "year": 2020,
+        "source_file": "10-2020-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you understand by security structure (Architecture) and design?",
+        "original": "What do you understand by security structure (Architecture) and design?",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you understand by security sificture (Architecture) and design? oye ° £0\"",
+        "original": "What do you understand by security sificture (Architecture) and design? oye ° £0\"",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 42,
+    "canonical_question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2020
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2020-c.pdf",
+      "10-2020-b.pdf",
+      "13-2019-c.pdf"
+    ],
+    "average_similarity": 0.9652,
+    "variations": [
+      {
+        "question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+        "original": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+        "year": 2020,
+        "source_file": "09-2020-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+        "original": "How can you say that intrusion detectiensystem is the backbone of information. system? Justify along with its categortes:",
+        "year": 2020,
+        "source_file": "10-2020-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How can you say that intrusion detection system is the backbone of information system? Justify along with its categories.",
+        "original": "How can you say that intrusion detection system is the backbone of information system? Justify along with its categories.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 43,
+    "canonical_question": "Explain EDI architecture and its advantages in detail.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2020
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2020-a.pdf",
+      "16-2018.pdf"
+    ],
+    "average_similarity": 0.8594,
+    "variations": [
+      {
+        "question": "Explain the concept of EDI.",
+        "original": "Explain the concept of EDI.",
+        "year": 2020,
+        "source_file": "11-2020-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain EDI architecture and its advantages in detail.",
+        "original": "Explain EDI architecture and its advantages in detail.",
+        "year": 2018,
+        "source_file": "16-2018.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 44,
+    "canonical_question": "Elaborate the term Access Control. What,is*in¢lude in authorization process for,” (File, Program, Data rights) and explain thé all types ofcontrols. af i,",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "12-2019.pdf",
+      "13-2019-c.pdf",
+      "14-2019-b.pdf",
+      "20-2016.pdf"
+    ],
+    "average_similarity": 0.9041,
+    "variations": [
+      {
+        "question": "Elaborate the term Access Control. What,is*in¢lude in authorization process for,” (File, Program, Data rights) and explain thé all types ofcontrols. af i,",
+        "original": "Elaborate the term Access Control. What,is*in¢lude in authorization process for,” (File, Program, Data rights) and explain thé all types ofcontrols. af i,",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Elaborate the term Access Control. What is include in authorization process for (File, Program, Data rights) and explain the all types of controls.",
+        "original": "Elaborate the term Access Control. What is include in authorization process for (File, Program, Data rights) and explain the all types of controls.",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Elaborate the term access control. What is included in autho- nzatian process for (File, Progranl Data rights) and explain the all types of controls. (0",
+        "original": "Elaborate the term access control. What is included in autho- nzatian process for (File, Progranl Data rights) and explain the all types of controls. (0",
+        "year": 2015,
+        "source_file": "20-2016.pdf",
+        "page": 3,
+        "confidence": "high"
+      },
+      {
+        "question": "Elaborate the term access control. Explain the all types of controls.",
+        "original": "Elaborate the term access control. Explain the all types of controls.",
+        "year": 2019,
+        "source_file": "13-2019-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 45,
+    "canonical_question": "ce. Explain briefly about Application Development Sécurity with guidelines. ; nn",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "12-2019.pdf",
+      "14-2019-b.pdf",
+      "17-2017.pdf"
+    ],
+    "average_similarity": 0.8928,
+    "variations": [
+      {
+        "question": "ce. Explain briefly about Application Development Sécurity with guidelines. ; nn",
+        "original": "ce. Explain briefly about Application Development Sécurity with guidelines. ; nn",
+        "year": 2019,
+        "source_file": "12-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain briefly about Application Development Security with guidelines.",
+        "original": "Explain briefly about Application Development Security with guidelines.",
+        "year": 2019,
+        "source_file": "14-2019-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is application development security? Explain in detail.",
+        "original": "What is application development security? Explain in detail.",
+        "year": 2016,
+        "source_file": "17-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  }
+]

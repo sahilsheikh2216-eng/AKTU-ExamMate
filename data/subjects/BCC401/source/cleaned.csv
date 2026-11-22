@@ -1,0 +1,2877 @@
+﻿source_file,page_number,final_text,extraction_method,year
+01-2026.pdf,1,"QP26E_290
+ | 11-May-2026 2:35:51 PM | 117.55.242.134
+QP26E_290 | 11-May-2026 2:35:51 PM | 117.55.242.134
+Printed Page: 1
+ 
+Subject Code:BCC401
+0Roll No: 0
+0
+00 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+CYBER SECURITY 
+TIME: 3 HRS 
+M.MARKS: 70
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+नोट: सभी अनुभागों को हल करने का Ůयास करŐ। यिद कोई जानकारी अधूरी हो, तो उपयुƅ िवकʙ चुनŐ। 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+02 x 7 = 14 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+What is global perspective of cybercrime? 
+साइबर अपराध का वैिʷक ̊ िʼकोण Ɛा है? 
+1 
+K2 
+b. 
+Define Cyber Forensics. 
+साइबर फॉरŐिसƛ को पįरभािषत कीिजए। 
+1 
+K1 
+c. 
+Differentiate between mobile device proliferation and mobility trends. 
+मोबाइल िडवाइस Ůसार (Proliferation) और मोिबिलटी टŌŐड्स मŐ अंतर बताइए। 
+2 
+K2 
+d. 
+What is a phishing attack in mobile phones? 
+मोबाइल फोन मŐ िफ़िशंग अटैक Ɛा होता है? 
+2 
+K1 
+e. 
+What is a backdoor in cyber security? 
+साइबर सुरƗा मŐ बैकडोर Ɛा होता है? 
+3 
+K1 
+f. 
+Why is digital evidence easily alterable? 
+िडिजटल साƙ आसानी से पįरवितŊत Ɛों हो सकता है? 
+4 
+K2 
+g. 
+Explain how cyber laws in India deal with data breaches and cyber frauds. 
+भारत मŐ साइबर कानून डेटा Űीच और साइबर धोखाधड़ी से कैसे िनपटते हœ, 
+समझाइए। 
+5 
+K2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+07 x 3 = 21 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain how attackers exploit human psychology in cyber offenses. 
+Support your answer with examples. 
+हमलावर साइबर अपराधों मŐ मानव मनोिवǒान का कैसे उपयोग करते हœ? 
+उदाहरण सिहत समझाइए। 
+1
+K3
+b. 
+Discuss major security challenges posed by mobile devices in modern 
+organizations. 
+आधुिनक संगठनों मŐ मोबाइल िडवाइस Ȫारा उȋɄ Ůमुख सुरƗा चुनौितयों पर 
+चचाŊ कीिजए। 
+2 
+K3 
+c. 
+Explain the role of proxy servers and anonymizers in cyber crimes. 
+साइबर अपराधों मŐ Ůॉƛी सवŊर और अनोिनमाइज़र की भूिमका समझाइए। 
+3 
+K2 
+d. 
+Explain how digital evidence, email forensics, and network forensics 
+collectively contribute to solving cyber crimes. 
+4 
+K4",pymupdf,2026
+01-2026.pdf,2,"QP26E_290
+ | 11-May-2026 2:35:51 PM | 117.55.242.134
+QP26E_290 | 11-May-2026 2:35:51 PM | 117.55.242.134
+Printed Page: 2
+ 
+Subject Code:BCC401
+0Roll No: 0
+0
+00 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+CYBER SECURITY 
+TIME: 3 HRS 
+M.MARKS: 70
+ 
+2 | P a g e 
+ 
+समझाइए िक िडिजटल साƙ, ई-मेल फॉरŐिसƛ और नेटवकŊ फॉरŐिसƛ िमलकर 
+साइबर अपराधों को हल करने मŐ कैसे योगदान देते हœ। 
+e. 
+Explain various intellectual property rights and discuss their importance in 
+cyber space along with related legal provisions in India. 
+िविभɄ बौİȠक संपदा अिधकारों को समझाइए तथा साइबर ˙ेस मŐ उनके महȕ 
+के साथ भारत मŐ संबंिधत कानूनी Ůावधानों पर चचाŊ कीिजए। 
+5 
+K3 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Analyze the effectiveness of multi-factor authentication (MFA) in 
+preventing cyber offenses based on social engineering. 
+मʐी-फैƃर ऑथŐिटकेशन (MFA) सोशल इंजीिनयįरंग आधाįरत साइबर 
+अपराधों को रोकने मŐ िकतना Ůभावी है? िवʶेषण कीिजए। 
+1
+K4
+b. 
+Evaluate the role of ethical hacking in preventing cybercrime. How is it 
+different from malicious hacking? 
+एिथकल हैिकंग की भूिमका का मूʞांकन कीिजए जो साइबर अपराध को रोकने मŐ 
+सहायक है। यह दुभाŊवनापूणŊ हैिकंग से कैसे िभɄ है? 
+1 
+K4 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Discuss various types of credit card frauds in mobile computing and 
+explain their execution techniques. 
+मोबाइल कंɗूिटंग मŐ िविभɄ Ůकार के Ţेिडट काडŊ धोखाधड़ी तथा उनके 
+िन˃ादन के तरीकों पर चचाŊ कीिजए। 
+2
+K4
+b. 
+Analyze the role of app permissions in compromising mobile security. 
+How can misuse of permissions lead to cyber attacks? 
+मोबाइल सुरƗा मŐ ऐप परिमशन की भूिमका का िवʶेषण कीिजए। इनके 
+दुŜपयोग से साइबर हमले कैसे संभव होते हœ? 
+2 
+K4 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question
+CO 
+Level 
+a. 
+Explain password cracking techniques. Why are weak passwords still a 
+major security risk despite awareness? 
+पासवडŊ Ţैिकंग तकनीकों को समझाइए। जागŝकता के बावजूद कमजोर 
+पासवडŊ अभी भी बड़ा खतरा Ɛों हœ? 
+3
+K2",pymupdf,2026
+01-2026.pdf,3,"QP26E_290
+ | 11-May-2026 2:35:51 PM | 117.55.242.134
+QP26E_290 | 11-May-2026 2:35:51 PM | 117.55.242.134
+Printed Page: 3
+ 
+Subject Code:BCC401
+0Roll No: 0
+0
+00 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM. IV) THEORY EXAMINATION 2025-26 
+CYBER SECURITY 
+TIME: 3 HRS 
+M.MARKS: 70
+ 
+3 | P a g e 
+ 
+b. 
+Describe the working of keyloggers and spyware. How can users detect 
+and prevent them? 
+कीलॉगर और ˙ायवेयर के कायŊ करने की ŮिŢया का वणŊन कीिजए। 
+उपयोगकताŊ इɎŐ कैसे पहचान और रोक सकते हœ? 
+3 
+K3 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain the challenges faced in computer forensics such as data encryption 
+and data volume. 
+कंɗूटर फॉरŐिसƛ मŐ आने वाली चुनौितयों जैसे एİ̢ Ţ̪ शन और बड़े डेटा वॉʞूम 
+को समझाइए। 
+4
+K2
+b. 
+Analyze security and privacy threats in social networking sites from a 
+forensic perspective. 
+फॉरŐिसक ̊ िʼकोण से सोशल नेटविकō ग साइट्स मŐ सुरƗा और गोपनीयता खतरों 
+का िवʶेषण कीिजए। 
+4 
+K3 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain the importance of accountability, transparency and Consent in 
+data protection frameworks. 
+डेटा संरƗण ढांचे मŐ जवाबदेही, पारदिशŊता और सहमित के महȕ को समझाइए। 
+5
+K2
+b. 
+Explain the concept of “legal jurisdiction” in cyber law and why it is 
+complex in online crimes. 
+साइबर कानून मŐ “अिधकार Ɨेũ (Jurisdiction)” की अवधारणा और ऑनलाइन 
+अपराधों मŐ इसकी जिटलता समझाइए। 
+5 
+K2",pymupdf,2026
+02-2026-a.pdf,1,"किन
+:
+॥॥॥॥॥॥)॥॥
+Prine one:
+Paper ID
++
+260746.
+Subject Code:BCC401
+PTTTL
+——
+Roll No: |
+Roll No: |
+L
+|
+|
+8
+BTECH
+(SEM. IV) THEORY EXAMINATION 2025-26
+CYBER SECURITY
+TIME: 3 HRS
+M.MARKS: 70
+a
+|.
+Note: Attempt all Sections. In case ofany missing data, choose suitably.
+नोटःTHFHYPकोहलकरनेकाप्रवातकरें।यदिकोईजानकारीHUGहोतोTagan acy चुनें।
+SECTION A
+1.
+Attempt वाquestions in brief,
+02x7=14
+no.
+|
+\*
+| What is global perspective ofcybercrime?
+1
+|K2
+|_|
+साइबरअपराधकावैश्विकदृष्टिकोणक्याहै?
+|| Define Cyber Forensics.
+1
+| KI
+|
+साइबरONRaeकोपरिभाषितकीजिए।
+ह
+|
+o>
+c. | Differentiate between mobile device proliferatiopand mobility trends.
+2
+1K2
+|
+a)
+मोबाइलडिवाइसWAR
+(Proliferation) औरAVaREE
+Sa में
+अंतरबताइए।
+Wr
+at!
+d. | What is a phishing attack in mobile phones?\~
+2
+|Ki
+॥
+मोबाइलफोनमेंफ़िशिंगअटैकक्याहोताहै
+e. |What is a backdoor in cyber 80०
+०WW
+Pai:
+साइबर
+सुरक्षा
+में
+बैकडोरक्याहोताBY
+|
+५
+f.
+| Why
+ts digital evidence
+28911 oniicabl
+""|
+| Why is
+digi
+ence easily,
+e?
+40 - | K2
+| डिजिटलसाक्ष्यआसानी
+से
+परिवर्चिल
+क्यों
+होसकताहै?
+|
+!
+g. | Explainhow cyber laws in India deal with data breaches andal
+fr:
+i
+K2
+|
+भारतमेंसाइबरकानूनडेटाsa औरसाइबरधोखाधड़ीसेकैसे
+हैं,
+।
+| समझाइए।
+sm
+|
+SECTION B
+asl
+2.
+Attemptany three ofthe following:
+A:
+07x3=21
+[6]
+Question
+AO)
+Level
+no.
+~
+Explain how attackers exploit humangpeythology
+in cyber offenses.|1.|K3
+|
+Support your answer withie
+ee
+¢
+है
+|
+हमलावरसाइबरअपराधों
+में
+म
+a RNR काकैसेउपयोगकरते
+हैं:
+|
+उदाहरणसहितसमझाइए।
+b. | Discuss major security challegges posed by mobile devices in modem
+|2 | K3
+|
+“|
+organizations.
+aN
+al जा
+संगठनों
+मेंमोबोइलडिवाइसद्वाराउत्पन्नप्रमुखसुरक्षाचुनौतियोंपर
+|
+|
+|
+c. | Explain the role of proxy servers and anonymizers in cyber crimes.
+3
+| K2
+.
+“
+साइबरअपराधों
+में
+प्रॉक्सीसर्वरऔरअनोनिमाइज़रकीभूमिका
+समझाइए।
+Explain how digital evidence, email forensics, and network forensics
+collectively
+contribute to solving
+cyber crimes.
+NeESET TS
+QP26E_006
+| 11-May-2026 1:32:35 PM | 103.255.73.204
+https://www.pyqonline.com",ocr,2026
+02-2026-a.pdf,2,"PrinteaPay
+~
+॥STE TET
+SubjectCoderBCcag,
+Pauper
+to
+४2z8a706
+|]
+५
+Paae|
+|| TTL
+tii}
+BTECH
+(SEM. IV) THEORY EXAMINATION 2025-26
+CYBER SECURITY
+-
+TIME: 3 HRS
+M.MARKS:
+70
+a ae
+(7जझ्मझाइए
+किडिजिटलसाक्ष्य, ई-मेलफॉर्शिसिक्सऔरनेटवर्कweमिलकर|.|TO|
+| | साइबरअपराधोंकोहलकरनेमेंकैसेयोगदानदेतेहैं।
+onae
+/e.
+| Explain various intellectual property rights and discuss their impo
+॥15
+|KO
+|
+| *
+| cyber space along with related legal provisions in India.
+|
+|
+|
+|a
+a
+बौद्धिकसंपदाअधिकारों
+कोसमझाइएतथासाइबरस्पेसमेंउनकेमहत्व
+|
+|
+|_ केसाथभारतमेंसंबंधितकानूनीप्रावधानोंपरचर्चाकीजिए।
+|
+|
+SECTION C
+3.
+Attempt any one part of the following:
+07x1=07
+(OB
+t98
+OT Tee
+|
+\
+0.
+|]
+|
+ayQS
+a | Analyze the effectiveness of multi-factor dgthentication QMFA) in| |
+K4
+|]
+V
+preventing cyber offenses based on social eeon
+AD
+|
+मल्टी-फैक्टरऑरपेटिकेशन(MEA
+पोश
+आधारितसाइबर
+“>:
+अपराधों
+कोरोकनेमें
+कितनाप्रभावीहै? BX
+aA
+|
+<7
+|
+Evaluate the role of ethical hac
+preventing cybercrime. How is it)1_
+(KA
+|
+different from maliciousaor
+Ze),
+|
+एथिकलहैकिंगकी
+भूमिकाका
+कीजिएजोसाइबरअपराध
+BT Vea
+RO
+।
+सहायकहै।यहGuia
+सेकैसेभिन्नहै?
+4.
+Attempt any one part of the following:
+Q
+07x 1=07
+Q
+Question
+A5-
+1 ह्ठ
+| Level
+no.
+1
+i
+3. . |Discuss various types of credit card frauds in
+mqbila-tomputing and/2
+[K4
+|
+मईexplain their execution techniques.
+.
+|
+|
+मोबाइलकंप्पूटिंगमेंविभिन्नप्रकारकेक्रेडिटतरधोखापड़ीतथाउनके
+|
+|
+निष्पादनकेतरीकोंपरचर्चाकीजिए।
+|
+|
+b. | Analyze the role of app permissions igsoiipromising mobile security.
+|2
+| K4
+How can misuse of
+permissions lead to cyljet
+attacks?
+मोबाइलसुरक्षामेंएपपरमिशनSL काविश्लेषणकीजिए।इनके
+|
+ora
+सेसाइबरहमलेकैसे
+i at
+हैं)
+https://www.pygonline.com
+|
+M7
+5,
+Attempt any one pa dNhe following:
+07x1=07
+Question
+ame छ।
+Level |
+ro
+[ele
+Explain password cracking techniques. Why are weak passwords stil! a | 3 |?
+|
+major security risk despite awareness?
+बावजूद
+पासवर्डक्रैकिंगतकनीकोंकोसमझाइए।जागरूकताकेबावजूदकमजोर
+|
+पासवर्डअभी
+भीबड़ाखतराक्योंहैं?
+|
+ee
+2| Page
+QP26E_006 | 11-May-2026 1:32:35 PM | 103.255.73.204
+https://www.pyqonline.com",ocr,2026
+02-2026-a.pdf,3,"|
+Pr
+॥॥॥॥॥॥॥॥॥
+semenPoa
+Paper ID ; 260706
+ubject= |
+SERRE
+BTECH
+(SEM. IV) THEORY EXAMINATION 2025-26
+CYBER SECURITY
+TIME: 3 HRS
+M.MARKS: 70
+eee
+Een
+andspyware.
+How can users detect
+[3
+६83
+“ ae
+revent them?
+कीलॉगरऔरस्पायवेयरके
+कार्यकरनेकीप्रक्रियाकावर्णनकीजिए।
+__
+उपयोगकर्ता
+इन्हेंकैसेपहचानऔररोकसकतेहैं?
+6.
+Attempt any one part ofthe following:
+07x1=07
+पा
+Question
+Level
+|
+a.
+| Explain the challenges faced in computer forensics such as data encryption | 4
+K2
+“
+and data volume,
+कंप्यूटरफॉरेंसिक्समेंआनेवालीचुनौतियोंजैसेएन्क्रिप्पनऔरबड़ेडेटावॉल्यूम
+| a
+कोसमझाइए।
+|
+a>
+b. |Analyze security and privacy threats in soc
+tworking sites from
+8 | 4 | K3
+>:
+forensic perspective.
+खतरों
+| फॉरेंसिकदृष्टिकोणसेसोशलनेटवर्किंगEy
+सुरक्षाऔरगोपनीयताखतरों
+८2
+काविश्लेषणकीजिए।
+a
+1)
+7.
+Attempt any one part of ¢{rey lowing:
+x1=07
+Q
+|
+Question
+Level
+no.
+३३
+a. |Explain the importance of accountability, transparency and GOpswnit in
+K2
+“ | data protection frameworks.
+डेटासंरक्षणढांचे
+में
+जवाबदेही, पारदर्शिता
+औरसहमतिकेAEST |
+b. | Explain the concept of “legal jurisdiction” in cyber ley and why itis}5
+ |K2
+|
+complex in online crimes.
+Oy
+साइबरकानूनमें“अधिकारGA (Furisdiction)” कीSURO औरऑनलाइन
+अपराधों
+में
+इसकीजटिलतासमझाइए।
+५)
+१)
+oy
+रो
+0726&_006
+| 14-May-2026 1:32:35-PM
+| 103.255.73.204
+https:/Awww.pygonline.com",ocr,2026
+03-2025.pdf,1,"QP25EP1_290
+ | 09-Jul-2025 1:38:52 PM | 117.55.242.134
+QP25EP1_290 | 09-Jul-2025 1:38:52 PM | 117.55.242.134
+Printed Page: 1 of 3 
+  
+Subject Code: BCC401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+CYBER SECURITY 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  Attempt all Sections. In case of any missing data; choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief.                                                                     02 x 7 = 14 
+1. 
+सभी Ůʲों के संिƗɑ उȅर दीिजए।  
+ 
+ 
+ 
+                      02 x 7 = 14 
+Q 
+no. 
+Question 
+CO 
+Level 
+a.  What is social engineering in the context of cybercrime? 
+साइबर अपराध मŐ सोशल इंजीिनयįरंग Ɛा होती है? 
+1 
+K2 
+b.  List any two measures an organization can take to handle mobile device security. 
+मोबाइल िडवाइस सुरƗा के िलए कोई भी दो संगठनाȏक उपाय बताइए। 
+2 
+K3 
+c.  Define anonymizers with an example. 
+गुमनामता बनाए रखने वाले टूल (Anonymizers) को उदाहरण सिहत पįरभािषत 
+कीिजए। 
+3 
+K1 
+d.  Differentiate between Cyber Forensics and Digital Forensics. 
+साइबर फॉरŐिसक और िडिजटल फॉरŐिसक मŐ अंतर बताइए। 
+4 
+K4 
+e.  Mention two key objectives of the Digital Personal Data Protection Act, 2023. 
+िडिजटल ʩİƅगत डेटा संरƗण अिधिनयम, 2023 के दो Ůमुख उȞेʴ बताइए। 
+5 
+K1 
+f.  What are registry settings in mobile devices and why are they important? 
+मोबाइल िडवाइस मŐ रिजːŌी सेिटंƺ Ɛा होती हœ और ये Ɛों महȕपूणŊ होती हœ? 
+2 
+K2 
+g.  What is meant by ""intellectual property"" in the context of cyber security? 
+साइबर सुरƗा के संदभŊ मŐ ""बौİȠक संपदा"" का Ɛा अथŊ है? 
+5 
+K2 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+           07 x 3 = 21 
+2.       िनɻिलİखत मŐ से कोई तीन Ůʲ हल कीिजए:                                                        07 x 3 = 21 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Discuss how cybercriminals plan their attacks and the role of attack vectors. 
+साइबर अपराधी अपने हमलों की योजना कैसे बनाते हœ और अटैक वेƃर की Ɛा भूिमका 
+होती है? 
+1 
+K3 
+b. 
+Analyze the key components of a robust organizational security policy in the 
+mobile computing era. 
+मोबाइल कंɗूिटंग युग मŐ एक मजबूत संगठनाȏक सुरƗा नीित के मुƥ घटकों का 
+िवʶेषण कीिजए। 
+2 
+K4 
+c. 
+Analyze Steganography as a tool in cybercrime. How does it differ from 
+cryptography? 
+साइबर अपराध मŐ एक उपकरण के ŝप मŐ ːेगनोŤाफी का िवʶेषण कीिजए। यह 
+िŢɐोŤाफी से कैसे िभɄ है? 
+3 
+K4 
+d. 
+What is the Chain of Custody in digital forensics? Why is it important in legal 
+proceedings? 
+िडिजटल फॉरŐिसक मŐ ‘चेन ऑफ कːडी’ Ɛा है? यह कानूनी ŮिŢया मŐ Ɛों 
+महȇपूणŊ है? 
+4 
+K2 
+e. 
+Evaluate the effectiveness of Indian Cyber Law in dealing with digital frauds and 
+data breaches. 
+िडिजटल धोखाधड़ी और डेटा उʟंघनों से िनपटने मŐ भारतीय साइबर कानून की 
+Ůभावशीलता का मूʞांकन कीिजए। 
+5 
+K4",pymupdf,2025
+03-2025.pdf,2,"QP25EP1_290
+ | 09-Jul-2025 1:38:52 PM | 117.55.242.134
+QP25EP1_290 | 09-Jul-2025 1:38:52 PM | 117.55.242.134
+Printed Page: 2 of 3 
+  
+Subject Code: BCC401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+CYBER SECURITY 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+2 | P a g e 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+3.         िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ:                                             07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+What is the “Cybercrime Era”? Explain the survival mantra for netizens in this 
+era. 
+""साइबर अपराध युग"" Ɛा है? इस युग मŐ नेिटज़Ɍ (इंटरनेट उपयोगकताŊओं) के िलए 
+जीवन रƗा मंũ की ʩाƥा कीिजए। 
+1 
+K2 
+b. 
+What are botnets? Explain how botnets serve as fuel for cybercrime activities. 
+बोटनेट्स Ɛा हœ? समझाइए िक कैसे बोटनेट्स साइबर अपराध गितिविधयों के िलए ईंधन 
+का कायŊ करते हœ। 
+1 
+K2 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+4. 
+िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ                                              07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Explain the proliferation of mobile and wireless devices and discuss the trends in 
+mobility. 
+मोबाइल और वायरलेस िडवाइसों के Ůसार को समझाइए और मोबाइिलटी की Ůवृिȅयों पर 
+चचाŊ कीिजए। 
+2 
+K2 
+b. 
+Explain the organizational measures for handling mobile devices securely within 
+a corporate network. 
+कॉपŖरेट नेटवकŊ के भीतर मोबाइल िडवाइसों को सुरिƗत ŝप से संभालने के िलए 
+संगठनाȏक उपायों को समझाइए। 
+2 
+K3 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+5. 
+िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ                                              07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Describe the process and impact of SQL Injection and Buffer Overflow attacks 
+on web applications. 
+वेब अनुŮयोगों पर SQL इंजेƕन और बफर ओवरɢो हमलों की ŮिŢया और Ůभाव का 
+वणŊन कीिजए। 
+3 
+K4 
+b. 
+What is Identity Theft? How is it related to phishing and what are the preventive 
+measures? 
+पहचान की चोरी (आईडŐिटटी थेɝ) Ɛा है? इसका िफिशंग से Ɛा संबंध है और इससे 
+बचने के उपाय Ɛा हœ? 
+3 
+K2 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+6. 
+िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ                                              07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Describe the Digital Forensics Life Cycle. Discuss each phase in detail with 
+suitable examples. 
+िडिजटल फॉरŐिसक जीवन चŢ को विणŊत कीिजए। Ůȑेक चरण को उपयुƅ उदाहरणों 
+सिहत समझाइए। 
+4 
+K3",pymupdf,2025
+03-2025.pdf,3,"QP25EP1_290
+ | 09-Jul-2025 1:38:52 PM | 117.55.242.134
+QP25EP1_290 | 09-Jul-2025 1:38:52 PM | 117.55.242.134
+Printed Page: 3 of 3 
+  
+Subject Code: BCC401 
+0Roll No: 0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2024-25 
+CYBER SECURITY 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+3 | P a g e 
+ 
+b. 
+How do social networking sites pose a challenge to computer forensics? Describe 
+with examples. 
+सोशल नेटविकō ग साइटŐ कंɗूटर फॉरŐिसक के िलए कैसे चुनौती Ůˑुत करती हœ? उदाहरण 
+सिहत वणŊन कीिजए। 
+4 
+K4 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+07 x 1 = 07 
+7. 
+िनɻिलİखत मŐ से िकसी एक भाग का Ůयास करŐ                                              07 x 1 = 07 
+Q 
+no. 
+Question 
+CO 
+Level 
+a. 
+Illustrate with examples how copyright and patent laws protect intellectual 
+property in the IT industry. 
+उदाहरण सिहत ˙ʼ कीिजए िक कॉपीराइट और पेटŐट कानून आईटी उȨोग मŐ बौİȠक 
+संपदा की कैसे रƗा करते हœ। 
+5 
+K3 
+b. 
+Explain the need for information security policies in organizations. How do they 
+contribute to overall cybersecurity? 
+संगठनों मŐ सूचना सुरƗा नीितयों की आवʴकता को समझाइए। ये समŤ साइबर सुरƗा 
+मŐ कैसे योगदान करती हœ? 
+5 
+K2",pymupdf,2025
+04-2024.pdf,1,"QP24EP2_290
+ | 07-Aug-2024 1:39:45 PM | 117.55.242.132
+QP24EP2_290 | 07-Aug-2024 1:39:45 PM | 117.55.242.132
+ 
+Printed Page: 1 of 1 
+  
+Subject Code: BCC401 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+BTECH 
+(SEM IV) THEORY EXAMINATION 2023-24 
+CYBER SECURITY 
+TIME: 3 HRS                                                                                                                 M.MARKS: 70 
+ 
+1 | P a g e 
+ 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.  
+How does cybercrime differ from traditional crime? 
+b.  
+What are the common profiles of cybercriminals in terms of demographics and skills? 
+c.  
+How do registry settings differ between mobile operating systems such as Android 
+and iOS? 
+d.  
+How are financial institutions adapting to the increase in mobile credit card fraud? 
+e.  
+What is a keylogger, and how does it capture keystrokes? 
+f.  
+What is digital forensics, and how does it differ from traditional forensic science? 
+g.  
+What is a patent, and what are the criteria for obtaining one in India? 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.  
+What tools and technologies are essential for protecting against cybercrime? 
+b.  
+How do multi-factor authentication (MFA) systems work on mobile devices? 
+c.  
+What is steganography, and how is it used to conceal information? 
+d.  
+What are the technical challenges faced by computer forensics professionals? 
+e.  
+How can trademark infringement be prevented and remedied under Indian law? 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+What are the typical stages of a cyber-attack? 
+(b) 
+How can botnet activities be detected and disrupted by cybersecurity professionals? 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+How can users detect and respond to phishing attacks on their mobile devices? 
+(b) 
+What are the key components of a comprehensive mobile security policy for 
+organizations? 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+ What is the difference between a DoS (Denial of Service) attack and a DDoS 
+(Distributed Denial of Service) attack? 
+(b) 
+What is an SQL injection attack, and how does it exploit vulnerabilities in web 
+applications? 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+What are the stages of the digital forensics life cycle? 
+(b) 
+How do investigators capture and analyze network traffic during a network forensics 
+investigation? 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+What are the common intellectual property issues faced in the digital age? 
+(b) 
+What are the penalties and legal consequences for cybercrimes under Indian law?",pymupdf,2024
+05-2024-a.pdf,1,"Printed Page: | of1
+॥॥॥॥॥॥॥॥॥॥॥॥
+प्राय
+Subject Code: 8८८47:
+PAPER ID-41 1074
+Roll No:
+|| 9
+BTECH
+CYBER SECURITY
+CPIME:SRS
+3 HRS
+M.MARKS: 70
+Note: 1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+ae
+2x7=14
+1.
+Attempi all questions 17 brief. क्
+=
+crime?
+[a. | How does cybercrime differ from traditional crime?
+—
+What are the common profiles of cybercriminals in terms ofdemographics and skills?
+c. | How do registry settings differ between mobile operating systems such as Android
+and iOS?
+-
+:
+-
+-
+5
+How are financial institutions adapting to the increase In mobile credit card fraud?
+fe._| What is a keylogger, and how does it capture keystrokes?
+What is digital forensics, and how does it differ from traditional forensic science?
+What is a patent, and what are the criteria for obtaining one in India?
+SECTION B
+2,
+Attempt
+any
+11726 of the following:
+ee
+7x3 =21
+[a. | What tools and technologies are essential for protecting against cybercrime?
++)
+ib. _| How do multi-factor authentication (MF 44, s¥3tems work on mobile devices?
+“A
+le. | What is steganography, and how is it
+067 6conceal information?
+‘
+,
+.
+fd. | What are the technical challenges faced by computer forensics professionals?
+fe. | How can trademark infringemetiib
+revented and remedied under Indian 0४). ।
+Ta
+पर
+ake
+ION C
+(20 *
+3.
+Attempt any one part of the slowing:
+g
+— os
+1=7
+{a)
+es of a cyber-attack?
+{b) | How can botnet activities be detected andबनजल७कफजफैे
+curity professionals? _
+4.
+Attempt
+any ove
+part of the following: __
+_
+ह
+Ix1l=7
+om How can users detect and respond to phishing attacks oftheir mobile devices? —_
+(b) | What are the key components of a comprehensive
+mobile security policy for
+organizations?
+SN:
+5.
+Attempt any one
+part of the following: _
+ee
+7x1=7
+What is the difference between a Do (Penal of Service) attack
+and a DDoS
+Distributed Denial of Service) attack?
+What is an SQL injection attack, eng fow does it exploit vulnerabilities in web
+applications?
+6.
+Attempt any
+one
+part ofthe following»” d
+7x1-7
+(b) | How do investigators capt
+and analyze network traffic during a network forensics
+investigation?
+.
+7,
+Attempt any one
+part of thajollowing:
+है
+75४1 57
+(a) | What are the comman intellectual property issues faced in the digital age?
+(b)
+What are the penalties and
+stare the penalties and legal consequences for cybercrimes under Indian law?
+|
+|
+||
+I
+।
+|;
+Ff
+1}Page
+OP2Z4EP2
+22
+>
+AP2Z4EP2 229
+| 07-Aug-2024
+1.40.11 PM| 103.62.147
+7
+www.aktunotes.in",ocr,2024
+06-2022.pdf,1,"Printed Page: 1 of 1 
+  
+Subject Code: RUC501A 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+B. TECH. 
+(SEM V) THEORY EXAMINATION 2021-22 
+CYBER SECURITY 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+  
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.    What are the threats to Information system? 
+b.    What is the need of information security? 
+c.    What are the security threats to E-commerce? 
+d.    What are the security issues in hardware? 
+e.    Explain Firewall in brief. 
+f.    Explain Copyright Act in brief. 
+g.    What are Email security policies? 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.    What do you mean by Virtual Private Network (VPN)? Discuss authentication 
+mechanism used in VPN. 
+b.    What is the security architecture of Information system? Explain the secure 
+system design of Information system. 
+c.    How can we provide the physical security of IT assets? 
+d.    Explain public key and private key cryptography with the help of diagram. 
+e.    Explain Intellectual Property Rights and Copyright Act in detail. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  What is the Information system? Discuss the different types of Information 
+system. 
+(b)  Explain Confidentiality, Integrity and Availability in terms of cyber security. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain the e-Cash and Credit/Debit Cards with respect to E-commerce. 
+(b)  What is Intrusion Detection System? Explain with Block Diagram. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  What is the need of Risk management? What are the processes involve to 
+managing the risk during the development of information system. 
+(b)  What are the data security considerations? Explain Data backup security, data 
+archival security in this reference. 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain the various types of security policies and their review process. 
+(b)  Discuss different types of ISO standard related to information security. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain Software License and Semiconductor Law in detail. 
+(b)  Explain Cyber laws in India in detail. 
+ 
+Source: AKTU official examination paper - www.aktunotes.in",pymupdf,2022
+07-2021.pdf,1,"Printed Page: 1 of 1 
+  
+Subject Code: RUC501A 
+0Roll No: 0 0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+1 | P a g e  
+ 
+B TECH 
+(SEM-V) THEORY EXAMINATION 2020-21 
+CYBER SECURITY 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  1. Attempt all Sections. If require any missing data; then choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief: 
+ 
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.    Define VPN 
+b.    Explain Trojan Horse 
+c.    Explain Corporate Security 
+d.    Describe Policy Review 
+e.    Define ISO 
+f.    Explain Spoofs 
+g.    Describe the types of information system 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.    Explain Cyber Security and its need in detail. 
+b.    Write short notes on followings (i) E-Cash (ii) Credit & Debit Cards 
+c.    Explain Firewall with its types and applications in detail. 
+d.    Describe Intrusion detection system. What are the approaches used in it? 
+e.    Explain the backup security measures used in information system. 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain Information system and its development in detail. 
+(b)  Describe the need and threats of information security in detail. 
+ 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Define E-Commerce. Explain Security Threats to E-Commerce in brief 
+(b) 
+Explain Public Key Cryptography with suitable example. 
+ 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Describe information Security Governance & Risk Management in brief. 
+(b)  Explain the Followings (i) CCTV (ii) Physical Security of IT Assets. 
+ 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain the WWW Policies in detail 
+(b)  Describe the publishing and notification requirement of the Security Policies. 
+ 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  Explain IT Act 2000 Provisions in detail 
+(b)  Define the followings (i)Semiconductor Law (ii) Copy Right Law 
+ 
+Source: AKTU official examination paper - www.aktunotes.in",pymupdf,2021
+08-2020.pdf,1,"i'rinted Page 1 of 1
+Sub Code:RUCS01/RUCSO1A
+B. TECH
+(SEM V) THEORY EXAMINATION 2019-20
+CYBER SECURITY
+Time: 3 Hours
+Total Marks: 70
+.
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt 40 questions in brief.
+2x7=14
+a.
+What do you mean by access contro! to information resources?
+b.
+Explain the concept of EDI.
+९.
+What is meant by security attack? How are they classified?
+d.
+Describe security risk analysis.
+e.
+How we can use firewall to make secure our application?
+f.
+What is e-mail spamming/e-mail bombing?
+g.
+What are the techniques involved in intrusion detection?
+SECTION B
+7
+2.
+Attempt any three of the following:
+7x3=21
+a.
+Explain legal issues in Data mining Security.
+b.
+Discuss different issues and challenges in cyber crime?:.
+८.
+Describe the basic concepts of integrity and confidentiality policies.
+री
+6.
+What is digital signature? What are the requirements of digital signature system. List
+on
+the security services provided by digital signature.
+as
+e.
+What are the decision support systems?*Discuss major functional requirement of @); .
+decision support system.
+Seo
+we LE a
+3.
+Attempt any one part of the following:
+,
+7k1=7
+‘
+(a)
+Explain different types of Computer Forensics Technology?
+. %
+पे
+(90)...
+What is Security Threats to E-Commerce?
+RY
+4.
+Attempt any one part ofthe following:
+7
+7x1=7
+(a)
+Explain web seryer and session hijacking with example.
+- ee
+(6)
+What are electronic payment systems? Compare electronic payment system on Internet
+-
+with conventional payment mechanism.
+“he
+ह
+5.
+Attempt any one part of the following:
+bey
+7x1=7
+(a)
+Explain the intellectual property law in details. 5
+(b)
+Explain unique features of Indian IT Act: Also Discuss the various tools of web
+security.
+af
+6.
+Attempt any one part of the following:
+é
+7x1=7
+(a) | What is development of Information system? Explain spiral model of information
+system
+raed
+(0)
+Draw the diagrammatical .approach
+to make difference between symmetric and
+asymmetric Cryptographyi.
+7.
+Attempt any one part of the following:
+7x1=7
+(a)
+Explain the information system resource and activities and what may be the reason of
+failure of it?
+(b)
+Explain and differentiate between integrating security at the implementation phase and
+the developing phase.
+1|Page
+Source: AKTU official examination paper - www.akiunotes.in
+शककिलियेSAAR
+aie
+Pts Des
+hie PAb288
+$997
+Bs
+Pees",ocr,2020
+09-2020-c.pdf,1,"Printed Page 1 of1
+Sub Code:AUC002
+Paper Id:
+|
+199002
+॥
+Roll No: Li ti ft itt ti i it el
+|
+|
+|
+|
+B TECH/MBA
+(SEM-ODD) THEORY EXAMINATION 2019-20
+CYBER SECURITY
+Time: 3 Hours
+Total Marks: 100
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt aff questions in brief.
+2x 10= 20
+a.
+What are the security threats? Discuss.
+b.
+What do you understand by security structure and design?
+c.
+Who are the major victims of cyber-crime?
+d.
+What do you know about Security Risk Management?
+e.
+What are firewalls?
+f,
+Define IT asset and the security of IT Assets.
+g.
+What do you mean by virus, worm and IP spoofing?
+h.
+What is digital signature?
+1.
+What is Cryptography?
+SECTION B
+2.
+Attempt any three of the following:
+10 ४
+35८30
+a.
+Explain Legal issues in Data mining Security.
+b.
+What are the key technological components used for security implementation?
+c. How can you say that intrusion detectiensystem is the backbone of information.
+system? Justify along with its categortes:
+d.
+Draw the diagrammatical approathto make difference between symmetrie-and
+asymmetric cryptography.
+e.
+What is Electronic cash? How does cash based transaction system differ ffom credit
+card based transactions?
+SECTION C
+3.
+Attempt any one part of the following:
+10x1=10
+(a)
+What are the five pillars of information assurance? Explain in details.
+(b)
+How do you perform a risk analysis? Explain the process of risk analysis in
+details?
+4,
+Attempt any one part of the following:
+16x
+15 10
+(a)
+What is Malicious software? Explain the.fypes of malicious software in details.
+(b)
+Differentiate Backups, Archival Storage and Disposal of Data with suitable
+examples.
+5.
+Attempt any one part of the following:
+10x1=10
+(a)
+Write a short note on CCTV and-ts applications briefly.
+(b)
+What are the security threats in mobile computing? Explain in detail.
+6,
+Attempt any one part of the following:
+10x1=10
+(a)
+What is Denial of Services (DoS) attack? How does a Dos attack in network
+security?
+(b)
+Explain WWW policies and Email Security policies,
+7.
+Attempt any one part of the following:
+10x1=10
+(a)
+Explain Semiconductor Law and Patent Law.
+(b)
+Explain IT Act 2000 Provisions.
+AKTU paper
+| www.aktunotes.in",ocr,2020
+10-2020-b.pdf,1,"Printed Page 1 of1
+Sub Code:AUC002
+Paper Id:
+|
+199002
+॥
+Roll No: Li ti ft itt ti i it el
+|
+|
+|
+|
+B TECH/MBA
+(SEM-ODD) THEORY EXAMINATION 2019-20
+CYBER SECURITY
+Time: 3 Hours
+Total Marks: 100
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt aff questions in brief.
+2x 10= 20
+a.
+What are the security threats? Discuss.
+b.
+What do you understand by security structure and design?
+c.
+Who are the major victims of cyber-crime?
+d.
+What do you know about Security Risk Management?
+e.
+What are firewalls?
+f,
+Define IT asset and the security of IT Assets.
+g.
+What do you mean by virus, worm and IP spoofing?
+h.
+What is digital signature?
+1.
+What is Cryptography?
+SECTION B
+2.
+Attempt any three of the following:
+10 ४
+35८30
+a.
+Explain Legal issues in Data mining Security.
+b.
+What are the key technological components used for security implementation?
+c. How can you say that intrusion detectiensystem is the backbone of information.
+system? Justify along with its categortes:
+d.
+Draw the diagrammatical approathto make difference between symmetrie-and
+asymmetric cryptography.
+e.
+What is Electronic cash? How does cash based transaction system differ ffom credit
+card based transactions?
+SECTION C
+3.
+Attempt any one part of the following:
+10x1=10
+(a)
+What are the five pillars of information assurance? Explain in details.
+(b)
+How do you perform a risk analysis? Explain the process of risk analysis in
+details?
+4,
+Attempt any one part of the following:
+16x
+15 10
+(a)
+What is Malicious software? Explain the.fypes of malicious software in details.
+(b)
+Differentiate Backups, Archival Storage and Disposal of Data with suitable
+examples.
+5.
+Attempt any one part of the following:
+10x1=10
+(a)
+Write a short note on CCTV and-ts applications briefly.
+(b)
+What are the security threats in mobile computing? Explain in detail.
+6,
+Attempt any one part of the following:
+10x1=10
+(a)
+What is Denial of Services (DoS) attack? How does a Dos attack in network
+security?
+(b)
+Explain WWW policies and Email Security policies,
+7.
+Attempt any one part of the following:
+10x1=10
+(a)
+Explain Semiconductor Law and Patent Law.
+(b)
+Explain IT Act 2000 Provisions.
+AKTU paper
+| www.aktunotes.in",ocr,2020
+11-2020-a.pdf,1,"Printed Page 1 of1
+Sub CodesRUCS01/RUCSO1A
+Paper Id:
+|
+199523
+|
+Roll No: [| [[[[1[[[ [| [ LE]
+|
+|
+।
+B. TECH
+(SEM V) THEORY EXAMINATION 2019-20
+CYBER SECURITY
+Time: 3 Hours
+Total Marks: 70
+Note:
+1. Attempt all Sections. If require any missing, data; then choose suitably.
+SECTION A
+1.
+Attempt काquestions in brief.
+2x7=14
+a.
+What do you mean by access control to information resources?
+b.
+Explain the concept of EDI.
+c.
+What is meant by security attack? How are they classified?
+d.
+Describe security risk analysis.
+e.
+How we can use firewall to make secure our application?
+f.
+What is e-mail spamming/e-mail bombing?
+2.
+What are the techniques involved in intrusion detection?
+SECTION B
+2.
+Attempt any (free of the following:
+7x3=21
+a.
+Explain legal issues in Data mining Security.
+b.
+Discuss different issues and challenges in cyber crime?
+c.
+Describe the basic concepts of integrity and confidentiality policies.
+पे.
+What is digital signature? What are the requirements of digital signature system. List
+the security services provided by digital signature.
+e.
+What are the decision support systems? Discuss major functional requirement of a
+decision support system.
+SECTION C
+3.
+Attempt any ove part of the following:
+7x1=7
+(a)
+Explain different types of Computer Forensics Technology?
+(b)
+What is Security Threats to E-Commerce?
+4,
+Attempt any ove part of the following:
+7६157
+(a)
+Explain web server and session hijacking with example.
+(b)
+What are electronic payment systems? Compare electronic payment system on Internet
+with conventional payment mechanism.
+5.
+Attempt any ove part of the following:
+7६157
+(a)
+‘Explain the intellectual property law in details.
+(b)
+Explain unique features of Indian IT Act. Also Discuss the various tools of web
+security.
+6.
+Attempt any ove part of the following:
+7Tx1l=7
+(a)
+What is development of Information system? Explain spiral model of information
+system
+(b)
+Draw
+the diagrammatical
+approach
+to make difference between symmetric and
+asymmetric Cryptography.
+7.
+Attempt any ove part of the following:
+7x1=7
+(a)
+Explain the information system resource and activities and what may be the reason of
+AKTU paper | www.aktunotes.in-
+हु
+(b)
+Explain and differentiate between integrating security at the implementation phase and
+the developing phase.
+1|Page
+Source: AKTU official examination paper - www.aktunotes.in",ocr,2020
+12-2019.pdf,1,"Printed Pages:01
+Sub Code: RUC 501
+Paper Id:
+|
+199503
+Roll No. [TT T_TLLTLT IL)
+|
+|
+|
+B TECH
+.
+(SEM V) THEORY EXAMINATION 2018-19
+CYBER SECURITY
+Time: 3 Hours
+Total Marks: 70
+Note:
+1. Attempt all Sections. If require any missing data; then choose suitably.
+SECTION A
+1.
+Attempt 41 questions in brief.
+2x7=14
+a.
+Write a short note on the Copyright Act?
+b.
+What do you mean by physical Security for informationSystems?
+८.
+Describe Intellectual Property Issues (IPR).
+d.
+Write short notes on “Patent Law”.
+e.
+What do you mean by WWW policy?
+f.
+Give small notes on Corporate Policy.
+g.
+Differentiate between Cyber Security and Information Security.
+SECTION B
+-
+2.
+Attempt any three of the following:
+7x3=21
+a.
+What are the key differences between Symmetric and Asymmetric encryption?
+b. Explain Information Security Governance in detail ‘aid process involved in the
+Risk Management?
+oe
+b
+ce. Explain briefly about Application Development Sécurity with guidelines.
+; nn
+d. Elaborate the term Access Control. What,is*in¢lude in authorization process for,”
+(File, Program, Data rights) and explain
+thé all types ofcontrols.
+af i,
+e. What do you understand by security sificture (Architecture) and design?
+oye °
+£0""
+f a
+SECTION C
+ae
+3.
+Attempt any one part of the-folldwing:
+हीं, Fx1S7
+‘
+(a)
+What do you mean.by Intellectual Property? Describe varioys freans using
+which IntellectyaFProéperty may be protected to an extent,
+,
+(b)
+Explain Confidentiality, Integrity and Availability in terms’ ofcyber security.
+4.
+Attempt any one part of the following:
+fe
+75157
+(a)
+What are the approaches followed in developing tyformation System (IS)?
+Explain the difference between security ang (linats.
+(b)
+What is the need of information Security,
+explain the term ISMS?
+my
+5.
+Attempt any one part of the following:
+|—
+15157
+(a)
+Explain the role of Security in Infefpet and Web Services.
+(b)
+What is Intrusion Detection Syétem? Explain with Block Diagram.
+6.
+Attempt any one part of the follewing:
+7x1=7
+(a)
+Explain in Detail abpyt Secure Information System Development.
+(b)
+Describe the working principle of CCTV.
+7.
+Attempt any one part of the following:
+75157
+(a)
+| What are the Data Security Considerations? Explain in this reference Data
+Backup Security.
+(b)
+What is Public Key Cryptography? Define its Advantage and Disadvantage.
+Source: AKTU official examination paper - www.aktunotes.in
+:
+1
+| Pa 8 e",ocr,2019
+13-2019-c.pdf,1,"Printed Pages: 01 
+Sub Code: RUC601 
+ 
+Page 1 of 1 
+ 
+Paper Id: 
+199277 
+                                      Roll No.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TECH.  
+(SEM-VI) THEORY EXAMINATION 2018-19 
+CYBER SECURITY 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70 
+Note:  Attempt all Sections. If require any missing data; then choose suitably. 
+ 
+SECTION A 
+1. 
+Attempt all questions in brief.  
+ 
+ 
+ 
+ 
+2 x 7 = 14 
+a.    Define Copyright Act. 
+b.    Explain IT asset. 
+c.    Explain Digital Signature 
+d.   
+e.   
+f.   
+g. 
+Explain disposal of Data. 
+Define Cryptography 
+Explain Firewall. 
+Explain Worm. 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+ 
+7 x 3 = 21 
+a.   
+Elaborate the difference between security and threats and e4plain web security.
+b.   
+Elaborate the term access control. Explain the all types of controls. 
+c.   
+What is included in authorization process for File & Program Data rights 
+d.   
+What is the information security? Explain cyber-crime and cyber security in 
+this reference. 
+e.   
+Explain various Security policies and their review process. 
+ 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Draw the diagrammatical approach to make difference between symmetric 
+and asymmetric cryptography. 
+(b) 
+How can you say that intrusion detection system is the backbone of 
+information system? Justify along with its categories. 
+4. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  
+Define Intellectual Property with suitable Example. 
+(b)  Explain the need of Risk Management. Explain the process for risk management for 
+secure Information system. 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  
+Explain the followings (i) E-Commerce (ii) Smart Card  
+(b)  Explain Information Security with Cybercrime & cyber security. 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a) 
+Explain Information system resource and activities in detail. 
+(b) 
+Brief Corporate security with suitable example. 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+7 x 1 = 7 
+(a)  
+Explain the security threats for E-Commerce in detail.  
+(b)  Explain the followings (i) Macro Virus (ii) Spoofs (iii) E-mail Security 
+ 
+ 
+http://AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2019
+14-2019-b.pdf,1,"Printed Pages: 01  
+ 
+ 
+ 
+ 
+                   Sub Code: RUC 501 
+Paper Id: L 199503 
+B TECH (SEM V) THEORY EXAMINATION 2018-19 
+CYBER SECURITY 
+ 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 70  
+Note: 1. Attempt all Sections. If require any missing data; then choose suitably. 
+SECTION A 
+1. Attempt all questions in brief. 
+ 
+2 x 7 = 14  
+a. Write a short note on the Copyright Act?  
+b. What do you mean by physical Security for information Systems?  
+c. Describe Intellectual Property Issues (IPR).  
+d. Write short notes on ""Patent Law”.  
+e. What do you mean by WWW policy?  
+f. Give small notes on Corporate Policy.  
+g. Differentiate between Cyber Security and Information Security. 
+SECTION B 
+2. Attempt any three of the following: 
+7x3 = 21  
+a. What are the key differences between Symmetric and Asymmetric encryption?  
+b. Explain Information Security Governance in detail and process involved in the Risk Management?  
+c. Explain briefly about Application Development Security with guidelines.  
+d. Elaborate the term Access Control. What is include in authorization process for (File, Program, 
+Data rights) and explain the all types of controls.  
+e. What do you understand by security structure (Architecture) and design? 
+SECTION C 
+3. Attempt any one part of the following: 
+7x1= 7  
+(a) What do you mean by Intellectual Property? Describe various means using which Intellectual 
+Property may be protected to an extent.  
+(b) Explain Confidentiality, Integrity and Availability in terms of cyber security 
+4. Attempt any one part of the following: 
+7x1= 7  
+(a) What are the approaches followed in developing Information System (IS)?Explain the difference 
+between security and threats 
+(b) What is the need of information Security also explain the term ISMS? 
+5. Attempt any one part of the following:  
+7x1 = 7  
+(a) Explain the role of Security in Internet and Web Services.  
+(b) What is Intrusion Detection System? Explain with Block Diagram. 
+6. Attempt any one part of the following: 
+7x1 = 7  
+(a) Explain in Detail about Secure Information System Development.  
+(b) Describe the working principle of CCTV. 
+7. Attempt any one part of the following 
+7 x 1 = 7  
+(a) What are the Data Security Considerations? Explain in this reference Data Backup Security.  
+(b) What is Public Key Cryptography? Define its Advantage and Disadvantage 
+Source: AKTU official examination paper - www.aktunotes.in",pymupdf,2019
+15-2019-a.pdf,1,"AUC002/ RVE201 
+Page 1 of 1 
+ 
+Printed Pages: 01 
+Sub Code: AUC002/ RVE201 
+Paper Id: 
+199214 
+                                      Roll No.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B. TECH./ BARCH  
+(SEM-IV/II) THEORY EXAMINATION 2018-19 
+CYBER SECURITY 
+Time: 3 Hours 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Total Marks: 100 
+Note:  Attempt all Sections. If require any missing data; then choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x 10 = 20 
+a.    What do you mean by Information System? 
+b.    Explain Information Security. 
+c.    What is E-Commerce? 
+d.   
+e.   
+f.   
+g. 
+h. 
+i. 
+j. 
+Explain Denial of Service? 
+Explain the Role of Digital Signature. 
+Explain Security Risk Analysis. 
+Explain Malicious Software. 
+Define Trapdoors. 
+Define Spoofs. 
+What is VPN? 
+ 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a.    Explain WWW policies in Cyber Security in detail. 
+b.    Explain Biometric system? Discuss the advantages of Biometrics over 
+traditional authentication method. 
+c.    Describe the concept of Intrusion Detection System. 
+d.    Explain the Security technologies that are used for data & application security. 
+e.    Explain the primary measures applied for security of backup. 
+ 
+SECTION C 
+ 
+3. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a)  Explain the Objective & Scope of IT Act 2000. 
+(b)  Explain Smart Card. Explain how Credit Card is different from Debit Card. 
+4. 
+Attempt any onepart of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a)  Explain the Data Security, Email Security & Internet Security in detail. 
+(b)  What do you mean by Virtual Private Networks? Discuss authentication 
+mechanism used in VPN. 
+5. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a)  What is Electronic Data Interchange? What are the benefits of EDI? How can it 
+be helpful in governance? 
+(b)  Explain the Followings (i) Firewall (ii) Cryptography (iii) Copyright & Patent 
+6. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a)  Describe Software License & Semiconductor Law in detail. 
+(b)  Explain E-Cash. How is it useful in public domain? 
+7. 
+Attempt any one part of the following: 
+ 
+ 
+ 
+ 
+10 x 1 = 10 
+(a)  Explain the Intellectual Property related legislation in India. 
+(b)  Define the Followings (i) CCTV (ii) Intrusion Detection System (iii) E-mail 
+Viruses 
+ 
+ 
+http://AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2019
+16-2018.pdf,1,"Printed pages:1 
+ 
+ 
+   
+                                         Sub Code:  EIT 505 
+                                                                                
+ Paper Id: 
+ 
+B. TECH.  
+(SEM V) THEORY EXAMINATION 2017-18 
+INFORMATION SECURITY AND CYBER LAWS 
+Time: 3 Hours 
+ 
+             
+ 
+ 
+ 
+            Total Marks: 100 
+Note:  1. 
+Attempt all Sections. If any missing data is required, then choose suitably. 
+SECTION A 
+1. 
+Attempt all questions in brief. 
+ 
+ 
+ 
+ 
+ 
+2 x10 = 20 
+a. What do you mean by Data and Information? Can you differentiate between these two? 
+b. What is the need for Information Security?  
+c. Differentiate between Threats and Attacks. 
+d. Explain the need for Trusted System. 
+e. Briefly describe the properties of Firewall. 
+f. Briefly describe a model for Network security with the help of a neat diagram. 
+g. Explain Web security requirements. 
+h. Explain why cyber stalking is an offence. 
+i. Discuss about the infringement of Copyright. 
+SECTION B 
+2. 
+Attempt any three of the following: 
+ 
+ 
+ 
+ 
+10 x 3 = 30 
+a. Explain in detail Digital Signature Standard approach and its algorithm. 
+b. What is the use of SSL protocol? Explain its  
+c. Explain Symmetric Cipher Model with neat block diagram. 
+d. Explain the procedure involved in RSA Public key encryption algorithm. 
+e. Define Security service. List different categories of Security service and explain. 
+SECTION C 
+3. 
+Attempt any one part of the following: 
+ 
+                                    10 x 1=10 
+(a)
+Explain design issues and challenges in a Biometric system.
+(b) 
+Explain the limitations and use of WAP (Wireless Application Protocol). 
+4. 
+Attempt any one part of the following: 
+ 
+                                  10 x 1 = 10 
+(a) 
+Explain EDI architecture and its advantages in detail. 
+(b)
+Explain the Design aspects of a secure E-Commerce system and its 
+applications. 
+5. 
+Attempt any one part of the following: 
+ 
+                                10 x 1 = 10 
+(a) 
+Discuss the Implementation and Applications of IPSec. 
+(b) 
+What is Digital signature? Explain how the public key algorithms are used for 
+obtaining Digital Signature. 
+6. 
+Attempt any one part of the following: 
+ 
+                                10 x 1 = 10 
+(a)
+Briefly describe the components of SET system.
+(b) 
+What are the design goals of Kerberos? 
+7. 
+Attempt any one part of the following: 
+ 
+                                10 x 1 = 10 
+(a) 
+What do you understand from Intellectual Property Right? Is copyright 
+Intellectual Property? 
+(b) 
+Explain the purpose and role of certifying authorities under the Information 
+Technology Act. 
+ 
+1
+0
+6
+0
+Roll No.
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2018
+17-2017.pdf,1,"Printed Pages : 1 
+Roll No. 
+ 
+EIT505 
+B.TECH. 
+THEORY EXAMINATION (SEM–VI) 2016-17 
+INFORMATION SECURITY AND CYBER LAWS 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. In case of numerical problem assume data wherever not provided. 
+ 
+SECTION-A 
+1 
+Attempt ALL questions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10X2=20 
+a) What is the need of digital signature?  
+b) Differentiate between Worm and Virus. 
+c) What is Trojan horse?  
+d) What is the need of information security?  
+e) What is Database Security?  
+f) Why is cyber Security important?  
+g) What is Encryption?  
+h) Why do we need information security?  
+i) What are the security Issues in Hardware?  
+j) Differentiate between symmetric key and asymmetric key algorithm. 
+ 
+SECTION-B 
+2 
+Attempt any FIVE questions. 
+ 
+ 
+ 
+ 
+ 
+ 
+5X10=50 
+a) What is a firewall? Explain its different types in detail.  
+b) Write short notes on CCTV and its application.  
+c) What is application development security? Explain in detail.  
+d) What do you understand by information security governance and risk management?  
+e) Discuss the ethical and legal issues in software piracy.  
+f) What are the steps involved in developing an information System?  
+g) Explain Security Architecture & Design with Diagram.  
+h) What is Physical Security? Write down the basic tenets of physical security. 
+ 
+SECTION-C 
+Attempt any TWO questions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2X15=30 
+3 
+Explain security threats to E-Commerce in detail. Also explain its types.  
+4 
+What are the provisions of IT Act, 2000? List its advantages and limitations.  
+5 
+Write short note on:  
+i) 
+WWW policy  
+ii) 
+E-mail Security policy  
+iii) 
+Information Security Process  
+iv) 
+Patent Law  
+v) 
+Copy Right Law 
+Source: AKTU official examination paper - www.aktunotes.in",pymupdf,2017
+18-2017-b.pdf,1,"Printed Pages : 1 
+Roll No. 
+AUC002 
+COMMON TO ALL BRANCHES 
+THEORY EXAMINATION (SEM-IV) 2016-17 
+CYBER SECURITY 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. 
+ 
+SECTION – A 
+1.  
+Attempt all of the following questions:            
+ 
+ 
+ 
+ 
+10 x 2 = 20 
+       
+(a)  
+What is CIA (Confidentiality, Integrity and Availability) trade? 
+       
+(b)  
+What are the threats to information system? 
+       
+(c)  
+What is System Development Life Cycle (SDLC)? 
+       
+(d)  
+Define the terms RTGS and NEFT. 
+       
+(e) 
+What do you mean by virus, worm and IP spoofing? 
+       
+(f)   
+How cyber security is different from computer security? 
+       
+(g)  
+State the difference between Risk Management and Risk Assessment. 
+       
+(h)  
+Explain briefly about disposal of data. 
+       
+(i)  
+Define IT asset and the security of IT Assets. 
+       
+(j)  
+What is the need of cyber laws in India? 
+ 
+ 
+SECTION – B 
+2.  
+Attempt any five parts of the following question:             
+ 
+ 
+5 x 10 = 50 
+ 
+(a)  
+What are biometric? How can a biometric be used for access control? Discuss the 
+criteria for selection of biometrics. 
+       
+(b) 
+What is Intrusion Detection System (IDS)? Explain its type in detail. 
+       
+(c)  
+What are the backup security measures? Discuss its type. 
+ 
+       
+(d)    What are the basic fundamental principles of information security? Explain. 
+       
+(e)  
+Write a short note on CCTV and its applications. 
+       
+(f)  
+What is Electronic cash? How does cash based transaction system differ from credit 
+card based transactions? 
+       
+(g)  
+What do you mean by Virtual Private Networks? Discuss authentication mechanism 
+used in VPN. 
+  
+(h)  
+Write a short note on: 
+ 
+ 
+(i) 
+Database Security 
+(ii) 
+Email Security 
+(iii) 
+Internet Security 
+ 
+SECTION – C 
+  
+Attempt any two of the following questions:            
+ 
+ 
+ 
+2 x 15 = 30  
+3. 
+What is Electronic Data Interchange (EDI)? What are the benefits of EDI? How can it be 
+helpful in governance? 
+4. 
+What is digital signature? What are the requirements of a digital signature system? List the 
+security services provided by digital signature. 
+5. 
+Explain the following in detail : 
+ 
+ 
+(i) 
+Private Key cryptosystem and Public key cryptosystems. 
+ 
+ 
+(ii) 
+Firewall. 
+ 
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2017
+19-2017-a.pdf,1,"Printed Pages : 1 
+Roll No. 
+AUC002 
+COMMON TO ALL BRANCHES 
+THEORY EXAMINATION (SEM-IV) 2016-17 
+CYBER SECURITY 
+Time : 3 Hours 
+ 
+             
+ 
+ 
+ 
+             
+Max. Marks : 100 
+Note :  Be precise in your answer. 
+ 
+SECTION – A 
+1.  
+Attempt all of the following questions:            
+ 
+ 
+ 
+ 
+10 x 2 = 20 
+       
+(a)  
+What is CIA (Confidentiality, Integrity and Availability) trade? 
+       
+(b)  
+What are the threats to information system? 
+       
+(c)  
+What is System Development Life Cycle (SDLC)? 
+       
+(d)  
+Define the terms RTGS and NEFT. 
+       
+(e) 
+What do you mean by virus, worm and IP spoofing? 
+       
+(f)   
+How cyber security is different from computer security? 
+       
+(g)  
+State the difference between Risk Management and Risk Assessment. 
+       
+(h)  
+Explain briefly about disposal of data. 
+       
+(i)  
+Define IT asset and the security of IT Assets. 
+       
+(j)  
+What is the need of cyber laws in India? 
+ 
+ 
+SECTION – B 
+2.  
+Attempt any five parts of the following question:             
+ 
+ 
+5 x 10 = 50 
+ 
+(a)  
+What are biometric? How can a biometric be used for access control? Discuss the 
+criteria for selection of biometrics. 
+       
+(b) 
+What is Intrusion Detection System (IDS)? Explain its type in detail. 
+       
+(c)  
+What are the backup security measures? Discuss its type. 
+ 
+       
+(d)    What are the basic fundamental principles of information security? Explain. 
+       
+(e)  
+Write a short note on CCTV and its applications. 
+       
+(f)  
+What is Electronic cash? How does cash based transaction system differ from credit 
+card based transactions? 
+       
+(g)  
+What do you mean by Virtual Private Networks? Discuss authentication mechanism 
+used in VPN. 
+  
+(h)  
+Write a short note on: 
+ 
+ 
+(i) 
+Database Security 
+(ii) 
+Email Security 
+(iii) 
+Internet Security 
+ 
+SECTION – C 
+  
+Attempt any two of the following questions:            
+ 
+ 
+ 
+2 x 15 = 30  
+3. 
+What is Electronic Data Interchange (EDI)? What are the benefits of EDI? How can it be 
+helpful in governance? 
+4. 
+What is digital signature? What are the requirements of a digital signature system? List the 
+security services provided by digital signature. 
+5. 
+Explain the following in detail : 
+ 
+ 
+(i) 
+Private Key cryptosystem and Public key cryptosystems. 
+ 
+ 
+(ii) 
+Firewall. 
+ 
+Source: AKTU official examination paper - www.aktunotes.in",pymupdf,2017
+20-2016.pdf,1,"Printed Pages: 4
+AUC-OO2
+Theory Examination (Semester-IY) 2015-16
+Time:2 Hoars
+CYBERSECURITY 
+:
+Max. Marks:50
+Section-A
+Note : Attempt aII the parts. AIt parts cany equat marks. Write
+answer of each part in short.
+Ql. Attempt any five parts :
+(2x5=f0)
+(a) What are the sectrity threats? Discuss.
+O) What do you understand by security structure and
+design?
+Describe the Intellectual Properfy Issues (IPR).
+Discuss the difference between Malware and sp) Mare.
+(c)
+(d)
+(Following Paper ID and RoIl No. to be filled in your
+Answer Books)
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2016
+20-2016.pdf,2,"(e) Who are the major victims of cyber-crime?
+(0 What do you know about Security Risk Management?
+G) What are firewalls?
+(h). Is hacking always for financial gains?
+0) What is a virus? Explain.
+Sectiotr-B
+Q2. Attempt any four questions from this section. (4x5=20)
+(a) What are the key technological components used for
+security inplenrentation?
+(b) What is the information securitf Explain cyter-crime
+and cyber security in this reference.
+(c)
+Draw the diagrammatical approach to make difflerence
+between symmetric and asyrnmetric crptography.
+How can you say that intrusion detection sletem is the
+backbone of information system? Justify along with its
+categories.
+(d)
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2016
+20-2016.pdf,3,"T
+(e) Write short note on:
+i. 
+lncident Response Plan
+ii. Disaster Response Plan
+iii Business contirnrity Plan
+Elaborate the difference between security and threats
+and e4plain web security.
+What is sectrity SDLC? Explain its different phases.
+Explain and differentiate betrreen integrating security at
+the inplementation phase and the developing phase.
+Section{
+Note: Attempt any two questions from this section.
+(2*10:20)
+Q3. Elaborate the term access control. What is included in autho-
+nzatian process for (File, Progranl Data rights) and explain
+the all types of controls.
+(0
+G)
+(h)
+Q4. What are the data sectrity considerations? Explain in this refl
+erence Data backup security, data archival securty and data
+disposal considerations.
+[s+sJ
+Is+s]
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2016
+20-2016.pdf,4,"Q5. write short notes on any two of the follows:
+0 
+hrtellectuat Property [,aw
+(ir) Copynght Act
+(iir) Cyber Laws in India.
+I
+:tIt
+I
+I
+i
+ir
+:
++
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in
+AKTU paper | www.aktunotes.in",pymupdf,2016

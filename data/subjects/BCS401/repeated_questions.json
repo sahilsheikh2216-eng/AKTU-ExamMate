@@ -1,0 +1,2577 @@
+[
+  {
+    "group_id": 1,
+    "canonical_question": "Define deadlock in operating systems, discussing the system model and conditions necessary for deadlock occurrence?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2024,
+      2026
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "07-2024-b.pdf",
+      "14-2019.pdf"
+    ],
+    "average_similarity": 0.9152,
+    "variations": [
+      {
+        "question": "What are the necessary conditions for deadlock in an operating system",
+        "original": "What are the necessary conditions for deadlock in an operating system? ऑपरेस ंग सिस्टम में िेिलॉक की आवश्यक शतें क्य़ा हैं?",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the necessary conditions for deadlock in an operating system",
+        "original": "What are the necessary conditions for deadlock in an operating system? ऑपरेस ंग सिस्टम में िेिलॉक की आवश्यक शतें क्य़ा हैं?",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define deadlock in operating systems, discussing the system model and conditions necessary for deadlock occurrence?",
+        "original": "Define deadlock in operating systems, discussing the system model and conditions necessary for deadlock occurrence?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the necessary conditions to hold a deadlock in a system?",
+        "original": "What are the necessary conditions to hold a deadlock in a system?",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 2,
+    "canonical_question": "What are the primary functions of an operating system",
+    "match_type": "semantic",
+    "years_appeared": [
+      2023,
+      2024,
+      2025
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "03-2025.pdf",
+      "07-2024-b.pdf",
+      "09-2023.pdf"
+    ],
+    "average_similarity": 0.9357,
+    "variations": [
+      {
+        "question": "What are the primary functions of an operating system",
+        "original": "What are the primary functions of an operating system? ऑपरेिटंग िसːम के मुƥ कायŊ Ɛा हœ?",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the primary function of an operating system?",
+        "original": "What is the primary function of an operating system?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define two main functions of an operating system.",
+        "original": "Define two main functions of an operating system.",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 3,
+    "canonical_question": "Briefly define the term Real Time Operating System.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2022,
+      2023
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "09-2023.pdf",
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "24-2017-b.pdf"
+    ],
+    "average_similarity": 0.917,
+    "variations": [
+      {
+        "question": "Briefly define the term Real Time Operating System.",
+        "original": "Briefly define the term Real Time Operating System.",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Briefly define the term Real Time Operating System.",
+        "original": "Briefly define the term Real Time Operating System.",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is real time operating system?",
+        "original": "What is real time operating system?",
+        "year": 2016,
+        "source_file": "24-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Real time system",
+        "original": "Real time system",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 4,
+    "canonical_question": "Define semaphore. Give a scheme for implementation of semaphore primitives.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2019,
+      2023
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "09-2023.pdf",
+      "10-2023-2.pdf",
+      "14-2019.pdf",
+      "18-2018-b.pdf"
+    ],
+    "average_similarity": 0.912,
+    "variations": [
+      {
+        "question": "Define semaphore and its types.",
+        "original": "Define semaphore and its types.",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define semaphore and its types.",
+        "original": "Define semaphore and its types.",
+        "year": 2023,
+        "source_file": "10-2023-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define semaphore. Give a scheme for implementation of semaphore primitives.",
+        "original": "Define semaphore. Give a scheme for implementation of semaphore primitives.",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Semaphores?",
+        "original": "What is Semaphores?",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 5,
+    "canonical_question": "Explain the difference between internal and external fragmentation.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2019,
+      2023
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "09-2023.pdf",
+      "14-2019.pdf",
+      "19-2018-a.pdf",
+      "20-2018-5.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 0.9811,
+    "variations": [
+      {
+        "question": "Write the difference between internal and external fragmentation.",
+        "original": "Write the difference between internal and external fragmentation.",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write the difference between internal and external fragmentation.",
+        "original": "Write the difference between internal and external fragmentation.",
+        "year": 2018,
+        "source_file": "20-2018-5.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write the difference between internal and external fragmentation.",
+        "original": "Write the difference between internal and external fragmentation.",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the difference between internal and external fragmentation.",
+        "original": "Explain the difference between internal and external fragmentation.",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain internal and external fragmentation.",
+        "original": "Explain internal and external fragmentation.",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 5
+  },
+  {
+    "group_id": 6,
+    "canonical_question": "Compute the Need matrix. है — है Assume that the disk",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2016,
+      2023
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "09-2023.pdf",
+      "24-2017-b.pdf",
+      "27-2016-a.pdf"
+    ],
+    "average_similarity": 0.9067,
+    "variations": [
+      {
+        "question": "Calculate the content of Need Matrix.",
+        "original": "Calculate the content of Need Matrix.",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Compute the Need matrix.",
+        "original": "Compute the Need matrix.",
+        "year": 2016,
+        "source_file": "24-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Compute the Need matrix. है — है Assume that the disk",
+        "original": "Compute the Need matrix. है — है Assume that the disk",
+        "year": 2015,
+        "source_file": "27-2016-a.pdf",
+        "page": 3,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 7,
+    "canonical_question": "What are the four states in Android Activity Life Cycle ?",
+    "match_type": "exact",
+    "years_appeared": [
+      2016,
+      2018,
+      2021
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf",
+      "23-2017-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "What are the four states in Android Activity Life Cycle?",
+        "original": "What are the four states in Android Activity Life Cycle?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the four states in Android Activity Life Cycle ?",
+        "original": "What are the four states in Android Activity Life Cycle ?",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the four states in Android Activity Life Cycle?",
+        "original": "What are the four states in Android Activity Life Cycle?",
+        "year": 2016,
+        "source_file": "23-2017-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 8,
+    "canonical_question": "Write short notes on :",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2019,
+      2021
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "13-2021.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf",
+      "18-2018-b.pdf",
+      "19-2018-a.pdf",
+      "20-2018-5.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Write short notes on",
+        "original": "Write short notes on",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on :",
+        "original": "Write short notes on :",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on :",
+        "original": "Write short notes on :",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on :",
+        "original": "Write short notes on :",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on :",
+        "original": "Write short notes on :",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on",
+        "original": "Write short notes on",
+        "year": 2018,
+        "source_file": "20-2018-5.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on :",
+        "original": "Write short notes on :",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 7
+  },
+  {
+    "group_id": 9,
+    "canonical_question": "i) Write short notes on multi touch gestures.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2018,
+      2021
+    ],
+    "distinct_year_count": 3,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf",
+      "23-2017-c.pdf"
+    ],
+    "average_similarity": 0.9321,
+    "variations": [
+      {
+        "question": "i) Write short notes on multi touch gestures.",
+        "original": "i) Write short notes on multi touch gestures.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Write short notes on multi touch gestures.",
+        "original": "Write short notes on multi touch gestures.",
+        "year": 2016,
+        "source_file": "23-2017-c.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Multi touch gestures.",
+        "original": "Multi touch gestures.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 10,
+    "canonical_question": "Direct Memory Access (DMA)",
+    "match_type": "semantic",
+    "years_appeared": [
+      2023,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "09-2023.pdf"
+    ],
+    "average_similarity": 0.9132,
+    "variations": [
+      {
+        "question": "Direct Memory Access",
+        "original": "Direct Memory Access",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 4,
+        "confidence": "high"
+      },
+      {
+        "question": "Direct Memory Access",
+        "original": "Direct Memory Access",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 4,
+        "confidence": "high"
+      },
+      {
+        "question": "Direct Memory Access (DMA)",
+        "original": "Direct Memory Access (DMA)",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 11,
+    "canonical_question": "Consider the set of processes with arrival time (in milliseconds). CPU burst time (in milliseconds), and priority (0 is the highest priority) shown below. None of the processes have I/O burst time. Process Arrival Time Burst Time Priority P1 P2 P3 P3 P5 Draw the Gantt chart and find average waiting time using preemptive priority scheduling algorithm. िनɻ तािलका मŐ िदए गए Processes के आगमन समय (िमलीसेकंड मŐ), CPU बːŊ समय (िमलीसेकंड मŐ) तथा Ůाथिमकता (0 सवŖǄ Ůाथिमकता है) पर िवचार करŐ। िकसी भी ŮिŢया मŐ I/O बːŊ समय नहीं है Process Arrival Time Burst Time Priority P1 P2 P3 P3 P5 Preemptive priority scheduling एʎोįरदम का उपयोग करके गœट चाटŊ बनाइए और औसत ŮतीƗा समय ǒात कीिजए",
+    "match_type": "semantic",
+    "years_appeared": [
+      2025,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "03-2025.pdf"
+    ],
+    "average_similarity": 0.9472,
+    "variations": [
+      {
+        "question": "Consider the set of processes with arrival time (in milliseconds) and CPU burst time (in milliseconds) shown below. None of the processes have I/O burst time. Draw the Gantt chart and calculate the Average Waiting Time and Average Turnaround Time using the preemptive Shortest Job First (SJF) scheduling algorithm. Process Arrival Time Brust Time P1 P2 P3 P4 P5 Processes CPU I/O SJF) Average Waiting Time) Average Turnaround Time)",
+        "original": "Consider the set of processes with arrival time (in milliseconds) and CPU burst time (in milliseconds) shown below. None of the processes have I/O burst time. Draw the Gantt chart and calculate the Average Waiting Time and Average Turnaround Time using the preemptive Shortest Job First (SJF) scheduling algorithm. Process Arrival Time Brust Time P1 P2 P3 P4 P5 उपरोक्त दी गई त़ासलक़ा में दश़ाडए गए Processes के िमूह पर सवच़ार कीसजए, सजनके आगमन िमय (समलीिेकंि में) और CPU बस्टड िमय (समलीिेकंि में) सदए गए हैं। सकिी भी प्रसिय़ा क़ा I/O बस्टड िमय नहीं है। गैं च़ा ड बऩाइए तथ़ा प्रीएस्वटिव शॉ ेस्ट जॉब फस्टड (SJF) शेड्यूसलंग एल्गोररद्म क़ा उपयोग करते हुए औित प्रतीक्ष़ा िमय (Average Waiting Time) और औित नडअऱाउंि िमय (Average Turnaround Time) की गणऩा कीसजए",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the set of processes with arrival time (in milliseconds) and CPU burst time (in milliseconds) shown below. None of the processes have I/O burst time. Draw the Gantt chart and calculate the Average Waiting Time and Average Turnaround Time using the preemptive Shortest Job First (SJF) scheduling algorithm. Process Arrival Time Brust Time P1 P2 P3 P4 P5 Processes CPU I/O SJF) Average Waiting Time) Average Turnaround Time)",
+        "original": "Consider the set of processes with arrival time (in milliseconds) and CPU burst time (in milliseconds) shown below. None of the processes have I/O burst time. Draw the Gantt chart and calculate the Average Waiting Time and Average Turnaround Time using the preemptive Shortest Job First (SJF) scheduling algorithm. Process Arrival Time Brust Time P1 P2 P3 P4 P5 उपरोक्त दी गई त़ासलक़ा में दश़ाडए गए Processes के िमूह पर सवच़ार कीसजए, सजनके आगमन िमय (समलीिेकंि में) और CPU बस्टड िमय (समलीिेकंि में) सदए गए हैं। सकिी भी प्रसिय़ा क़ा I/O बस्टड िमय नहीं है। गैं च़ा ड बऩाइए तथ़ा प्रीएस्वटिव शॉ ेस्ट जॉब फस्टड (SJF) शेड्यूसलंग एल्गोररद्म क़ा उपयोग करते हुए औित प्रतीक्ष़ा िमय (Average Waiting Time) और औित नडअऱाउंि िमय (Average Turnaround Time) की गणऩा कीसजए",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the set of processes with arrival time (in milliseconds). CPU burst time (in milliseconds), and priority (0 is the highest priority) shown below. None of the processes have I/O burst time. Process Arrival Time Burst Time Priority P1 P2 P3 P3 P5 Draw the Gantt chart and find average waiting time using preemptive priority scheduling algorithm. िनɻ तािलका मŐ िदए गए Processes के आगमन समय (िमलीसेकंड मŐ), CPU बːŊ समय (िमलीसेकंड मŐ) तथा Ůाथिमकता (0 सवŖǄ Ůाथिमकता है) पर िवचार करŐ। िकसी भी ŮिŢया मŐ I/O बːŊ समय नहीं है Process Arrival Time Burst Time Priority P1 P2 P3 P3 P5 Preemptive priority scheduling एʎोįरदम का उपयोग करके गœट चाटŊ बनाइए और औसत ŮतीƗा समय ǒात कीिजए",
+        "original": "Consider the set of processes with arrival time (in milliseconds). CPU burst time (in milliseconds), and priority (0 is the highest priority) shown below. None of the processes have I/O burst time. Process Arrival Time Burst Time Priority P1 P2 P3 P3 P5 Draw the Gantt chart and find average waiting time using preemptive priority scheduling algorithm. िनɻ तािलका मŐ िदए गए Processes के आगमन समय (िमलीसेकंड मŐ), CPU बːŊ समय (िमलीसेकंड मŐ) तथा Ůाथिमकता (0 सवŖǄ Ůाथिमकता है) पर िवचार करŐ। िकसी भी ŮिŢया मŐ I/O बːŊ समय नहीं है Process Arrival Time Burst Time Priority P1 P2 P3 P3 P5 Preemptive priority scheduling एʎोįरदम का उपयोग करके गœट चाटŊ बनाइए और औसत ŮतीƗा समय ǒात कीिजए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 12,
+    "canonical_question": "Explain the following terms in detail:",
+    "match_type": "semantic",
+    "years_appeared": [
+      2023,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "09-2023.pdf"
+    ],
+    "average_similarity": 0.9305,
+    "variations": [
+      {
+        "question": "Explain the followings in detail:",
+        "original": "Explain the followings in detail:",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 4,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the followings in detail:",
+        "original": "Explain the followings in detail:",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 4,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the followings:",
+        "original": "Explain the followings:",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the following terms in detail:",
+        "original": "Explain the following terms in detail:",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the following terms:",
+        "original": "Explain the following terms:",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 5
+  },
+  {
+    "group_id": 13,
+    "canonical_question": "Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 KB, 417 KB, 112 KB, and 426 KB (in order) Which algorithm makes the most efficient use of memory KB, 500 KB, 200 KB, 300 KB KB ( First-Fit), Best-Fit) Worst-Fit) KB, 417 KB, 112 KB KB (",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "14-2019.pdf"
+    ],
+    "average_similarity": 0.9691,
+    "variations": [
+      {
+        "question": "Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 KB, 417 KB, 112 KB, and 426 KB (in order) Which algorithm makes the most efficient use of memory KB, 500 KB, 200 KB, 300 KB KB ( First-Fit), Best-Fit) Worst-Fit) KB, 417 KB, 112 KB KB (",
+        "original": "Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 KB, 417 KB, 112 KB, and 426 KB (in order)? Which algorithm makes the most efficient use of memory? 100 KB, 500 KB, 200 KB, 300 KB और 600 KB (िम में) के प़ाँच मेमोरी प़ास डशन सदए गए हैं। फस्टड-सफ (First-Fit), बेस्ट-सफ (Best-Fit) और वस्टड-सफ (Worst-Fit) एल्गोररद्म 212 KB, 417 KB, 112 KB और 426 KB (िम में) के प्रोिेिों को कैिे आवंस त करेंगे? कौन-ि़ा एल्गोररद्म मेमोरी क़ा िबिे कुशल उपयोग करत़ा है?",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 3,
+        "confidence": "high"
+      },
+      {
+        "question": "Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 KB, 417 KB, 112 KB, and 426 KB (in order) Which algorithm makes the most efficient use of memory KB, 500 KB, 200 KB, 300 KB KB ( First-Fit), Best-Fit) Worst-Fit) KB, 417 KB, 112 KB KB (",
+        "original": "Given five memory partitions of 100 KB, 500 KB, 200 KB, 300 KB, and 600 KB (in order), how would the first-fit, best-fit, and worst-fit algorithms place processes of 212 KB, 417 KB, 112 KB, and 426 KB (in order)? Which algorithm makes the most efficient use of memory? 100 KB, 500 KB, 200 KB, 300 KB और 600 KB (िम में) के प़ाँच मेमोरी प़ास डशन सदए गए हैं। फस्टड-सफ (First-Fit), बेस्ट-सफ (Best-Fit) और वस्टड-सफ (Worst-Fit) एल्गोररद्म 212 KB, 417 KB, 112 KB और 426 KB (िम में) के प्रोिेिों को कैिे आवंस त करेंगे? कौन-ि़ा एल्गोररद्म मेमोरी क़ा िबिे कुशल उपयोग करत़ा है?",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 3,
+        "confidence": "high"
+      },
+      {
+        "question": "Given memory partition of 100 K, 500 K, 200 K, 300 K, and 600 K (in order) how would each of the first-fit, best-fit and worst-fit algorithms place processes of 212 K, 417 K, 112 K, and 426 K (in order)? Which algorithm makes the most efficient use of memory?",
+        "original": "Given memory partition of 100 K, 500 K, 200 K, 300 K, and 600 K (in order) how would each of the first-fit, best-fit and worst-fit algorithms place processes of 212 K, 417 K, 112 K, and 426 K (in order)? Which algorithm makes the most efficient use of memory?",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 14,
+    "canonical_question": "Consider a disk queue with requests for I/O to blocks on cylinders 47,38,121,191,87,11, 92, 10. The C-LOOK scheduling algorithm is used. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. Calculate the total head movement (in cylinders) required to service these requests. disk queue) I/O C-LOOK scheduling",
+    "match_type": "semantic",
+    "years_appeared": [
+      2025,
+      2026
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "01-2026.pdf",
+      "02-2026-a.pdf",
+      "03-2025.pdf"
+    ],
+    "average_similarity": 0.972,
+    "variations": [
+      {
+        "question": "disk queue with requests for to blocks on cylinders 47,38,121,191,87,11,92,10. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. What is the total head movement (in number of cylinders) incurred while servicing these requests if C-SCAN and C-LOOK disk scheduling algorithms are used I/O C-SCAN C-LOOK",
+        "original": "disk queue with requests for 𝐼/𝑂 to blocks on cylinders 47,38,121,191,87,11,92,10. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. What is the total head movement (in number of cylinders) incurred while servicing these requests if C-SCAN and C-LOOK disk scheduling algorithms are used? सिस्क क्यू पर सवच़ार कीसजए सजिमें I/O के सलए सिसलंिरों 47, 38, 121, 191, 87, 11, 92, 10 पर अनुरोध हैं। सिस्क हेि प्ऱारंभ में सिसलंिर िंख्य़ा 63 पर है और अपनी िसवडसिंग सदश़ा में बडे सिसलंिर नंबरों की ओर बढ़ रह़ा है। सिसलंिरों की िंख्य़ा 0 िे 199 तक है यसद C-SCAN और C-LOOK सिस्क शेड्यूसलंग एल्गोररद्म क़ा उपयोग सकय़ा ज़ाए, तो इन अनुरोधों को िसवडि करते िमय कुल हेि मूवमें (सिसलंिरों की िंख्य़ा में) सकतऩा होग़ा?",
+        "year": 2026,
+        "source_file": "01-2026.pdf",
+        "page": 3,
+        "confidence": "high"
+      },
+      {
+        "question": "disk queue with requests for to blocks on cylinders 47,38,121,191,87,11,92,10. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. What is the total head movement (in number of cylinders) incurred while servicing these requests if C-SCAN and C-LOOK disk scheduling algorithms are used I/O C-SCAN C-LOOK",
+        "original": "disk queue with requests for 𝐼/𝑂 to blocks on cylinders 47,38,121,191,87,11,92,10. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. What is the total head movement (in number of cylinders) incurred while servicing these requests if C-SCAN and C-LOOK disk scheduling algorithms are used? सिस्क क्यू पर सवच़ार कीसजए सजिमें I/O के सलए सिसलंिरों 47, 38, 121, 191, 87, 11, 92, 10 पर अनुरोध हैं। सिस्क हेि प्ऱारंभ में सिसलंिर िंख्य़ा 63 पर है और अपनी िसवडसिंग सदश़ा में बडे सिसलंिर नंबरों की ओर बढ़ रह़ा है। सिसलंिरों की िंख्य़ा 0 िे 199 तक है यसद C-SCAN और C-LOOK सिस्क शेड्यूसलंग एल्गोररद्म क़ा उपयोग सकय़ा ज़ाए, तो इन अनुरोधों को िसवडि करते िमय कुल हेि मूवमें (सिसलंिरों की िंख्य़ा में) सकतऩा होग़ा?",
+        "year": 2026,
+        "source_file": "02-2026-a.pdf",
+        "page": 3,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider a disk queue with requests for I/O to blocks on cylinders 47,38,121,191,87,11, 92, 10. The C-LOOK scheduling algorithm is used. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. Calculate the total head movement (in cylinders) required to service these requests. disk queue) I/O C-LOOK scheduling",
+        "original": "Consider a disk queue with requests for I/O to blocks on cylinders 47,38,121,191,87,11, 92, 10. The C-LOOK scheduling algorithm is used. The head is initially at cylinder number 63, moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. Calculate the total head movement (in cylinders) required to service these requests. िडˋ कतार (disk queue) मŐ िसिलंडर 47, 38, 121, 191, 87, 11, 92, 10 पर ɰॉकों के िलए I/O अनुरोध िदए गए हœ। C-LOOK scheduling एʎोįरदम का उपयोग िकया गया है हेड Ůारंभ मŐ िसिलंडर संƥा 63 पर है और अपनी सेवा पास मŐ बड़े िसिलंडर नंबरों की ओर बढ़ रहा है। िसिलंडरों की संƥा 0 से 199 तक है। इन अनुरोधों की सेवा के िलए कुल हेड मूवमŐट (िसिलंडरों मŐ) की गणना कीिजए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 3,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 15,
+    "canonical_question": "What is a Critical Section problem? Give the conditions that a solution to the critical section problem must satisfy.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf"
+    ],
+    "average_similarity": 0.9379,
+    "variations": [
+      {
+        "question": "What is a Critical Section problem? Give the conditions that a solution to the critical section problem must satisfy.",
+        "original": "What is a Critical Section problem? Give the conditions that a solution to the critical section problem must satisfy.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is a Critical Section problem? Give the conditions that a solution to the critical section problem must satisfy.",
+        "original": "What is a Critical Section problem? Give the conditions that a solution to the critical section problem must satisfy.",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define the Critical Section Problem and list the conditions that a solution must satisfy.",
+        "original": "Define the Critical Section Problem and list the conditions that a solution must satisfy. िŢिटकल सेƕन सम˟ा को पįरभािषत कीिजए और वे शतŒ बताइए िजɎŐ इसका समाधान पूरा करना चािहए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 16,
+    "canonical_question": "What is the purpose of a page replacement algorithm? Page replacement एʎोįरदम का उȞेʴ Ɛा है?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf"
+    ],
+    "average_similarity": 0.9146,
+    "variations": [
+      {
+        "question": "Illustrate the page-replacement algorithms",
+        "original": "Illustrate the page-replacement algorithms",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Illustrate the page-replacement algorithms",
+        "original": "Illustrate the page-replacement algorithms",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the purpose of a page replacement algorithm? Page replacement एʎोįरदम का उȞेʴ Ɛा है?",
+        "original": "What is the purpose of a page replacement algorithm? Page replacement एʎोįरदम का उȞेʴ Ɛा है?",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 17,
+    "canonical_question": "What is the difference between a process and a program? Process और Program मŐ Ɛा अंतर है?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "22-2017.pdf",
+      "25-2017-a.pdf"
+    ],
+    "average_similarity": 0.9619,
+    "variations": [
+      {
+        "question": "Difference between Process and Program.",
+        "original": "Difference between Process and Program.",
+        "year": 2016,
+        "source_file": "22-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Difference between Process and Program.",
+        "original": "Difference between Process and Program.",
+        "year": 2016,
+        "source_file": "25-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the difference between a process and a program? Process और Program मŐ Ɛा अंतर है?",
+        "original": "What is the difference between a process and a program? Process और Program मŐ Ɛा अंतर है?",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 18,
+    "canonical_question": "Explain the process concept in detail with its states and state transition diagram. Process अवधारणा को उसकी अव˕ाओं और अव˕ा संŢमण आरेख (state transition) के साथ िवˑार से समझाइए है | 26-Jul-2025 1:32:20 PM | 117.55.242.134 0Roll No: 0 OPERATING SYSTEM",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "18-2018-b.pdf"
+    ],
+    "average_similarity": 0.8687,
+    "variations": [
+      {
+        "question": "Explain the process concept in detail with its states and state transition diagram. Process अवधारणा को उसकी अव˕ाओं और अव˕ा संŢमण आरेख (state transition) के साथ िवˑार से समझाइए है | 26-Jul-2025 1:32:20 PM | 117.55.242.134 0Roll No: 0 OPERATING SYSTEM",
+        "original": "Explain the process concept in detail with its states and state transition diagram. Process अवधारणा को उसकी अव˕ाओं और अव˕ा संŢमण आरेख (state transition) के साथ िवˑार से समझाइए है | 26-Jul-2025 1:32:20 PM | 117.55.242.134 0Roll No: 0 OPERATING SYSTEM",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Draw and explain the process state transition diagram",
+        "original": "Draw and explain the process state transition diagram",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 19,
+    "canonical_question": "Explain the structure and management of file directories, including hierarchical and flat directory structures?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "03-2025.pdf",
+      "07-2024-b.pdf"
+    ],
+    "average_similarity": 0.8589,
+    "variations": [
+      {
+        "question": "Explain file directories and directory structures in operating systems.",
+        "original": "Explain file directories and directory structures in operating systems. ऑपरेिटंग िसːम मŐ फ़ाइल डायरेƃरी और डायरेƃरी संरचनाओं को समझाइए",
+        "year": 2025,
+        "source_file": "03-2025.pdf",
+        "page": 3,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the structure and management of file directories, including hierarchical and flat directory structures?",
+        "original": "Explain the structure and management of file directories, including hierarchical and flat directory structures?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 20,
+    "canonical_question": "Explain the cyclic executive model in detail. How does it manage task scheduling and execution in real-time systems?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2024,
+      2025
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "04-2025-a.pdf",
+      "06-2024-c.pdf"
+    ],
+    "average_similarity": 0.8353,
+    "variations": [
+      {
+        "question": "Explain the cyclic executive model in detail. How does it manage task scheduling and execution in real-time systems?",
+        "original": "Explain the cyclic executive model in detail. How does it manage task scheduling and execution in real-time systems?",
+        "year": 2025,
+        "source_file": "04-2025-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the concept of a cyclic executive scheduling algorithm.",
+        "original": "Explain the concept of a cyclic executive scheduling algorithm.",
+        "year": 2024,
+        "source_file": "06-2024-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 21,
+    "canonical_question": "Explain in detail about the Process Control Block (PCB) in CPU Scheduling.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2022,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2024-b.pdf",
+      "11-2022.pdf",
+      "12-2022-a.pdf"
+    ],
+    "average_similarity": 0.9335,
+    "variations": [
+      {
+        "question": "Explain in detail about the Process Control Block (PCB) in CPU Scheduling.",
+        "original": "Explain in detail about the Process Control Block (PCB) in CPU Scheduling.",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain in detail about the Process Control Block (PCB) in CPU Scheduling.",
+        "original": "Explain in detail about the Process Control Block (PCB) in CPU Scheduling.",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the structure and contents of a Process Control Block (PCB)?",
+        "original": "Explain the structure and contents of a Process Control Block (PCB)?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 22,
+    "canonical_question": "Define a batch processing system?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2024-b.pdf",
+      "18-2018-b.pdf"
+    ],
+    "average_similarity": 0.8707,
+    "variations": [
+      {
+        "question": "Define a batch processing system?",
+        "original": "Define a batch processing system?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are batch systems?",
+        "original": "What are batch systems?",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 23,
+    "canonical_question": "Write down the difference between multiprocessing and multiprogramming operating system.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2024
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "07-2024-b.pdf",
+      "24-2017-b.pdf"
+    ],
+    "average_similarity": 0.8487,
+    "variations": [
+      {
+        "question": "How does a multiuser operating system differ from a multiprocessing system?",
+        "original": "How does a multiuser operating system differ from a multiprocessing system?",
+        "year": 2024,
+        "source_file": "07-2024-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write down the difference between multiprocessing and multiprogramming operating system.",
+        "original": "Write down the difference between multiprocessing and multiprogramming operating system.",
+        "year": 2016,
+        "source_file": "24-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 24,
+    "canonical_question": "Define Process. Explain various steps involved in change of a process state with neat transition diagram.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2019,
+      2023
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2023.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf"
+    ],
+    "average_similarity": 0.9361,
+    "variations": [
+      {
+        "question": "Define Process. Explain various steps involved in change of a process state with neat transition diagram.",
+        "original": "Define Process. Explain various steps involved in change of a process state with neat transition diagram.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define Process. Explain various steps involved in change of a process state with neat transition diagram.",
+        "original": "Define Process. Explain various steps involved in change of a process state with neat transition diagram.",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define process and process control block. Also, describe process state transition diagram in detail.",
+        "original": "Define process and process control block. Also, describe process state transition diagram in detail.",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 25,
+    "canonical_question": "Explain multiprocessing system and time sharing system with example.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2023
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "09-2023.pdf",
+      "18-2018-b.pdf",
+      "19-2018-a.pdf",
+      "20-2018-5.pdf"
+    ],
+    "average_similarity": 0.9106,
+    "variations": [
+      {
+        "question": "Multiprogramming and Time Sharing System.",
+        "original": "Multiprogramming and Time Sharing System.",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Multiprogramming and Time Sharing System.",
+        "original": "Multiprogramming and Time Sharing System.",
+        "year": 2018,
+        "source_file": "20-2018-5.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain multiprocessing system and time sharing system with example.",
+        "original": "Explain multiprocessing system and time sharing system with example.",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Time sharing system",
+        "original": "Time sharing system",
+        "year": 2023,
+        "source_file": "09-2023.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 26,
+    "canonical_question": "Define Seek time and Latency time.",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Define Seek time and Latency time.",
+        "original": "Define Seek time and Latency time.",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define Seek time and Latency time.",
+        "original": "Define Seek time and Latency time.",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define seek time and latency time.",
+        "original": "Define seek time and latency time.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define seek time and latency time.",
+        "original": "Define seek time and latency time.",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 27,
+    "canonical_question": "File system protection and security and",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "File system protection and security and",
+        "original": "File system protection and security and",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "File system protection and security and",
+        "original": "File system protection and security and",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "File system protection and security and",
+        "original": "File system protection and security and",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "File system protection and security and",
+        "original": "File system protection and security and",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 28,
+    "canonical_question": "Linked File allocation methods",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "15-2019-a.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Linked File allocation methods",
+        "original": "Linked File allocation methods",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Linked File allocation methods",
+        "original": "Linked File allocation methods",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Linked File allocation methods",
+        "original": "Linked File allocation methods",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 29,
+    "canonical_question": "Optimal Page Replacement Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+    "match_type": "exact",
+    "years_appeared": [
+      2019,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "15-2019-a.pdf",
+      "16-2019-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Optimal Page Replacement Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "original": "Optimal Page Replacement Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Optimal Page Replacement Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "original": "Optimal Page Replacement Use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Optimal Page Replacement use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "original": "Optimal Page Replacement use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Optimal Page Replacement use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "original": "Optimal Page Replacement use the reference string 7, 0,1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2,1, 2, 0, 1, 7, 0,1 for a memory with three frames.",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 30,
+    "canonical_question": "Explain in detail about the Inter Process Communication models and Schemes.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "18-2018-b.pdf"
+    ],
+    "average_similarity": 0.9267,
+    "variations": [
+      {
+        "question": "Explain in detail about the Inter Process Communication models and Schemes.",
+        "original": "Explain in detail about the Inter Process Communication models and Schemes.",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain in detail about the Inter Process Communication models and Schemes.",
+        "original": "Explain in detail about the Inter Process Communication models and Schemes.",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain inter process communication.",
+        "original": "Explain inter process communication.",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "What is the use of inter process communication?",
+        "original": "What is the use of inter process communication?",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 31,
+    "canonical_question": "Explain in detail about the Monolithic and Microkernel Systems. Q.no Questions Marks CO",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2022
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "11-2022.pdf",
+      "12-2022-a.pdf",
+      "24-2017-b.pdf"
+    ],
+    "average_similarity": 0.9403,
+    "variations": [
+      {
+        "question": "Explain in detail about the Monolithic and Microkernel Systems. Q.no Questions Marks CO",
+        "original": "Explain in detail about the Monolithic and Microkernel Systems. Q.no Questions Marks CO",
+        "year": 2022,
+        "source_file": "11-2022.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain in detail about the Monolithic and Microkernel Systems. Q.no Questions Marks CO",
+        "original": "Explain in detail about the Monolithic and Microkernel Systems. Q.no Questions Marks CO",
+        "year": 2022,
+        "source_file": "12-2022-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the difference between Monolithic and Microkernel system.",
+        "original": "Explain the difference between Monolithic and Microkernel system.",
+        "year": 2016,
+        "source_file": "24-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 32,
+    "canonical_question": "Compare Android OS with IOS.",
+    "match_type": "exact",
+    "years_appeared": [
+      2016,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "23-2017-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Compare Android OS with IOS.",
+        "original": "Compare Android OS with IOS.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Compare android OS with IOS.",
+        "original": "Compare android OS with IOS.",
+        "year": 2016,
+        "source_file": "23-2017-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 33,
+    "canonical_question": "Explain the static and dynamic elements of multimedia.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Explain the static and dynamic elements of multimedia.",
+        "original": "Explain the static and dynamic elements of multimedia.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the static and dynamic elements of multimedia.",
+        "original": "Explain the static and dynamic elements of multimedia.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 34,
+    "canonical_question": "How a typical HTTP request looks like?",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "How a typical HTTP request looks like?",
+        "original": "How a typical HTTP request looks like?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How a typical HTTP request looks like?",
+        "original": "How a typical HTTP request looks like?",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 35,
+    "canonical_question": "Why we need Android Adapter?",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Why we need Android Adapter?",
+        "original": "Why we need Android Adapter?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Why we need Android Adapter?",
+        "original": "Why we need Android Adapter?",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 36,
+    "canonical_question": "How an event is handled in android?",
+    "match_type": "exact",
+    "years_appeared": [
+      2016,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "23-2017-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "How an event is handled in android?",
+        "original": "How an event is handled in android?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How an event is handled in android?",
+        "original": "How an event is handled in android?",
+        "year": 2016,
+        "source_file": "23-2017-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 37,
+    "canonical_question": "Write the code for creating an application which is used to send a custom Broadcast intent.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Write the code for creating an application which is used to send a custom Broadcast intent.",
+        "original": "Write the code for creating an application which is used to send a custom Broadcast intent.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write the code for creating an application which is used to send a custom Broadcast intent.",
+        "original": "Write the code for creating an application which is used to send a custom Broadcast intent.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 38,
+    "canonical_question": "Describe the role of Delvik Virtual Machine.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Describe the role of Delvik Virtual Machine.",
+        "original": "Describe the role of Delvik Virtual Machine.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe the role of Delvik Virtual Machine.",
+        "original": "Describe the role of Delvik Virtual Machine.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 39,
+    "canonical_question": "How to launch the existing camera application to capture an Image and Display the result in the form of Bitmap ?",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "How to launch the existing camera application to capture an image and display the result in the form of bitmap?",
+        "original": "How to launch the existing camera application to capture an image and display the result in the form of bitmap?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How to launch the existing camera application to capture an Image and Display the result in the form of Bitmap ?",
+        "original": "How to launch the existing camera application to capture an Image and Display the result in the form of Bitmap ?",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 40,
+    "canonical_question": "Explain in detail about Android Layouts. List out the attributes of layout.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Explain in detail about Android Layouts. List out the attributes of layout.",
+        "original": "Explain in detail about Android Layouts. List out the attributes of layout.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain in detail about Android Layouts. List out the Attributes of Layout.",
+        "original": "Explain in detail about Android Layouts. List out the Attributes of Layout.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 41,
+    "canonical_question": "Explain the in-app mechanism for playing audio and video.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Explain the in-app mechanism for playing audio and video.",
+        "original": "Explain the in-app mechanism for playing audio and video.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain the in-app mechanism for playing audio and video.",
+        "original": "Explain the in-app mechanism for playing audio and video.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 42,
+    "canonical_question": "Describe the Android Architecture and difference between android architecture and android stack.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Describe the Android Architecture and difference between android architecture and android stack.",
+        "original": "Describe the Android Architecture and difference between android architecture and android stack.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Describe the Android Architecture and difference between android architecture and android stack.",
+        "original": "Describe the Android Architecture and difference between android architecture and android stack.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 43,
+    "canonical_question": "Create an application to capture the photo through the front camera and save it in SD card",
+    "match_type": "exact",
+    "years_appeared": [
+      2016,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "23-2017-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Create an application to capture the photo through the front camera and save it in SD card",
+        "original": "Create an application to capture the photo through the front camera and save it in SD card",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Create an application to capture the photo through the front camera and save it in SD card",
+        "original": "Create an application to capture the photo through the front camera and save it in SD card",
+        "year": 2016,
+        "source_file": "23-2017-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 44,
+    "canonical_question": "Create a simple application that connects to the network and perform the network operations.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Create a simple application that connects to the network and perform the network operations.",
+        "original": "Create a simple application that connects to the network and perform the network operations.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Create a simple application that connects to the network and perform the network operations.",
+        "original": "Create a simple application that connects to the network and perform the network operations.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 45,
+    "canonical_question": "How to send an email to the client from our application ?",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "How to send an email to the client from our application.",
+        "original": "How to send an email to the client from our application.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How to send an email to the client from our application ?",
+        "original": "How to send an email to the client from our application ?",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 46,
+    "canonical_question": "Write a code for creating a tab layout to show different screen for each tab. Create three tabs and set different images and screen for each tab.",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Write a code for creating a tab layout to show different screen for each tab. Create three tabs and set different images and screen for each tab.",
+        "original": "Write a code for creating a tab layout to show different screen for each tab. Create three tabs and set different images and screen for each tab.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Write a code for creating a tab layout to show different screen for each tab. Create three tabs and set different images and screen for each tab.",
+        "original": "Write a code for creating a tab layout to show different screen for each tab. Create three tabs and set different images and screen for each tab.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 47,
+    "canonical_question": "How the resources are organized in Android ? Write the Code for Accessing the resources.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 0.9996,
+    "variations": [
+      {
+        "question": "How the resources are organized in Android? Write the Code for Accessing the resources.",
+        "original": "How the resources are organized in Android? Write the Code for Accessing the resources.",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How the resources are organized in Android ? Write the Code for Accessing the resources.",
+        "original": "How the resources are organized in Android ? Write the Code for Accessing the resources.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 48,
+    "canonical_question": "What are the various different types of topologies, explain with example.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 0.9849,
+    "variations": [
+      {
+        "question": "What are the different types of topologies, explain with example?",
+        "original": "What are the different types of topologies, explain with example?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the various different types of topologies, explain with example.",
+        "original": "What are the various different types of topologies, explain with example.",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 49,
+    "canonical_question": "Define style and theme. How are they applied to an activity?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 0.9695,
+    "variations": [
+      {
+        "question": "Describe how style and theme are applied to an activity?",
+        "original": "Describe how style and theme are applied to an activity?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define style and theme. How are they applied to an activity?",
+        "original": "Define style and theme. How are they applied to an activity?",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 50,
+    "canonical_question": "How to parse XML data in Android ? SECTION – C",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2021
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "13-2021.pdf",
+      "17-2018-c.pdf"
+    ],
+    "average_similarity": 0.9633,
+    "variations": [
+      {
+        "question": "How to parse XML data in Android?",
+        "original": "How to parse XML data in Android?",
+        "year": 2021,
+        "source_file": "13-2021.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "How to parse XML data in Android ? SECTION – C",
+        "original": "How to parse XML data in Android ? SECTION – C",
+        "year": 2018,
+        "source_file": "17-2018-c.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 51,
+    "canonical_question": "What are the various scheduling criteria for CPU scheduling?",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "15-2019-a.pdf",
+      "16-2019-2.pdf",
+      "19-2018-a.pdf",
+      "20-2018-5.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "What are the various scheduling criteria for CPU scheduling?",
+        "original": "What are the various scheduling criteria for CPU scheduling?",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the various scheduling criteria for CPU scheduling?",
+        "original": "What are the various scheduling criteria for CPU scheduling?",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the various scheduling criteria for CPU scheduling?",
+        "original": "What are the various scheduling criteria for CPU scheduling?",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the various scheduling criteria for CPU scheduling?",
+        "original": "What are the various scheduling criteria for CPU scheduling?",
+        "year": 2018,
+        "source_file": "20-2018-5.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What are the various scheduling criteria for CPU scheduling?",
+        "original": "What are the various scheduling criteria for CPU scheduling?",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 5
+  },
+  {
+    "group_id": 52,
+    "canonical_question": "FCFS Scheduling",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "15-2019-a.pdf",
+      "16-2019-2.pdf",
+      "19-2018-a.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "FCFS Scheduling",
+        "original": "FCFS Scheduling",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "FCFS Scheduling",
+        "original": "FCFS Scheduling",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "FCFS Scheduling",
+        "original": "FCFS Scheduling",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "FCFS Scheduling",
+        "original": "FCFS Scheduling",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 53,
+    "canonical_question": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+    "match_type": "exact",
+    "years_appeared": [
+      2018,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "15-2019-a.pdf",
+      "16-2019-2.pdf",
+      "19-2018-a.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 1.0,
+    "variations": [
+      {
+        "question": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "original": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "year": 2019,
+        "source_file": "15-2019-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "original": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "year": 2019,
+        "source_file": "16-2019-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "original": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "original": "Consider the following snapshot of a system: Answer the following questions using the banker’s algorithm: 1) What is the content of the matrix need? 2) Is the system in a safe state? Allocated Maximum Available Process R1 R2 R3 R1 R2 R3 R1 R2 R3 P1 P2 P3",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 54,
+    "canonical_question": "Round robin (time quantum:3)",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "14-2019.pdf",
+      "19-2018-a.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 0.9366,
+    "variations": [
+      {
+        "question": "Round robin (time quantum:3)",
+        "original": "Round robin (time quantum:3)",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Round robin (time quantum:3)",
+        "original": "Round robin (time quantum:3)",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Round Robin (Quantum=2)",
+        "original": "Round Robin (Quantum=2)",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 55,
+    "canonical_question": "What is Kernel? Describe various operations performed by Kernel.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "14-2019.pdf",
+      "22-2017.pdf",
+      "25-2017-a.pdf"
+    ],
+    "average_similarity": 0.9154,
+    "variations": [
+      {
+        "question": "What is Kernel? Describe various operations performed by Kernel.",
+        "original": "What is Kernel? Describe various operations performed by Kernel.",
+        "year": 2016,
+        "source_file": "22-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Kernel? Describe various operations performed by Kernel.",
+        "original": "What is Kernel? Describe various operations performed by Kernel.",
+        "year": 2016,
+        "source_file": "25-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define kernel and names of type of kernel.",
+        "original": "Define kernel and names of type of kernel.",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 56,
+    "canonical_question": "SJF http://www.aktunotes.in Page 2 of 2 Draw the Gantt chart and find the average waiting time and turn-around time for the algorithms. Process ID Arrival Time Execution Time",
+    "match_type": "semantic",
+    "years_appeared": [
+      2018,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "14-2019.pdf",
+      "19-2018-a.pdf",
+      "20-2018-5.pdf",
+      "21-2018-2.pdf"
+    ],
+    "average_similarity": 0.9097,
+    "variations": [
+      {
+        "question": "Consider the following process: Process Arrival Time Burst Time P1 P2 P3 P4 Draw Gantt chart and find the average waiting time and average turnaround",
+        "original": "Consider the following process: Process Arrival Time Burst Time P1 P2 P3 P4 Draw Gantt chart and find the average waiting time and average turnaround",
+        "year": 2018,
+        "source_file": "19-2018-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the following process: Process Arrival Time Burst Time P1 P2 P3 P4 Draw Gantt chart and find the average waiting time and average turnaround time:",
+        "original": "Consider the following process: Process Arrival Time Burst Time P1 P2 P3 P4 Draw Gantt chart and find the average waiting time and average turnaround time:",
+        "year": 2018,
+        "source_file": "21-2018-2.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Consider the following process: Process Arrival Burst Time Time [0 [|$ |? ' Draw Gantt chart and find the average waiting time and average turnaround",
+        "original": "Consider the following process: Process Arrival Burst Time Time [0 [|$ |? ' Draw Gantt chart and find the average waiting time and average turnaround",
+        "year": 2018,
+        "source_file": "20-2018-5.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "SJF http://www.aktunotes.in Page 2 of 2 Draw the Gantt chart and find the average waiting time and turn-around time for the algorithms. Process ID Arrival Time Execution Time",
+        "original": "SJF http://www.aktunotes.in Page 2 of 2 Draw the Gantt chart and find the average waiting time and turn-around time for the algorithms. Process ID Arrival Time Execution Time",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 4
+  },
+  {
+    "group_id": 57,
+    "canonical_question": "Explain OS? Define the services provided by the operating system.",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2019
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "14-2019.pdf",
+      "24-2017-b.pdf"
+    ],
+    "average_similarity": 0.9083,
+    "variations": [
+      {
+        "question": "Explain OS? Define the services provided by the operating system.",
+        "original": "Explain OS? Define the services provided by the operating system.",
+        "year": 2019,
+        "source_file": "14-2019.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Define the services provided by the operating system.",
+        "original": "Define the services provided by the operating system.",
+        "year": 2016,
+        "source_file": "24-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 58,
+    "canonical_question": "What do you understand by demand paging? h. What is the basic function of paging?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2018
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "18-2018-b.pdf",
+      "22-2017.pdf",
+      "25-2017-a.pdf"
+    ],
+    "average_similarity": 0.9159,
+    "variations": [
+      {
+        "question": "What is Demand paging?",
+        "original": "What is Demand paging?",
+        "year": 2016,
+        "source_file": "22-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is Demand paging?",
+        "original": "What is Demand paging?",
+        "year": 2016,
+        "source_file": "25-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What do you understand by demand paging? h. What is the basic function of paging?",
+        "original": "What do you understand by demand paging? h. What is the basic function of paging?",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 59,
+    "canonical_question": "What is meant by context switch?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2016,
+      2018
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "18-2018-b.pdf",
+      "22-2017.pdf",
+      "25-2017-a.pdf"
+    ],
+    "average_similarity": 0.9502,
+    "variations": [
+      {
+        "question": "Explain Context Switching.",
+        "original": "Explain Context Switching.",
+        "year": 2016,
+        "source_file": "22-2017.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Explain Context Switching.",
+        "original": "Explain Context Switching.",
+        "year": 2016,
+        "source_file": "25-2017-a.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "What is meant by context switch?",
+        "original": "What is meant by context switch?",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 3
+  },
+  {
+    "group_id": 60,
+    "canonical_question": "How many bits are in logical address?",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2018
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "18-2018-b.pdf",
+      "27-2016-a.pdf"
+    ],
+    "average_similarity": 0.822,
+    "variations": [
+      {
+        "question": "How many bits are in logical address?",
+        "original": "How many bits are in logical address?",
+        "year": 2018,
+        "source_file": "18-2018-b.pdf",
+        "page": 2,
+        "confidence": "high"
+      },
+      {
+        "question": "How many bits a",
+        "original": "How many bits a",
+        "year": 2015,
+        "source_file": "27-2016-a.pdf",
+        "page": 2,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  },
+  {
+    "group_id": 61,
+    "canonical_question": "Determine the total amount of resources of each type. ~",
+    "match_type": "semantic",
+    "years_appeared": [
+      2015,
+      2016
+    ],
+    "distinct_year_count": 2,
+    "source_files": [
+      "24-2017-b.pdf",
+      "27-2016-a.pdf"
+    ],
+    "average_similarity": 0.9512,
+    "variations": [
+      {
+        "question": "Determine the total amount of resources of each type.",
+        "original": "Determine the total amount of resources of each type.",
+        "year": 2016,
+        "source_file": "24-2017-b.pdf",
+        "page": 1,
+        "confidence": "high"
+      },
+      {
+        "question": "Determine the total amount of resources of each type. ~",
+        "original": "Determine the total amount of resources of each type. ~",
+        "year": 2015,
+        "source_file": "27-2016-a.pdf",
+        "page": 3,
+        "confidence": "high"
+      }
+    ],
+    "question_count": 2
+  }
+]

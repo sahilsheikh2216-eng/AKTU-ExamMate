@@ -1,0 +1,1224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AKTU ExamMate // RETRO-TERMINAL v2.4</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-deep: #080c10;
+            --bg-panel: #0d131a;
+            --bg-card: #121a24;
+            --border-retro: #1f3044;
+            --border-glow: #00ff66;
+            --amber-glow: #ffb000;
+            --cyan-glow: #00e5ff;
+            --magenta-glow: #ff007f;
+            --text-main: #d1e2e8;
+            --text-dim: #648296;
+            --text-glow: #a6f9d6;
+            --font-mono: 'Share Tech Mono', 'Space Mono', monospace;
+            --font-pixel: 'VT323', monospace;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background-color: var(--bg-deep);
+            color: var(--text-main);
+            font-family: var(--font-mono);
+            font-size: 15px;
+            line-height: 1.5;
+            background-image: 
+                radial-gradient(ellipse at 50% 0%, rgba(0, 255, 102, 0.04) 0%, transparent 75%),
+                linear-gradient(rgba(18, 26, 36, 0.2) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(18, 26, 36, 0.2) 1px, transparent 1px);
+            background-size: 100% 100%, 20px 20px, 20px 20px;
+            min-height: 100vh;
+            padding-bottom: 50px;
+        }
+
+        /* CRT Overlay Scanlines */
+        .scanlines {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(
+                rgba(18, 16, 16, 0) 50%, 
+                rgba(0, 0, 0, 0.25) 50%
+            );
+            background-size: 100% 4px;
+            z-index: 9999;
+            pointer-events: none;
+            opacity: 0.6;
+        }
+
+        /* Container */
+        .terminal-container {
+            max-width: 1300px;
+            margin: 0 auto;
+            padding: 15px 20px;
+        }
+
+        /* Retro CRT Top Header */
+        .crt-header {
+            border: 2px solid var(--border-retro);
+            background: var(--bg-panel);
+            padding: 14px 20px;
+            margin-bottom: 18px;
+            box-shadow: 0 0 15px rgba(0, 255, 102, 0.08), inset 0 0 10px rgba(0, 0, 0, 0.8);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .title-block h1 {
+            font-family: var(--font-pixel);
+            font-size: 2.5rem;
+            letter-spacing: 2px;
+            color: var(--border-glow);
+            text-shadow: 0 0 8px rgba(0, 255, 102, 0.6);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .title-block .tagline {
+            color: var(--cyan-glow);
+            font-size: 0.85rem;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        .header-status {
+            text-align: right;
+            font-size: 0.8rem;
+            color: var(--text-dim);
+        }
+
+        .status-dot {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            background: var(--border-glow);
+            border-radius: 50%;
+            box-shadow: 0 0 8px var(--border-glow);
+            margin-right: 6px;
+            animation: blink 1.2s infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.2; }
+        }
+
+        /* Subject Selector Bar */
+        .subject-bar {
+            background: var(--bg-panel);
+            border: 2px solid var(--border-retro);
+            padding: 10px;
+            margin-bottom: 18px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+        }
+
+        .subject-bar-label {
+            font-size: 0.75rem;
+            color: var(--amber-glow);
+            letter-spacing: 1.5px;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            display: flex;
+            justify-content: space-between;
+        }
+
+        .subject-tabs {
+            display: flex;
+            gap: 8px;
+            overflow-x: auto;
+            padding-bottom: 4px;
+        }
+
+        .subject-tab {
+            background: var(--bg-card);
+            border: 1px solid var(--border-retro);
+            color: var(--text-dim);
+            padding: 8px 14px;
+            cursor: pointer;
+            font-family: var(--font-mono);
+            font-size: 0.82rem;
+            white-space: nowrap;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .subject-tab:hover {
+            border-color: var(--cyan-glow);
+            color: var(--text-main);
+        }
+
+        .subject-tab.active {
+            border-color: var(--border-glow);
+            color: var(--border-glow);
+            background: rgba(0, 255, 102, 0.08);
+            box-shadow: 0 0 10px rgba(0, 255, 102, 0.2);
+            font-weight: bold;
+        }
+
+        .subject-badge {
+            font-size: 0.65rem;
+            padding: 1px 6px;
+            border-radius: 2px;
+            text-transform: uppercase;
+        }
+
+        .subject-badge.active {
+            background: rgba(0, 255, 102, 0.2);
+            color: var(--border-glow);
+            border: 1px solid var(--border-glow);
+        }
+
+        .subject-badge.blank {
+            background: rgba(255, 176, 0, 0.15);
+            color: var(--amber-glow);
+            border: 1px solid rgba(255, 176, 0, 0.4);
+        }
+
+        /* Main Navigation Tabs */
+        .feature-nav {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .nav-btn {
+            background: var(--bg-panel);
+            border: 2px solid var(--border-retro);
+            color: var(--text-main);
+            padding: 12px 16px;
+            font-family: var(--font-mono);
+            font-size: 0.95rem;
+            font-weight: bold;
+            cursor: pointer;
+            text-align: center;
+            transition: all 0.2s;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            box-shadow: 0 3px 0 var(--border-retro);
+        }
+
+        .nav-btn:hover {
+            border-color: var(--cyan-glow);
+            color: var(--cyan-glow);
+        }
+
+        .nav-btn.active {
+            border-color: var(--cyan-glow);
+            background: rgba(0, 229, 255, 0.1);
+            color: var(--cyan-glow);
+            box-shadow: 0 0 12px rgba(0, 229, 255, 0.25);
+        }
+
+        /* Blank Subject Placeholder Screen */
+        .blank-subject-screen {
+            border: 2px dashed var(--amber-glow);
+            background: rgba(255, 176, 0, 0.03);
+            padding: 50px 30px;
+            text-align: center;
+            box-shadow: inset 0 0 20px rgba(255, 176, 0, 0.05);
+        }
+
+        .blank-subject-screen h2 {
+            font-family: var(--font-pixel);
+            font-size: 3rem;
+            color: var(--amber-glow);
+            margin-bottom: 12px;
+            letter-spacing: 2px;
+        }
+
+        .blank-terminal-box {
+            max-width: 650px;
+            margin: 25px auto;
+            background: #000;
+            border: 1px solid var(--amber-glow);
+            padding: 20px;
+            text-align: left;
+            font-size: 0.85rem;
+            color: #d1b17a;
+            box-shadow: 0 0 15px rgba(255, 176, 0, 0.15);
+        }
+
+        /* Content Sections */
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Filter Toolbars */
+        .control-panel {
+            background: var(--bg-panel);
+            border: 2px solid var(--border-retro);
+            padding: 15px 18px;
+            margin-bottom: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            align-items: center;
+            box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
+        }
+
+        .control-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            flex: 1;
+            min-width: 180px;
+        }
+
+        .control-group label {
+            font-size: 0.72rem;
+            color: var(--cyan-glow);
+            letter-spacing: 1px;
+            text-transform: uppercase;
+        }
+
+        input[type="text"], input[type="number"], select {
+            background: #05080c;
+            border: 1px solid var(--border-retro);
+            color: var(--text-main);
+            font-family: var(--font-mono);
+            padding: 8px 12px;
+            font-size: 0.88rem;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+
+        input[type="text"]:focus, input[type="number"]:focus, select:focus {
+            border-color: var(--cyan-glow);
+            box-shadow: 0 0 8px rgba(0, 229, 255, 0.3);
+        }
+
+        /* Retro Buttons */
+        .retro-btn {
+            background: var(--bg-card);
+            border: 1px solid var(--border-glow);
+            color: var(--border-glow);
+            font-family: var(--font-mono);
+            font-size: 0.88rem;
+            padding: 9px 18px;
+            cursor: pointer;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            transition: all 0.2s;
+            box-shadow: 0 2px 0 var(--border-glow);
+        }
+
+        .retro-btn:hover {
+            background: var(--border-glow);
+            color: #000;
+            box-shadow: 0 0 15px rgba(0, 255, 102, 0.4);
+        }
+
+        .retro-btn.amber {
+            border-color: var(--amber-glow);
+            color: var(--amber-glow);
+            box-shadow: 0 2px 0 var(--amber-glow);
+        }
+
+        .retro-btn.amber:hover {
+            background: var(--amber-glow);
+            color: #000;
+        }
+
+        /* Cards & List Items */
+        .card-list {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .retro-card {
+            background: var(--bg-panel);
+            border: 1px solid var(--border-retro);
+            padding: 16px 20px;
+            transition: border-color 0.2s, box-shadow 0.2s;
+            position: relative;
+        }
+
+        .retro-card:hover {
+            border-color: #2e4a68;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+        }
+
+        .retro-card.critical {
+            border-left: 4px solid #ff4757;
+        }
+
+        .retro-card.high {
+            border-left: 4px solid var(--amber-glow);
+        }
+
+        .retro-card.medium {
+            border-left: 4px solid var(--cyan-glow);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 10px;
+            gap: 12px;
+        }
+
+        .card-tags {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap;
+        }
+
+        .tag {
+            font-size: 0.72rem;
+            padding: 2px 7px;
+            border-radius: 2px;
+            text-transform: uppercase;
+            font-weight: bold;
+            letter-spacing: 0.5px;
+        }
+
+        .tag.critical {
+            background: rgba(255, 71, 87, 0.2);
+            color: #ff6b81;
+            border: 1px solid rgba(255, 71, 87, 0.4);
+        }
+
+        .tag.high {
+            background: rgba(255, 176, 0, 0.2);
+            color: var(--amber-glow);
+            border: 1px solid rgba(255, 176, 0, 0.4);
+        }
+
+        .tag.medium {
+            background: rgba(0, 229, 255, 0.15);
+            color: var(--cyan-glow);
+            border: 1px solid rgba(0, 229, 255, 0.3);
+        }
+
+        .tag.exact {
+            background: rgba(0, 255, 102, 0.15);
+            color: var(--border-glow);
+            border: 1px solid rgba(0, 255, 102, 0.3);
+        }
+
+        .tag.semantic {
+            background: rgba(200, 100, 255, 0.15);
+            color: #d88eff;
+            border: 1px solid rgba(200, 100, 255, 0.3);
+        }
+
+        .tag.conf-high { color: var(--border-glow); }
+        .tag.conf-med { color: var(--amber-glow); }
+        .tag.conf-low { color: #ff6b81; }
+
+        .question-text {
+            font-size: 1.05rem;
+            color: #ffffff;
+            margin-bottom: 10px;
+            word-break: break-word;
+        }
+
+        .original-text {
+            font-size: 0.88rem;
+            color: var(--text-dim);
+            background: rgba(0, 0, 0, 0.3);
+            padding: 8px 12px;
+            border-left: 2px solid var(--border-retro);
+            margin-top: 8px;
+            word-break: break-word;
+        }
+
+        .meta-footer {
+            margin-top: 12px;
+            padding-top: 10px;
+            border-top: 1px solid rgba(255,255,255,0.05);
+            font-size: 0.78rem;
+            color: var(--text-dim);
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        /* Variations Collapsible Drawer */
+        .variations-toggle {
+            cursor: pointer;
+            color: var(--cyan-glow);
+            font-size: 0.82rem;
+            margin-top: 8px;
+            display: inline-block;
+        }
+
+        .variations-toggle:hover {
+            text-decoration: underline;
+        }
+
+        .variations-drawer {
+            display: none;
+            margin-top: 10px;
+            padding-left: 14px;
+            border-left: 2px solid var(--border-retro);
+        }
+
+        .variation-item {
+            padding: 6px 0;
+            font-size: 0.85rem;
+            border-bottom: 1px dashed rgba(255,255,255,0.05);
+        }
+
+        /* Study Planner UI */
+        .planner-inputs {
+            background: var(--bg-panel);
+            border: 2px solid var(--border-retro);
+            padding: 22px;
+            margin-bottom: 22px;
+            display: grid;
+            grid-template-columns: 1fr 1fr auto;
+            gap: 20px;
+            align-items: flex-end;
+            box-shadow: inset 0 0 15px rgba(0,0,0,0.6);
+        }
+
+        .kpi-row {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+            margin-bottom: 20px;
+        }
+
+        .kpi-box {
+            background: var(--bg-panel);
+            border: 1px solid var(--border-retro);
+            padding: 14px;
+            text-align: center;
+        }
+
+        .kpi-value {
+            font-family: var(--font-pixel);
+            font-size: 2.6rem;
+            color: var(--cyan-glow);
+            line-height: 1;
+            margin-bottom: 4px;
+        }
+
+        .kpi-label {
+            font-size: 0.75rem;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .tier-progress-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 12px;
+            margin-bottom: 22px;
+        }
+
+        .tier-box {
+            background: var(--bg-panel);
+            border: 1px solid var(--border-retro);
+            padding: 12px 14px;
+        }
+
+        .tier-box-title {
+            font-size: 0.78rem;
+            font-weight: bold;
+            margin-bottom: 4px;
+        }
+
+        .disclaimer-banner {
+            border-left: 3px solid var(--amber-glow);
+            background: rgba(255, 176, 0, 0.08);
+            padding: 12px 16px;
+            margin-bottom: 20px;
+            font-size: 0.85rem;
+            color: var(--amber-glow);
+        }
+
+        .day-card {
+            background: var(--bg-panel);
+            border: 1px solid var(--border-retro);
+            margin-bottom: 14px;
+            overflow: hidden;
+        }
+
+        .day-header {
+            background: rgba(255, 255, 255, 0.02);
+            padding: 12px 18px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid rgba(255,255,255,0.05);
+        }
+
+        .day-header:hover {
+            background: rgba(0, 229, 255, 0.04);
+        }
+
+        .day-tasks {
+            padding: 15px 18px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .task-row {
+            padding: 8px 10px;
+            background: rgba(0,0,0,0.25);
+            border-left: 3px solid var(--cyan-glow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .task-row.critical { border-left-color: #ff4757; }
+        .task-row.high { border-left-color: var(--amber-glow); }
+        .task-row.medium { border-left-color: var(--cyan-glow); }
+        .task-row.practice { border-left-color: var(--border-glow); background: rgba(0, 255, 102, 0.04); }
+        .task-row.revision { border-left-color: var(--magenta-glow); background: rgba(255, 0, 127, 0.04); }
+
+        /* Review modal / section */
+        .review-box {
+            margin-top: 25px;
+            border: 1px dashed var(--amber-glow);
+            padding: 15px;
+            background: rgba(0,0,0,0.4);
+        }
+
+        /* Responsive */
+        @media (max-width: 850px) {
+            .feature-nav { grid-template-columns: 1fr; }
+            .kpi-row { grid-template-columns: 1fr 1fr; }
+            .tier-progress-grid { grid-template-columns: 1fr 1fr; }
+            .planner-inputs { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="scanlines"></div>
+
+    <div class="terminal-container">
+        <!-- TOP HEADER -->
+        <header class="crt-header">
+            <div class="title-block">
+                <h1><span style="color:var(--cyan-glow);">&gt;</span> AKTU_EXAMMATE.EXE</h1>
+                <div class="tagline">PREVIOUS YEAR QUESTION REPETITION ENGINE &amp; AI STUDY PLANNER</div>
+            </div>
+            <div class="header-status">
+                <div><span class="status-dot"></span>SYSTEM_ONLINE // V2.4</div>
+                <div id="stat-papers">58 EXAM PAPERS LOADED</div>
+            </div>
+        </header>
+
+        <!-- SUBJECT SWITCHER BAR (Data Structures + 4 Blank Subjects) -->
+        <section class="subject-bar">
+            <div class="subject-bar-label">
+                <span>[ SUBJECT CORPUS SELECTOR ]</span>
+                <span id="corpus-status-msg" style="color:var(--border-glow);">MOUNTED: DATA STRUCTURES</span>
+            </div>
+            <div class="subject-tabs" id="subject-tabs-container">
+                <!-- Tabs generated dynamically by JS -->
+            </div>
+        </section>
+
+        <!-- SUBJECT DISPLAY (Shows a blank state until the selected subject corpus is processed) -->
+        <div id="blank-subject-view" class="blank-subject-screen" style="display:none;">
+            <h2 id="blank-subject-title">SUBJECT_UNINITIALIZED</h2>
+            <p id="blank-subject-code" style="color:var(--cyan-glow); letter-spacing:2px; margin-bottom:15px;">CODE: BCS401</p>
+            <div class="blank-terminal-box">
+                <div style="color:var(--amber-glow); margin-bottom:8px;">[!] CORPUS NOT MOUNTED FOR THIS SUBJECT</div>
+                <div>Awaiting PDF examination paper processing.</div>
+                <div style="margin: 10px 0; color:var(--text-dim);">&gt; Target location: /data/subjects/&lt;subject_code&gt;/pdfs/raw/</div>
+                <div style="margin-bottom: 12px; color:var(--text-dim);">&gt; Supported schema: [source_file, page_number, final_text, year]</div>
+                <div style="color:var(--border-glow);">&gt; Analytical modules ready: Question Extractor, Multilingual Embeddings Matcher, Study Planner.</div>
+            </div>
+            <button class="retro-btn" onclick="selectSubject('BCS301')">&lt;&lt; RETURN TO DATA STRUCTURES (ACTIVE)</button>
+        </div>
+
+        <!-- MAIN DATA STRUCTURES APPLICATION VIEW -->
+        <div id="active-subject-view">
+            <!-- 3 CORE FEATURE TABS -->
+            <nav class="feature-nav">
+                <button class="nav-btn active" onclick="switchTab('tab-repeated')">[01] 🔄 REPEATED QUESTIONS</button>
+                <button class="nav-btn" onclick="switchTab('tab-extracted')">[02] 📋 EXTRACTED QUESTIONS</button>
+                <button class="nav-btn" onclick="switchTab('tab-planner')">[03] 📅 AI STUDY PLANNER</button>
+            </nav>
+
+            <!-- ========================================================= -->
+            <!-- TAB 1: REPEATED QUESTIONS -->
+            <!-- ========================================================= -->
+            <section id="tab-repeated" class="tab-content active">
+                <div class="control-panel">
+                    <div class="control-group" style="flex:2;">
+                        <label>Filter by Concept or Keyword</label>
+                        <input type="text" id="rep-search" placeholder="e.g. AVL, circular queue, quick sort, stack..." oninput="renderRepeated()">
+                    </div>
+                    <div class="control-group">
+                        <label>Min Frequency (Distinct Years)</label>
+                        <select id="rep-min-years" onchange="renderRepeated()">
+                            <option value="2">2+ Years (All Repeated)</option>
+                            <option value="3">3+ Years (High Frequency)</option>
+                            <option value="4">4+ Years (Critical Frequency)</option>
+                            <option value="5">5+ Years (Top Repetitions)</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label>Sort Ordering</label>
+                        <select id="rep-sort" onchange="renderRepeated()">
+                            <option value="freq">Distinct Years (Highest First)</option>
+                            <option value="recent">Most Recent Session First</option>
+                            <option value="exact">Exact Matches First</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div style="margin-bottom:12px; font-size:0.82rem; color:var(--text-dim); display:flex; justify-content:space-between;">
+                    <span id="rep-count-label">LOADING REPETITIONS...</span>
+                    <span>ALGORITHM: EXACT TEXT MATCH + MULTILINGUAL EMBEDDINGS (≥ 0.82)</span>
+                </div>
+
+                <div id="repeated-list" class="card-list"></div>
+
+                <!-- Review Required Toggle -->
+                <div class="review-box">
+                    <div style="display:flex; justify-content:space-between; align-items:center;">
+                        <div>
+                            <span style="color:var(--amber-glow); font-weight:bold;">[!] BORDERLINE MATCHES REQUIRING REVIEW</span>
+                            <span id="review-count-badge" style="color:var(--text-dim); font-size:0.8rem; margin-left:10px;">(0 questions)</span>
+                        </div>
+                        <button class="retro-btn amber" style="padding:4px 10px; font-size:0.75rem;" onclick="toggleReviewDrawer()">TOGGLE REVIEW DRAWER</button>
+                    </div>
+                    <div id="review-drawer" style="display:none; margin-top:15px; max-height:400px; overflow-y:auto;">
+                        <div id="review-list"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- ========================================================= -->
+            <!-- TAB 2: EXTRACTED QUESTIONS -->
+            <!-- ========================================================= -->
+            <section id="tab-extracted" class="tab-content">
+                <div class="control-panel">
+                    <div class="control-group" style="flex:2;">
+                        <label>Search in Extracted Text</label>
+                        <input type="text" id="ext-search" placeholder="Search any question or keyword..." oninput="renderExtracted()">
+                    </div>
+                    <div class="control-group">
+                        <label>Exam Year</label>
+                        <select id="ext-year" onchange="renderExtracted()">
+                            <option value="all">All Examination Years (2015-2026)</option>
+                        </select>
+                    </div>
+                    <div class="control-group">
+                        <label>Extraction Confidence</label>
+                        <select id="ext-conf" onchange="renderExtracted()">
+                            <option value="all">All Confidence Levels</option>
+                            <option value="high">High Confidence (Clean)</option>
+                            <option value="medium">Medium Confidence</option>
+                            <option value="low">Low Confidence (OCR Review)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <div style="margin-bottom:12px; font-size:0.82rem; color:var(--text-dim); display:flex; justify-content:space-between;">
+                    <span id="ext-count-label">LOADING EXTRACTED QUESTIONS...</span>
+                    <span>PRESERVES BOTH ENGLISH AND ORIGINAL BILINGUAL/HINDI SOURCE</span>
+                </div>
+
+                <div id="extracted-list" class="card-list"></div>
+            </section>
+
+            <!-- ========================================================= -->
+            <!-- TAB 3: AI STUDY PLANNER -->
+            <!-- ========================================================= -->
+            <section id="tab-planner" class="tab-content">
+                <div class="planner-inputs">
+                    <div class="control-group">
+                        <label>Days Available Before Examination</label>
+                        <input type="number" id="plan-days" value="14" min="1" max="120" step="1">
+                    </div>
+                    <div class="control-group">
+                        <label>Daily Study Hours Dedication</label>
+                        <input type="number" id="plan-hours" value="4.0" min="1.0" max="14.0" step="0.5">
+                    </div>
+                    <button class="retro-btn" style="height:40px;" onclick="generatePlan()">[ GENERATE_PLAN.EXE ]</button>
+                </div>
+
+                <div id="plan-output-container" style="display:none;">
+                    <!-- Plan Overview KPIs -->
+                    <div class="kpi-row">
+                        <div class="kpi-box">
+                            <div class="kpi-value" id="kpi-study-days">12</div>
+                            <div class="kpi-label">Core Study Days</div>
+                        </div>
+                        <div class="kpi-box">
+                            <div class="kpi-value" id="kpi-rev-days">2</div>
+                            <div class="kpi-label">Revision Days</div>
+                        </div>
+                        <div class="kpi-box">
+                            <div class="kpi-value" id="kpi-hours">56</div>
+                            <div class="kpi-label">Total Study Hours</div>
+                        </div>
+                        <div class="kpi-box">
+                            <div class="kpi-value" id="kpi-questions">84</div>
+                            <div class="kpi-label">Questions Scheduled</div>
+                        </div>
+                    </div>
+
+                    <!-- Priority Breakdown Tiers -->
+                    <div class="tier-progress-grid" id="tier-breakdown-container"></div>
+
+                    <!-- Mandatory Disclaimer -->
+                    <div class="disclaimer-banner" id="plan-disclaimer">
+                        [!] NOTICE: This plan is prioritized on historical question repetition frequency across 58 AKTU papers. 
+                        Past repetition does not guarantee future appearance. Use as a focused preparation guide.
+                    </div>
+
+                    <!-- Daily Plan Schedule -->
+                    <div id="daily-plan-list"></div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <!-- CLIENT SCRIPT -->
+    <script>
+        // App State
+        let currentSubject = 'BCS301';
+        let rawQuestions = [];
+        let rawRepeated = [];
+        let rawReview = [];
+        let subjectsList = [];
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            fetchInitialData();
+        });
+
+        async function fetchInitialData() {
+            try {
+                const subRes = await fetch('/api/subjects');
+                subjectsList = await subRes.json();
+                renderSubjectTabs();
+                await selectSubject(currentSubject);
+            } catch (err) {
+                console.error("Failed to load initial data:", err);
+            }
+        }
+
+        // Render Subject Selector Tabs
+        function renderSubjectTabs() {
+            const container = document.getElementById('subject-tabs-container');
+            container.innerHTML = '';
+
+            subjectsList.forEach(sub => {
+                const tab = document.createElement('div');
+                tab.className = `subject-tab ${sub.code === currentSubject ? 'active' : ''}`;
+                tab.onclick = () => selectSubject(sub.code);
+
+                const badgeClass = sub.status === 'active' ? 'active' : 'blank';
+                tab.innerHTML = `
+                    <span>${sub.name} [${sub.code}]</span>
+                    <span class="subject-badge ${badgeClass}">${sub.badge}</span>
+                `;
+                container.appendChild(tab);
+            });
+        }
+
+        async function selectSubject(code) {
+            currentSubject = code;
+            renderSubjectTabs();
+
+            const activeSub = subjectsList.find(s => s.code === code);
+            const blankView = document.getElementById('blank-subject-view');
+            const activeView = document.getElementById('active-subject-view');
+            const statusMsg = document.getElementById('corpus-status-msg');
+
+            if (!activeSub || !activeSub.mounted) {
+                activeView.style.display = 'none';
+                blankView.style.display = 'block';
+                document.getElementById('blank-subject-title').innerText = `${activeSub ? activeSub.name.toUpperCase() : code} // UNMOUNTED`;
+                document.getElementById('blank-subject-code').innerText = `SUBJECT CODE: ${code} // NO ANALYSIS CORPUS FOUND`;
+                statusMsg.innerText = `UNMOUNTED: ${activeSub ? activeSub.name.toUpperCase() : code}`;
+                statusMsg.style.color = 'var(--amber-glow)';
+                document.getElementById('stat-papers').innerText = 'NO EXAM PAPERS LOADED';
+                return;
+            }
+
+            blankView.style.display = 'none';
+            activeView.style.display = 'block';
+            statusMsg.innerText = `MOUNTED: ${activeSub.name.toUpperCase()} (${activeSub.stats.papers_count} PAPERS)`;
+            statusMsg.style.color = 'var(--border-glow)';
+
+            try {
+                const dataRes = await fetch(`/api/data?subject=${encodeURIComponent(code)}`);
+                const data = await dataRes.json();
+                if (!dataRes.ok || data.error) throw new Error(data.error || 'Could not load subject data');
+
+                // Replace all in-memory records when the selected subject changes.
+                rawQuestions = data.questions || [];
+                rawRepeated = data.repeated || [];
+                rawReview = data.review || [];
+
+                populateYearDropdown();
+                renderRepeated();
+                renderExtracted();
+                document.getElementById('stat-papers').innerText = `${data.stats.papers_count} EXAM PAPERS LOADED`;
+                document.getElementById('review-count-badge').innerText = `(${rawReview.length} questions)`;
+                renderReviewItems();
+                generatePlan();
+            } catch (err) {
+                console.error(`Failed to load ${code}:`, err);
+                statusMsg.innerText = `ERROR LOADING: ${code}`;
+            }
+        }
+
+        // Feature Navigation
+        function switchTab(tabId) {
+            document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.nav-btn').forEach(el => el.classList.remove('active'));
+
+            document.getElementById(tabId).classList.add('active');
+            event.target.classList.add('active');
+        }
+
+        // =============================================================
+        // TAB 1: REPEATED QUESTIONS LOGIC
+        // =============================================================
+        function renderRepeated() {
+            const listContainer = document.getElementById('repeated-list');
+            const searchVal = document.getElementById('rep-search').value.toLowerCase().trim();
+            const minYears = parseInt(document.getElementById('rep-min-years').value);
+            const sortMode = document.getElementById('rep-sort').value;
+
+            let filtered = rawRepeated.filter(g => g.distinct_year_count >= minYears);
+
+            if (searchVal) {
+                filtered = filtered.filter(g => {
+                    const canonMatch = g.canonical_question.toLowerCase().includes(searchVal);
+                    const varMatch = g.variations.some(v => v.question.toLowerCase().includes(searchVal));
+                    return canonMatch || varMatch;
+                });
+            }
+
+            // Sorting
+            if (sortMode === 'freq') {
+                filtered.sort((a, b) => b.distinct_year_count - a.distinct_year_count || Math.max(...b.years_appeared) - Math.max(...a.years_appeared));
+            } else if (sortMode === 'recent') {
+                filtered.sort((a, b) => Math.max(...b.years_appeared) - Math.max(...a.years_appeared));
+            } else if (sortMode === 'exact') {
+                filtered.sort((a, b) => (a.match_type === 'exact' ? 0 : 1) - (b.match_type === 'exact' ? 0 : 1));
+            }
+
+            document.getElementById('rep-count-label').innerText = `SHOWING ${filtered.length} OF ${rawRepeated.length} REPEATED QUESTION GROUPS`;
+
+            listContainer.innerHTML = '';
+            if (filtered.length === 0) {
+                listContainer.innerHTML = `<div class="retro-card" style="text-align:center; color:var(--text-dim);">NO REPEATED QUESTIONS MATCH CRITERIA.</div>`;
+                return;
+            }
+
+            filtered.forEach(g => {
+                const card = document.createElement('div');
+                const freq = g.distinct_year_count;
+                const tierClass = freq >= 4 ? 'critical' : (freq === 3 ? 'high' : 'medium');
+                card.className = `retro-card ${tierClass}`;
+
+                const yearsFormatted = g.years_appeared.join(', ');
+                const matchTag = g.match_type === 'exact' ? '<span class="tag exact">EXACT MATCH</span>' : '<span class="tag semantic">SEMANTIC MATCH</span>';
+
+                let variationsHtml = g.variations.map(v => `
+                    <div class="variation-item">
+                        <span style="color:var(--cyan-glow); font-weight:bold;">[${v.year}]</span> ${escapeHtml(v.question)}
+                        <div style="font-size:0.75rem; color:var(--text-dim); margin-top:2px;">
+                            Source: <code>${v.source_file}</code> (page ${v.page}) | Confidence: ${v.confidence.toUpperCase()}
+                        </div>
+                    </div>
+                `).join('');
+
+                card.innerHTML = `
+                    <div class="card-header">
+                        <div class="card-tags">
+                            <span class="tag ${tierClass}">⭐ APPEARED IN ${freq} DISTINCT YEARS</span>
+                            ${matchTag}
+                            <span class="tag" style="background:rgba(255,255,255,0.05); color:var(--text-dim);">AVG SIM: ${(g.average_similarity * 100).toFixed(1)}%</span>
+                        </div>
+                        <div style="font-size:0.8rem; color:var(--cyan-glow);">${yearsFormatted}</div>
+                    </div>
+                    <div class="question-text">${escapeHtml(g.canonical_question)}</div>
+                    <div class="meta-footer">
+                        <span>PAPERS: ${g.source_files.slice(0, 4).join(', ')}${g.source_files.length > 4 ? ` +${g.source_files.length - 4} more` : ''}</span>
+                        <span class="variations-toggle" onclick="toggleVariations(this)">[+] VIEW ${g.variations.length} VARIATIONS ACROSS PAPERS</span>
+                    </div>
+                    <div class="variations-drawer">
+                        <div style="font-size:0.78rem; color:var(--text-dim); margin-bottom:8px;">ALL OCCURRENCES ACROSS EXAMINATION PAPERS:</div>
+                        ${variationsHtml}
+                    </div>
+                `;
+                listContainer.appendChild(card);
+            });
+        }
+
+        function toggleVariations(el) {
+            const drawer = el.parentElement.nextElementSibling;
+            if (drawer.style.display === 'block') {
+                drawer.style.display = 'none';
+                el.innerText = el.innerText.replace('[-]', '[+]');
+            } else {
+                drawer.style.display = 'block';
+                el.innerText = el.innerText.replace('[+]', '[-]');
+            }
+        }
+
+        function toggleReviewDrawer() {
+            const drawer = document.getElementById('review-drawer');
+            drawer.style.display = drawer.style.display === 'block' ? 'none' : 'block';
+        }
+
+        function renderReviewItems() {
+            const container = document.getElementById('review-list');
+            if (rawReview.length === 0) {
+                container.innerHTML = '<div style="color:var(--text-dim); font-size:0.85rem;">No borderline questions pending review.</div>';
+                return;
+            }
+            container.innerHTML = rawReview.slice(0, 15).map(r => `
+                <div style="padding:8px 0; border-bottom:1px dashed var(--border-retro); font-size:0.82rem;">
+                    <div style="color:var(--amber-glow); font-weight:bold;">[${r.year}] (${r.source_file}) — Sim: ${(r.average_similarity * 100).toFixed(1)}%</div>
+                    <div style="color:#fff;">${escapeHtml(r.question_text)}</div>
+                    <div style="color:var(--text-dim); font-size:0.75rem;">Borderline similarity to group canonical: "${escapeHtml(r.canonical_question)}"</div>
+                </div>
+            `).join('') + (rawReview.length > 15 ? `<div style="padding-top:8px; color:var(--text-dim); font-size:0.75rem;">+ ${rawReview.length - 15} additional borderline variations in review_required.csv</div>` : '');
+        }
+
+        // =============================================================
+        // TAB 2: EXTRACTED QUESTIONS LOGIC
+        // =============================================================
+        function populateYearDropdown() {
+            const yearSelect = document.getElementById('ext-year');
+            const years = [...new Set(rawQuestions.map(q => q.year))].sort((a,b) => b - a);
+            years.forEach(y => {
+                const opt = document.createElement('option');
+                opt.value = y;
+                opt.innerText = `Examination Session ${y}`;
+                yearSelect.appendChild(opt);
+            });
+        }
+
+        function renderExtracted() {
+            const listContainer = document.getElementById('extracted-list');
+            const searchVal = document.getElementById('ext-search').value.toLowerCase().trim();
+            const yearFilter = document.getElementById('ext-year').value;
+            const confFilter = document.getElementById('ext-conf').value;
+
+            let filtered = rawQuestions;
+
+            if (yearFilter !== 'all') {
+                filtered = filtered.filter(q => q.year == yearFilter);
+            }
+            if (confFilter !== 'all') {
+                filtered = filtered.filter(q => q.extraction_confidence.toLowerCase() === confFilter);
+            }
+            if (searchVal) {
+                filtered = filtered.filter(q => 
+                    q.english_question.toLowerCase().includes(searchVal) ||
+                    (q.original_question && q.original_question.toLowerCase().includes(searchVal))
+                );
+            }
+
+            document.getElementById('ext-count-label').innerText = `SHOWING ${filtered.length} OF ${rawQuestions.length} EXTRACTED QUESTIONS`;
+
+            listContainer.innerHTML = '';
+            if (filtered.length === 0) {
+                listContainer.innerHTML = `<div class="retro-card" style="text-align:center; color:var(--text-dim);">NO QUESTIONS MATCH FILTER CRITERIA.</div>`;
+                return;
+            }
+
+            // Paginate / limit rendering to first 100 for instant DOM responsiveness
+            const displaySlice = filtered.slice(0, 80);
+
+            displaySlice.forEach(q => {
+                const card = document.createElement('div');
+                card.className = 'retro-card';
+
+                const conf = q.extraction_confidence;
+                const confTagClass = conf === 'high' ? 'conf-high' : (conf === 'medium' ? 'conf-med' : 'conf-low');
+
+                const hasDiffOriginal = q.original_question && q.original_question.trim() !== q.english_question.trim();
+
+                card.innerHTML = `
+                    <div class="card-header">
+                        <div class="card-tags">
+                            <span class="tag" style="background:rgba(0, 229, 255, 0.15); color:var(--cyan-glow);">YEAR ${q.year}</span>
+                            <span class="tag" style="background:rgba(255,255,255,0.05); color:#fff;">Q${q.question_number}</span>
+                            <span class="tag ${confTagClass}">CONF: ${conf.toUpperCase()}</span>
+                        </div>
+                        <div style="font-size:0.78rem; color:var(--text-dim);"><code>${q.source_file}</code> (p. ${q.page_number})</div>
+                    </div>
+                    <div class="question-text">${escapeHtml(q.english_question)}</div>
+                    ${hasDiffOriginal ? `<div class="original-text"><strong style="color:var(--amber-glow);">[ORIGINAL/BILINGUAL]:</strong> ${escapeHtml(q.original_question)}</div>` : ''}
+                `;
+                listContainer.appendChild(card);
+            });
+
+            if (filtered.length > 80) {
+                const moreNote = document.createElement('div');
+                moreNote.style.textAlign = 'center';
+                moreNote.style.padding = '15px';
+                moreNote.style.color = 'var(--text-dim)';
+                moreNote.innerText = `+ ${filtered.length - 80} additional questions matching. Refine keyword search to narrow down.`;
+                listContainer.appendChild(moreNote);
+            }
+        }
+
+        // =============================================================
+        // TAB 3: AI STUDY PLANNER LOGIC
+        // =============================================================
+        async function generatePlan() {
+            const days = parseInt(document.getElementById('plan-days').value) || 14;
+            const hours = parseFloat(document.getElementById('plan-hours').value) || 4.0;
+
+            try {
+                const res = await fetch('/api/study-plan', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ days, hours, subject_code: currentSubject })
+                });
+
+                const plan = await res.json();
+                if (plan.error) {
+                    alert(plan.error);
+                    return;
+                }
+
+                renderPlanOutput(plan);
+            } catch (err) {
+                console.error("Plan generation failed:", err);
+            }
+        }
+
+        function renderPlanOutput(plan) {
+            document.getElementById('plan-output-container').style.display = 'block';
+
+            // KPIs
+            document.getElementById('kpi-study-days').innerText = plan.study_days;
+            document.getElementById('kpi-rev-days').innerText = plan.revision_days;
+            document.getElementById('kpi-hours').innerText = plan.total_study_hours;
+            document.getElementById('kpi-questions').innerText = plan.total_questions_scheduled;
+
+            // Tier Breakdown
+            const tierContainer = document.getElementById('tier-breakdown-container');
+            tierContainer.innerHTML = '';
+
+            const tierMeta = [
+                { key: 'critical', title: '⭐ CRITICAL (4+ YRS)', color: '#ff4757' },
+                { key: 'high', title: '🔥 HIGH (3 YRS)', color: 'var(--amber-glow)' },
+                { key: 'medium', title: '📌 MEDIUM (2 YRS)', color: 'var(--cyan-glow)' },
+                { key: 'low', title: '📝 COVERAGE (1 YR)', color: 'var(--text-dim)' }
+            ];
+
+            tierMeta.forEach(tm => {
+                const tData = plan.tier_summary[tm.key] || { count: 0, total_available: 0, description: '' };
+                const box = document.createElement('div');
+                box.className = 'tier-box';
+                box.innerHTML = `
+                    <div class="tier-box-title" style="color:${tm.color}">${tm.title}</div>
+                    <div style="font-family:var(--font-pixel); font-size:1.8rem; color:#fff;">
+                        ${tData.count} <span style="font-size:0.85rem; color:var(--text-dim);">/ ${tData.total_available}</span>
+                    </div>
+                    <div style="font-size:0.72rem; color:var(--text-dim); margin-top:2px;">${tData.description}</div>
+                `;
+                tierContainer.appendChild(box);
+            });
+
+            // Disclaimer
+            document.getElementById('plan-disclaimer').innerText = `[!] PLANNER NOTICE: ${plan.disclaimer}`;
+
+            // Daily Plan
+            const dailyList = document.getElementById('daily-plan-list');
+            dailyList.innerHTML = '';
+
+            plan.daily_plan.forEach(day => {
+                const dayCard = document.createElement('div');
+                dayCard.className = 'day-card';
+
+                const isRev = day.type === 'revision';
+                const dayBadge = isRev ? 
+                    `<span class="tag" style="background:rgba(255, 0, 127, 0.2); color:var(--magenta-glow);">REVISION SESSION</span>` : 
+                    `<span class="tag" style="background:rgba(0, 229, 255, 0.15); color:var(--cyan-glow);">${day.question_count} QUESTIONS SCHEDULED</span>`;
+
+                let tasksHtml = day.tasks.map(t => {
+                    const tTier = t.tier || 'study';
+                    return `
+                        <div class="task-row ${tTier}">
+                            <div style="flex:1;">
+                                <div style="font-size:0.92rem; color:#fff;">${escapeHtml(t.activity)}</div>
+                                <div style="font-size:0.75rem; color:var(--text-dim); margin-top:3px;">${t.frequency_note}</div>
+                            </div>
+                            <div style="font-size:0.82rem; color:var(--cyan-glow); font-weight:bold; white-space:nowrap;">
+                                ${t.estimated_minutes} MIN
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+
+                dayCard.innerHTML = `
+                    <div class="day-header" onclick="toggleDayTasks(this)">
+                        <div>
+                            <span style="font-weight:bold; color:#fff; font-size:1rem;">DAY ${day.day}:</span>
+                            <span style="color:var(--text-main); margin-left:8px;">${day.focus}</span>
+                        </div>
+                        <div style="display:flex; align-items:center; gap:10px;">
+                            ${dayBadge}
+                            <span style="color:var(--cyan-glow); font-size:0.82rem;">${day.hours} HRS</span>
+                        </div>
+                    </div>
+                    <div class="day-tasks" style="display:${day.day <= 2 ? 'flex' : 'none'};">
+                        <div style="font-size:0.78rem; color:var(--text-dim); margin-bottom:4px;">SESSION GOAL: ${day.summary}</div>
+                        ${tasksHtml}
+                    </div>
+                `;
+                dailyList.appendChild(dayCard);
+            });
+        }
+
+        function toggleDayTasks(headerEl) {
+            const taskDiv = headerEl.nextElementSibling;
+            taskDiv.style.display = taskDiv.style.display === 'none' ? 'flex' : 'none';
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            return text
+                .replace(/&/g, "&amp;")
+                .replace(/</g, "&lt;")
+                .replace(/>/g, "&gt;")
+                .replace(/"/g, "&quot;")
+                .replace(/'/g, "&#039;");
+        }
+    </script>
+</body>
+</html>

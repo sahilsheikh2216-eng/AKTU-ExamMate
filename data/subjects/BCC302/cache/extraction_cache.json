@@ -1,0 +1,3195 @@
+{
+  "subject_code": "BCC302",
+  "cache_key": "4a3369df7cf7b4901c68ffdfc32dc103",
+  "questions": [
+    {
+      "question_number": "a",
+      "original_question": "| What are Python variables? Give an exampleof declaring numeric datasre | | )K !__ पाइथनवैरिएबल्सक्याहैं? न्यूमेरिकडेटाप्रकारघोषितकरनेकाएकउदाहरणदें।__ ही | Differentiate between for loop using range and while loop in python. | K2 |_|पाइथन में रेंजकाउपयोगकरकेफॉरलूपऔरव्हाइललूपकेबीचअंतरHAM -+->क्ठा",
+      "english_question": "What are Python variables Give an exampleof declaring numeric datasre K Differentiate between for loop using range and while loop in python. K2 HAM -+->",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "| Explain string slicing in Python with an example. OO | पाइथनमेंस्टिंगसलाइसिंग कोएकउदाहरण केसाथसमझाएं",
+      "english_question": "| Explain string slicing in Python with an example. OO | पाइथनमेंस्टिंगसलाइसिंग कोएकउदाहरण केसाथसमझाएं",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "d",
+      "original_question": "| Whats a tuple in Python? How is it different from alist? | 3 (KI | पाइथनमेंट्यूपल क्याहै? यहलिस्टसेकैसेअलगहै? \"",
+      "english_question": "Whats a tuple in Python How is it different from alist KI",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "| Define dictionary in Python and give an example of its manipulation. K] || पाइथन में डिक्शनरीकोपरिभाषितकरेंऔरइसकेगैनिपुलेशनकाएकउदाहरणदें || or",
+      "english_question": "Define dictionary in Python and give an example of its manipulation. K] or",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "।What areae and readline() functions in file handling? 7 | K] |__| फाइलहैंडलिंगमें(००4) औरreadline!) HAA क्याहैं?",
+      "english_question": "What areae and readline() functions in file handling K] readline HAA",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": ". Fxpiuls encapsulation in Python 007, है | K2 Use oop में एनकैप्सुलेशनसगझाएं।__ 5४ ः } Q Question | co | Level no",
+      "english_question": "Fxpiuls encapsulation in Python 007, K2 Use oop Q Question co Level no",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "— —— ee on Python basic operators and data types. Write a program to check if a | K2 number is even or odd using if-else. पाइथनबेसिकऑपरेटर्सऔरडेटाप्रकारसमझाएं।#-९७काउपयोगकरकेएकसंख्या (| समयाविषमजांचनेकाप्रोग्रामलिखें ह",
+      "english_question": "— —— ee on Python basic operators and data types. Write a program to check if a | K2 number is even or odd using if-else. पाइथनबेसिकऑपरेटर्सऔरडेटाप्रकारसमझाएं।#-९७काउपयोगकरकेएकसंख्या (| समयाविषमजांचनेकाप्रोग्रामलिखें ह",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe loop manipulation statements: pass, continue, break. Write a program (1 | K2 to print prime numbers between 1 to 50 using for loop. लूपमैनिपुलेशनस्टेटमेंट्स: 19५55, continue, break वर्णनकरें।for लूपकाउपयोगकरके 1 से50 तकप्राइमनंबर्सप्रिंटकरनेकाप्रोग्रामलिखें।. _« _ ee lc, ‘Discuss string operations and built-in functions. Write a program to count vowels in a string. है | स्ट्रिंगऑपरेशन्सऔरविल्ट-इनपं/कशन्सपरचर्चाकरें।एकस्टिंगमेंस्वरों कीगिनती 'करनेकाप्राग्राभलिखें -..[... J. Explain list ond dictio.ary in wuill functions. Write a program to merge two | K3 dictionaries. \\ | लिस्टऔरडिक्शनरीइन-बिल्टwary समझाएँ।दोडिक्शनरीमर्जकरनेकाप्रोग्राम Bebe We तिखें।a eehe re, | Describe file writing functions: write(), writelines(). Write",
+      "english_question": "Describe loop manipulation statements: pass, continue, break. Write a program (1 K2 to print prime numbers between 1 to 50 using for loop. continue, break for ee lc, Discuss string operations and built-in functions. Write a program to count vowels in a string. J. Explain list ond dictio.ary in wuill functions. Write a program to merge two K3 dictionaries. wary Bebe We a eehe re, Describe file writing functions: write(), writelines(). Write",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "program to write \\4 K student records to a file. |) फाइलराइटिंगफंक्शन्स: write’), writclinesy वर्णनकरें।एकफाइलमेंछात्ररिकॉर्डस लिखनेकाप्रोग्रामलिखें / _.... सपन्ें लनलल_ Source: AKTU official examination paper - www.aktunotes.in https://www pyqon |iné.com ह MU oe subject Cote: BC PAPER 10:3 10796 oe oe ईऑऋ — BTEC (SEAT) THEORY EXAMINATION 2025-26 PYTHON PROGRAMMING SECTION (* 07x 1 5 07 Q Question CO 7 Level ne — ba | Explain Python blocks and conditional statements. Write",
+      "english_question": "program to write \\4 K student records to a file. |) फाइलराइटिंगफंक्शन्स: write’), writclinesy वर्णनकरें।एकफाइलमेंछात्ररिकॉर्डस लिखनेकाप्रोग्रामलिखें / _.... सपन्ें लनलल_ Source: AKTU official examination paper - www.aktunotes.in https://www pyqon |iné.com ह MU oe subject Cote: BC PAPER 10:3 10796 oe oe ईऑऋ — BTEC (SEAT) THEORY EXAMINATION 2025-26 PYTHON PROGRAMMING SECTION (* 07x 1 5 07 Q Question CO 7 Level ne — ba | Explain Python blocks and conditional statements. Write",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "program to prade students based on marks using elif पाइथनब्लॉक्सऔरकंडीशनलस्टेटमेंट्सWAM) elif काउपयोगकरके छात्रोंको मार्क्सकेआधारपरग्रेडदेनेकाप्रोग्रामलिखें",
+      "english_question": "program to prade students based on marks using elif पाइथनब्लॉक्सऔरकंडीशनलस्टेटमेंट्सWAM) elif काउपयोगकरके छात्रोंको मार्क्सकेआधारपरग्रेडदेनेकाप्रोग्रामलिखें",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "b",
+      "original_question": "| Discuss for loops with strings and lists. Write 3 program to sum elements of a | list. Rea औरलिस्ट्सकेसाथफॉरलूप्सपरचर्चाकरें।एकलिस्टकेतत्वों कायोगकरनेका प्रोग्रामलिखें — Attempt tiany ore part of the following: OT a, | Explain functions in Python, Write a function to calculate area of circle. | UR agra समझाएं।सर्कलके क्षेत्रफलकीगणनाकरनेवालाफंक्शनलिखें",
+      "english_question": "Discuss for loops with strings and lists. Write 3 program to sum elements of a list. Rea Attempt tiany ore part of the following: OT a, Explain functions in Python, Write a function to calculate area of circle. UR agra",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe string manipulation methods. Write a program to replace characters in",
+      "english_question": "Describe string manipulation methods. Write a program to replace characters in",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "String, RET मेनेपुलेशनमेथड्सवर्णनकरें एकट्टिंगमेंकैरेक्टर्सबदलने काप्रोग्रामलिखें।_ _ 07६1>707 जिजायाsets and their operations Write a program 10 find difference between Wo SeLs. कर, 1 Discuss tuple and list slicing Write a program to1eversea tuple. K 3 quua औरलिस्टसलाइसिंगपरचर्चा करें।एकट्यूपल,3 | रिवर्सकरनेका प्रोग्रामतिखें Atlumpt any eae part of the following: oe Vix L=07 u. | Expia manipulating file pointer using seek() \\eite a program to read last n | 4 1010५froma file seek() काउपयोगकरकेफाइलपॉइंटरमैनिपुलेट करनासमझाएं।एकफाइलसेअंतिम ॥लाइनोंकोपटनका प्रोग्रामलिखें",
+      "english_question": "String, RET sets and their operations Write a program 10 find difference between Wo SeLs. Discuss tuple and list slicing Write a program to1eversea tuple. K 3 quua Atlumpt any eae part of the following: oe Vix L=07 u. Expia manipulating file pointer using seek() eite a program to read last n froma file seek()",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "9",
+      "original_question": ".. Describe regular expressions using re module. fate a program to find all digits | 4 | K2 ॥1 3 string re मॉड्यूलकाउपयोगकरकेरेगुलरएक्सप्रेशन्सवर्णनकरें।एकfen में सभीअंकोंको leerAR) 7 Attempt any one part ofthe following; = ja, | Explain anheritance and polymorphism Write",
+      "english_question": ".. Describe regular expressions using re module. fate a program to find all digits | 4 | K2 ॥1 3 string re मॉड्यूलकाउपयोगकरकेरेगुलरएक्सप्रेशन्सवर्णनकरें।एकfen में सभीअंकोंको leerAR) 7 Attempt any one part ofthe following; = ja, | Explain anheritance and polymorphism Write",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "program showing | 5 multipleinheritance. ....एइनहेरिटेंसऔरपॉलीमॉर्फिज्यसमझाए।sere इनहरिटेंसदिखानेवालाप्रोग्राम लिखे | शिरर8३रन हा",
+      "english_question": "program showing | 5 multipleinheritance. ....एइनहेरिटेंसऔरपॉलीमॉर्फिज्यसमझाए।sere इनहरिटेंसदिखानेवालाप्रोग्राम लिखे | शिरर8३रन हा",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 2,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Rate a [धणका[.८2..1७a simple window with a label 1K using [kinter. शा 3 अम Teinter विजेट्सपरचर्चाकरें।Thinter काउपयोगकरकेएकसाधारणविंडोमेंलेबल _ बनानेकाप्रोग्रामलिखें https:/Awww.pyqonline.com",
+      "english_question": "Rate a [धणका[.८2..1७a simple window with a label 1K using [kinter. शा 3 अम Teinter विजेट्सपरचर्चाकरें।Thinter काउपयोगकरकेएकसाधारणविंडोमेंलेबल _ बनानेकाप्रोग्रामलिखें https:/Awww.pyqonline.com",
+      "year": 2026,
+      "source_file": "01-2026-b.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "What are Python variables? Give an example of declaring numeric data types. पाइथन वैरिएबल्स क्या हैं? न्यूमेरिक डेटा प्रकाि घोषित किने का एक उदाहिण दें",
+      "english_question": "What are Python variables? Give an example of declaring numeric data types. पाइथन वैरिएबल्स क्या हैं? न्यूमेरिक डेटा प्रकाि घोषित किने का एक उदाहिण दें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Differentiate between for loop using range and while loop in Python. पाइथन में िेंज का उपयोग किके फॉि लूप औि व्हाइल लूप के बीच अंति बताएं",
+      "english_question": "Differentiate between for loop using range and while loop in Python.",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Explain string slicing in Python with an example. पाइथन में स्ट् रंग स्लाइष ंग को एक उदाहिण के ाथ मझाएं",
+      "english_question": "Explain string slicing in Python with an example. पाइथन में स्ट् रंग स्लाइष ंग को एक उदाहिण के ाथ मझाएं",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "d",
+      "original_question": "What is a tuple in Python? How is it different from a list? पाइथन में ट्यूपल क्या है? यह षल् े कै े अलग है?",
+      "english_question": "What is a tuple in Python How is it different from a list",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Define dictionary in Python and give an example of its manipulation. पाइथन में षडक्शनिी को परिभाषित किें औि इ के मैषनपुलेशन का एक उदाहिण दें",
+      "english_question": "Define dictionary in Python and give an example of its manipulation. पाइथन में षडक्शनिी को परिभाषित किें औि इ के मैषनपुलेशन का एक उदाहिण दें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "f",
+      "original_question": "What are read() and readline() functions in file handling? फाइल हैंडषलंग में read() औि readline() फंक्शन्स क्या हैं?",
+      "english_question": "What are read() and readline() functions in file handling read() readline()",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "Explain encapsulation in Python OOP. पाइथन OOP में एनकैप्सुलेशन मझाएं Q no. Question CO",
+      "english_question": "Explain encapsulation in Python OOP. OOP Q no. Question CO",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain Python basic operators and data types. Write a program to check if a number is even or odd using if-else. पाइथन बेष क ऑपिेट स औि डेटा प्रकाि मझाएं। if-else का उपयोग किके एक ंख्या म या षविम जांचने का प्रोग्राम षलखें",
+      "english_question": "Explain Python basic operators and data types. Write a program to check if a number is even or odd using if-else. if-else",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe loop manipulation statements: pass, continue, break. Write a program to print prime numbers between 1 to 50 using for loop. लूप मैषनपुलेशन ्े टमेंट् : pass, continue, break वणसन किें। for लूप का उपयोग किके 1 े 50 तक प्राइम नंब स षप्रंट किने का प्रोग्राम षलखें",
+      "english_question": "Describe loop manipulation statements: pass, continue, break. Write a program to print prime numbers between 1 to 50 using for loop. pass, continue, break for",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Discuss string operations and built-in functions. Write a program to count vowels in a string. स्ट् रंग ऑपिेशन्स औि षबल्ट-इन फंक्शन्स पि चचास किें। एक स्ट् रंग में स्विों की षगनती किने का प्रोग्राम षलखें",
+      "english_question": "Discuss string operations and built-in functions. Write a program to count vowels in a string. स्ट् रंग ऑपिेशन्स औि षबल्ट-इन फंक्शन्स पि चचास किें। एक स्ट् रंग में स्विों की षगनती किने का प्रोग्राम षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Explain list and dictionary in-built functions. Write a program to merge two dictionaries. षल् औि षडक्शनिी इन-षबल्ट फंक्शन्स मझाएं। दो षडक्शनिी मजस किने का प्रोग्राम षलखें",
+      "english_question": "Explain list and dictionary in-built functions. Write a program to merge two dictionaries.",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Describe file writing functions: write(), writelines(). Write a program to write student records to a file. फाइल िाइषटंग फंक्शन्स: write(), writelines() वणसन किें। एक फाइल में छात्र रिकॉड्स षलखने का प्रोग्राम षलखें | 01-Jan-2026 1:35:01 PM | 117.55.242.134 0Roll No: 0 0 PYTHON PROGRAMMING Q no. Question CO",
+      "english_question": "Describe file writing functions: write(), writelines(). Write a program to write student records to a file. write(), writelines() Jan-2026 1:35:01 PM Roll No: 0 0 PYTHON PROGRAMMING Q no. Question CO",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain Python blocks and conditional statements. Write a program to grade students based on marks using elif. पाइथन ब्लॉक्स औि कंडीशनल ्े टमेंट् मझाएं। elif का उपयोग किके छात्रों को माक्सस के आधाि पि ग्रेड देने का प्रोग्राम षलखें",
+      "english_question": "Explain Python blocks and conditional statements. Write a program to grade students based on marks using elif. elif",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss for loops with strings and lists. Write a program to sum elements of a list. स्ट् रंग्स औि षल्् के ाथ फॉि लूप्स पि चचास किें। एक षल् के तत्ों का योग किने का प्रोग्राम षलखें",
+      "english_question": "Discuss for loops with strings and lists. Write a program to sum elements of a list. स्ट् रंग्स औि षल्् के ाथ फॉि लूप्स पि चचास किें। एक षल् के तत्ों का योग किने का प्रोग्राम षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain functions in Python. Write a function to calculate area of circle. पाइथन में फंक्शन्स मझाएं। कसल के क्षेत्रफल की गणना किने वाला फंक्शन षलखें",
+      "english_question": "Explain functions in Python. Write a function to calculate area of circle. पाइथन में फंक्शन्स मझाएं। कसल के क्षेत्रफल की गणना किने वाला फंक्शन षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe string manipulation methods. Write a program to replace characters in",
+      "english_question": "Describe string manipulation methods. Write a program to replace characters in",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "string. स्ट् रंग मैषनपुलेशन मेथड् वणसन किें। एक स्ट् रंग में कैिेक्ट स बदलने का प्रोग्राम षलखें",
+      "english_question": "string. स्ट् रंग मैषनपुलेशन मेथड् वणसन किें। एक स्ट् रंग में कैिेक्ट स बदलने का प्रोग्राम षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain sets and their operations. Write a program to find difference between two sets. ेट् औि उनके ऑपिेशन्स मझाएं। दो ेट् के बीच अंति खोजने का प्रोग्राम षलखें",
+      "english_question": "Explain sets and their operations. Write a program to find difference between two sets.",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss tuple and list slicing. Write a program to reverse a tuple. ट्यूपल औि षल् स्लाइष ंग पि चचास किें। एक ट्यूपल को रिव स किने का प्रोग्राम षलखें",
+      "english_question": "Discuss tuple and list slicing. Write a program to reverse a tuple. ट्यूपल औि षल् स्लाइष ंग पि चचास किें। एक ट्यूपल को रिव स किने का प्रोग्राम षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain manipulating file pointer using seek(). Write a program to read last n lines from a file. seek() का उपयोग किके फाइल पॉइंटि मैषनपुलेट किना मझाएं। एक फाइल े अंषतम n लाइनों को पढ़ने का प्रोग्राम षलखें",
+      "english_question": "Explain manipulating file pointer using seek(). Write a program to read last n lines from a file. seek() n",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe regular expressions using re module. Write a program to find all digits in a string. re मॉड्यूल का उपयोग किके िेगुलि एक्सप्रेशन्स वणसन किें। एक स्ट् रंग में भी अंकों को खोजने का प्रोग्राम षलखें",
+      "english_question": "Describe regular expressions using re module. Write a program to find all digits in a string. re मॉड्यूल का उपयोग किके िेगुलि एक्सप्रेशन्स वणसन किें। एक स्ट् रंग में भी अंकों को खोजने का प्रोग्राम षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain inheritance and polymorphism. Write",
+      "english_question": "Explain inheritance and polymorphism. Write",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "program showing multipleinheritance. ए. इनहेरिटें औि पॉलीमॉषफसज्म मझाएं। मल्टीपल इनहेरिटें षदखाने वाला प्रोग्राम षलखें",
+      "english_question": "program showing multipleinheritance. ए. इनहेरिटें औि पॉलीमॉषफसज्म मझाएं। मल्टीपल इनहेरिटें षदखाने वाला प्रोग्राम षलखें",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss Tkinter widgets. Write a program to create a simple window with a label using Tkinter. Tkinter षवजेट् पि चचास किें। Tkinter का उपयोग किके एक ाधािण षवंडो में लेबल बनाने का प्रोग्राम षलखें",
+      "english_question": "Discuss Tkinter widgets. Write a program to create a simple window with a label using Tkinter. Tkinter Tkinter",
+      "year": 2026,
+      "source_file": "02-2026-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "|What are Python variables? Give an example of dec ing nu meric data types: Kl पाइथनवैरिएबल्सक्याहैं? न्यूमेरिकडेटाप्रकारघोषितकरनेकाएकउदाहरणदें bY Differentiate between for loop using range and while loop in Python. [६५2 पाइथनमें रेंजकाउपयोगकरकेफॉरलूपऔरव्हाइल तूपकेबीचअंतरबताएँ —",
+      "english_question": "What are Python variables Give an example of dec ing nu meric data types: Kl bY Differentiate between for loop using range and while loop in Python. [६५2",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "| Explain string slicing in Python with an example, | K2 पाइथनमें स्टिंगस्लाइसिंगकोएकउदाहरणकेसाधसमझाएं",
+      "english_question": "| Explain string slicing in Python with an example, | K2 पाइथनमें स्टिंगस्लाइसिंगकोएकउदाहरणकेसाधसमझाएं",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "d",
+      "original_question": "| ०१15 3 tuple in Python? How is itdifferent from alist? | Kl .___| पाइथनमें ट्यूपलक्याहै? यहलिस्टसेकैसेअलगहै? fe i¢. | Define dictionary in Python and give an example of its manipulation. Kl का |पाइथन में डिक्शनरीकोपरिभाषित करें औरइसकेमैनिपुलेशनकाएकउदाहरणदें।| _a oN) 'f, |What are read() and readline() functions in file handling? - |Kl pe |_| rset फ़ाइलहैं डलिंग",
+      "english_question": "tuple in Python How is itdifferent from alist Kl . fe i Define dictionary in Python and give an example of its manipulation. Kl a oN) 'f, What are read() and readline() functions in file handling Kl pe rset",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "read() और ३५0] औरreadiine() FEAT BTहैं? oo दिन ! Fxptiis encapsulation in Python OOP.",
+      "english_question": "read() और ३५0] औरreadiine() FEAT BTहैं? oo दिन ! Fxptiis encapsulation in Python OOP.",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "1पाइथन007 मैंएनकैप्सुलेशनसगझाएं।_ ee रद Haceany three of thefollowing: -- -- 1\"3=21 ढ़ . Question pmo; | a. xplain Python basic operators and data types. Write a program tocheck ifa) umber is even orodd using if-else. प्राइथनबेसिकऑपरेटर्सऔरडेटाप्रकारसमझाएं।if-else काउपयोगकरकेएकसंख्या | समयाविषमजांचनेerwin",
+      "english_question": "ee Haceany three of thefollowing: -- -- 1\"3=21 Question pmo; a. xplain Python basic operators and data types. Write a program tocheck ifa) umber is even orodd using if-else. if-else erwin",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "ese statements: pass, continue,break.Write a program | |K2 to print prime numbers between 1 to 50 using far loop: तूपमैनिपुलेशनREACH: pass, continue, breakवर्णन Hy forलूपकाउपयोगकरके | 1 Aso तकप्राइम नंबर्सप्रिंटकरनेaor toafered) eeee lc. | Discuss string operations and built-in functions. Write a program to count}? | K2",
+      "english_question": "ese statements: pass, continue,break.Write a program | |K2 to print prime numbers between 1 to 50 using far loop: तूपमैनिपुलेशनREACH: pass, continue, breakवर्णन Hy forलूपकाउपयोगकरके | 1 Aso तकप्राइम नंबर्सप्रिंटकरनेaor toafered) eeee lc. | Discuss string operations and built-in functions. Write a program to count}? | K2",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "vowels in a string. स्ट्रिंगऑपेशन्सऔरदिल्ट-इनGaara परचर्चाकरें।एकस्टिंगमेंखरोंकीगिनती ' छरनेकीप्राप्रामलिखें oo",
+      "english_question": "vowels in a string. स्ट्रिंगऑपेशन्सऔरदिल्ट-इनGaara परचर्चाकरें।एकस्टिंगमेंखरोंकीगिनती ' छरनेकीप्राप्रामलिखें oo",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "oo! J. , Explain list wd dictiorary in buill functions, Write a progrim to merge two lie है | लिस्टऔरडिक्शनरीइन-बिल्टफंव्शन्ससमझाएं।दोडिक्शनरीमर्जकरनेकाप्रोग्राम लिखें oo | €. Describe file writing functions: write(), writelines(). Write a program to write 4 | K2 student records toa file. फाइलराइटिंगफंवशन्स: ५11५५), writolinesy वर्णनकरें।एकफाइलमेंछात्ररिकॉर्ड्स a कर https://www.pyqonline.com wa “य]य cr pee PAP Nu: Roll Na:",
+      "english_question": "oo J. , Explain list wd dictiorary in buill functions, Write a progrim to merge two lie oo Describe file writing functions: write(), writelines(). Write a program to write 4 K2 student records toa file. writolinesy a https://www.pyqonline.com wa cr pee PAP Nu: Roll Na:",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "| 11 [| | ||. 1 ' BEC PYTHON PROGRAMMING ma SECTION ¢: ce oe Question oo हु | CO” Level no.",
+      "english_question": "| 11 [| | ||. 1 ' BEC PYTHON PROGRAMMING ma SECTION ¢: ce oe Question oo हु | CO” Level no.",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "| Explain Python blocks and onal statements, Writea program to grade, 1 students based on marks using elif. | पाइथनब्लॉक्सऔरकंडीशनलREACH समझाएं।out काउपयोगकरकेछात्रोंको हे _.मार्क्सकेआधारपरग्रेडदेनेकाप्रोग्रामलिखें ee raf —_ . | Discuss for loops with strings and lists. Write a program to sum elements of a | list. स्ट्रिंसऔरलिस्ट्सकेसाथफॉरलूप्सपरचर्चाकरें।एकलिस्टकेतत्वों कायोगकरनेका प्रोग्रामलिखें जज \"|e | Explain functions in Python. Writea function to calculate area of circle. (2 |K2 पाइथनमें फंक्शन्ससमझाएं।सर्कलकेक्षेत्रफल कीगणनाकरनेवाला फंक्शनलिखें।_ 1 | Describe string manipulation methods. Write a program to replace characters in | 2",
+      "english_question": "Explain Python blocks and onal statements, Writea program to grade, 1 students based on marks using elif. REACH out ee raf Discuss for loops with strings and lists. Write a program to sum elements of a list. e Explain functions in Python. Writea function to calculate area of circle. (2 K2 Describe string manipulation methods. Write a program to replace characters in",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "string. +डिंगमैनिपुलेशनमेथड्सवर्णनकरें।एकद्धिंगमेंकैरेक्टर्सबदलनेकाप्रोग्रामलिखें «Explain sets and thei operations Write a program 10 find difference between | 3 two sets.",
+      "english_question": "string. + Explain sets and thei operations Write a program 10 find difference between two sets.",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "| Discuss tuple and list slicing. Write a program tateverse a tuple. | अल औरलिस्टस्ताइसिंग परचर्चाकरें।एकट्यूपलरिवर्सकरनेanemia AUempt any one part of the following: (४7५1-४7 ‘at | Expiawn manipulating file pointer using seek() Write a program to read last n linus from a file, seek() वेगउपयोगकरकेफाइलपॉइंटरमैनिपुलेट करनासमझाएं।एकफाइलसेअंतिम in लाइनोंकोपटनकाप्रोग्रामलिखें।_",
+      "english_question": "Discuss tuple and list slicing. Write a program tateverse a tuple. anemia AUempt any one part of the following: (४7५1-४7 at Expiawn manipulating file pointer using seek() Write a program to read last n linus from a file, seek() in",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "| Describe regular expressions using re module, vote a program to find all digits | 4. | K2 7 na string re मॉड्यूलकाउपयोगकरकेरेगुलरएक्सप्रेश-सवर्णनकरें।एकस्ट्रिंगमें सभीअंकोंको -खोजनेकाप्रोग्रामलिखें।__ 2__Attempt any one part of thefollowing: SSS",
+      "english_question": "Describe regular expressions using re module, vote a program to find all digits K2 7 na string re Attempt any one part of thefollowing: SSS",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "| Explain inheritance and polymorphism. Write",
+      "english_question": "| Explain inheritance and polymorphism. Write",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "program showing! 5 Ki _ ! multiplenheritance. है एइनहैरिटेंसऔरपॉलीमॉर्फिज्यसमझाएं।॥त्टीजलइनहेरिटेंसदिखानेवालाप्रोग्राम कि 1 छ55 १४६te tr Matea [कणगा'y.2..t0 9 simple window with a ७७७ | S| KR | using Ikinter. रण1 ॥ Tkinter विजेट्सपरचर्चाBU Thinter काउपयोगकरकेएकसाधारणविंडोमेंलेबल _-७(बनानेकाप्रोग्रामलिखें +||+|/|//£_< https://www.pyqonline.com",
+      "english_question": "program showing! 5 Ki _ ! multiplenheritance. है एइनहैरिटेंसऔरपॉलीमॉर्फिज्यसमझाएं।॥त्टीजलइनहेरिटेंसदिखानेवालाप्रोग्राम कि 1 छ55 १४६te tr Matea [कणगा'y.2..t0 9 simple window with a ७७७ | S| KR | using Ikinter. रण1 ॥ Tkinter विजेट्सपरचर्चाBU Thinter काउपयोगकरकेएकसाधारणविंडोमेंलेबल _-७(बनानेकाप्रोग्रामलिखें +||+|/|//£_< https://www.pyqonline.com",
+      "year": 2026,
+      "source_file": "03-2026-2.pdf",
+      "page_number": 2,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "a",
+      "original_question": "State how to handle exceptions in Python? Provide a simple example. पायथनम\b अपवादोकोकैससंभाल\b? एकसरलउदाहरणद\b",
+      "english_question": "State how to handle exceptions in Python Provide a simple example.",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "What will be the output of the following Python code? def compute(x): return [i**2 for i in x if i%2==0] print(compute([1, 2, 3, 4, 5])) िन\u001bिल खत पायथन कोड का आउटपुट #ा होगा? def compute(x): return [i**2 for i in x if i%2==0] print(compute([1, 2, 3, 4, 5]))",
+      "english_question": "What will be the output of the following Python code? def compute(x): return [i**2 for i in x if i%2==0] print(compute([1, 2, 3, 4, 5])) िन\u001bिल खत पायथन कोड का आउटपुट #ा होगा? def compute(x): return [i**2 for i in x if i%2==0] print(compute([1, 2, 3, 4, 5]))",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Explain floor division with an example उदाहरणकेसाथमंिज़लिवभाजन (floor division) समझाएँ",
+      "english_question": "Explain floor division with an example floor division)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Describe the purpose of the ‘with’ statement in file handling? फ़ाइलोका+बंधन (फाइलह/डिलंग) म\b 'with' कथनकेउ0े1 कावण2नकर\b",
+      "english_question": "Describe the purpose of the with statement in file handling with'",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Briefly describe the use of lambda functions in Python. पायथनम\b लै34डाफ़ं5नोकेउपयोगकासंि67 वण2नकर\b",
+      "english_question": "Briefly describe the use of lambda functions in Python.",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Demonstrate how to assign a single value to a tuple. टपल (tuple) कोएकलमानकैसेअसाइनकर\b, इस+दिश2तकर\b",
+      "english_question": "Demonstrate how to assign a single value to a tuple. tuple)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "Explain why numpy is used instead of python arrays for mathematical calculations? गणना9क गणनाओं के िलए numpy का उपयोग #ों िकया जाता है, इसे समझाएँ? Q no. Question CO",
+      "english_question": "Explain why numpy is used instead of python arrays for mathematical calculations numpy Q no. Question CO",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Design a basic calculator in Python that supports addition, subtraction, multiplication, division. पायथन म\b एक बेिसक कैलकुलेटर िडज़ाइन कर\b जो जोड़, घटाव, गुणा, भाग का समथ2नकरताहो",
+      "english_question": "Design a basic calculator in Python that supports addition, subtraction, multiplication, division.",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Define Membership and Identity Operators. Given:",
+      "english_question": "Define Membership and Identity Operators. Given:",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "= 3 Distinguish between: (a is b) and (a = = b) ? सद=ता और पहचान ऑपरेटर (Membership and Identity Operators) पAरभािषतकर\b िदया गया:",
+      "english_question": "Distinguish between: (a is b) and (a = = b) Membership and Identity Operators)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "is b) और (a == b) केबीचअंतरDEकर\b | 21-Mar-2025 1:32:40 PM | 117.55.242.134 0Roll No: PYTHON PROGRAMMING",
+      "english_question": "is b) और (a == b) केबीचअंतरDEकर\b | 21-Mar-2025 1:32:40 PM | 117.55.242.134 0Roll No: PYTHON PROGRAMMING",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Write a Python function to count the frequency of each character in a given string and return the output in a dictionary. Example: char_frequency(\"HELLO\") returns {\"H\":1, \"E\":1, \"L\":2, \"O\":1} एक पायथन फ़ं5न िलख\b जो िदए गए FGंग म\b +Hेक वण2 की आवृिJ (frequency) िगनता है और आउटपुट को एक िड5नरी म\b लौटाता है।उदाहरण: char_frequency(\"HELLO\") लौटाता है {\"H\":1, \"E\":1, \"L\":2, \"O\":1}",
+      "english_question": "Write a Python function to count the frequency of each character in a given string and return the output in a dictionary. Example: char frequency(\"HELLO\") returns {\"H\":1, \"E\":1, \"L\":2, \"O\":1} FG J (frequency) char frequency(\"HELLO\") H\":1, \"E\":1, \"L\":2, \"O\":1}",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Write a program to reverse the contents of a file character by character, separating each character with a comma. एक +ोLाम िलख\b जो िकसी फाइल की सामLी को वण2 दर वण2 उMा करे, +Hेकवण2 कोकॉमासअलगकरतOए",
+      "english_question": "Write a program to reverse the contents of a file character by character, separating each character with a comma.",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Create a pie chart using matplotlib to represent the following data: Languages Popularity Python Java C++ JavaScript Ruby matplotlib का उपयोग करके िन\u001bिल खत डेटा का +ितिनिधP करने के िलए एक पाई चाट2 बनाएं: भाषाएँ लोकि+यता पायथन जावा C++ जावा RS Tबी Q no. Question CO",
+      "english_question": "Create a pie chart using matplotlib to represent the following data: Languages Popularity Python Java C++ JavaScript Ruby matplotlib P C++ RS T Q no. Question CO",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write short notes on the following with examples:",
+      "english_question": "Write short notes on the following with examples:",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Operator Precedence",
+      "english_question": "Operator Precedence",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Python Indentation",
+      "english_question": "Python Indentation",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Type Conversion िन\u001bिल खत पर संि67 नोट िलख\b उदाहरण सिहत:",
+      "english_question": "Type Conversion िन\u001bिल खत पर संि67 नोट िलख\b उदाहरण सिहत:",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "ऑपरेटर+ाथिमकता (Operator Precedence)",
+      "english_question": "Operator Precedence)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "पायथनइंड\bटेशन (Indentation)",
+      "english_question": "पायथनइंड\bटेशन (Indentation)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "c",
+      "original_question": "+कारपAरवत2न (Type Conversion)",
+      "english_question": "Type Conversion)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a program to validate email addresses using regular expressions. Criteria:",
+      "english_question": "Write a program to validate email addresses using regular expressions. Criteria:",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "1",
+      "original_question": "Must contain @ symbol",
+      "english_question": "Must contain @ symbol",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "2",
+      "original_question": "Must contain domain name",
+      "english_question": "Must contain domain name",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "3",
+      "original_question": "Should not have spaces | 21-Mar-2025 1:32:40 PM | 117.55.242.134 0Roll No: PYTHON PROGRAMMING िनयिमतअिभU Vयों (regular expressions) का उपयोग करके ईमेल पते सHािपत करने के िलए एक +ोLाम िलख\b।मापदंड:",
+      "english_question": "Should not have spaces Mar-2025 1:32:40 PM Roll No: PYTHON PROGRAMMING U V regular expressions)",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "1",
+      "original_question": "@ िचW होना चािहए",
+      "english_question": "@ िचW होना चािहए",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "original_question": "डोमेन नाम होना चािहए",
+      "english_question": "डोमेन नाम होना चािहए",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "original_question": "Dेसनहीहोनाचािहए Q no. Question CO",
+      "english_question": "Dेसनहीहोनाचािहए Q no. Question CO",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a program to create a hollow pyramid pattern given below: नीचे िदया गया खोखला िपरािमड पैटन2 बनाने के िलए एक +ोLाम िलख\b:",
+      "english_question": "Write a program to create a hollow pyramid pattern given below:",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain the why loops are needed and the types of loops in python. Discuss break and continue with example. लूY की आव1कता #ों होती हैऔर पायथन म\b लूY के +कार #ाह/, इसे समझाएँ। break और continue कोउदाहरणसिहतसमझाएँ Q no. Question CO",
+      "english_question": "Explain the why loops are needed and the types of loops in python. Discuss break and continue with example. Y Y break continue Q no. Question CO",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a function to find the longest word in a given list of words. Example: longest_word([‘apple’, ‘banana’, ‘cherry’]) returns ‘banana’. िदए गए शZों की सूची म\b सबसे लंबा शZ खोजने के िलए एक फ़ं5न िलख\b।उदाहरण: longest_word(['apple', 'banana', 'cherry']) लौटाता है 'banana'",
+      "english_question": "Write a function to find the longest word in a given list of words. Example: longest_word([‘apple’, ‘banana’, ‘cherry’]) returns ‘banana’. िदए गए शZों की सूची म\b सबसे लंबा शZ खोजने के िलए एक फ़ं5न िलख\b।उदाहरण: longest_word(['apple', 'banana', 'cherry']) लौटाता है 'banana'",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Distinguish between a Tuple and a List with examples. Explain with examples atleast 4 built-in methods of Dictionary. टपल (Tuple) और िलF (List) के बीच अंतर DE कर\b।िड5नरी के कम से कम 4 इनिबMमेथड्स (अंतिन2िहतिविध) केउदाहरणद\b Q no. Question CO",
+      "english_question": "Distinguish between a Tuple and a List with examples. Explain with examples atleast 4 built-in methods of Dictionary. Tuple) F (List) DE Q no. Question CO",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss different types of file modes in Python? Explain with examples. पायथन म\b िविभ\\ +कार के फ़ाइल मोड पर चचा2 कर\b।उदाहरण सिहत समझाएँ | 21-Mar-2025 1:32:40 PM | 117.55.242.134 0Roll No: PYTHON PROGRAMMING",
+      "english_question": "Discuss different types of file modes in Python Explain with examples. Mar-2025 1:32:40 PM Roll No: PYTHON PROGRAMMING",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a program to read a CSV file and display the rows where a specific column value exceeds a given threshold. एक +ोLाम िलख\b जोए क CSV फ़ाइल को पढ़ेऔरउन पं Vयों को +दिश2त करे जहाँएकिवशेषकॉलममानएकिनधा2Aरतसीमासअिधकहै Q no. Question CO",
+      "english_question": "Write a program to read a CSV file and display the rows where a specific column value exceeds a given threshold. CSV Q no. Question CO",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss the role of event handling in Tkinter. How can you bind events to widgets? Provide examples. Tkinter म\b इव\bट ह/डिलंग की भूिमका पर चचा2 कर\b।आपइव\bट्स को िवजेट्स से कैसबाँधसकतेह/? उदाहरणद\b",
+      "english_question": "Discuss the role of event handling in Tkinter. How can you bind events to widgets Provide examples. Tkinter",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a program to read data from a CSV file 'students.csv', calculate the average marks for each student, and display the results. एक +ोLाम िलख\b जो 'students.csv' फ़ाइल से डेटा पढ़े, +Hेक छा_ केऔसत अंककीगणनाकरेऔरपAरणाम+दिश2तकरे",
+      "english_question": "Write a program to read data from a CSV file 'students.csv', calculate the average marks for each student, and display the results. students.csv'",
+      "year": 2025,
+      "source_file": "04-2025.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "Attempt ail questions in brief. | Qno. Question ve aa as SSE ॥ पायथनमेंअपवादो कोकैससप्तालें? एकसरलउदाहरणदें ib. What will be the output of the following Python code? |K3 def compute(x): ॥ return [i**2 for i in x if i%2—=0] print(compute([1, 2, 3, 4, 5])) ॥ निम्नलिखितपायथनकोडकाआउटपुटकयाहोगा? |] def compute(x): return [i**2 for i in x ifi'%2—=0] rint(compute([1, 2, 3, 4, 5 Ez Explain floor division with an example /2 |K2 <r उदाहरण FE साथमज़िलविभाजन(floor division) WASTE Describe the purpose of the ‘with’ statementin file handling? |K2, फ़ाइलोGIUses (फाइलहैंडलिए) मेंwith कथनेaVewaकावर्णनकरें",
+      "english_question": "Attempt ail questions in brief. Qno. Question ve aa as SSE ib. What will be the output of the following Python code K3 def compute(x): return [i**2 for i in x if i print(compute([1, 2, 3, 4, 5])) def compute(x): return [i**2 for i in x ifi' rint(compute([1, 2, 3, 4, 5 Ez Explain floor division with an example /2 K2 <r FE floor division) WASTE Describe the purpose of the with statementin file handling K2, GIUses ( with aVewa",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Briefly describe the use of lambda eon aimee Python. |e पायथनमें लैम्ब्डाGER क॒उपयोग,कोश्षन्षिप्त वर्णनकरें (६",
+      "english_question": "Briefly describe the use of lambda eon aimee Python. e GER",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Demonstrate how to assign a single Value to a tuple.",
+      "english_question": "Demonstrate how to assign a single Value to a tuple.",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "1",
+      "original_question": "[53 | टपल(tuple) कोएकलमानSAGSISA करें, इसप्रदर्शितकरें Ol”",
+      "english_question": "[53 | टपल(tuple) कोएकलमानSAGSISA करें, इसप्रदर्शितकरें Ol”",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "g",
+      "original_question": "Explain why numpy is used‘instead of python arrays for mathNal 5 calculations? id Nal गणनात्मकगणनाओएक!लिएnumpy काउपयोगक्योएकियाgree } समझाएँ?",
+      "english_question": "Explain why numpy is used instead of python arrays for mathNal 5 calculations id Nal numpy gree }",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Design a basic calculator in Python that supports addition, subtraction, | 1 | K3 multiplication, division. ieee ५ पायधनमेंएकafte कैलकुलहर डिज़ा जोजोड़, घटाव, गुणा, भागका समर्थनकरताहो N",
+      "english_question": "Design a basic calculator in Python that supports addition, subtraction, K3 multiplication, division. ieee ५ afte",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Define Membership and IdentityOperators. Given: Mf a=3 Y b=3 \\ Distinguish between: (a is 0) and (a == b) ? सदस्यताऔरपहचानऑपरतर(Membership and Identity Operators) परिभाषितकरें See LL गया: a=3 | b=3 (ais ७) और(a = b) कब्बीचअप्तरस्पष्टकरें https://www.aktdonline:com' 725 7 हाPM ह printed हे ४\\Y ॥|॥॥॥॥|॥॥MEare __.ी__.[ै] 500००Code: BY PYTHON PROGRAMMING ee eee CM MARKS: 79 eee रे Write a Python function to count the frequency of each character in 3 | 3. | K3 given string and return the output in a dictionary. Example: char_frequency(\"HELLO\") retums 1 \"BL \"०००, ९0\") Ro TT TERRA लिखें जोदिएगएfer में प्रत्यक्षवर्णकीआवृत्ति (Fequency) गिनताहैऔरआउटपुटकोएकडिक्शनरीमें लौटाता न char_frequency(\"HELLO\") लौटाताहै(\":1, \"8\":1, \".\":2, Write ३program to reverse the contents of a file character by character, Separating each character with a comma. एकप्रोग्रामलिखें जोकिसीफाइलकीसामग्रीकोवर्णदरवर्णser करा प्रत्यक्षवर्ण कोकॉमा सअलगकरत हए Create",
+      "english_question": "Define Membership and IdentityOperators. Given: Mf a=3 Y b=3 Distinguish between: (a is 0) and (a == b) Membership and Identity Operators) See LL a=3 b=3 (ais ७) a = b) https://www.aktdonline:com' 725 7 PM printed Y MEare Code: BY PYTHON PROGRAMMING ee eee CM MARKS: 79 eee Write a Python function to count the frequency of each character in 3 K3 given string and return the output in a dictionary. Example: char frequency(\"HELLO\") retums 1 \"BL \"०००, ९0\") Ro TT TERRA fer Fequency) char frequency(\"HELLO\") Write ३program to reverse the contents of a file character by character, Separating each character with a comma. ser Create",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "pie chart usin, matplotlib to represent the following data: ae —eo & eae we",
+      "english_question": "pie chart usin, matplotlib to represent the following data: ae —eo & eae we",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "[Ruby [10 रे matplotlib काउपयोगrear काकाप्रतिनिधित्वकरनाक़ालिए८3) ; एकपाईचार्टFAT गे ty भाषाएँ [लोकप्रियता ie cee > N जावा Q जावास्क्रि्ट oN SECTIONC 9 Write short notes on the following withyéxamples:",
+      "english_question": "Ruby [10 matplotlib rear FAT ty ie cee > N Q oN SECTIONC 9 Write short notes on the following withy xamples:",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Operator Precedence /",
+      "english_question": "Operator Precedence /",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Python Indentation A\\G",
+      "english_question": "Python Indentation A\\G",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Type Conversion बजे निम्नलिखितपरie ale feng उदाहरणसहित: a} ऑपरठरप्रा perator Precedence)",
+      "english_question": "Type Conversion ie ale feng a} perator Precedence)",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "UMUASSCBE (Itdentation)",
+      "english_question": "UMUASSCBE (Itdentation)",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "प्रकारपरिवर्तन(Type Conversion Write a program to validate email addresses using regular expressions. | 1 | K3 Criteria: Must contain @ symbol Must contain domain name Should not have spaces",
+      "english_question": "प्रकारपरिवर्तन(Type Conversion Write a program to validate email addresses using regular expressions. | 1 | K3 Criteria: Must contain @ symbol Must contain domain name Should not have spaces",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "a eT printed Fage: 2 ७५ V0 A PYTHON PROGRAMMING या: उप् तार$इ_॒ _[॒ [॒ [॒ 7४६MARKS: 70 पमितअभिव्यक्तिये(regular expressions) का उपयोग करका SHA al सत्यापितत करन1 का लिए एक Wa लिखें।मापदाड:",
+      "english_question": "a eT printed Fage: 2 ७५ V0 A PYTHON PROGRAMMING या: उप् तार$इ_॒ _[॒ [॒ [॒ 7४६MARKS: 70 पमितअभिव्यक्तिये(regular expressions) का उपयोग करका SHA al सत्यापितत करन1 का लिए एक Wa लिखें।मापदाड:",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "1",
+      "original_question": "७चिह्नहोनाचाहिए",
+      "english_question": "७चिह्नहोनाचाहिए",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "2",
+      "original_question": "SHH नामहोनाचाहिए",
+      "english_question": "SHH नामहोनाचाहिए",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "3",
+      "original_question": "TG नहीहोनाचाहिए | Qno. |Do estion फ्् ' Question [ Level Write a program to create a hollow pyramid pattern given below: के के मे हेकेकेकेकेजेकंकेके oD नीचादियागयाखोखलापिरामिडपैटर्नबनानाक्राहिएइकप्रोग्रामलिखें: ee Ne aeok मंदok जेटमरकेमरमर LY Explain the why loops eeded and the types of loops in pythga™ Discuss break and continbe ith example. श्र लूप्सकीआवश्यकताHeh हैऔरपायथनमेंलूप्सITER, इस समझाएँ।break औरcontinue कोउदाहरणसहितसमझाएँ ay es ____7_7_7_7_1 हत््लश क Write a function to find the longest ०१४. a given list of words. | 3 Example: longest 'सूचीमेंसबसे ‘bana |! rry’]) returns ‘banana’. दिएगएशब्दोकक़ीसूचीमेंसंबसातलहाPS खोजनाकालिएएकGER लिखें।उदाहरण: 108०७. ४०१: ‘banana’, ‘cherry']) लौटाताहै ‘banana’ z= Distinguish between a Tua.",
+      "english_question": "TG Qno. Do estion Question [ Level Write a program to create a hollow pyramid pattern given below: oD ee Ne aeok ok LY Explain the why loops eeded and the types of loops in pythga Discuss break and continbe ith example. Heh ITER, break continue ay es Write a function to find the longest ०१४. a given list of words. Example: longest ' bana rry returns banana PS GER banana cherry']) banana z= Distinguish between a Tua.",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "a List with examples. Explain with | 3 examples atleast 4Freaks hods of Dictionary. टपल(Tuple) औरलिपकाआत्तरस्पष्टकरें।डिक्शनरीकाकमao कम 4 इनबिल्टमधड्स ( विधि) कउदाहरणदें एजन जन Discuss different types of file modes in Python?folain with examples. | 4 पायथनमें विभिन्नप्रकारकाफ़ाइलमोडपरचर्चाकरें।उदाहरणसहित समझाएँ ह oO —— oa rrinted rage; 4 ot 4 ॥॥॥॥॥॥IM॥॥॥॥॥॥ _,— Sublet Code: BCC302 , R ID- PAPERIO rotor] | | TTT TTT [2] PYTHON PROGRAMMING JNUME:SHRSOM MARKS: 70 ib | Write a program to read a CSV file and display the rows where a",
+      "english_question": "a List with examples. Explain with examples atleast 4Freaks hods of Dictionary. Tuple) ao Discuss different types of file modes in Python folain with examples. oO oa rrinted rage; 4 ot 4 IM Sublet Code: BCC302 , R ID- PAPERIO rotor] TTT TTT [2] PYTHON PROGRAMMING JNUME:SHRSOM MARKS: 70 ib Write a program to read a CSV file and display the rows where a",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "| specific column value exceeds a given threshold, | एकप्रोग्रामलिखेंजोएकcsv फ़ाइलकोपढ़औरउनपक्र्तियोककोप्रदर्शित करा जहाँएकविशाष्नकॉलममानएकनिर्धारितसीमासअधिकहै [a. | Discuss the role of event handling in Tkinter. How can you bind events|5 | K2 to widgets? Provide ca les. Tkinter मेंइवेंटSSR कीभूमिकापरचर्चाकरें।आपइवेंट्सकोविजतृससा कैस बाँधसकतहैं? उदाहरणदें",
+      "english_question": "| specific column value exceeds a given threshold, | एकप्रोग्रामलिखेंजोएकcsv फ़ाइलकोपढ़औरउनपक्र्तियोककोप्रदर्शित करा जहाँएकविशाष्नकॉलममानएकनिर्धारितसीमासअधिकहै [a. | Discuss the role of event handling in Tkinter. How can you bind events|5 | K2 to widgets? Provide ca les. Tkinter मेंइवेंटSSR कीभूमिकापरचर्चाकरें।आपइवेंट्सकोविजतृससा कैस बाँधसकतहैं? उदाहरणदें",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 3,
+      "extraction_confidence": "medium"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a program to read data from a CSV file 'students.csv', calculate the | 5 avera:semarks for each student, and display the results. एकप्रोग्रामलिखेंजो'students.csv' फ़ाइलVISEUIT छात्रकभऔसत आक् कीगणनाकरऔरपरिणाम प्रदर्शितकगा।» हे हा",
+      "english_question": "Write a program to read data from a CSV file 'students.csv', calculate the avera:semarks for each student, and display the results. students.csv' VISEUIT",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "‘ > ay NK: p 7) नौ eS » > \\ — ae",
+      "english_question": "‘ > ay NK: p 7) नौ eS » > \\ — ae",
+      "year": 2025,
+      "source_file": "05-2025-a.pdf",
+      "page_number": 3,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "a SM MARKS: 70 L. Attempt all Sections. If require any missing data, then choose suitably. Attempt off questions in brief. Ib How weprint thecharacter of a givenASCII value in Python? te|Can you use else with a for Joop? If so,when is it executed?",
+      "english_question": "a SM MARKS: 70 L. Attempt all Sections. If require any missing data, then choose suitably. Attempt off questions in brief. Ib How weprint thecharacter of a givenASCII value in Python? te|Can you use else with a for Joop? If so,when is it executed?",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "| What will be the output of the following Python code? I= (1,0, 0, 2, \"hi,\" 1] print(list(filter(bool. Dy ////\"/ू/ू$ू$&०9&9&«/ &. _ Describe2 thepurpose of the split() methodin string manipulation.",
+      "english_question": "| What will be the output of the following Python code? I= (1,0, 0, 2, \"hi,\" 1] print(list(filter(bool. Dy ////\"/ू/ू$ू$&०9&9&«/ &. _ Describe2 thepurpose of the split() methodin string manipulation.",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "| What does does the readline() function return when it reaches thesade? न of a file? |gfWhich function isused to create identity matrix in NumPy? at Attempt aay three of the following: Tx3=2h —{b. | Explain how to define a list in Python. Write a Python program to uo _ an | duplicates froma list and print the resulting list. fae ic Explain the concept of functions in Python. Write a function that takes a list of annumbers and returns the sum of all the numbers in'the list. ld. | Write a Python program to read a file named “ABC.txt? and count the number file named “ABC.txt” and count the number of lines, words. and characters in the file. ___tne\" डकारWile = Pon",
+      "english_question": "| What does does the readline() function return when it reaches thesade? न of a file? |gfWhich function isused to create identity matrix in NumPy? at Attempt aay three of the following: Tx3=2h —{b. | Explain how to define a list in Python. Write a Python program to uo _ an | duplicates froma list and print the resulting list. fae ic Explain the concept of functions in Python. Write a function that takes a list of annumbers and returns the sum of all the numbers in'the list. ld. | Write a Python program to read a file named “ABC.txt? and count the number file named “ABC.txt” and count the number of lines, words. and characters in the file. ___tne\" डकारWile = Pon",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "है fe. | Explain the basic usage of: matplotlib for plotting’ graphs. Write a Python | program to plot a simple line graph showing the relationship between x = [1, 2, SECTION ९ 7x1l=7 [(b) 1Write a Python Program to find the LCM of two numbers, Ixj=7",
+      "english_question": "है fe. | Explain the basic usage of: matplotlib for plotting’ graphs. Write a Python | program to plot a simple line graph showing the relationship between x = [1, 2, SECTION ९ 7x1l=7 [(b) 1Write a Python Program to find the LCM of two numbers, Ixj=7",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "| Write9 program takes two strings and checks common letiers in both”the | strings ' | Enter first string: Hari | Enter second string: Hale | The common letters are: 1H",
+      "english_question": "| Write9 program takes two strings and checks common letiers in both”the | strings ' | Enter first string: Hari | Enter second string: Hale | The common letters are: 1H",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "(b) ] Write a Python Program to find the sum all the items in a dictionary. For example ifd=s'A\"100.'3\"'540,'C:239) then output should ७87०. 1|Fazge ॥॥॥|॥॥॥॥॥॥॥॥॥॥॥॥ rarerioatvor rotNo: | tf ty itl) PYTHON PROGRAMMING ee लए ।Explain the concept ofa set in Python and its characteristics How elements are डॉ>पध्पणात्तात्णव्ततह... ((b) | Explain how lambda functions can be used within a list comprehension Write a | Python program that uses a lambda function within a list comprehension to जतागलाa list oftemperatures in Celsius to Fahrenheit. 7x1l=7",
+      "english_question": "(b) ] Write a Python Program to find the sum all the items in a dictionary. For example ifd=s'A\"100.'3\"'540,'C:239) then output should ७87०. 1|Fazge ॥॥॥|॥॥॥॥॥॥॥॥॥॥॥॥ rarerioatvor rotNo: | tf ty itl) PYTHON PROGRAMMING ee लए ।Explain the concept ofa set in Python and its characteristics How elements are डॉ>पध्पणात्तात्णव्ततह... ((b) | Explain how lambda functions can be used within a list comprehension Write a | Python program that uses a lambda function within a list comprehension to जतागलाa list oftemperatures in Celsius to Fahrenheit. 7x1l=7",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "| Explain differentfile opening modes also write a Python Program to read a file the first letter ofevery word in the file. — / 7>-७६02-1 Whatdo youMean byYgenerators in Python? How it iscreated inPython?",
+      "english_question": "| Explain differentfile opening modes also write a Python Program to read a file the first letter ofevery word in the file. — / 7>-७६02-1 Whatdo youMean byYgenerators in Python? How it iscreated inPython?",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "| Describe how to generate random numbers”using NumPy. Write a Python पता Esha eats an array of S random integersbetween 10 and50. _7tb) | Explain the concept of DataFrame in pandas. Write a Python program to create ~",
+      "english_question": "| Describe how to generate random numbers”using NumPy. Write a Python पता Esha eats an array of S random integersbetween 10 and50. _7tb) | Explain the concept of DataFrame in pandas. Write a Python program to create ~",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "PataFrame from a dictionary and printita.ee eeoat",
+      "english_question": "PataFrame from a dictionary and printita.ee eeoat",
+      "year": 2024,
+      "source_file": "06-2024.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "State any two characteristics of python programming language.",
+      "english_question": "State any two characteristics of python programming language.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Tell how to initialize a string in python?",
+      "english_question": "Tell how to initialize a string in python?",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Differentiate between an array and a list.",
+      "english_question": "Differentiate between an array and a list.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Explain slicing.",
+      "english_question": "Explain slicing.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Define a function in python.",
+      "english_question": "Define a function in python.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Define global scope with respect to functions.",
+      "english_question": "Define global scope with respect to functions.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "What is a stack? h. Define a queue in python.",
+      "english_question": "What is a stack? h. Define a queue in python.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "Explain Big-O notation. j. Define dynamic programming.",
+      "english_question": "Explain Big-O notation. j. Define dynamic programming.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain in detail the various data types in python?",
+      "english_question": "Explain in detail the various data types in python?",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain the use of tuples and dictionaries. Use valid examples and their associated operations.",
+      "english_question": "Explain the use of tuples and dictionaries. Use valid examples and their associated operations.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "What is a file handle. Explain its utility and significance with examples.",
+      "english_question": "What is a file handle. Explain its utility and significance with examples.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Explain the various commands related to queues and stacks in python.",
+      "english_question": "Explain the various commands related to queues and stacks in python.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Write a program for multiplication of two matrices in python.",
+      "english_question": "Write a program for multiplication of two matrices in python.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Summarize – break, continue and pass with examples.",
+      "english_question": "Summarize – break, continue and pass with examples.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Briefly explain the functions of python IDE’s.",
+      "english_question": "Briefly explain the functions of python IDE’s.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain various list operations with suitable examples.",
+      "english_question": "Explain various list operations with suitable examples.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain and write the program for selection sort.",
+      "english_question": "Explain and write the program for selection sort.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the various commands related to reading of files in python.",
+      "english_question": "Explain the various commands related to reading of files in python.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Summarize with examples write related commands in python programming.",
+      "english_question": "Summarize with examples write related commands in python programming.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Briefly explain classes and objects in python. Write any valid program to explain them.",
+      "english_question": "Briefly explain classes and objects in python. Write any valid program to explain them.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Summarize search trees in python. Briefly explain binary trees.",
+      "english_question": "Summarize search trees in python. Briefly explain binary trees.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a python program to calculate simple greatest common divisor (gcd) and explain it.",
+      "english_question": "Write a python program to calculate simple greatest common divisor (gcd) and explain it.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Summarize a python program for Euclid’s algorithm for gcd.",
+      "english_question": "Summarize a python program for Euclid’s algorithm for gcd.",
+      "year": 2024,
+      "source_file": "07-2024-b.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Describe the concept of list comprehension with a suitable example",
+      "english_question": "Describe the concept of list comprehension with a suitable example",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Differentiate between / and // operator with an example",
+      "english_question": "Differentiate between / and // operator with an example",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Compute the output of the following python code: def count(s): for str in string.split(): s = “&”.join(str) return s print(count(“Python is fun to learn.”))",
+      "english_question": "Compute the output of the following python code: def count(s): for str in string.split(): s = “&”.join(str) return s print(count(“Python is fun to learn.”))",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "How to use the functions defined in library.py in main.py",
+      "english_question": "How to use the functions defined in library.py in main.py",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Describe the difference between linspace and argspace.",
+      "english_question": "Describe the difference between linspace and argspace.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Explain why the program generates an error. x = [‘12’, ’hello’, 456] x[0] *= 3 x[1][1]=’bye’",
+      "english_question": "Explain why the program generates an error. x = [‘12’, ’hello’, 456] x[0] *= 3 x[1][1]=’bye’",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "Describe about different functions of matplotlib and pandas.",
+      "english_question": "Describe about different functions of matplotlib and pandas.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Illustrate Unpacking tuples, mutable sequences, and string concatenation with examples",
+      "english_question": "Illustrate Unpacking tuples, mutable sequences, and string concatenation with examples",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Illustrate different list slicing constructs for the following operations on the following list: L = [1, 2, 3, 4, 5, 6, 7, 8, 9]",
+      "english_question": "Illustrate different list slicing constructs for the following operations on the following list: L = [1, 2, 3, 4, 5, 6, 7, 8, 9]",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "1",
+      "original_question": "Return a list of numbers starting from the last to second item of the list",
+      "english_question": "Return a list of numbers starting from the last to second item of the list",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "2",
+      "original_question": "Return a list that start from 3rd item to second last item.",
+      "english_question": "Return a list that start from 3rd item to second last item.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "3",
+      "original_question": "Return a list that has only even position elements of list L to list M.",
+      "english_question": "Return a list that has only even position elements of list L to list M.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "4",
+      "original_question": "Return a list that starts from the middle of the list L.",
+      "english_question": "Return a list that starts from the middle of the list L.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "5",
+      "original_question": "Return a list that reverses all the elements starting from element at index 0 to middle index only and return the entire list. Divide each element of the list by 2 and replace it with the remainder.",
+      "english_question": "Return a list that reverses all the elements starting from element at index 0 to middle index only and return the entire list. Divide each element of the list by 2 and replace it with the remainder.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Construct a function perfect_square(number) that returns a number if it is a perfect square otherwise it returns -1. For example: perfect_square(1) returns 1 perfect_square (2) returns -1",
+      "english_question": "Construct a function perfect_square(number) that returns a number if it is a perfect square otherwise it returns -1. For example: perfect_square(1) returns 1 perfect_square (2) returns -1",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Construct a program to change the contents of the file by reversing each character separated by comma: Hello!! Output H,e,l,l,o,!,!",
+      "english_question": "Construct a program to change the contents of the file by reversing each character separated by comma: Hello!! Output H,e,l,l,o,!,!",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Construct a plot for following dataset using matplotlib : | 12-03-2024 13:20:30 | 117.55.242.132 0Roll No: 0 0 PYTHON PROGRAMMING Food Calories Potassium fat Meat Banana Avocados Sweet Potatoes Spinach Watermelon Coconut water Beans Legumes Tomato",
+      "english_question": "Construct a plot for following dataset using matplotlib : | 12-03-2024 13:20:30 | 117.55.242.132 0Roll No: 0 0 PYTHON PROGRAMMING Food Calories Potassium fat Meat Banana Avocados Sweet Potatoes Spinach Watermelon Coconut water Beans Legumes Tomato",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Determine a python function removenth(s,n) that takes an input a string and an integer n>=0 and removes a character at index n. If n is beyond the length of s, then whole s is returned. For example: removenth(“MANGO”,1) returns MNGO removenth(“MANGO”,3) returns MANO",
+      "english_question": "Determine a python function removenth(s,n) that takes an input a string and an integer n>=0 and removes a character at index n. If n is beyond the length of s, then whole s is returned. For example: removenth(“MANGO”,1) returns MNGO removenth(“MANGO”,3) returns MANO",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Construct a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically. Suppose the following input is supplied to the program: without, hello, bag, world Then, the output should be: bag, hello, without, world",
+      "english_question": "Construct a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically. Suppose the following input is supplied to the program: without, hello, bag, world Then, the output should be: bag, hello, without, world",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "A website requires the users to input username and password to register. Construct",
+      "english_question": "A website requires the users to input username and password to register. Construct",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "program to check the validity of password input by users. Following are the criteria for checking the password:",
+      "english_question": "program to check the validity of password input by users. Following are the criteria for checking the password:",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "1",
+      "original_question": "At least 1 letter between [a-z]",
+      "english_question": "At least 1 letter between [a-z]",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "2",
+      "original_question": "At least 1 number between [0-9]",
+      "english_question": "At least 1 number between [0-9]",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "4",
+      "original_question": "At least 1 character from [$#@]",
+      "english_question": "At least 1 character from [$#@]",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "5",
+      "original_question": "Minimum length of transaction password: 6",
+      "english_question": "Minimum length of transaction password: 6",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "6",
+      "original_question": "Maximum length of transaction password: 12 Your program should accept a sequence of comma separated passwords and will check them according to the above criteria. Passwords that match the criteria are to be printed, each separated by a comma",
+      "english_question": "Maximum length of transaction password: 12 Your program should accept a sequence of comma separated passwords and will check them according to the above criteria. Passwords that match the criteria are to be printed, each separated by a comma",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explore the working of while, and for loop with examples. | 12-03-2024 13:20:30 | 117.55.242.132 0Roll No: 0 0 PYTHON PROGRAMMING",
+      "english_question": "Explore the working of while, and for loop with examples. | 12-03-2024 13:20:30 | 117.55.242.132 0Roll No: 0 0 PYTHON PROGRAMMING",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Construct a function ret smaller(l) that returns smallest list from a nested list. If two lists have same length then return the first list that is encountered. For example: ret smaller([ [ -2, -1, 0, 0.12, 1, 2], [3, 4, 5], [6 , 7, 8, 9, 10], [11, 12, 13, 14, 15]]) returns [3,4,5] ret smaller([ [ -2, -1, 0, 0.12, 1, 2], [‘a’, ’b’, ’c’, ’d’, 3, 4, 5], [6 , 7, 8, 9, 10], [11, 12, 13, 14, 15]]) returns [6 , 7, 8, 9, 10]",
+      "english_question": "Construct a function ret smaller(l) that returns smallest list from a nested list. If two lists have same length then return the first list that is encountered. For example: ret smaller([ [ -2, -1, 0, 0.12, 1, 2], [3, 4, 5], [6 , 7, 8, 9, 10], [11, 12, 13, 14, 15]]) returns [3,4,5] ret smaller([ [ -2, -1, 0, 0.12, 1, 2], [‘a’, ’b’, ’c’, ’d’, 3, 4, 5], [6 , 7, 8, 9, 10], [11, 12, 13, 14, 15]]) returns [6 , 7, 8, 9, 10]",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Construct following filters:",
+      "english_question": "Construct following filters:",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "1",
+      "original_question": "Filter all the numbers",
+      "english_question": "Filter all the numbers",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "2",
+      "original_question": "Filter all the strings starting with a vowel",
+      "english_question": "Filter all the strings starting with a vowel",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "3",
+      "original_question": "Filter all the strings that contains any of the following noun: Agra, Ramesh, Tomato, Patna. Create a program that implements these filters to clean the text.",
+      "english_question": "Filter all the strings that contains any of the following noun: Agra, Ramesh, Tomato, Patna. Create a program that implements these filters to clean the text.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Change all the numbers in the file to text. Construct a program for the same. Example: Given 2 integer numbers, return their product only if the product is equal to or lower than 10. And the result should be: Given two integer numbers, return their product only if the product is equal to or lower than one zero",
+      "english_question": "Change all the numbers in the file to text. Construct a program for the same. Example: Given 2 integer numbers, return their product only if the product is equal to or lower than 10. And the result should be: Given two integer numbers, return their product only if the product is equal to or lower than one zero",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Construct a program which accepts a sequence of words separated by whitespace as file input. Print the words composed of digits only.",
+      "english_question": "Construct a program which accepts a sequence of words separated by whitespace as file input. Print the words composed of digits only.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Construct a program to read cities.csv dataset, remove last column and save it in an array. Save the last column to another array. Plot the first two columns.",
+      "english_question": "Construct a program to read cities.csv dataset, remove last column and save it in an array. Save the last column to another array. Plot the first two columns.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Design a calculator with the following buttons and functionalities like addition, subtraction, multiplication, division and clear.",
+      "english_question": "Design a calculator with the following buttons and functionalities like addition, subtraction, multiplication, division and clear.",
+      "year": 2024,
+      "source_file": "08-2024-a.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe the use of class *__init__()° method. .c, Explain features ofany two Python IDEs. Discuss the purpose of the break and continue statement in loops. _e. Explain mutable sequences in Python.",
+      "english_question": "Describe the use of class *__init__()° method. .c, Explain features ofany two Python IDEs. Discuss the purpose of the break and continue statement in loops. _e. Explain mutable sequences in Python.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Explain the output of following function.",
+      "english_question": "Explain the output of following function.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "defprintalpha (abc_list, num_list): for char in abc_list: for num in num_list: print(char, num) return printalpha ({'a’, “b’. 'c'], [1, 2, 31)",
+      "english_question": "defprintalpha (abc_list, num_list): for char in abc_list: for num in num_list: print(char, num) return printalpha ({'a’, “b’. 'c'], [1, 2, 31)",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "Discuss the special metheds __le__ and __ne_. bh. Discuss various file opening modes of python. L Compare assert, try-except and raise statements. j. Write python function to perform linear search.",
+      "english_question": "Discuss the special metheds __le__ and __ne_. bh. Discuss various file opening modes of python. L Compare assert, try-except and raise statements. j. Write python function to perform linear search.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write Python code snippet to display n terms of Fibonacci series using recursion.",
+      "english_question": "Write Python code snippet to display n terms of Fibonacci series using recursion.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write and explain an algorithm through python code to generate prime numbers. Compare list and tuple data structure with suitable examples. Explain the concept of list comprehension. Explain the python implementation of stack ADT. Describe python program to implement selection sort. Simulate your code on the following data",
+      "english_question": "Write and explain an algorithm through python code to generate prime numbers. Compare list and tuple data structure with suitable examples. Explain the concept of list comprehension. Explain the python implementation of stack ADT. Describe python program to implement selection sort. Simulate your code on the following data",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "2",
+      "original_question": "52, 1.5,2.54,62,64.",
+      "english_question": "52, 1.5,2.54,62,64.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss various categories of operators in python. Find and explain stepwise solution of following expressions if a=3, b=5, c=10. 1)",
+      "english_question": "Discuss various categories of operators in python. Find and explain stepwise solution of following expressions if a=3, b=5, c=10. 1)",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "&b<<2//5**2+¢%b",
+      "english_question": "&b<<2//5**2+¢%b",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "ii",
+      "original_question": "b>>a**2<<2 >> DE*2AG #3 Discuss why python is interpreted language. Explain history and features of python while comparing python version 2 and 3.",
+      "english_question": "b>>a**2<<2 >> DE*2AG #3 Discuss why python is interpreted language. Explain history and features of python while comparing python version 2 and 3.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a python program to count the vowels present in given input string. ‘Explain the output of program through example. Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.",
+      "english_question": "Write a python program to count the vowels present in given input string. ‘Explain the output of program through example. Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "g. If Input: Hello world Practice makes perfect Then, Output: है HELLO WORLD ~* PRACTICE MAKES PERFECT हा fn ¢",
+      "english_question": "g. If Input: Hello world Practice makes perfect Then, Output: है HELLO WORLD ~* PRACTICE MAKES PERFECT हा fn ¢",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss list data structure of python. Explain various inbuilt methods of list with suitable example of each.",
+      "english_question": "Discuss list data structure of python. Explain various inbuilt methods of list with suitable example of each.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "b. Compare list and dictionary data structure. Explain various dictionary methods with suitable examples of each. ” Discuss the concept of Iterators in python. Explain, how we can create text file in python? Describe python program to write the number of letters and digits in given input string into a File object.",
+      "english_question": "b. Compare list and dictionary data structure. Explain various dictionary methods with suitable examples of each. ” Discuss the concept of Iterators in python. Explain, how we can create text file in python? Describe python program to write the number of letters and digits in given input string into a File object.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Illustrate through examples, hew we can implement different type of . ‘ inheritance in python? Explain the: static, instance and class method through suitable example.",
+      "english_question": "Illustrate through examples, hew we can implement different type of . ‘ inheritance in python? Explain the: static, instance and class method through suitable example.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the Tower of Hanoi problem and its recursive solution in Python.",
+      "english_question": "Explain the Tower of Hanoi problem and its recursive solution in Python.",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write python program to implement merge sort algorithm. Discuss, how we can compare the time complexity of two algorithms?",
+      "english_question": "Write python program to implement merge sort algorithm. Discuss, how we can compare the time complexity of two algorithms?",
+      "year": 2023,
+      "source_file": "09-2023.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Define the programming cycle for Python",
+      "english_question": "Define the programming cycle for Python",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe the use of class *__init__()° method. Explain features of any two Python IDEs.",
+      "english_question": "Describe the use of class *__init__()° method. Explain features of any two Python IDEs.",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Discuss the purpose of the break and continue statement in loops.",
+      "english_question": "Discuss the purpose of the break and continue statement in loops.",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Explain mutable sequences in Python.",
+      "english_question": "Explain mutable sequences in Python.",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Explain the output of following function. “ defprintalpha (abe_list, num_list): O) for char in abc_list: 0,Y for num in num_list: ‘7s nN L print(char, num) Q return KY पे printalpha ([७, '७', 'c'], (1.2) ‘",
+      "english_question": "Explain the output of following function. “ defprintalpha (abe_list, num_list): O) for char in abc_list: 0,Y for num in num_list: ‘7s nN L print(char, num) Q return KY पे printalpha ([७, '७', 'c'], (1.2) ‘",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "Discuss the special moh —le__ and __ne__. (५2 h. Discuss various file @pduing modes of python N",
+      "english_question": "Discuss the special moh —le__ and __ne__. (५2 h. Discuss various file @pduing modes of python N",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "Compare assert, try-excep! and raise statements. > J. White python function to perform linear search. Oo.” Ne,",
+      "english_question": "Compare assert, try-excep! and raise statements. > J. White python function to perform linear search. Oo.” Ne,",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "iv",
+      "original_question": "‘otowin. OS",
+      "english_question": "‘otowin. OS",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write Python codeashen n terms of Fibonacci series using recursion,",
+      "english_question": "Write Python codeashen n terms of Fibonacci series using recursion,",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write and explain 31 9 m through python code to generate prime numbers Compare list and tuple data suucture With suitable examples. Explain the concept of list comprehension. ‘stack ADT",
+      "english_question": "Write and explain 31 9 m through python code to generate prime numbers Compare list and tuple data suucture With suitable examples. Explain the concept of list comprehension. ‘stack ADT",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Explain the python implementation of stack ADT",
+      "english_question": "Explain the python implementation of stack ADT",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Describe python program 10 implement clecuon sort, Simulate your code on the following data",
+      "english_question": "Describe python program 10 implement clecuon sort, Simulate your code on the following data",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "2",
+      "original_question": "§2,1.5.2,54,02,64 AKTU paper | www.aktunotes.in",
+      "english_question": "§2,1.5.2,54,02,64 AKTU paper | www.aktunotes.in",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss various categories of operators in python. Find and explain stepwise solution of following expressions if a=3, b=5, c=10.",
+      "english_question": "Discuss various categories of operators in python. Find and explain stepwise solution of following expressions if a=3, b=5, c=10.",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "a &b<<2//5**240%b",
+      "english_question": "a &b<<2//5**240%b",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "ii",
+      "original_question": "b>>a**2<<2 >> b**2%c**3",
+      "english_question": "b>>a**2<<2 >> b**2%c**3",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "a catures of",
+      "english_question": "a catures of",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss why python is interpreted language. Explain history nd tea python while comparing python version 2 and 3.",
+      "english_question": "Discuss why python is interpreted language. Explain history nd tea python while comparing python version 2 and 3.",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a python program to count the vowels present in given input string. Explain the output of program through example. Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.",
+      "english_question": "Write a python program to count the vowels present in given input string. Explain the output of program through example. Write a program that accepts sequence of lines as input and prints the lines after making all characters in the sentence capitalized.",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "g. [f Input: Hello world Practice makes perfect",
+      "english_question": "g. [f Input: Hello world Practice makes perfect",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Then, Output: HELLO WORLD Oy oS PRACTICE MAKES PERFECT 6) KY 10x“a(10 ow",
+      "english_question": "Then, Output: HELLO WORLD Oy oS PRACTICE MAKES PERFECT 6) KY 10x“a(10 ow",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss list dataoesAF python. Explain various inbuilt ५७५७७oF list with suitable example कं m",
+      "english_question": "Discuss list dataoesAF python. Explain various inbuilt ५७५७७oF list with suitable example कं m",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Compare list and ary data strudure. Explain various diguionary methods with suitable examples of each. QS",
+      "english_question": "Compare list and ary data strudure. Explain various diguionary methods with suitable examples of each. QS",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "v",
+      "original_question": "Altempt any one part of the following: 0) ye on AA",
+      "english_question": "Altempt any one part of the following: 0) ye on AA",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss the concept of Iterators in python Explain, how we can create text file in python? Descnbe python programnayte the number of letters and digits in given input string into a File object,",
+      "english_question": "Discuss the concept of Iterators in python Explain, how we can create text file in python? Descnbe python programnayte the number of letters and digits in given input string into a File object,",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Hlustrate through examples, १००३can implement different type of inheritance in python? Explaube ic. instance and class method through suitable example. Q हु )",
+      "english_question": "Hlustrate through examples, १००३can implement different type of inheritance in python? Explaube ic. instance and class method through suitable example. Q हु )",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the Tower of Hanoi problem and its [६४७७९solution in PVthon",
+      "english_question": "Explain the Tower of Hanoi problem and its [६४७७९solution in PVthon",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "White python program to implement वार? ort algonthin: Discuss. how we can compare the ime complexity of two algonthmys? AKTU paper | www.aktunotes.in",
+      "english_question": "White python program to implement वार? ort algonthin: Discuss. how we can compare the ime complexity of two algonthmys? AKTU paper | www.aktunotes.in",
+      "year": 2023,
+      "source_file": "10-2023-d.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the Programming Cycle for Python in detail..",
+      "english_question": "Explain the Programming Cycle for Python in detail..",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe the concept of List Slicing with a suitable example. (०) Show the way to import the module in python.",
+      "english_question": "Describe the concept of List Slicing with a suitable example. (०) Show the way to import the module in python.",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Differentiate between Python .Arrays and lists?",
+      "english_question": "Differentiate between Python .Arrays and lists?",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Define floor division with an example. (9 Explain the difference between ‘append’ and ‘extend’ in Python?",
+      "english_question": "Define floor division with an example. (9 Explain the difference between ‘append’ and ‘extend’ in Python?",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "What is a dictionary in Python? (1) What is object-oriented programm(t JOOP) in Python? Give an example.",
+      "english_question": "What is a dictionary in Python? (1) What is object-oriented programm(t JOOP) in Python? Give an example.",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "What will be the output of theCpuogine python code “Y defcounten vows. EIOUaeiou\" ay OS ems: (> 110 in vowels: countt=1 return count print(count!(‘I love India’))_ (j)' What will be the output of the following cong न ' list] = ['M', '०', 'n’, 1०, '५\"] aN print(\"@\" join(list!)) serio ह",
+      "english_question": "What will be the output of theCpuogine python code “Y defcounten vows. EIOUaeiou\" ay OS ems: (> 110 in vowels: countt=1 return count print(count!(‘I love India’))_ (j)' What will be the output of the following cong न ' list] = ['M', '०', 'n’, 1०, '५\"] aN print(\"@\" join(list!)) serio ह",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Demonstrate five hae efit built in functions used in the String. Write_a. ‘ program to check w era string is a palindrome or not.",
+      "english_question": "Demonstrate five hae efit built in functions used in the String. Write_a. ‘ program to check w era string is a palindrome or not.",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "(b) Explain the following loops with a flow diagram, syntax, and suitable ' xamples. है °",
+      "english_question": "(b) Explain the following loops with a flow diagram, syntax, and suitable ' xamples. है °",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Explain the continue, break, and pass statements with a suitable example. ह हे (0) Develop a program to calculate the reverse of any entered number.",
+      "english_question": "Explain the continue, break, and pass statements with a suitable example. ह हे (0) Develop a program to calculate the reverse of any entered number.",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Explain the list Comprehension with any suitable example. ; AKTU paper | www.aktunotes.in re ©mpt any one part of the following:",
+      "english_question": "Explain the list Comprehension with any suitable example. ; AKTU paper | www.aktunotes.in re ©mpt any one part of the following:",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "(७) ilustrate Unpacking Sequences, Mutable \" Sequences, and List \" comprehension with examples. (0)... Explain the lambda faneten rice, ie: ॥ Explain map() funet; ction. How it is helpful in the higher order function. ce Soe etton with aSuitable example. oo,",
+      "english_question": "(७) ilustrate Unpacking Sequences, Mutable \" Sequences, and List \" comprehension with examples. (0)... Explain the lambda faneten rice, ie: ॥ Explain map() funet; ction. How it is helpful in the higher order function. ce Soe etton with aSuitable example. oo,",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss the different types of argument-passing methods in python. Explain thevariable length argument with any suitable example. o",
+      "english_question": "Discuss the different types of argument-passing methods in python. Explain thevariable length argument with any suitable example. o",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write short notes on the following with a suitable example t I} Encapsulation —_ ID) Inheritance (9) -Demonstrate the file handing procedure in detail. Write a python code to create a file with ‘P.txt’ nathe and wee your name and father’s name in this file and then read this file to print pay oD",
+      "english_question": "Write short notes on the following with a suitable example t I} Encapsulation —_ ID) Inheritance (9) -Demonstrate the file handing procedure in detail. Write a python code to create a file with ‘P.txt’ nathe and wee your name and father’s name in this file and then read this file to print pay oD",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Demonstrate the ‘Sieve of EratQth es’ theorem and write the pythony. 1 function to print prime numbers, betyeen 1 to 100. hk ofSK ! (6५ wing: od Vy र्तः oats",
+      "english_question": "Demonstrate the ‘Sieve of EratQth es’ theorem and write the pythony. 1 function to print prime numbers, betyeen 1 to 100. hk ofSK ! (6५ wing: od Vy र्तः oats",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Develop and yte the python code of selection, to sort 41,65,43,91,12N.4762 elements. Also, explain its complexity.",
+      "english_question": "Develop and yte the python code of selection, to sort 41,65,43,91,12N.4762 elements. Also, explain its complexity.",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain Binary search with its pyihon code and rome",
+      "english_question": "Explain Binary search with its pyihon code and rome",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the importance of Exteptj yhaling in any object-oriented programming language, Explain ॥",
+      "english_question": "Explain the importance of Exteptj yhaling in any object-oriented programming language, Explain ॥",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "ptions and finally block with any suitable example. (५४V © (0). Summarize the ‘Tower of Han6}}Puzzle and write its recursive function to implement it. Oy",
+      "english_question": "ptions and finally block with any suitable example. (५४V © (0). Summarize the ‘Tower of Han6}}Puzzle and write its recursive function to implement it. Oy",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "AKTU paper | www.aktunotes.in a",
+      "english_question": "AKTU paper | www.aktunotes.in a",
+      "year": 2023,
+      "source_file": "11-2023-c.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the Programming Cycle for Python in detail.",
+      "english_question": "Explain the Programming Cycle for Python in detail.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe the concept of List Slicing with a suitable example.",
+      "english_question": "Describe the concept of List Slicing with a suitable example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Show the way to import the module in python.",
+      "english_question": "Show the way to import the module in python.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Differentiate between Python Arrays and lists?",
+      "english_question": "Differentiate between Python Arrays and lists?",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Define floor division with an example.",
+      "english_question": "Define floor division with an example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Explain the difference between 'append' and 'extend' in Python?",
+      "english_question": "Explain the difference between 'append' and 'extend' in Python?",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "What is a dictionary in Python? (h) What is object-oriented programming (OOP) in Python? Give an example.",
+      "english_question": "What is a dictionary in Python? (h) What is object-oriented programming (OOP) in Python? Give an example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "What will be the output of the following python code def count1(s): vowels = \"AEIOUaeiou\" count = 0 for c in s: if c in vowels: count += 1 return count print(count1(‘I love India’)) (j) What will be the output of the following code? list1 = ['M', 'o', 'n', 'k', 'y'] print(\"@\".join(list1))",
+      "english_question": "What will be the output of the following python code def count1(s): vowels = \"AEIOUaeiou\" count = 0 for c in s: if c in vowels: count += 1 return count print(count1(‘I love India’)) (j) What will be the output of the following code? list1 = ['M', 'o', 'n', 'k', 'y'] print(\"@\".join(list1))",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Demonstrate five different built in functions used in the string. Write a program to check whether a string is a palindrome or not.",
+      "english_question": "Demonstrate five different built in functions used in the string. Write a program to check whether a string is a palindrome or not.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain the following loops with a flow diagram, syntax, and suitable examples.",
+      "english_question": "Explain the following loops with a flow diagram, syntax, and suitable examples.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "For II) while",
+      "english_question": "For II) while",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "low"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Explain the continue, break, and pass statements with a suitable example.",
+      "english_question": "Explain the continue, break, and pass statements with a suitable example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Develop a program to calculate the reverse of any entered number.",
+      "english_question": "Develop a program to calculate the reverse of any entered number.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Explain the list Comprehension with any suitable example. | 21-03-2023 13:31:19 | 117.55.242.132",
+      "english_question": "Explain the list Comprehension with any suitable example. | 21-03-2023 13:31:19 | 117.55.242.132",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Illustrate Unpacking Sequences, Mutable Sequences, and List comprehension with examples.",
+      "english_question": "Illustrate Unpacking Sequences, Mutable Sequences, and List comprehension with examples.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain the lambda function. How it is helpful in the higher order function. Explain map() function with a suitable example.",
+      "english_question": "Explain the lambda function. How it is helpful in the higher order function. Explain map() function with a suitable example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss the different types of argument-passing methods in python. Explain the variable length argument with any suitable example.",
+      "english_question": "Discuss the different types of argument-passing methods in python. Explain the variable length argument with any suitable example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write short notes on the following with a suitable example",
+      "english_question": "Write short notes on the following with a suitable example",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "Encapsulation II) Inheritance",
+      "english_question": "Encapsulation II) Inheritance",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Demonstrate the file handling procedure in detail. Write a python code to create a file with ‘P.txt’ name and write your name and father’s name in this file and then read this file to print it.",
+      "english_question": "Demonstrate the file handling procedure in detail. Write a python code to create a file with ‘P.txt’ name and write your name and father’s name in this file and then read this file to print it.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Demonstrate the ‘Sieve of Eratosthenes’ theorem and write the python function to print prime numbers between 1 to 100.",
+      "english_question": "Demonstrate the ‘Sieve of Eratosthenes’ theorem and write the python function to print prime numbers between 1 to 100.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Develop and write the python code of selection sort to sort 41,65,43,91,12,14,62 elements. Also, explain its complexity.",
+      "english_question": "Develop and write the python code of selection sort to sort 41,65,43,91,12,14,62 elements. Also, explain its complexity.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain Binary search with its python code and complexity.",
+      "english_question": "Explain Binary search with its python code and complexity.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the importance of Exception handling in any object-oriented programming language. Explain try exceptions and finally block with any suitable example.",
+      "english_question": "Explain the importance of Exception handling in any object-oriented programming language. Explain try exceptions and finally block with any suitable example.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Summarize the ‘Tower of Hanoi’ puzzle and write its recursive function to implement it.",
+      "english_question": "Summarize the ‘Tower of Hanoi’ puzzle and write its recursive function to implement it.",
+      "year": 2023,
+      "source_file": "13-2023-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain the Programming Cycle for Python in detail.",
+      "english_question": "Explain the Programming Cycle for Python in detail.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "What will be the output of the following Python code?",
+      "english_question": "What will be the output of the following Python code?",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "= 0 while i< 3: print(i)",
+      "english_question": "= 0 while i< 3: print(i)",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "+= 1 else: print(0)",
+      "english_question": "+= 1 else: print(0)",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "What will be the output of the following Python code? def cube(x): return x * x * x x = cube(3) print x",
+      "english_question": "What will be the output of the following Python code? def cube(x): return x * x * x x = cube(3) print x",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "How do we define an Interface for an ADT?",
+      "english_question": "How do we define an Interface for an ADT?",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "How do you perform a search in Python? Qno Questions CO",
+      "english_question": "How do you perform a search in Python? Qno Questions CO",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "What do you mean by Python IDE? Explain in detail.",
+      "english_question": "What do you mean by Python IDE? Explain in detail.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "How can you randomize the items of a list in place in Python?",
+      "english_question": "How can you randomize the items of a list in place in Python?",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Explain Tuples and Unpacking Sequences in Python Data Structure.",
+      "english_question": "Explain Tuples and Unpacking Sequences in Python Data Structure.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "What are File input and output operations in Python Programming?",
+      "english_question": "What are File input and output operations in Python Programming?",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Solve the Tower of Hanoi problem for n= 3 disk and show all the steps. Qno Questions CO",
+      "english_question": "Solve the Tower of Hanoi problem for n= 3 disk and show all the steps. Qno Questions CO",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a program in Python to execute the Selection sort algorithm.",
+      "english_question": "Write a program in Python to execute the Selection sort algorithm.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain why python is considered an interpreted language. Qno Questions CO",
+      "english_question": "Explain why python is considered an interpreted language. Qno Questions CO",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a Python program to construct the following pattern, using a nested for loop. | 22-Mar-2022 13:25:36 | 117.55.242.131 0Roll No: 0 0 PYTHON PROGRAMMING",
+      "english_question": "Write a Python program to construct the following pattern, using a nested for loop. | 22-Mar-2022 13:25:36 | 117.55.242.131 0Roll No: 0 0 PYTHON PROGRAMMING",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a program to produce Fibonacci series in Python. Qno Questions CO",
+      "english_question": "Write a program to produce Fibonacci series in Python. Qno Questions CO",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a Python program to change a given string to a new string where the first and last chars have been exchanged.",
+      "english_question": "Write a Python program to change a given string to a new string where the first and last chars have been exchanged.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a Python program to add an item in a tuple. Qno Questions CO",
+      "english_question": "Write a Python program to add an item in a tuple. Qno Questions CO",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "How to create and import a module in Python?",
+      "english_question": "How to create and import a module in Python?",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain the algorithm Sieve of Eratosthene used in Python Programming. Qno Questions CO",
+      "english_question": "Explain the algorithm Sieve of Eratosthene used in Python Programming. Qno Questions CO",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a Recursive function in python BinarySearch(Arr,l,R,X) to search the given element X to be searched from the List Arr having R elements, where l represent slower bound and R represents the upper bound.",
+      "english_question": "Write a Recursive function in python BinarySearch(Arr,l,R,X) to search the given element X to be searched from the List Arr having R elements, where l represent slower bound and R represents the upper bound.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain the terms Merge List and Merge Sort in Python Programming.",
+      "english_question": "Explain the terms Merge List and Merge Sort in Python Programming.",
+      "year": 2022,
+      "source_file": "14-2022.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "What is the use of “raise” statement? Describe with an example.",
+      "english_question": "What is the use of “raise” statement? Describe with an example.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a recursive Python function “rprint” to print all elements in a list in reverse. rprint([]) prints nothing rprint([1,2,3]) prints 3 2 1",
+      "english_question": "Write a recursive Python function “rprint” to print all elements in a list in reverse. rprint([]) prints nothing rprint([1,2,3]) prints 3 2 1",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Describe the behavior of “range (s, e)” in Python.",
+      "english_question": "Describe the behavior of “range (s, e)” in Python.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Explain the use of “with” construct in Python with an example program.",
+      "english_question": "Explain the use of “with” construct in Python with an example program.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Which of the following statements produce an error in Python? x, y, z = 1,2,3 # s1 a, b = 4,5,6 # s2 u = 7,8,9 # s3 (List all the statements that have error.)",
+      "english_question": "Which of the following statements produce an error in Python? x, y, z = 1,2,3 # s1 a, b = 4,5,6 # s2 u = 7,8,9 # s3 (List all the statements that have error.)",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "Explain the role of precedence with an example.",
+      "english_question": "Explain the role of precedence with an example.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "g",
+      "original_question": "How do you read an input from a user in Python to be used as an integer in the rest of the program? Explain with an example. h. Consider the program: x = ['12', 'hello', 456] x[0] x[1][1] = 'bye' Explain why this program generates an error.",
+      "english_question": "How do you read an input from a user in Python to be used as an integer in the rest of the program? Explain with an example. h. Consider the program: x = ['12', 'hello', 456] x[0] x[1][1] = 'bye' Explain why this program generates an error.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "What is the output of the following program? (lambda x,y : y - 2*x) (1, 11) j. Explain the use of lt function in a class Python? AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 0Roll No: 0 0 Q no. Question Marks CO",
+      "english_question": "What is the output of the following program? (lambda x,y : y - 2*x) (1, 11) j. Explain the use of lt function in a class Python? AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 0Roll No: 0 0 Q no. Question Marks CO",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a Python function removekth(s, k) that takes as input a string s and an integer k>=0 and removes the character at index k. If k is beyond the length of s, the whole of s is returned. For example, removekth(“PYTHON”, 1) returns “PTHON” removekth(“PYTHON”, 3) returns “PYTON” removekth(“PYTHON”, 0) returns “YTHON” removekth(“PYTHON”, 20) returns “PYTHON”",
+      "english_question": "Write a Python function removekth(s, k) that takes as input a string s and an integer k>=0 and removes the character at index k. If k is beyond the length of s, the whole of s is returned. For example, removekth(“PYTHON”, 1) returns “PTHON” removekth(“PYTHON”, 3) returns “PYTON” removekth(“PYTHON”, 0) returns “YTHON” removekth(“PYTHON”, 20) returns “PYTHON”",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a Python function average to compute the average of a list of numbers. The function must use try-except to handle the case where the input list is empty. Further, in that case the average for the empty list should be set to 0.0 using the except block.",
+      "english_question": "Write a Python function average to compute the average of a list of numbers. The function must use try-except to handle the case where the input list is empty. Further, in that case the average for the empty list should be set to 0.0 using the except block.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "Describe the differences between a linear search and a binary search?",
+      "english_question": "Describe the differences between a linear search and a binary search?",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "d",
+      "original_question": "Write a function lessthan(lst, k) to return list of numbers less than k from a list lst. The function must use list comprehension. Example: lessthan([1, -2, 0, 5, -3], 0) returns [-2, -3]",
+      "english_question": "Write a function lessthan(lst, k) to return list of numbers less than k from a list lst. The function must use list comprehension. Example: lessthan([1, -2, 0, 5, -3], 0) returns [-2, -3]",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "Write a program factors(N) that returns a list of all positive divisors of N (N>=1). For example: factors(6) returns [1,2,3,6] factors(1) returns [1] factors(13) returns [1,13] Q no. Question Marks CO",
+      "english_question": "Write a program factors(N) that returns a list of all positive divisors of N (N>=1). For example: factors(6) returns [1,2,3,6] factors(1) returns [1] factors(13) returns [1,13] Q no. Question Marks CO",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "How can you create Python file that can be imported as a library as well as run as a standalone script?",
+      "english_question": "How can you create Python file that can be imported as a library as well as run as a standalone script?",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Describe the difference between import library and from library import * when used in a python program. Here library is some python library. AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 0Roll No: 0 0 Q no. Question Marks CO",
+      "english_question": "Describe the difference between import library and from library import * when used in a python program. Here library is some python library. AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 0Roll No: 0 0 Q no. Question Marks CO",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a function makePairs that takes as input two lists of equal length and returns a single list of same length where k-th element is the pair of k-th elements from the input lists. For example, makePairs([1,3,5,7],[2,4,6,8]) returns [(1,2),(3,4),(5,6),(7,8)] makePairs([],[]) returns []",
+      "english_question": "Write a function makePairs that takes as input two lists of equal length and returns a single list of same length where k-th element is the pair of k-th elements from the input lists. For example, makePairs([1,3,5,7],[2,4,6,8]) returns [(1,2),(3,4),(5,6),(7,8)] makePairs([],[]) returns []",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Show an example where both Keyword arguments and Default arguments are used for the same function in a call. Show both the definition of the function and its call. Q no. Question Marks CO",
+      "english_question": "Show an example where both Keyword arguments and Default arguments are used for the same function in a call. Show both the definition of the function and its call. Q no. Question Marks CO",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain why Python is considered an interpreted language.",
+      "english_question": "Explain why Python is considered an interpreted language.",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "What is short circuit evaluation? What is printed by the following Python program?",
+      "english_question": "What is short circuit evaluation? What is printed by the following Python program?",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "c",
+      "original_question": "= 3 x = c or a print(x) AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 0Roll No: 0 0 Q no. Question Marks CO",
+      "english_question": "= 3 x = c or a print(x) AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 AKTU_QP20E290QP | 12-Mar-2021 14:07:56 | 117.55.242.131 0Roll No: 0 0 Q no. Question Marks CO",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a Python program, triangle(N), that prints a right triangle having base and height consisting of N * symbols as shown in these examples: triangle(3) prints: triangle(5) prints:",
+      "english_question": "Write a Python program, triangle(N), that prints a right triangle having base and height consisting of N * symbols as shown in these examples: triangle(3) prints: triangle(5) prints:",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a Python program, countSquares(N), that returns the count of perfect squares less than or equal to N (N>1). For example: countSquares(1) returns 1 # Only 1 is a perfect square <= 1 countSquares(5) returns 2 # 1, 4 are perfect squares <= 5 countSquares(55) returns 7 # 1, 4, 9, 16, 25, 36, 49 <= 55 Q no. Question Marks CO",
+      "english_question": "Write a Python program, countSquares(N), that returns the count of perfect squares less than or equal to N (N>1). For example: countSquares(1) returns 1 # Only 1 is a perfect square <= 1 countSquares(5) returns 2 # 1, 4 are perfect squares <= 5 countSquares(55) returns 7 # 1, 4, 9, 16, 25, 36, 49 <= 55 Q no. Question Marks CO",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Write a Python function, alternating(lst), that takes as argument a sequence lst. The function returns True if the elements in lst are alternately odd and even, starting with an even number. Otherwise it returns False. For example: alternating([10, 9, 9, 6]) returns False alternating([10, 15, 8]) returns True alternating([10]) returns True alternating([]) returns True alternating([15, 10, 9]) returns False",
+      "english_question": "Write a Python function, alternating(lst), that takes as argument a sequence lst. The function returns True if the elements in lst are alternately odd and even, starting with an even number. Otherwise it returns False. For example: alternating([10, 9, 9, 6]) returns False alternating([10, 15, 8]) returns True alternating([10]) returns True alternating([]) returns True alternating([15, 10, 9]) returns False",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 3,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Write a Python function, searchMany(s, x, k), that takes as argument a sequence s and integers x, k (k>0). The function returns True if there are at most k occurrences of x in s. Otherwise it returns False. For example: searchMany([10, 17, 15, 12], 15, 1) returns True searchMany([10, 12, 12, 12], 12, 2) returns False searchMany([10, 12, 15, 11], 17, 18) returns True",
+      "english_question": "Write a Python function, searchMany(s, x, k), that takes as argument a sequence s and integers x, k (k>0). The function returns True if there are at most k occurrences of x in s. Otherwise it returns False. For example: searchMany([10, 17, 15, 12], 15, 1) returns True searchMany([10, 12, 12, 12], 12, 2) returns False searchMany([10, 12, 15, 11], 17, 18) returns True",
+      "year": 2021,
+      "source_file": "15-2021.pdf",
+      "page_number": 4,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "| Differentiate Fruitful functions and void functions. Cos} ‘ Explain iterator. Write a program to demonstrate the tower of Hanoi | 10 COS using function. vy",
+      "english_question": "| Differentiate Fruitful functions and void functions. Cos} ‘ Explain iterator. Write a program to demonstrate the tower of Hanoi | 10 COS using function. vy",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss function tm python with its parts and scope. Explain with CcO3 example. (Take Simple calculator with add, subtract,: Division and Multiplication).",
+      "english_question": "Discuss function tm python with its parts and scope. Explain with CcO3 example. (Take Simple calculator with add, subtract,: Division and Multiplication).",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "c. Discuss ADT in python.How to define ADT? Write code for a student | 10 (04 information. Explain all the Conditional statement in Python using small code | 10 (02 example.",
+      "english_question": "c. Discuss ADT in python.How to define ADT? Write code for a student | 10 (04 information. Explain all the Conditional statement in Python using small code | 10 (02 example.",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "What is Python? How Python is interpreted? What are the tools that help | 10 col to find bugs or perform static analysis? What are Python decorators? Qno. Question ~ Marks co Write short notes with example:The Programming Cycle for Python, | 10 col Elements of Python, Type Conversion in Python, Operator Precedence, and Boolean Expression. How memory is managed in Python? Explain PEP 8. Write a Python col rogram to print even length words in a string. 1jrage Source: AKTU official examination paper - www.aktunotes.in RoltNo:[_[ |] |] | T TT TT TTT एजनकननननफ मम Explain Expression Evaluation & Float Representation with example. (02 Write a Python Program for How to check if a given number is Fibonacci number. Explain the purpose and working of loops. Discuss Break and continue with example. Write a Python program to convert time from 12 hour to 24-hour format.",
+      "english_question": "What is Python? How Python is interpreted? What are the tools that help | 10 col to find bugs or perform static analysis? What are Python decorators? Qno. Question ~ Marks co Write short notes with example:The Programming Cycle for Python, | 10 col Elements of Python, Type Conversion in Python, Operator Precedence, and Boolean Expression. How memory is managed in Python? Explain PEP 8. Write a Python col rogram to print even length words in a string. 1jrage Source: AKTU official examination paper - www.aktunotes.in RoltNo:[_[ |] |] | T TT TT TTT एजनकननननफ मम Explain Expression Evaluation & Float Representation with example. (02 Write a Python Program for How to check if a given number is Fibonacci number. Explain the purpose and working of loops. Discuss Break and continue with example. Write a Python program to convert time from 12 hour to 24-hour format.",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain higher order function with respect to lambda expression. Write a Python code to Count occurrences of an element in a list.",
+      "english_question": "Explain higher order function with respect to lambda expression. Write a Python code to Count occurrences of an element in a list.",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain Unpacking Sequences, Mutable Sequences, and List Comprehension with example. Write a program to sort list of dictionaries by values in Python — Using lambda function. ~ कण Question यू ह",
+      "english_question": "Explain Unpacking Sequences, Mutable Sequences, and List Comprehension with example. Write a program to sort list of dictionaries by values in Python — Using lambda function. ~ कण Question यू ह",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss File I/O in python. How to perform open, read,write, and close into a file? Write a Python program to reada file line-by-line store it into",
+      "english_question": "Discuss File I/O in python. How to perform open, read,write, and close into a file? Write a Python program to reada file line-by-line store it into",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss Exceptions and Assertions in python.How to handle Exceptions with Try-Finally? Ex lain 5 Bujit-in 5 Bujit-in Exceptions with example. of the following: an | Qno. है Question Ds Marks | CO",
+      "english_question": "Discuss Exceptions and Assertions in python.How to handle Exceptions with Try-Finally? Ex lain 5 Bujit-in 5 Bujit-in Exceptions with example. of the following: an | Qno. है Question Ds Marks | CO",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss and differentiate Iterators & Recursion. Write @ program for1 Recursive Fibonacci series. ae",
+      "english_question": "Discuss and differentiate Iterators & Recursion. Write @ program for1 Recursive Fibonacci series. ae",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss Sorting & Merging. Explain different.typés of sorting with 1 example. Write a Python Program for Sieve of Exatosthenes.",
+      "english_question": "Discuss Sorting & Merging. Explain different.typés of sorting with 1 example. Write a Python Program for Sieve of Exatosthenes.",
+      "year": 2020,
+      "source_file": "16-2020.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "What is the difference between listand tuples in Python? C03 in some languages, every statement ends with a semi-colon (:). What | 2 coz happens if you put a semi-colon at the end ofaPython statement? Mention five benefits of using Python. How is Python an interpreted language?",
+      "english_question": "What is the difference between listand tuples in Python? C03 in some languages, every statement ends with a semi-colon (:). What | 2 coz happens if you put a semi-colon at the end ofaPython statement? Mention five benefits of using Python. How is Python an interpreted language?",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "What type of language is python?",
+      "english_question": "What type of language is python?",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "f",
+      "original_question": "What are local variables and global variables in Python? (01 lz.| What is the difference between Python Arrays and lists? h. Define ADTinterface. https://www.aktuonline.com coq!",
+      "english_question": "What are local variables and global variables in Python? (01 lz.| What is the difference between Python Arrays and lists? h. Define ADTinterface. https://www.aktuonline.com coq!",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "i",
+      "original_question": "Define floor division with example.",
+      "english_question": "Define floor division with example.",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "cos j. Differentiate Fruitful functions and void functions. {oO} ‘3x10 = 30 Ono.",
+      "english_question": "cos j. Differentiate Fruitful functions and void functions. {oO} ‘3x10 = 30 Ono.",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "+ Question te Marks | CO",
+      "english_question": "+ Question te Marks | CO",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Fxplain iterator. Write a program to demonstrate the tower of Hanoi | 10 COS using function. है \"_ः",
+      "english_question": "Fxplain iterator. Write a program to demonstrate the tower of Hanoi | 10 COS using function. है \"_ः",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss function ft ‘python with its parts and scope. Explain with | 10 (031 example. {Take Simple calculator with add, subtract, Division and Multiplication). हा Discuss ADT in python.How to define ADT? Write code for a student | 10 information. Explain all the Conditional statement in Python using small code | 10 (५02 example, ee",
+      "english_question": "Discuss function ft ‘python with its parts and scope. Explain with | 10 (031 example. {Take Simple calculator with add, subtract, Division and Multiplication). हा Discuss ADT in python.How to define ADT? Write code for a student | 10 information. Explain all the Conditional statement in Python using small code | 10 (५02 example, ee",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "e",
+      "original_question": "What is Python? How Python is interpreted? What are the tools that help | 10 Col to find bugs or perform static analysis” What are Python decorators? 15% 11 5 Write short notes with example:The Programmingil for Pythan, tor col Elements of Python, Type Conversion in Python, Operator Precedence. 1] and Boolean Expression,",
+      "english_question": "What is Python? How Python is interpreted? What are the tools that help | 10 Col to find bugs or perform static analysis” What are Python decorators? 15% 11 5 Write short notes with example:The Programmingil for Pythan, tor col Elements of Python, Type Conversion in Python, Operator Precedence. 1] and Boolean Expression,",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "How memoryis managed in Python? Explain PEP 8 Write a Python | 10 col rogram to printeven length words ina string, 111 तछ€ AKTU paper | www.aktunotes.in ह ह ह [ 199344] RottNo:{ | | | | PTT ttt? TTI Explain Expression Evaluation & Float Representation with example. | 10° (0२2 Write. a Python Program for How to check if a given number ts Fibonacci number. Explain the purpose and working of loops. Discuss Break and continue coz with example. Write a Python program to convert time from 12 hour to 24-hour format.",
+      "english_question": "How memoryis managed in Python? Explain PEP 8 Write a Python | 10 col rogram to printeven length words ina string, 111 तछ€ AKTU paper | www.aktunotes.in ह ह ह [ 199344] RottNo:{ | | | | PTT ttt? TTI Explain Expression Evaluation & Float Representation with example. | 10° (0२2 Write. a Python Program for How to check if a given number ts Fibonacci number. Explain the purpose and working of loops. Discuss Break and continue coz with example. Write a Python program to convert time from 12 hour to 24-hour format.",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Explain higher order function with respect to lambda expression. Write a Python code to Count occurrences of an element in a list.",
+      "english_question": "Explain higher order function with respect to lambda expression. Write a Python code to Count occurrences of an element in a list.",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 1,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Explain Unpacking Sequences, Mutable Sequences, and List Comprehension with example. Write a program to sort list of dictionaries by values in Python - Using lambda function. oe ह Ixl0=10 . बन Discuss File 0 in python. How to perform open, read,write, and close | 10 (04 into a file? Write a Python program to reada file line-by-line store it into an",
+      "english_question": "Explain Unpacking Sequences, Mutable Sequences, and List Comprehension with example. Write a program to sort list of dictionaries by values in Python - Using lambda function. oe ह Ixl0=10 . बन Discuss File 0 in python. How to perform open, read,write, and close | 10 (04 into a file? Write a Python program to reada file line-by-line store it into an",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "a",
+      "original_question": "Discuss Exceptions and Assertions in python.How to handle Exceptions (एव with Try-Finally? Explain 5 Buth-in Exceptions with example. % oe Question Marks | CO | a. Discuss and differentiate Iterators & Recursion. Write 4 program for | | cos Recursive Fibonacci series. noe",
+      "english_question": "Discuss Exceptions and Assertions in python.How to handle Exceptions (एव with Try-Finally? Explain 5 Buth-in Exceptions with example. % oe Question Marks | CO | a. Discuss and differentiate Iterators & Recursion. Write 4 program for | | cos Recursive Fibonacci series. noe",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    },
+    {
+      "question_number": "b",
+      "original_question": "Discuss Sorting & Merging. Explain different typds of sorting with | 10 (05 example. Write a Python Program forSieve of Exatosthenes, tosthenes. .'. https://www.aktuonline.com Whatsapp @ 9300930012 Send your old paper & get 10/- अपने पुराने पेपर्सभैजेऔर10 रुपये पायें, Paytm or Google Pay से AKTU paper | www.aktunotes.in",
+      "english_question": "Discuss Sorting & Merging. Explain different typds of sorting with | 10 (05 example. Write a Python Program forSieve of Exatosthenes, tosthenes. .'. https://www.aktuonline.com Whatsapp @ 9300930012 Send your old paper & get 10/- अपने पुराने पेपर्सभैजेऔर10 रुपये पायें, Paytm or Google Pay से AKTU paper | www.aktunotes.in",
+      "year": 2020,
+      "source_file": "17-2020-a.pdf",
+      "page_number": 2,
+      "extraction_confidence": "high"
+    }
+  ],
+  "summary": {
+    "subject_code": "BCC302",
+    "subject_name": "Python Programming",
+    "total_pdfs": 17,
+    "eligible_papers": 16,
+    "skipped_papers": [
+      {
+        "file": "12-2023-b.pdf",
+        "reason": "No BCC302 code/name found and only 2 distinctive subject keywords matched"
+      }
+    ],
+    "total_pages_processed": 38,
+    "total_questions_extracted": 340,
+    "papers_processed": [
+      {
+        "file": "01-2026-b.pdf",
+        "year": 2026,
+        "pages": 2,
+        "questions_extracted": 16,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "02-2026-a.pdf",
+        "year": 2026,
+        "pages": 2,
+        "questions_extracted": 24,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "03-2026-2.pdf",
+        "year": 2026,
+        "pages": 2,
+        "questions_extracted": 15,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "04-2025.pdf",
+        "year": 2025,
+        "pages": 4,
+        "questions_extracted": 36,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "05-2025-a.pdf",
+        "year": 2025,
+        "pages": 4,
+        "questions_extracted": 22,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "06-2024.pdf",
+        "year": 2024,
+        "pages": 2,
+        "questions_extracted": 9,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "07-2024-b.pdf",
+        "year": 2024,
+        "pages": 1,
+        "questions_extracted": 23,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "08-2024-a.pdf",
+        "year": 2024,
+        "pages": 3,
+        "questions_extracted": 36,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "09-2023.pdf",
+        "year": 2023,
+        "pages": 2,
+        "questions_extracted": 17,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "10-2023-d.pdf",
+        "year": 2023,
+        "pages": 2,
+        "questions_extracted": 28,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "11-2023-c.pdf",
+        "year": 2023,
+        "pages": 2,
+        "questions_extracted": 19,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "13-2023-a.pdf",
+        "year": 2023,
+        "pages": 2,
+        "questions_extracted": 25,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "14-2022.pdf",
+        "year": 2022,
+        "pages": 2,
+        "questions_extracted": 22,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "15-2021.pdf",
+        "year": 2021,
+        "pages": 4,
+        "questions_extracted": 24,
+        "extraction_method": "pymupdf"
+      },
+      {
+        "file": "16-2020.pdf",
+        "year": 2020,
+        "pages": 2,
+        "questions_extracted": 10,
+        "extraction_method": "ocr"
+      },
+      {
+        "file": "17-2020-a.pdf",
+        "year": 2020,
+        "pages": 2,
+        "questions_extracted": 14,
+        "extraction_method": "ocr"
+      }
+    ],
+    "uncertain_questions": 17
+  }
+}
